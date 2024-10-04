@@ -1,0 +1,52 @@
+# SLC6A4
+
+## Overview
+SLC6A4 is a gene that encodes the protein solute carrier family 6 member 4 (SERT), a transmembrane transporter primarily responsible for the reuptake of serotonin from the synaptic cleft into presynaptic neurons. This process is vital for regulating serotonin levels in the brain, influencing mood, anxiety, and overall neurological function. SERT belongs to a larger family of neurotransmitter transporters and features a complex structure with 12 transmembrane domains that facilitate its function in serotonin transport across cell membranes. Genetic variations in SLC6A4, including polymorphisms and mutations, can significantly impact the protein's function and are associated with various neuropsychiatric and physiological disorders. The gene and its protein product are critical targets for pharmacological interventions, particularly in the treatment of disorders such as depression and anxiety, where serotonin imbalance is a key factor (Murphy2008How).
+
+## Structure
+The SLC6A4 protein, encoded by the SLC6A4 gene, is characterized by a complex molecular structure that includes 12 transmembrane domains, which are crucial for its function as a serotonin transporter. This protein exhibits a 5 + 5 helical architecture with the transmembrane domains 1-5 and 6-10 forming two pentahelical bundles aligned antiparallel. This arrangement creates a pseudo two-fold axis of symmetry, known as the 'LeuT fold,' which is essential for the function of these transporters (Pramod2013SLC6). 
+
+The protein's structure is further influenced by alternative promoters and differential splicing, particularly involving exons 1A, B, and C, leading to multiple mRNA species and contributing to the diversity in the protein's function and regulation (Murphy2008How). Post-translational modifications such as glycosylation and palmitoylation play significant roles in the regulation and function of the SLC6A4 protein. These modifications are important for the protein's stability and its interaction with other cellular components (Pramod2013SLC6).
+
+Additionally, the SLC6A4 protein undergoes various regulatory modifications, including phosphorylation at consensus intracellular sites, which are crucial for its activity and interaction with regulatory proteins (Pramod2013SLC6). These structural and functional features underscore the complexity of the SLC6A4 protein, highlighting its critical role in neurotransmitter signaling and transport.
+
+## Function
+The SLC6A4 gene encodes the serotonin transporter (SERT), a protein that plays a crucial role in the regulation of serotonin levels within the brain and other tissues. SERT is responsible for the reuptake of serotonin from the synaptic cleft back into the presynaptic neuron, a process essential for terminating the action of this neurotransmitter and maintaining its balance in the nervous system. This reuptake mechanism is vital for modulating mood, anxiety, and overall brain function, as well as various physiological processes across the body (Murphy2008How).
+
+The protein structure of SERT, predicted from the SLC6A4 transcript, includes 630 amino acids and features 12 transmembrane domains, which facilitate the transport of serotonin across cell membranes (Murphy2008Targeting). The activity and functionality of SERT are influenced by genetic variations such as polymorphisms and single nucleotide polymorphisms (SNPs), which can significantly affect serotonin uptake capacity and, consequently, the efficacy of pharmacological treatments targeting serotonin reuptake (Murphy2008How).
+
+These molecular activities and the regulation of SERT are critical not only for neurological functions but also have implications in other systems such as the gastrointestinal tract, where serotonin plays a role in motility and secretion (Murphy2008How).
+
+## Clinical Significance
+Mutations and variations in the SLC6A4 gene, which encodes the serotonin transporter, are significantly associated with a range of neuropsychiatric and medical disorders. Prominent among these is obsessive-compulsive disorder (OCD), where specific variants like the I425V missense mutation result in altered serotonin transporter function, influencing the disorder's pathogenesis and treatment response to serotonin reuptake inhibitors (Wendland2007A; Murphy2008How). Additionally, the gene's variants, including the 5HTTLPR polymorphism, have been linked to conditions such as depression, anxiety, and bipolar disorder, particularly influencing susceptibility and severity in the presence of environmental stressors (Lazary2008New; Murphy2011Human).
+
+In the realm of developmental disorders, SLC6A4 variations are implicated in autism spectrum disorders, with certain alleles contributing to altered serotonin levels that may affect brain development and function (Coutinho2004Variants). Furthermore, the gene is associated with cardiovascular and pulmonary disorders, including pulmonary hypertension and myocardial infarction, where serotonin transporter function affects cardiovascular system regulation (Murphy2011Human).
+
+These associations underscore the critical role of SLC6A4 in both brain function and broader physiological processes, highlighting its importance in understanding and potentially treating related disorders.
+
+## Interactions
+SLC6A4, also known as the serotonin transporter (SERT), engages in several critical protein-protein interactions that regulate its function and localization. In its basal state, SERT forms a complex with protein phosphatase 2A, which dissociates upon the activation of protein kinase C (PKC), leading to SERT internalization and a reduction in serotonin transport (Chen2004Synaptic). Additionally, SERT interacts with MacMARCKS, a myristoylated alanine-rich C-kinase related protein, which modulates the effects of PKC on serotonin uptake (Chen2004Synaptic). 
+
+The N-terminal domain of SERT serves as a binding site for the SNARE protein Syn 1A, an interaction that is influenced by phosphorylation states and affects transporter activity and cell surface availability (Pramod2013SLC6). Syntaxin 1A (Syn 1A) also interacts with SERT, influencing its transport activity and conductance, which can alter the stoichiometry and functionality of the transporter, affecting cell excitability and responses to psychostimulants (Pramod2013SLC6). 
+
+These interactions are crucial for the regulation of SERT activity and its role in neurotransmitter signaling, impacting various physiological processes and potentially contributing to the pathophysiology of mood disorders and other mental health conditions.
+
+
+## References
+
+
+[1. (Chen2004Synaptic) Nian-Hang Chen, Maarten E. A. Reith, and Michael W. Quick. Synaptic uptake and beyond: the sodium- and chloride-dependent neurotransmitter transporter family slc6. Pflï¿½gers Archiv European Journal of Physiology, 447(5):519â531, February 2004. URL: http://dx.doi.org/10.1007/s00424-003-1064-5, doi:10.1007/s00424-003-1064-5. (527 citations) 10.1007/s00424-003-1064-5](https://doi.org/10.1007/s00424-003-1064-5)
+
+[2. (Lazary2008New) Judit Lazary, Aron Lazary, Xenia Gonda, Anita Benko, Eszter Molnar, Gabriella Juhasz, and Gyorgy Bagdy. New evidence for the association of the serotonin transporter gene (slc6a4) haplotypes, threatening life events, and depressive phenotype. Biological Psychiatry, 64(6):498â504, September 2008. URL: http://dx.doi.org/10.1016/j.biopsych.2008.03.030, doi:10.1016/j.biopsych.2008.03.030. (136 citations) 10.1016/j.biopsych.2008.03.030](https://doi.org/10.1016/j.biopsych.2008.03.030)
+
+[3. (Wendland2007A) J. R. Wendland, P. R. Moya, M. R. Kruse, R. F. Ren-Patterson, C. L. Jensen, K. R. Timpano, and D. L. Murphy. A novel, putative gain-of-function haplotype at slc6a4 associates with obsessive-compulsive disorder. Human Molecular Genetics, 17(5):717â723, November 2007. URL: http://dx.doi.org/10.1093/hmg/ddm343, doi:10.1093/hmg/ddm343. (151 citations) 10.1093/hmg/ddm343](https://doi.org/10.1093/hmg/ddm343)
+
+[4. (Pramod2013SLC6) Akula Bala Pramod, James Foster, Lucia Carvelli, and L. Keith Henry. Slc6 transporters: structure, function, regulation, disease association and therapeutics. Molecular Aspects of Medicine, 34(2â3):197â219, April 2013. URL: http://dx.doi.org/10.1016/j.mam.2012.07.002, doi:10.1016/j.mam.2012.07.002. (324 citations) 10.1016/j.mam.2012.07.002](https://doi.org/10.1016/j.mam.2012.07.002)
+
+[5. (Coutinho2004Variants) A M Coutinho, G Oliveira, T Morgadinho, C Fesel, T R Macedo, C Bento, C Marques, A AtaÃ­de, T Miguel, L Borges, and A M Vicente. Variants of the serotonin transporter gene (slc6a4) significantly contribute to hyperserotonemia in autism. Molecular Psychiatry, 9(3):264â271, March 2004. URL: http://dx.doi.org/10.1038/sj.mp.4001409, doi:10.1038/sj.mp.4001409. (177 citations) 10.1038/sj.mp.4001409](https://doi.org/10.1038/sj.mp.4001409)
+
+[6. (Murphy2008Targeting) Dennis L. Murphy and Klaus-Peter Lesch. Targeting the murine serotonin transporter: insights into human neurobiology. Nature Reviews Neuroscience, 9(2):85â96, February 2008. URL: http://dx.doi.org/10.1038/nrn2284, doi:10.1038/nrn2284. (351 citations) 10.1038/nrn2284](https://doi.org/10.1038/nrn2284)
+
+[7. (Murphy2011Human) Dennis L Murphy and Pablo R Moya. Human serotonin transporter gene (slc6a4) variants: their contributions to understanding pharmacogenomic and other functional gÃg and gÃe differences in health and disease. Current Opinion in Pharmacology, 11(1):3â10, February 2011. URL: http://dx.doi.org/10.1016/j.coph.2011.02.008, doi:10.1016/j.coph.2011.02.008. (112 citations) 10.1016/j.coph.2011.02.008](https://doi.org/10.1016/j.coph.2011.02.008)
+
+[8. (Murphy2008How) Dennis L. Murphy, Meredith A. Fox, Kiara R. Timpano, Pablo R. Moya, Renee Ren-Patterson, Anne M. Andrews, Andrew Holmes, Klaus-Peter Lesch, and Jens R. Wendland. How the serotonin story is being rewritten by new gene-based discoveries principally related to slc6a4, the serotonin transporter gene, which functions to influence all cellular serotonin systems. Neuropharmacology, 55(6):932â960, November 2008. URL: http://dx.doi.org/10.1016/j.neuropharm.2008.08.034, doi:10.1016/j.neuropharm.2008.08.034. (273 citations) 10.1016/j.neuropharm.2008.08.034](https://doi.org/10.1016/j.neuropharm.2008.08.034)

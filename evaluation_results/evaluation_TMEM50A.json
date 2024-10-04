@@ -1,0 +1,1372 @@
+{
+  "LeadSection": [
+    {
+      "text": "# TMEM50A # # Overview\nTMEM50A is a gene that encodes the transmembrane protein 50A, a protein characterized by its involvement in various cellular processes including gene regulation, mRNA stability, and intracellular trafficking.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a brief overview of TMEM50A by mentioning that it is a gene encoding a specific protein and lists some of its functions. However, it does not clearly define the scope of the article in terms of what specific aspects of TMEM50A will be covered. Additionally, it does not explicitly follow the recommended UniProt naming conventions, which typically include a more structured format for introducing gene and protein information."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TMEM50A\" instead of the UniProt protein name. The requirement suggests using the UniProt protein name if it is relatively short, which is not addressed in the sentence. The sentence does not provide any disambiguation for the gene symbol either. To fully meet the requirement, the sentence should include the recommended UniProt protein name if it is concise, or clarify the gene symbol with disambiguation if needed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a brief overview of the TMEM50A gene and mentions its involvement in cellular processes, which partially addresses the requirement to summarize the article. However, it lacks information on the structure and clinical significance of TMEM50A, which are key aspects mentioned in the requirement. Additionally, the sentence includes some unnecessary detail about specific cellular processes without covering the broader context or significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise overview of the TMEM50A gene and its functions. Without access to the infobox, it's difficult to determine if the information is repeated. However, the sentence does not appear to emphasize any particularly notable aspects that would justify repetition. The score reflects a slight deduction for potential redundancy, assuming the infobox contains similar details."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This protein is primarily localized to the plasma membrane but is also present in other cellular compartments such as the endoplasmic reticulum, vacuoles, Golgi bodies, and mitochondria.",
+      "title": "Introduction",
+      "score": 0.26,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides information about the localization of a protein within a cell, but it does not define the scope of an article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve specific protein names or identifiers. To better meet the requirement, the sentence should clearly outline the main focus or purpose of the article and adhere to naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the score, the sentence should include the appropriate protein name or gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence primarily focuses on the localization of a protein within cellular compartments, which is a structural aspect. However, it does not address the function or clinical significance of the protein, which are key aspects required by the lead. Additionally, the sentence includes unnecessary detail about specific cellular compartments, which is not needed for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides detailed information about the localization of the protein, which may already be present in an infobox. If this information is not particularly notable or does not require emphasis, it could be considered repetitive. However, if the sentence is meant to highlight the diverse localization of the protein, it might be justified. The score reflects a balance between potential redundancy and the possibility of emphasizing important details."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "TMEM50A plays a crucial role in the regulation of the RH blood group antigens, including RHD and RHCE, which are key determinants of blood type.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the role of TMEM50A in the regulation of RH blood group antigens, which is a detailed aspect of its function. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name followed by the gene name in parentheses. To better meet the requirement, the sentence should introduce the broader topic of the article and adhere to the naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TMEM50A\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used according to the requirement. However, the sentence does not provide disambiguation for the gene symbol, which may be necessary if there are multiple genes with similar symbols. The score reflects partial compliance with the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the role of TMEM50A in regulating RH blood group antigens, which touches on function and clinical significance. However, it lacks information on the structure of TMEM50A and does not provide a comprehensive summary of the article. It also includes unnecessary detail by specifying RHD and RHCE without broader context."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of TMEM50A in regulating RH blood group antigens, which may not be common knowledge and could be considered notable. However, if this information is already present in the infobox, it might be seen as repetitive unless it is emphasized for a particular reason. The sentence does a good job of highlighting the importance of TMEM50A, but without knowing the content of the infobox, it's difficult to fully assess the necessity of repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein's structure includes four transmembrane domains, which facilitate its interaction with the cellular membrane and contribute to its function in protein sorting and regulatory mechanisms (Srivastava2017Linear).",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it provides a specific detail about a protein's structure and function. To meet the requirement, the sentence should introduce the main topic or focus of the article and adhere to UniProt naming conventions, if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not mention either the recommended UniProt protein name or the HUGO gene symbol. It only describes the protein's structure and function without specifying which protein is being referred to. To meet the requirement, the sentence should include the specific UniProt protein name or the HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the protein's structure and its role in interaction with the cellular membrane, which partially addresses the requirement to cover structure and function. However, it lacks any mention of clinical significance, which is a key aspect of the requirement. Additionally, the sentence does not summarize the article as a whole, focusing instead on a specific detail. To better meet the requirement, the sentence should provide a broader summary that includes clinical significance and avoids excessive detail on any single aspect."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the protein's structure and function, which may not be present in an infobox. However, without knowing the content of the infobox, it's difficult to determine if this information is repeated. The sentence seems to emphasize the role of transmembrane domains, which could be notable, justifying its inclusion. The score reflects a slight deduction due to the potential for repetition, but overall, it appears to add value."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, TMEM50A is implicated in the development of the embryonic nervous system, indicating its importance in broader biological processes (Chen2021Preliminary).",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides a specific piece of information about TMEM50A's role in the embryonic nervous system, but it does not introduce or outline the broader focus or purpose of the article. To meet the requirement, the sentence should clearly state the main topic or objective of the article and adhere to any specific naming conventions recommended by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TMEM50A\" instead of the UniProt protein name. If the UniProt protein name is relatively short, it should have been used according to the requirement. The sentence does not provide disambiguation for the gene symbol, which may be necessary if there are multiple entities with similar names. The score reflects partial compliance with the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a very narrow focus on the role of TMEM50A in the development of the embryonic nervous system, which is a specific aspect of its function. However, it does not summarize the article concisely or cover key aspects such as the structure, broader functions, or clinical significance of TMEM50A. Additionally, it lacks context and detail that would help in understanding the overall content of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about TMEM50A's role in the embryonic nervous system, which may not be common knowledge or included in a typical infobox. It seems to emphasize the gene's importance in broader biological processes, which could be notable. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this repetition. If this information is already in the infobox and not particularly notable, the score would be lower."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Structure\nThe TMEM50A protein is characterized by a molecular structure that includes four transmembrane domains, which are crucial for its localization to the secretory pathway.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the TMEM50A protein, specifically mentioning its molecular structure and transmembrane domains. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus or purpose of the article and adhere to the naming conventions used by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TMEM50A,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt name, it's unclear if \"TMEM50A\" is the best choice. The sentence partially meets the requirement by using a gene symbol, but it does not confirm whether the UniProt name was considered."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief mention of the structure of the TMEM50A protein, specifically noting its transmembrane domains and their role in localization. However, it lacks information on the function and clinical significance of the protein, which are key aspects required for a comprehensive summary. Additionally, the sentence includes unnecessary detail about the number of transmembrane domains without connecting it to broader implications."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the TMEM50A protein's molecular structure, particularly the presence of four transmembrane domains and their role in localization to the secretory pathway. If this information is already present in the infobox, it might be considered repetitive. However, the sentence emphasizes the importance of these domains for localization, which could be notable enough to warrant inclusion. The score reflects that while there is some repetition, the emphasis on the functional aspect adds value."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These domains suggest a significant role in the protein's interaction with the cellular membrane (Srivastava2017Linear).",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it discusses the role of certain domains in protein interaction with the cellular membrane. Additionally, it does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the main focus or scope of the article and adhere to the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not use either the recommended UniProt protein name or the HUGO gene symbol. It only refers to \"the protein\" without specifying which protein is being discussed. To meet the requirement, the sentence should include the specific UniProt protein name or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a very narrow focus on the protein's interaction with the cellular membrane, which may relate to its function. However, it does not summarize the article concisely or cover key aspects such as structure and clinical significance. It lacks the breadth and depth required to meet the requirement of summarizing the article comprehensively."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information from an infobox, as it provides a specific detail about the role of domains in protein interaction with the cellular membrane. However, without access to the infobox, it's unclear if this information is already present there. Assuming it is not redundant, the sentence meets the requirement well. If the information is indeed repeated, the score would be lower."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein consists of 157 residues and its sequence was derived from the NCBI database, indicating a detailed understanding of its primary structure (Srivastava2017Linear).",
+      "title": "Introduction",
+      "score": 0.34,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about a protein's sequence and its source, but it does not define the scope of an article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein names and identifiers. The sentence lacks context about the article's broader focus or objectives, which is necessary to define its scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not use the recommended UniProt protein name or the HUGO gene symbol. Instead, it refers to the protein in a generic manner without specifying its name or gene symbol. To meet the requirement, the sentence should include either the UniProt protein name or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about the protein's sequence and its source but does not summarize the article's key aspects such as structure, function, and clinical significance. It lacks a comprehensive overview and focuses on a single detail, which does not meet the requirement of a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the protein's sequence and its source, which may be notable if not already emphasized in the infobox. However, if the infobox already contains this information and it is not particularly notable, the sentence could be seen as redundant. The score reflects that the sentence might still be useful if the source of the sequence is important to highlight."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Regarding post-translational modifications, TMEM50A undergoes phosphorylation at two serine residues, specifically at positions 82 and 84.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about post-translational modifications of TMEM50A, mentioning phosphorylation at two serine residues. However, it does not define the scope of an article or follow the recommended UniProt naming conventions. To meet the requirement, the sentence should introduce the broader topic or focus of the article and adhere to any specific naming guidelines set by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TMEM50A\" instead of the UniProt protein name. If the UniProt protein name is relatively short, it should have been used according to the requirement. However, without knowing the length of the UniProt protein name, it's unclear if the sentence fully meets the requirement. The use of the gene symbol is correct if the UniProt name is long or if disambiguation is necessary, but this information is not provided in the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about post-translational modifications of TMEM50A, mentioning phosphorylation at two serine residues. However, it does not summarize the article concisely or cover key aspects such as the structure, function, and clinical significance of TMEM50A. The sentence focuses on a specific detail rather than providing a broad overview, which is necessary to meet the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the phosphorylation of TMEM50A at serine residues 82 and 84. If this information is already present in the infobox, it may be considered repetitive unless it is particularly notable or requires emphasis. However, the sentence does not overly repeat or emphasize the information, so it mostly meets the requirement. The score reflects that while the sentence could potentially be redundant, it is not excessively so."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "It also has a potential N-linked glycosylation site at residue 74 and a possible tyrosine phosphorylation site, which are critical for regulating its activity and function (Srivastava2017Linear).",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it describes specific features of a protein, such as a glycosylation site and a phosphorylation site, without providing an overview or context for the article's content. To meet the requirement, the sentence should introduce the main topic or focus of the article in a clear and concise manner, adhering to any specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any protein name or gene symbol, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the sentence, the specific protein or gene should be identified using the appropriate naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific details about potential glycosylation and phosphorylation sites, which relate to the structure and function of a protein. However, it does not summarize the article concisely or cover key aspects like clinical significance. It focuses on specific molecular details rather than providing a broader overview of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about potential modification sites on a protein, which may not be necessary if this information is already present in the infobox. However, if these sites are particularly notable or critical for understanding the protein's function, their mention could be justified. The sentence does not clearly indicate whether this information is emphasized or notable, so it slightly falls short of fully meeting the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The tertiary structure of TMEM50A was modeled using a template with PDB ID: 3um7A, and the model suggests a stable structure with low root mean square deviation (RMSD) and minimal root mean square fluctuations, indicating a compact and stable three-dimensional conformation (Srivastava2017Linear).",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it describes the modeling of the tertiary structure of TMEM50A. Additionally, it does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's focus and adhere to the naming conventions specified by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TMEM50A\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used according to the requirement. The sentence does not provide disambiguation for the gene symbol, which may be necessary if there are multiple entries with similar names. To fully meet the requirement, the sentence should use the UniProt protein name if it is concise or provide disambiguation for the gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the modeling of the TMEM50A protein's tertiary structure, mentioning the use of a template and the resulting stability of the model. However, it does not summarize the article concisely or cover key aspects such as the function and clinical significance of TMEM50A. The sentence focuses on structural modeling details, which is considered unnecessary detail for a lead that should provide a broader overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the modeling of the tertiary structure of TMEM50A, including the template used (PDB ID: 3um7A) and the results of the modeling (low RMSD and minimal fluctuations). If this information is already present in the infobox, it might be considered repetitive. However, the sentence does emphasize the stability and compactness of the structure, which could be notable. The score reflects that while the sentence may repeat some information, it also provides context and emphasis that could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "No specific information is available on the quaternary structure or prominent folds from the provided contexts.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it provides information about the lack of specific details on quaternary structure or prominent folds, which is unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It does not mention any protein name or gene symbol, whether from UniProt or HUGO. The requirement specifies using a recommended UniProt protein name or a HUGO gene symbol, but the sentence lacks any reference to a specific protein or gene."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a very limited summary, focusing only on the lack of information regarding the quaternary structure and prominent folds. It does not address other key aspects such as function or clinical significance, which are essential for a comprehensive summary. Additionally, it lacks context and does not provide any meaningful insight into the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence effectively avoids repeating specific information, as it states that no specific information is available, which suggests that the infobox does not contain this data. However, if the infobox already indicates the absence of this information, the sentence might be redundant. The score reflects that the sentence mostly meets the requirement, assuming the infobox does not already convey this absence."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Similarly, details on splice variant isoforms are not discussed in the available literature excerpts.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it mentions the absence of details on splice variant isoforms in the literature, which is unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein or gene name, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The requirement is not addressed at all in the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively summarize the article as required. It only mentions the absence of details on splice variant isoforms in the literature, which does not cover key aspects like structure, function, and clinical significance. It lacks a comprehensive overview and does not provide any substantive information about the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information from an infobox, as it discusses the absence of details on splice variant isoforms in the literature. However, without knowing the content of the infobox, it's difficult to fully assess compliance. Assuming the infobox does not contain this specific information, the sentence meets the requirement well. If the infobox does contain this information, the sentence could be seen as unnecessary repetition unless it is particularly notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Function\nTMEM50A, encoded by the gene SMP1, is a transmembrane protein that plays a significant role in cellular processes related to gene regulation and mRNA stability.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a brief introduction to TMEM50A, mentioning its encoding gene and its role in cellular processes. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To improve, the sentence should explicitly state the focus of the article and adhere to UniProt guidelines for naming proteins and genes."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TMEM50A\" as the name of the protein, which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The sentence does not provide the UniProt protein name, so it partially meets the requirement by using the gene symbol but does not fully comply as it does not consider the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the function of TMEM50A, mentioning its role in cellular processes related to gene regulation and mRNA stability. However, it lacks information on the structure and clinical significance of TMEM50A, which are key aspects required by the prompt. Additionally, the sentence includes unnecessary detail, such as the gene name SMP1, which is not essential for a concise summary. To improve the score, the sentence should include a more comprehensive summary that addresses all the required aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the function of TMEM50A, which may not be present in an infobox. However, if the infobox already contains detailed information about the gene SMP1 and its role in cellular processes, this sentence could be seen as repetitive. The score reflects that the sentence likely adds value by emphasizing the protein's function, but without knowing the infobox content, it's difficult to fully assess redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "It is primarily localized to the plasma membrane and is also found in the endoplasmic reticulum, vacuoles, Golgi bodies, and mitochondria, suggesting its involvement in various cellular functions including protein sorting and intracellular trafficking (Srivastava2017Linear).",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article as required. Instead, it describes the localization and potential functions of a protein within cellular structures. Additionally, it does not follow the recommended UniProt naming conventions, as it lacks specific protein names or identifiers. To better meet the requirement, the sentence should clearly outline the main focus or objective of the article and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, which is necessary to evaluate whether the recommended UniProt protein name or HUGO gene symbol is used. To meet the requirement, the sentence should include a specific protein or gene reference, using the appropriate naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the localization and potential functions of a protein, which could be part of summarizing an article. However, it lacks details on the structure and clinical significance, which are key aspects mentioned in the requirement. Additionally, it includes specific details about cellular locations that may not be necessary for a concise summary. To better meet the requirement, the sentence should include a broader overview of the structure, function, and clinical significance without focusing too much on specific cellular details."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the localization of a protein within the cell, which may already be present in an infobox. However, it also suggests the protein's involvement in various cellular functions, which could be considered notable. The sentence mostly meets the requirement by potentially emphasizing the significance of the protein's localization, but if the infobox already contains this information without the need for emphasis, the sentence could be seen as somewhat redundant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein is involved in the regulation of the RH genes, specifically RHD and RHCE, which are crucial for blood type determination.",
+      "title": "Introduction",
+      "score": 0.4,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the protein's involvement in regulating RH genes, which are important for blood type determination. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and use precise UniProt terminology to describe the protein and its functions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not use either the recommended UniProt protein name or the HUGO gene symbol for the protein involved in the regulation of the RH genes. It simply refers to \"The protein\" without specifying its name or symbol, which does not meet the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the function of the protein in regulating RH genes and its role in blood type determination, which touches on clinical significance. However, it lacks information on the structure of the protein and does not provide a comprehensive summary of the article. It is too specific and does not cover all key aspects required by the lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the protein's role in regulating RH genes, which may not be detailed in an infobox. However, if the infobox already contains this information, the sentence could be seen as repetitive. The score reflects that while the information might be notable, it should be checked against the infobox content to ensure it is not redundant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Overexpression of TMEM50A has been shown to up-regulate RHCE gene activity, while its inhibition leads to decreased expression of both RHCE and RHD.",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, which is the primary requirement. It provides specific information about the effects of TMEM50A on RHCE and RHD gene activity, but it does not introduce or outline the broader topic or purpose of the article. Additionally, it does not explicitly follow the recommended UniProt naming conventions, which typically involve using standardized protein and gene names. The score reflects the lack of scope definition and partial adherence to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols \"TMEM50A,\" \"RHCE,\" and \"RHD\" without disambiguation or checking if the recommended UniProt protein names are relatively short and could be used instead. To fully meet the requirement, the sentence should either use the UniProt protein names if they are short or provide disambiguation for the gene symbols."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the effect of TMEM50A on RHCE and RHD gene activity, which may relate to the structure and function aspects. However, it lacks a comprehensive summary of the article, as it does not address the overall structure, broader function, or clinical significance of TMEM50A or the genes mentioned. Additionally, it includes specific details rather than a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides specific information about the effects of TMEM50A on RHCE and RHD gene activity. If this information is already present in the infobox, the sentence may be redundant unless it is particularly notable or requires emphasis. Without knowing the content of the infobox, it's difficult to fully assess the necessity of this repetition. The score reflects the potential redundancy balanced against the possibility that the information is significant enough to warrant repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This indicates that TMEM50A may influence the stability of RH mRNA through its splicing activities (Chen2021Preliminary).",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It mentions a specific finding related to TMEM50A and RH mRNA, which might be part of the article's content, but it does not provide an overview or context for the article as a whole. Additionally, it lacks the use of UniProt naming conventions, which typically involve standardized protein names and identifiers."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TMEM50A\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should be used instead. Additionally, the sentence does not provide disambiguation for \"RH mRNA,\" which could be clarified if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about the potential role of TMEM50A in influencing RH mRNA stability through splicing activities. However, it does not summarize the article concisely or cover key aspects such as structure, function, and clinical significance. It lacks a broader context and does not provide an overview of the article's main points."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the potential role of TMEM50A in influencing the stability of RH mRNA through splicing activities. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable or requires emphasis. However, without knowing the content of the infobox, it's difficult to determine if the repetition is necessary. The sentence is concise and focused, which helps it meet the requirement, but the score reflects the uncertainty about the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Despite these regulatory functions, overexpression of TMEM50A does not significantly alter the ammonium transport function in cells, highlighting its specific regulatory roles over general transport functions (Chen2021Preliminary).",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It discusses the effects of TMEM50A overexpression on ammonium transport function, which is specific content rather than a scope definition. Additionally, it lacks any reference to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TMEM50A\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should be used instead. The sentence partially meets the requirement by using a gene symbol, but it does not clarify if the UniProt name was considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the overexpression of TMEM50A and its effect on ammonium transport function, but it does not summarize the article concisely. It lacks information on the structure, broader function, and clinical significance of TMEM50A, which are key aspects mentioned in the requirement. Additionally, it does not provide an overview of the article's main findings or conclusions, making it insufficient as a lead summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information from an infobox, as it provides specific details about the regulatory functions of TMEM50A and its effect on ammonium transport. However, without access to the infobox, it's difficult to fully assess whether the information is repeated. Assuming the sentence introduces new or emphasized information, it meets the requirement well. If the infobox already contains this information and it is not particularly notable, the score would be lower."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, TMEM50A is implicated in the development of the embryonic nervous system, suggesting broader biological implications beyond its interaction with RH genes (Chen2021Preliminary).",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides specific information about TMEM50A and its role in the embryonic nervous system, but it does not introduce or outline the broader topic or focus of the article. Additionally, there is no indication of adherence to UniProt naming conventions in the sentence."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TMEM50A\" instead of the UniProt protein name. The requirement suggests using the UniProt protein name if it is relatively short, which is not addressed in the sentence. However, the sentence does use the HUGO gene symbol correctly, which partially meets the requirement. To fully meet the requirement, the sentence should verify if the UniProt protein name is short and use it if applicable."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about TMEM50A's role in the embryonic nervous system and its interaction with RH genes, but it does not summarize the article concisely. It lacks information on the structure, function, and clinical significance of TMEM50A, which are key aspects required by the prompt. Additionally, it does not provide a broad overview or context of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence introduces new information about TMEM50A's role in the development of the embryonic nervous system, which may not be present in the infobox. It also suggests broader biological implications, which could be notable. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repetitive. The sentence seems to provide additional context and significance, which aligns with the requirement to avoid unnecessary repetition unless the information is notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Interactions\nTMEM50A, encoded by the human gene TMEM50A, has been studied for its interactions with other proteins, particularly in the context of molecular docking with predicted T-cell epitopes of the HPV type 16 E7 antigen.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence does not clearly define the scope of the article. It mentions a specific interaction involving TMEM50A and HPV type 16 E7 antigen, but it does not provide a broad overview or context for the article's content. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name followed by the gene name in parentheses. The sentence could be improved by providing a more general introduction to the topic and adhering to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TMEM50A\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should be used according to the requirement. The sentence partially meets the requirement by mentioning the gene symbol, but it does not clarify whether the UniProt name was considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence primarily focuses on the interactions of TMEM50A with other proteins, specifically in relation to HPV type 16 E7 antigen. It lacks a comprehensive summary of the article, as it does not address the structure, function, or clinical significance of TMEM50A. Additionally, the mention of \"molecular docking with predicted T-cell epitopes\" introduces unnecessary detail for a lead sentence. To better meet the requirement, the sentence should provide a broader overview of TMEM50A, including its structure, function, and any relevant clinical implications."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interactions of TMEM50A, focusing on its molecular docking with T-cell epitopes of the HPV type 16 E7 antigen. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does emphasize the context of the interaction, which could be notable. The score reflects that while there is some repetition, the emphasis on the specific interaction context may justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The structural model of TMEM50A was used to dock these epitopes, utilizing computational tools to predict their structures and interactions.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It mentions the use of a structural model and computational tools, but it lacks context about the broader topic or purpose of the article. To meet the requirement, the sentence should clearly outline the article's focus and adhere to specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TMEM50A\" instead of the UniProt protein name. If the UniProt protein name is relatively short, it should have been used according to the requirement. However, without knowing the length of the UniProt protein name, it's unclear if the sentence fully meets the requirement. Therefore, the score is partial."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provided focuses on the use of a structural model of TMEM50A for docking epitopes and mentions computational tools for predicting structures and interactions. However, it does not summarize the article concisely or cover key aspects such as the function and clinical significance of TMEM50A. The sentence lacks context and detail necessary to provide a comprehensive summary of the article's main points."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information from an infobox, as it provides specific details about the use of the structural model of TMEM50A for docking epitopes and predicting their structures and interactions. However, without access to the infobox, it's difficult to fully assess whether this information is repeated. Assuming the sentence introduces new or emphasized information, it meets the requirement well. The score reflects a slight deduction due to the uncertainty of the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This study highlighted the potential of TMEM50A to interact with specific protein segments, suggesting its role in immune response mechanisms against HPV infections (Srivastava2017Linear).",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some insight into the study's focus on TMEM50A and its potential role in immune response mechanisms against HPV infections. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name followed by the gene name in parentheses. The sentence could be improved by explicitly stating the article's main objective and ensuring proper naming conventions are used."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TMEM50A,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The sentence does not provide the UniProt protein name, so it only partially meets the requirement. To fully meet the requirement, the sentence should include the UniProt protein name if it is short and relevant."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief insight into the study's focus on TMEM50A and its potential role in immune response mechanisms against HPV infections. However, it lacks a comprehensive summary of the article, as it does not address key aspects such as the structure, detailed function, or clinical significance of TMEM50A. Additionally, it does not provide a concise overview of the study's findings or implications, which are necessary to meet the requirement fully."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of TMEM50A in immune response mechanisms against HPV infections, which may not be redundant unless this information is already detailed in the infobox. If the infobox contains this exact detail, the sentence could be considered repetitive. However, if the infobox only contains general information about TMEM50A, this sentence adds valuable context and specificity, thus meeting the requirement well."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, TMEM50A has been implicated in the regulation of gene expression related to the RH genes, specifically RHD and RHCE, which are crucial for blood type determination.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides specific information about TMEM50A and its role in gene expression related to RH genes, but it lacks a broader context or introduction that would set the scope for an article. Additionally, it does not adhere to any specific naming conventions that might be recommended by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TMEM50A\" instead of the recommended UniProt protein name. While the gene symbol is used correctly, the requirement suggests using the UniProt protein name if it is relatively short. The sentence partially meets the requirement by using a recognized gene symbol, but it does not fully comply as it does not attempt to use the UniProt protein name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the function of TMEM50A in relation to gene expression and its connection to RH genes, which are important for blood type determination. However, it lacks a comprehensive summary of the article, as it does not address the structure or clinical significance of TMEM50A. Additionally, it does not provide a concise overview of the key aspects, focusing instead on a specific detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about TMEM50A's role in regulating gene expression related to RH genes, which may not be common knowledge and could be considered notable. However, if this information is already present in the infobox, it might be seen as repetitive unless the context of the article emphasizes its importance. The sentence could be improved by ensuring it adds new insights or context not covered in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Overexpression of TMEM50A up-regulates RHCE gene activity, while its inhibition decreases the expression of both RHCE and RHD.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about the effects of TMEM50A on RHCE and RHD gene activity, but it does not define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein names and identifiers. The sentence lacks context and does not introduce the broader topic or purpose of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols (TMEM50A, RHCE, RHD) instead of the recommended UniProt protein names. While the requirement suggests using the UniProt protein name if it is relatively short, the sentence does not provide any protein names, which affects the score. However, the use of gene symbols is consistent, which is why the score is not lower. To fully meet the requirement, the sentence should include the UniProt protein names where applicable."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the relationship between TMEM50A and the RHCE and RHD genes, focusing on gene expression changes. However, it does not summarize the article concisely or cover key aspects such as structure, function, and clinical significance. It lacks broader context and does not provide a comprehensive overview of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the effects of TMEM50A on RHCE and RHD gene activity. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable or requires emphasis. The sentence does not appear to be overly repetitive, but without knowing the content of the infobox, it's difficult to fully assess its necessity. The score reflects a generally good adherence to the requirement, assuming the information is not redundant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This indicates that TMEM50A may influence these genes through regulatory interactions, affecting their transcription and possibly playing a role in embryonic nervous system development (Chen2021Preliminary).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article as required. It provides a specific observation about TMEM50A and its potential role in gene regulation and embryonic nervous system development, but it lacks a broader context or overview of the article's content. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein or gene names. The sentence could be improved by clearly stating the main focus or objective of the article and ensuring proper naming conventions are used."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TMEM50A\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should be used according to the requirement. The sentence partially meets the requirement by using a recognized gene symbol, but it does not fully comply with the preference for the UniProt protein name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about TMEM50A's potential role in gene regulation and embryonic nervous system development, but it does not summarize the article concisely. It lacks information on the article's structure, function, and clinical significance, and does not provide a comprehensive overview. The sentence is too focused on a single aspect without covering the broader context or key points of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to provide specific information about TMEM50A's potential role in gene regulation and embryonic nervous system development, which may not be redundant unless this information is already detailed in the infobox. Without knowing the content of the infobox, it's difficult to determine if the sentence repeats information. However, the sentence seems to offer a specific insight that could be notable, thus it likely meets the requirement well."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These findings collectively suggest that TMEM50A is involved in both direct protein-protein interactions and indirect regulatory roles, influencing cellular functions and immune responses.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions TMEM50A and its involvement in cellular functions and immune responses, which could hint at the article's scope. However, it does not clearly define the scope of the article as a first sentence should. Additionally, it does not follow the recommended UniProt naming conventions, which typically include specific details about the protein, such as its full name, function, and organism."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TMEM50A,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name for TMEM50A, it's unclear if the requirement is fully met. The score reflects this uncertainty. If the UniProt name is indeed short and was not used, the sentence would not fully meet the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general summary of the findings related to TMEM50A, mentioning its involvement in protein interactions and regulatory roles. However, it lacks specific details about the structure, function, and clinical significance of TMEM50A, which are key aspects required by the prompt. Additionally, it does not provide a comprehensive overview of the article's content, focusing instead on a narrow aspect of the findings."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise summary of TMEM50A's roles, which may be notable enough to warrant emphasis. However, without knowing the content of the infobox, it's difficult to fully assess whether the information is repetitive. If the infobox already contains this information in detail, the sentence might be slightly redundant, but it does emphasize the dual roles of TMEM50A, which could be important."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # References\n\n\n[1.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow any naming conventions, including those recommended by UniProt. It appears to be an incomplete or incorrectly formatted section heading rather than a sentence that meets the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any information related to the use of UniProt protein names or HUGO gene symbols. It appears to be an incomplete or incorrectly formatted reference section, and thus does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a fragment or a placeholder for a references section, and it does not summarize any article or cover any key aspects such as structure, function, or clinical significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 1.0,
+          "feedback": [
+            "The sentence provided does not repeat any information from an infobox, as it is simply a heading for a references section. Therefore, it fully meets the requirement of avoiding repetition of infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Srivastava2017Linear) Upasna Srivastava, Satendra Singh, Budhyash Gautam, Pramod Yadav, Madhu Yadav, George Thomas, and Gurmit Singh.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation or reference to authors and does not define the scope of an article. It also does not follow any naming conventions related to UniProt. To meet the requirement, the sentence should clearly state the topic or focus of the article and adhere to any specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. It lists authors of a study or paper, but does not mention any protein names or gene symbols, nor does it attempt to use the UniProt protein name or HUGO gene symbol. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and only lists the authors of a study, without any summary of the article's content. It does not address the structure, function, or clinical significance of the study, nor does it provide any details about the article itself. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, listing authors of a work. If this information is already present in an infobox, repeating it in the main text may not be necessary unless the authorship is particularly notable or requires emphasis. The sentence does not provide additional context or emphasis, so it partially meets the requirement by potentially avoiding unnecessary repetition, but it lacks justification for its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Linear epitope prediction in hpv type 16 e7 antigen and their docked interaction with human tmem 50a structural model.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific focus on linear epitope prediction in HPV type 16 E7 antigen and its interaction with a human TMEM 50A structural model, which partially defines the scope of the article. However, it does not fully adhere to the recommended UniProt naming conventions, as it uses lowercase for \"hpv\" and does not clearly define the broader context or purpose of the study. Additionally, it lacks clarity on whether it is the first sentence of the article, which is part of the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"hpv type 16 e7 antigen\" and \"human tmem 50a,\" which do not clearly follow the requirement to use the recommended UniProt protein name or the HUGO gene symbol. \"HPV type 16 E7\" is a well-known protein, but it is not clear if this is the recommended UniProt name. \"TMEM50A\" is a gene symbol, but it is not disambiguated as per the requirement. The sentence partially meets the requirement by using gene symbols, but it lacks clarity on whether these are the recommended names."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific focus on linear epitope prediction and docking interactions related to HPV type 16 E7 antigen and human TMEM 50A. However, it lacks a comprehensive summary of the article's key aspects such as structure, function, and clinical significance. The sentence is too narrow and technical, missing broader context and relevance, which are necessary for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information, as it seems to be a specific statement about a scientific study involving linear epitope prediction and docking interactions. However, without the context of the infobox, it's difficult to fully assess whether the information is repeated. Assuming the sentence is part of a larger text, it seems to meet the requirement well, but the score is slightly reduced due to the lack of context."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Bioinformation, 13(05):122\u00e2\u0080\u0093130, May 2017.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It also does not follow any naming conventions, including the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's scope and adhere to the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. It appears to be a citation or reference to a journal article, and it does not mention any protein names or gene symbols. Therefore, it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes specific details such as volume, issue, page numbers, and date. Without additional context, it's unclear if this information is repeated from an infobox. However, in a citation context, such repetition might be necessary for clarity and completeness. The score reflects that while the sentence may not strictly adhere to the requirement, it serves a specific purpose that often justifies the inclusion of detailed information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.6026/97320630013122 , doi:10.6026/97320630013122.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it simply provides a URL and a DOI, which are identifiers for accessing the article but do not give any information about its content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI, with no mention of a UniProt protein name or a HUGO gene symbol. The requirement is about using specific naming conventions for proteins or genes, which is not relevant to the content of the sentence provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI, which do not summarize the article or cover any key aspects such as structure, function, or clinical significance. There is no content related to the article's subject matter, making it impossible to evaluate it against the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the sentence does provide both the URL and DOI format, which could be useful in some contexts, hence a score of 0.5."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(5 citations) 10.6026/97320630013122]( https://doi.org/10.6026/97320630013122 )\n\n[2.",
+      "title": "Introduction",
+      "score": 0.0,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow any naming conventions, including those recommended by UniProt. It appears to be a citation or reference link rather than a descriptive sentence. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It does not mention any protein names or gene symbols, nor does it use the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a discussion of protein names or gene symbols."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation or reference link rather than a summary of an article. It does not cover any key aspects such as structure, function, or clinical significance, nor does it provide any concise summary of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it appears to be incomplete and lacks context. It seems to be a citation or reference link without any additional information or context that could be evaluated for repetition against an infobox. Therefore, it cannot be assessed for repetition or emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Chen2021Preliminary) Hongtian Chen, Piao Lv, Ziwei Liu, Wanjun Chen, Yuan Yao, Chixiang Liu, Qiong Cao, and Huayou Zhou.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation or reference to authors and does not define the scope of an article. It does not follow the recommended UniProt naming conventions or provide any information about the content or focus of the article. To meet the requirement, the sentence should clearly state the topic or scope of the article in accordance with UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation of authors and does not mention any protein names or gene symbols. It does not address the requirement of using the recommended UniProt protein name or the HUGO gene symbol. Therefore, it cannot be evaluated against the given requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It only lists the authors and the year of publication, without any information about the article's content, structure, function, or clinical significance. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, listing authors of a work. Without context, it's unclear if this information is repeated from an infobox. If the infobox already contains this citation, the sentence may be redundant unless the authors or the work are particularly notable. The score reflects the potential redundancy, but without additional context, it's difficult to fully assess compliance with the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Preliminary study on the function of <scp>tmem50a</scp> and its correlation with the <scp>rh</scp> genes.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general idea of the article's scope by mentioning a preliminary study on the function of \"tmem50a\" and its correlation with \"rh\" genes. However, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name or a standardized abbreviation. Additionally, the sentence lacks specificity and detail about the study's objectives or methods, which would help define the scope more clearly."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols \"tmem50a\" and \"rh\" instead of the recommended UniProt protein names. If the UniProt protein names are relatively short, they should be used instead. The sentence partially meets the requirement by using gene symbols, but it does not clarify if the UniProt names were considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a basic overview of the article's topic, mentioning a preliminary study on the function of \"tmem50a\" and its correlation with \"rh\" genes. However, it lacks details on the structure, function, and clinical significance, which are key aspects required by the prompt. The sentence is too vague and does not summarize the article concisely or comprehensively."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information, as it introduces a specific study on the function of \"tmem50a\" and its correlation with \"rh\" genes. However, without the context of the infobox, it's difficult to fully assess whether this information is already present there. Assuming the sentence is not redundant, it meets the requirement well. If the study is particularly notable or requires emphasis, the sentence is appropriate."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Transfusion Medicine, 31(4):277\u00e2\u0080\u0093285, April 2021.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It also does not follow any naming conventions, including those recommended by UniProt. To meet the requirement, the sentence should clearly outline the article's focus or subject matter."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's content, such as structure, function, or clinical significance. To meet the requirement, the sentence should concisely summarize the key aspects of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation for a journal article, which typically includes the journal name, volume, issue, page numbers, and publication date. If this information is already present in an infobox, repeating it in the text may not be necessary unless it is particularly notable. However, without context on the infobox content, it's difficult to determine if this repetition is justified. The sentence is concise and relevant, but the score reflects the potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1111/tme.12778 , doi:10.1111/tme.12778.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It only contains a URL and a DOI, which do not provide any information about the content or scope of the article. To meet the requirement, the sentence should include a clear statement about the article's focus or subject matter, using appropriate naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It provides a URL and a DOI, which are unrelated to the use of UniProt protein names or HUGO gene symbols. The requirement is about naming conventions for proteins or genes, but the sentence does not mention any proteins or genes, nor does it use any naming conventions."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and DOI reference, with no summary of the article's content. It lacks any information about the article's structure, function, or clinical significance, and therefore does not fulfill the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the sentence does provide both a URL and a DOI, which could be seen as slightly different pieces of information, justifying a score that is not the lowest."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(1 citations) 10.1111/tme.12778]( https://doi.org/10.1111/tme.12778 )",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation or reference link rather than a descriptive sentence. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. It contains a citation in the form of a DOI link, but it does not mention any protein names or gene symbols, nor does it use the recommended UniProt protein name or HUGO gene symbol. To meet the requirement, the sentence should include a protein name or gene symbol and follow the specified naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is not a summary of an article. It appears to be a citation or a reference to a DOI link, lacking any information about the article's content, structure, function, or clinical significance. To meet the requirement, a concise summary of the article's key aspects is needed."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation in a format that is typically used in infoboxes, suggesting it might be redundant if the same citation is already present there. However, without additional context, it's unclear if this repetition is necessary for emphasis or not. The sentence is concise and does not overtly repeat other information, so it mostly meets the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    }
+  ]
+}

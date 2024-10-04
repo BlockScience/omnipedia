@@ -1,0 +1,37 @@
+# NDUFA1
+
+## Overview
+NDUFA1 is a gene located on the X chromosome that encodes the NADH:ubiquinone oxidoreductase subunit A1, a protein integral to the mitochondrial complex I, the largest enzyme complex of the electron transport chain involved in oxidative phosphorylation. This protein, also known as MWFE, is crucial for the assembly and functional integrity of complex I, facilitating the oxidation of NADH, electron transport, and proton translocation, which are essential for ATP production in cells. Mutations in NDUFA1 can lead to severe mitochondrial disorders due to impaired complex I activity, highlighting its pivotal role in cellular energy metabolism and mitochondrial function (Potluri2009A; Au1999The).
+
+## Function
+NDUFA1 (NADH:ubiquinone oxidoreductase subunit A1) encodes a protein that is a vital component of mitochondrial complex I, also known as proton-translocating NADH-quinone oxidoreductase. This complex is the largest enzyme complex of the electron transport chain and plays a crucial role in cellular energy production through oxidative phosphorylation. The NDUFA1-encoded protein, specifically referred to as the MWFE protein, is essential for the activity of complex I in mammalian mitochondria. It facilitates the oxidation of NADH, electron transport, and proton translocation across the membrane, which are fundamental processes for ATP production in cells (Au1999The).
+
+The MWFE protein, encoded by NDUFA1, has a hydrophobic N-terminal domain and a hydrophilic, positively charged C-terminal domain, suggesting its association with the integral membrane fraction of complex I (Au1999The). This protein is critical for the proper assembly and function of complex I, as demonstrated by experiments showing that mutations in NDUFA1 can lead to significant reductions or complete loss of complex I activity, impacting mitochondrial respiration and cellular energy metabolism (Potluri2009A; Au1999The).
+
+Furthermore, the NDUFA1 protein interacts with mtDNA-encoded subunits during the complex I assembly process, which is critical for the effective operation of the oxidative phosphorylation system. This interaction underscores the dependency of the NDUFA1 subunit on mitochondrial DNA for its proper function and stability (Potluri2009A).
+
+## Clinical Significance
+Mutations in the NDUFA1 gene, which is located on the X chromosome, have been linked to a range of mitochondrial disorders, primarily affecting mitochondrial complex I activity. These mutations can lead to severe mitochondrial diseases characterized by neurodegenerative symptoms. For instance, a specific missense mutation, changing glycine at position 32 to arginine (G32R), has been identified in patients with progressive neurodegenerative disorders. This mutation results in a substantial decrease in complex I assembly and activity, manifesting clinically as loss of motor skills, generalized tonic-clonic seizures, ataxia, retinitis pigmentosa, and dementia (Potluri2009A).
+
+Furthermore, heterozygous mutations in NDUFA1 have been observed in females, leading to complex I deficiency with symptoms such as mild muscular hypotonia and moderate lactic acidosis. This highlights the impact of X-linked mutations and the potential for skewed X-inactivation leading to variable disease expression in heterozygous females (Mayr2011Heterozygous).
+
+The clinical implications of NDUFA1 mutations underscore the gene's critical role in maintaining mitochondrial function and its direct association with mitochondrial pathologies. The variability in the expression and severity of the symptoms associated with NDUFA1 mutations reflects the complex nature of mitochondrial diseases and the intricate dependency on mitochondrial and nuclear DNA interactions (Scheffler2014Mitochondrial).
+
+## Interactions
+NDUFA1, a nuclear DNA-encoded subunit of mitochondrial Complex I, has been shown to interact directly with several mitochondrial DNA-encoded subunits, including ND1 and ND4. These interactions were initially predicted through bioinformatic coevolution analysis and later confirmed experimentally using the yeast two-hybrid system, demonstrating the physical association between NDUFA1 and these mtDNA-encoded subunits (Gershoni2010Coevolution). The study also highlighted the role of NDUFA1 in the assembly of the membrane arm of Complex I, suggesting its essential function in the structural integrity and operation of this critical enzyme complex (Gershoni2010Coevolution).
+
+Additionally, mutations in NDUFA1, such as the G32R mutation, have been shown to affect its interaction with other integral membrane proteins of Complex I, potentially impairing the complex's activity and stability. This underscores the importance of NDUFA1's interactions with other subunits in maintaining the functional efficacy of mitochondrial Complex I (Potluri2009A). These findings collectively emphasize the critical role of NDUFA1 in the cohesiveness and functionality of Complex I, impacting overall mitochondrial function and energy production.
+
+
+## References
+
+
+[1. (Gershoni2010Coevolution) Moran Gershoni, Angelika Fuchs, Naama Shani, Yearit Fridman, Marisol Corral-Debrinski, Amir Aharoni, Dmitrij Frishman, and Dan Mishmar. Coevolution predicts direct interactions between mtdna-encoded and ndna-encoded subunits of oxidative phosphorylation complex i. Journal of Molecular Biology, 404(1):158â171, November 2010. URL: http://dx.doi.org/10.1016/j.jmb.2010.09.029, doi:10.1016/j.jmb.2010.09.029. (74 citations) 10.1016/j.jmb.2010.09.029](https://doi.org/10.1016/j.jmb.2010.09.029)
+
+[2. (Potluri2009A) Prasanth Potluri, Antonio Davila, Eduardo Ruiz-Pesini, Dan Mishmar, Sean OâHearn, Saege Hancock, Mariella Simon, Immo E. Scheffler, Douglas C. Wallace, and Vincent Procaccio. A novel ndufa1 mutation leads to a progressive mitochondrial complex i-specific neurodegenerative disease. Molecular Genetics and Metabolism, 96(4):189â195, April 2009. URL: http://dx.doi.org/10.1016/j.ymgme.2008.12.004, doi:10.1016/j.ymgme.2008.12.004. (114 citations) 10.1016/j.ymgme.2008.12.004](https://doi.org/10.1016/j.ymgme.2008.12.004)
+
+[3. (Au1999The) Harry C. Au, Byoung Boo Seo, Akemi Matsuno-Yagi, Takao Yagi, and Immo E. Scheffler. The ndufa1 gene product (mwfe protein) is essential for activity of complex i in mammalian mitochondria. Proceedings of the National Academy of Sciences, 96(8):4354â4359, April 1999. URL: http://dx.doi.org/10.1073/pnas.96.8.4354, doi:10.1073/pnas.96.8.4354. (95 citations) 10.1073/pnas.96.8.4354](https://doi.org/10.1073/pnas.96.8.4354)
+
+[4. (Mayr2011Heterozygous) Johannes A. Mayr, Olaf Bodamer, Tobias B. Haack, Franz A. Zimmermann, Florence Madignier, Holger Prokisch, Christian Rauscher, Johannes Koch, and Wolfgang Sperl. Heterozygous mutation in the x chromosomal ndufa1 gene in a girl with complex i deficiency. Molecular Genetics and Metabolism, 103(4):358â361, August 2011. URL: http://dx.doi.org/10.1016/j.ymgme.2011.04.010, doi:10.1016/j.ymgme.2011.04.010. (25 citations) 10.1016/j.ymgme.2011.04.010](https://doi.org/10.1016/j.ymgme.2011.04.010)
+
+[5. (Scheffler2014Mitochondrial) Immo E. Scheffler. Mitochondrial disease associated with complex i (nadhâcoq oxidoreductase) deficiency. Journal of Inherited Metabolic Disease, 38(3):405â415, September 2014. URL: http://dx.doi.org/10.1007/s10545-014-9768-6, doi:10.1007/s10545-014-9768-6. (67 citations) 10.1007/s10545-014-9768-6](https://doi.org/10.1007/s10545-014-9768-6)

@@ -1,0 +1,64 @@
+# OPTN
+
+## Overview
+Optineurin (OPTN) is a multifunctional protein encoded by the OPTN gene, which plays a pivotal role in various cellular processes including autophagy, vesicular trafficking, and immune response signaling. The protein is characterized by several structural domains that facilitate its interaction with other proteins and contribute to its diverse functions. Notably, OPTN is involved in selective autophagy through its interactions with ubiquitin and LC3, aiding in the degradation of specific cellular components. It also plays a role in the regulation of NF-kB signaling, acting as a negative regulator in certain pathways. Mutations in the OPTN gene have been linked to several diseases, including primary open-angle glaucoma and amyotrophic lateral sclerosis, highlighting its clinical significance. The protein's involvement in these critical pathways underscores its importance in maintaining cellular integrity and responding to cellular stress (Slowicka2016Cellular; Bansal2015Functional).
+
+## Structure
+The molecular structure of the optineurin (OPTN) protein is characterized by several distinct domains and structural features that are crucial for its function. The primary structure consists of 577 amino acids, which include multiple functional domains such as coiled-coil domains, a leucine zipper, a zinc finger, and a ubiquitin-binding domain (UBD) (Kitamura2021Conformational; Bansal2015Functional). The secondary structure predictions and experimental evidence indicate the presence of at least two coiled-coil domains, CC1 and CC2, with CC1 confirmed through X-ray crystallography (Kitamura2021Conformational). 
+
+The tertiary structure of OPTN, particularly in interaction with other proteins like TBK1, forms a complex that includes a four-helix bundle and a symmetrical hetero-tetramer configuration, suggesting an intricate three-dimensional folding that facilitates specific protein-protein interactions (Li2016Structural). The quaternary structure is highlighted by the formation of dimers and potentially higher-order oligomers, which are significant for its functional activity and interaction dynamics (Li2016Structural).
+
+Post-translational modifications such as phosphorylation by TBK1 at specific serine residues adjacent to the LC3-interacting region (LIR) enhance OPTN's binding affinity to autophagy-related proteins, which is critical for its role in selective autophagy (Wild2011Phosphorylation). These structural and functional insights into OPTN are essential for understanding its role in cellular processes and its implications in diseases such as glaucoma and amyotrophic lateral sclerosis.
+
+## Function
+Optineurin (OPTN) is a multifunctional protein encoded by the OPTN gene, playing a crucial role in various cellular processes essential for maintaining cellular health. OPTN is involved in selective autophagy, where it mediates the degradation of specific cellular components. This function is facilitated through its interaction with ubiquitin and ubiquitin-binding proteins, which help in recognizing and binding to the cargoes that need to be degraded, such as ubiquitinated intracellular pathogens and damaged mitochondria (Slowicka2016Cellular; Qiu2021Emerging).
+
+In addition to its role in autophagy, OPTN contributes to vesicular trafficking and membrane dynamics. It interacts with myosin VI, playing a role in the mechanical regulation of secretion processes and maintaining the structural integrity of the Golgi complex (Slowicka2016Cellular). OPTN also plays a role in NF-kB signaling, acting as a negative regulator of TNF-induced NF-kB activation by competing with NEMO, a core element of the inhibitor of NF-kB kinase complex (Slowicka2016Cellular).
+
+Furthermore, OPTN is crucial for antiviral responses, particularly in the activation of TBK1 and IRF3, which are essential for the production of type I interferons like IFN-b (Slowicka2016Cellular). This multifaceted involvement in cellular processes underscores the importance of OPTN in cellular functioning and organismal health.
+
+## Clinical Significance
+Mutations in the OPTN gene, encoding optineurin, are implicated in several diseases, most notably primary open-angle glaucoma (POAG) and amyotrophic lateral sclerosis (ALS). In glaucoma, mutations such as E50K, M98K, and R545Q have been identified, with some linked to normal intraocular pressure and others to elevated pressure, affecting the disease's clinical presentation and severity (Chalasani2009Optineurin; Rezaie2002Adult-Onset). The E50K mutation, in particular, is known for its dominant-negative effect on protein function, crucial for DNA binding and protein dimerization (Rezaie2002Adult-Onset).
+
+In ALS, both familial and sporadic forms have been associated with OPTN mutations. These include a homozygous exon 5 deletion and missense mutations like E478G, which impact the protein's function in autophagy and cellular signaling pathways (Cozzi2022Autophagy; Kim2020ALS). The interaction of OPTN with TBK1 is critical, as disruptions can lead to reduced kinase activity and contribute to ALS pathogenesis (Minegishi2016Significance).
+
+Additionally, OPTN mutations have been linked to Paget's disease of bone and various neurodegenerative conditions, suggesting a broader impact on cellular health and disease mechanisms (Paulus2014Loss). The gene's role in NF-ÎºB signaling and vesicle trafficking further underscores its importance in cellular functioning and the potential consequences of its dysregulation (Toth2018Dysfunction).
+
+## Interactions
+Optineurin (OPTN) interacts with a variety of proteins that play roles in vesicle trafficking, autophagy, and signaling pathways. In vesicle trafficking, OPTN serves as an effector and adaptor protein for Rab8, linking it with the actin-based molecular motor, myosin VI, and facilitating its interaction with the Golgi complex. It also recruits TBC1D17, a Rab GTPase-activating protein, to inactivate Rab8, thereby regulating the activity of Rab8 and affecting the recycling of the transferrin receptor (TFRC) to the plasma membrane (Swarup2018Altered; Bansal2015Functional). 
+
+In the context of autophagy, OPTN functions as an autophagy receptor, interacting directly with LC3 and ubiquitinated cargo, crucial for the recruitment of cargo to autophagosomes. It also interacts with Atg5, facilitating the recruitment of the Atg12-5-16L1 complex to the phagophore, promoting its maturation into an autophagosome (Swarup2018Altered; Bansal2015Functional).
+
+OPTN is involved in signaling pathways related to immune defense by interacting with TBK1 to induce interferon-b (IFN-b) production in response to pathogens. This interaction is also crucial for the function of these proteins in selective autophagy and the pathogenesis of neurodegenerative diseases (Li2016Structural; Bansal2015Functional). Additionally, OPTN interacts with CYLD, a deubiquitinase, to mediate the deubiquitination of receptor-interacting protein (RIP) crucial for NF-ÎºB signaling (Bansal2015Functional).
+
+
+## References
+
+
+[1. (Rezaie2002Adult-Onset) Tayebeh Rezaie, Anne Child, Roger Hitchings, Glen Brice, Lauri Miller, Miguel Coca-Prados, Elise HeÌon, Theodore Krupin, Robert Ritch, Donald Kreutzer, R. Pitts Crick, and Mansoor Sarfarazi. Adult-onset primary open-angle glaucoma caused by mutations in optineurin. Science, 295(5557):1077â1079, February 2002. URL: http://dx.doi.org/10.1126/science.1066901, doi:10.1126/science.1066901. (696 citations) 10.1126/science.1066901](https://doi.org/10.1126/science.1066901)
+
+[2. (Minegishi2016Significance) Yuriko Minegishi, Mao Nakayama, Daisuke Iejima, Kazuhide Kawase, and Takeshi Iwata. Significance of optineurin mutations in glaucoma and other diseases. Progress in Retinal and Eye Research, 55:149â181, November 2016. URL: http://dx.doi.org/10.1016/j.preteyeres.2016.08.002, doi:10.1016/j.preteyeres.2016.08.002. (106 citations) 10.1016/j.preteyeres.2016.08.002](https://doi.org/10.1016/j.preteyeres.2016.08.002)
+
+[3. (Kitamura2021Conformational) Akira Kitamura, Rika Numazawa, and Masataka Kinjo. Conformational stabilization of optineurin by the dynamic interaction of linear polyubiquitin. Biochemical and Biophysical Research Communications, 559:203â209, June 2021. URL: http://dx.doi.org/10.1016/j.bbrc.2021.04.103, doi:10.1016/j.bbrc.2021.04.103. (1 citations) 10.1016/j.bbrc.2021.04.103](https://doi.org/10.1016/j.bbrc.2021.04.103)
+
+[4. (Li2016Structural) Faxiang Li, Xingqiao Xie, Yingli Wang, Jianping Liu, Xiaofang Cheng, Yujiao Guo, Yukang Gong, Shichen Hu, and Lifeng Pan. Structural insights into the interaction and disease mechanism of neurodegenerative disease-associated optineurin and tbk1 proteins. Nature Communications, September 2016. URL: http://dx.doi.org/10.1038/ncomms12708, doi:10.1038/ncomms12708. (109 citations) 10.1038/ncomms12708](https://doi.org/10.1038/ncomms12708)
+
+[5. (Paulus2014Loss) Jeremiah D. Paulus and Brian A. Link. Loss of optineurin in vivo results in elevated cell death and alters axonal trafficking dynamics. PLoS ONE, 9(10):e109922, October 2014. URL: http://dx.doi.org/10.1371/journal.pone.0109922, doi:10.1371/journal.pone.0109922. (20 citations) 10.1371/journal.pone.0109922](https://doi.org/10.1371/journal.pone.0109922)
+
+[6. (Kim2020ALS) Garam Kim, Olivia Gautier, Eduardo Tassoni-Tsuchida, X. Rosa Ma, and Aaron D. Gitler. Als genetics: gains, losses, and implications for future therapies. Neuron, 108(5):822â842, December 2020. URL: http://dx.doi.org/10.1016/j.neuron.2020.08.022, doi:10.1016/j.neuron.2020.08.022. (219 citations) 10.1016/j.neuron.2020.08.022](https://doi.org/10.1016/j.neuron.2020.08.022)
+
+[7. (Toth2018Dysfunction) Reka P. Toth and Julie D. Atkin. Dysfunction of optineurin in amyotrophic lateral sclerosis and glaucoma. Frontiers in Immunology, May 2018. URL: http://dx.doi.org/10.3389/fimmu.2018.01017, doi:10.3389/fimmu.2018.01017. (78 citations) 10.3389/fimmu.2018.01017](https://doi.org/10.3389/fimmu.2018.01017)
+
+[8. (Swarup2018Altered) Ghanshyam Swarup and Zuberwasim Sayyad. Altered functions and interactions of glaucoma-associated mutants of optineurin. Frontiers in Immunology, June 2018. URL: http://dx.doi.org/10.3389/fimmu.2018.01287, doi:10.3389/fimmu.2018.01287. (44 citations) 10.3389/fimmu.2018.01287](https://doi.org/10.3389/fimmu.2018.01287)
+
+[9. (Bansal2015Functional) Megha Bansal, Ghanshyam Swarup, and Dorairajan Balasubramanian. Functional analysis of optineurin and some of its disease-associated mutants: functional analysis of optineurin and its disease-associated mutants. IUBMB Life, 67(2):120â128, February 2015. URL: http://dx.doi.org/10.1002/iub.1355, doi:10.1002/iub.1355. (25 citations) 10.1002/iub.1355](https://doi.org/10.1002/iub.1355)
+
+[10. (Qiu2021Emerging) Yueping Qiu, Jincheng Wang, Hui Li, Bo Yang, Jiajia Wang, Qiaojun He, and Qinjie Weng. Emerging views of optn (optineurin) function in the autophagic process associated with disease. Autophagy, 18(1):73â85, April 2021. URL: http://dx.doi.org/10.1080/15548627.2021.1908722, doi:10.1080/15548627.2021.1908722. (48 citations) 10.1080/15548627.2021.1908722](https://doi.org/10.1080/15548627.2021.1908722)
+
+[11. (Slowicka2016Cellular) Karolina Slowicka, Lars Vereecke, and Geert van Loo. Cellular functions of optineurin in health and disease. Trends in Immunology, 37(9):621â633, September 2016. URL: http://dx.doi.org/10.1016/j.it.2016.07.002, doi:10.1016/j.it.2016.07.002. (88 citations) 10.1016/j.it.2016.07.002](https://doi.org/10.1016/j.it.2016.07.002)
+
+[12. (Cozzi2022Autophagy) Marta Cozzi and Veronica Ferrari. Autophagy dysfunction in als: from transport to protein degradation. Journal of Molecular Neuroscience, 72(7):1456â1481, June 2022. URL: http://dx.doi.org/10.1007/s12031-022-02029-3, doi:10.1007/s12031-022-02029-3. (10 citations) 10.1007/s12031-022-02029-3](https://doi.org/10.1007/s12031-022-02029-3)
+
+[13. (Chalasani2009Optineurin) Madhavi Latha Chalasani, Ghanshyam Swarup, and Dorairajan Balasubramanian. Optineurin and its mutants: molecules associated with some forms of glaucoma. Ophthalmic Research, 42(4):176â184, 2009. URL: http://dx.doi.org/10.1159/000232400, doi:10.1159/000232400. (49 citations) 10.1159/000232400](https://doi.org/10.1159/000232400)
+
+[14. (Wild2011Phosphorylation) Philipp Wild, Hesso Farhan, David G. McEwan, Sebastian Wagner, Vladimir V. Rogov, Nathan R. Brady, Benjamin Richter, Jelena Korac, Oliver Waidmann, Chunaram Choudhary, Volker DÃ¶tsch, Dirk Bumann, and Ivan Dikic. Phosphorylation of the autophagy receptor optineurin restricts salmonella growth. Science, 333(6039):228â233, July 2011. URL: http://dx.doi.org/10.1126/science.1205405, doi:10.1126/science.1205405. (1059 citations) 10.1126/science.1205405](https://doi.org/10.1126/science.1205405)

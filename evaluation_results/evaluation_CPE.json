@@ -1,0 +1,2596 @@
+{
+  "LeadSection": [
+    {
+      "text": "# CPE # # Overview\nCarboxypeptidase E (CPE) is a gene that encodes the enzyme carboxypeptidase E, a multifunctional protein crucial in the biosynthesis and processing of peptide hormones and neurotransmitters.",
+      "title": "Introduction",
+      "score": 0.64,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides a brief overview of Carboxypeptidase E (CPE) by mentioning its role in the biosynthesis and processing of peptide hormones and neurotransmitters, which helps define the scope of the article. However, it does not fully adhere to the recommended UniProt naming conventions, which typically include a more structured format, such as specifying the organism or providing a more detailed functional description. Additionally, the sentence starts with a hashtag, which is not standard in formal writing."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"CPE\" to refer to the gene and enzyme, which is appropriate if the UniProt protein name is long. However, the requirement suggests using the UniProt protein name if it is relatively short. The sentence does not clarify whether the UniProt protein name was considered or if it is indeed longer than the gene symbol. Therefore, the sentence partially meets the requirement but lacks clarity on the choice of naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a brief overview of the function of carboxypeptidase E (CPE) by mentioning its role in the biosynthesis and processing of peptide hormones and neurotransmitters. However, it lacks information on the structure and clinical significance of CPE, which are key aspects required for a comprehensive summary. Additionally, the sentence includes unnecessary repetition of \"CPE\" and \"carboxypeptidase E,\" which could be streamlined for conciseness."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence repeats the information that Carboxypeptidase E (CPE) is both a gene and an enzyme, which might already be present in an infobox. However, it does provide additional context by explaining the enzyme's role in the biosynthesis and processing of peptide hormones and neurotransmitters, which could be considered notable. The repetition is minimal and serves to emphasize the enzyme's multifunctionality, so the sentence mostly meets the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The CPE protein, also known as carboxypeptidase H, is primarily involved in cleaving C-terminal basic amino acids from peptide precursors, facilitating their conversion into active forms.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a brief description of the CPE protein's function, which partially defines the scope of the article. However, it does not fully adhere to the requirement of following the recommended UniProt naming conventions, as it does not specify the UniProt identifier or provide a comprehensive scope of the article. Additionally, it lacks context about the broader topics or aspects that the article will cover."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"CPE protein\" and \"carboxypeptidase H\" to refer to the protein. However, it does not specify whether these names align with the recommended UniProt protein name or the HUGO gene symbol. Without this information, it's unclear if the requirement to use the recommended UniProt name or the HUGO gene symbol is met. To improve the score, the sentence should explicitly use the recommended UniProt name if it is short, or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the function of the CPE protein, specifically its role in cleaving C-terminal basic amino acids from peptide precursors. However, it lacks information on the structure and clinical significance of the protein, which are key aspects mentioned in the requirement. Additionally, the sentence does not summarize an article but rather describes a specific function, which limits its effectiveness as a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise explanation of the function of the CPE protein, which may be information already present in an infobox. However, it does not appear to be overly repetitive or unnecessary, as it offers a clear description of the protein's role, which could be considered notable or require emphasis for understanding. The score reflects that while the sentence is informative, it could potentially be redundant if the infobox already contains this exact information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This enzymatic activity is essential in the production of neuropeptides and peptide hormones, particularly within the secretory pathways of endocrine and neuronal cells.",
+      "title": "Introduction",
+      "score": 0.4,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the enzymatic activity related to neuropeptides and peptide hormones, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve specific protein or gene names. To better meet the requirement, the sentence should explicitly state the focus of the article and include relevant UniProt nomenclature."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the score, the sentence should include the specific protein or gene being referred to, using the appropriate naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the function of enzymatic activity in producing neuropeptides and peptide hormones, which is a key aspect. However, it lacks information on structure and clinical significance, and it does not provide a comprehensive summary of an article. The sentence is too specific and does not cover the broader context or key points that would be expected in a lead summarizing an article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of enzymatic activity in the production of neuropeptides and peptide hormones, which may not be redundant unless this information is already detailed in the infobox. If the infobox contains this exact information, the sentence could be seen as repetitive. However, if the infobox only briefly mentions enzymatic activity without detailing its role in secretory pathways, the sentence adds valuable context. The score reflects the potential for redundancy depending on the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, CPE serves as a sorting receptor in the regulated secretory pathway, influencing hormone storage and release, and plays roles in various cellular signaling pathways, including the negative regulation of the canonical Wnt signaling pathway (Cool1997Carboxypeptidase; Skalka2012Carboxypeptidase).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it provides specific information about the functions of CPE (Carboxypeptidase E) in cellular processes. To meet the requirement, the sentence should introduce the main topic or focus of the article and adhere to UniProt naming conventions, such as using the full name and abbreviation correctly."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"CPE,\" which is the HUGO gene symbol for Carboxypeptidase E. However, it does not provide any disambiguation or context to clarify that \"CPE\" refers to Carboxypeptidase E. Additionally, it does not use the recommended UniProt protein name, which might be more appropriate if it is relatively short. The sentence partially meets the requirement by using the gene symbol but lacks clarity and context."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the function of CPE, specifically its role in the secretory pathway and cellular signaling. However, it lacks coverage of the structure and clinical significance of CPE, which are key aspects mentioned in the requirement. Additionally, the sentence includes specific details and references that may not be necessary for a concise summary. Overall, it does not effectively summarize the article as required."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the functions of CPE, including its role in the regulated secretory pathway and cellular signaling pathways. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable or requires emphasis. However, the sentence does include specific details and references that could justify its inclusion, which is why it scores relatively high. To fully meet the requirement, ensure that the information is not redundant with the infobox unless it adds significant value or context."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The diverse functions of CPE underscore its importance in metabolic control, neurotransmitter regulation, and cellular response to stress.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides an overview of the functions of CPE, highlighting its roles in metabolic control, neurotransmitter regulation, and cellular response to stress. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to specific naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"CPE,\" which is the HUGO gene symbol for Carboxypeptidase E. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The UniProt recommended name for CPE is \"Carboxypeptidase E,\" which is relatively short and could have been used instead. The sentence partially meets the requirement by using the gene symbol, but it does not fully comply as it does not use the UniProt protein name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the importance of CPE in metabolic control, neurotransmitter regulation, and cellular response to stress, which touches on its functions. However, it does not address the structure or clinical significance of CPE, nor does it provide a comprehensive summary of an article. The sentence lacks coverage of key aspects and is too focused on function without broader context."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence effectively highlights the importance of CPE in various biological processes, which could be considered notable. However, without knowing the specific content of the infobox, it's difficult to fully assess whether the information is repetitive. If the infobox already contains detailed information about CPE's roles, the sentence might slightly repeat that content, but it does emphasize the significance of these functions, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Function\nCarboxypeptidase E (CPE), also known as carboxypeptidase H, is a multifunctional enzyme that plays a critical role in the biosynthesis and processing of peptide hormones and neurotransmitters.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a brief introduction to Carboxypeptidase E (CPE) and its function, which partially defines the scope of the article. However, it does not fully establish the scope or context of the article as a whole, nor does it explicitly follow the recommended UniProt naming conventions. To improve, the sentence should more clearly outline the article's focus and ensure adherence to specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the name \"Carboxypeptidase E (CPE)\" which is a common name for the enzyme. However, it does not specify whether this is the recommended UniProt protein name or the HUGO gene symbol. To fully meet the requirement, the sentence should clarify if \"Carboxypeptidase E\" is the recommended UniProt name or use the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the function of Carboxypeptidase E (CPE) by mentioning its role in the biosynthesis and processing of peptide hormones and neurotransmitters. However, it lacks information on the enzyme's structure and clinical significance, which are key aspects required for a comprehensive summary. Additionally, the sentence includes an unnecessary detail (\"also known as carboxypeptidase H\") that does not contribute to the summary's conciseness."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides information about Carboxypeptidase E (CPE), including its alternative name and its role in biosynthesis and processing. If this information is already present in the infobox, it may be somewhat repetitive. However, the sentence does emphasize the enzyme's multifunctionality and critical role, which could be considered notable. The score reflects that while there is some repetition, the emphasis on its critical role may justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "CPE is primarily involved in cleaving C-terminal basic amino acids from peptide precursors, a necessary step for converting these precursors into their active forms.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific function of CPE (Carboxypeptidase E) but does not define the overall scope of the article. It lacks context about the broader topic or focus of the article and does not follow the recommended UniProt naming conventions, which typically include the full name and abbreviation of the protein. To better meet the requirement, the sentence should introduce the main subject and purpose of the article while adhering to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"CPE,\" which is the HUGO gene symbol for Carboxypeptidase E. However, it does not provide disambiguation, which may be necessary for clarity. Additionally, the requirement suggests using the recommended UniProt protein name if it is relatively short, which in this case is \"Carboxypeptidase E\" and is indeed relatively short. Therefore, the sentence partially meets the requirement by using the gene symbol but could improve by using the UniProt protein name or providing disambiguation for the gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief description of the function of CPE, specifically its role in cleaving C-terminal basic amino acids from peptide precursors. However, it does not address the structure or clinical significance of CPE, which are key aspects mentioned in the requirement. Additionally, the sentence lacks a broader context or summary of the article, focusing only on a specific function. To better meet the requirement, the sentence should include information on the structure and clinical significance of CPE, and provide a more comprehensive summary of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a clear and concise explanation of the role of CPE, which may be notable or require emphasis if not already detailed in the infobox. However, without knowing the content of the infobox, it's difficult to fully assess whether the information is repetitive. If the infobox already contains this information in detail, the sentence might slightly lower the score due to potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This enzymatic activity is crucial in the production of neuropeptides and peptide hormones within the secretory pathway of endocrine and neuronal cells (Fricker1988Carboxypeptidase; Cool1997Carboxypeptidase).",
+      "title": "Introduction",
+      "score": 0.34,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not clearly define the scope of the article. It mentions enzymatic activity related to neuropeptides and peptide hormones but lacks a comprehensive overview of the article's focus. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve specific protein names and identifiers. The sentence also includes references in an unconventional format, which does not align with standard naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement because it does not use the recommended UniProt protein name or the HUGO gene symbol for the carboxypeptidase enzymes mentioned. Instead, it uses references to literature (Fricker1988Carboxypeptidase; Cool1997Carboxypeptidase) without specifying the protein name or gene symbol. To meet the requirement, the sentence should include the specific UniProt protein name or the HUGO gene symbol for the enzymes involved."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provided does not effectively summarize an article. It mentions the enzymatic activity related to neuropeptides and peptide hormones but lacks coverage of key aspects such as structure, function, and clinical significance. Additionally, it includes references in a non-standard format, which may be considered unnecessary detail in a summary. The sentence is too specific and does not provide a comprehensive overview of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of enzymatic activity in the production of neuropeptides and peptide hormones, which may not be redundant unless this information is already detailed in the infobox. The inclusion of references suggests that the information might be notable. However, without knowing the content of the infobox, it's difficult to fully assess redundancy. The sentence is likely to meet the requirement well unless the infobox contains identical information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In addition to its role in peptide processing, CPE functions as a sorting receptor in the regulated secretory pathway, particularly in neuroendocrine cells.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the role of CPE in peptide processing and as a sorting receptor, which could be part of the article's scope. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, as it does not specify what \"CPE\" stands for. To better meet the requirement, the sentence should explicitly define the article's scope and adhere to naming conventions by fully naming the protein or enzyme at first mention."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"CPE,\" which is the HUGO gene symbol for Carboxypeptidase E. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The UniProt recommended name for CPE is \"Carboxypeptidase E,\" which is relatively short and could have been used instead. The sentence partially meets the requirement by using the gene symbol, but it does not fully comply as it does not use the UniProt name when it is short enough."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the function of CPE, mentioning its role in peptide processing and as a sorting receptor in neuroendocrine cells. However, it lacks information on the structure and clinical significance of CPE, which are key aspects required for a comprehensive summary. Additionally, it does not provide a concise summary of the entire article, focusing instead on a specific function."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of CPE in peptide processing and as a sorting receptor in neuroendocrine cells. If this information is already present in the infobox, it may not be necessary to repeat it unless it is particularly notable or requires emphasis. However, the sentence does not appear to be overly redundant or unnecessary, so it mostly meets the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "It binds specific sorting signals on prohormones, facilitating their incorporation into secretory granules for regulated secretion.",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides a specific detail about a biological process but lacks context or a broader overview that would set the scope for an article. To improve, the sentence should introduce the main topic or focus of the article and adhere to naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, which is required by the guideline. It should include either the recommended UniProt protein name or the HUGO gene symbol to meet the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the function of a mechanism involving sorting signals and prohormones, but it does not summarize the article concisely or cover key aspects like structure and clinical significance. It lacks a broader context and does not address the overall topic or findings of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the function of a mechanism related to prohormones and secretory granules. If this information is already present in the infobox, it might be considered repetitive. However, the sentence is concise and focuses on a specific aspect, which could be notable or require emphasis. The score reflects that while it may repeat information, it does so in a way that could be justified if the details are significant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This receptor function is vital for maintaining proper hormonal balances and responses (Cool1997Carboxypeptidase).",
+      "title": "Introduction",
+      "score": 0.34,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions the importance of a receptor function in maintaining hormonal balances, which could hint at the article's focus on receptor functions or hormonal regulation. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. The reference \"(Cool1997Carboxypeptidase)\" is not in line with UniProt conventions, which typically involve standardized protein names and identifiers. The sentence lacks clarity and specificity regarding the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement because it does not use either the recommended UniProt protein name or the HUGO gene symbol. Instead, it references a source (Cool1997Carboxypeptidase) that does not align with the specified naming conventions. To improve, the sentence should include the appropriate UniProt protein name or HUGO gene symbol for the receptor mentioned."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions the function of a receptor in maintaining hormonal balance, which is a key aspect. However, it lacks information on the structure and clinical significance, and it does not summarize the article concisely. The reference \"(Cool1997Carboxypeptidase)\" is not explained, adding to the lack of clarity. Overall, the sentence does not meet the requirement of summarizing the article comprehensively."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the receptor function's importance in maintaining hormonal balances and responses, which may not be redundant unless this information is already detailed in the infobox. The citation \"(Cool1997Carboxypeptidase)\" suggests a reference to a study or source, which could be notable. However, without knowing the content of the infobox, it's difficult to fully assess redundancy. The sentence is likely to meet the requirement unless the infobox already contains this exact information without needing emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "CPE is also implicated in various cellular signaling pathways.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions that CPE is involved in cellular signaling pathways, but it does not define the scope of the article or follow the recommended UniProt naming conventions. It lacks context and specificity needed to establish the article's focus. To improve, the sentence should clearly state the main topic or purpose of the article and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"CPE,\" which is the HUGO gene symbol for Carboxypeptidase E. The requirement suggests using the recommended UniProt protein name if it is relatively short. The UniProt recommended name for CPE is \"Carboxypeptidase E,\" which is relatively short and could have been used instead. The sentence partially meets the requirement by using the gene symbol, but it does not fully comply as it does not use the UniProt name when it is short enough to do so."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions that CPE is involved in cellular signaling pathways, which touches on its function. However, it does not address the structure or clinical significance of CPE, nor does it provide a comprehensive summary of an article. The sentence lacks the necessary breadth and detail to serve as a lead summarizing key aspects of an article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about CPE's involvement in cellular signaling pathways, which may not be common knowledge and could be considered notable. However, without knowing the content of the infobox, it's difficult to determine if this information is already present there. If it is, the sentence might be slightly redundant unless the involvement in signaling pathways is particularly significant. The score reflects a minor deduction for potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "It acts as a negative regulator of the canonical Wnt signaling pathway by interacting with components like Wnt3a and the Frizzled receptor, thereby influencing cell proliferation and differentiation processes (Skalka2012Carboxypeptidase).",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about the function of a protein in the Wnt signaling pathway, but it does not define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, as it lacks a clear mention of the protein name or identifier. To better meet the requirement, the sentence should introduce the main topic or focus of the article and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, making it impossible to evaluate whether the recommended UniProt protein name or the HUGO gene symbol was used. To meet the requirement, the sentence should explicitly include the name of the protein or gene being discussed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the function of a component in the Wnt signaling pathway, mentioning its role as a negative regulator and its interaction with Wnt3a and the Frizzled receptor. However, it lacks information on the structure and clinical significance, which are key aspects required for a comprehensive summary. Additionally, it includes a citation that is not fully integrated into the sentence, which may be considered unnecessary detail in this context."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the role of a negative regulator in the Wnt signaling pathway, mentioning interactions with Wnt3a and the Frizzled receptor. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does emphasize the influence on cell proliferation and differentiation, which could be notable. The score reflects that while there might be some repetition, the details could be significant enough to warrant inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Moreover, CPE has been identified in roles beyond its enzymatic and receptor functions.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It mentions CPE in a general context without providing a clear definition or scope. To meet the requirement, the sentence should introduce the topic and context of the article, using precise terminology as per UniProt standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"CPE,\" which is the HUGO gene symbol for Carboxypeptidase E. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The UniProt recommended name for CPE is \"Carboxypeptidase E,\" which is relatively short and could have been used instead. The sentence partially meets the requirement by using the gene symbol, but it does not fully comply as it does not use the UniProt name when it is short enough to do so."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions that CPE has roles beyond its enzymatic and receptor functions, which hints at its structure and function. However, it does not provide a concise summary of the article, nor does it cover key aspects like clinical significance. The sentence lacks detail and context needed to meet the requirement of summarizing the article comprehensively."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence introduces new information about CPE being identified in roles beyond its known functions, which may not be present in the infobox. However, without knowing the specific content of the infobox, it's difficult to fully assess whether this information is repetitive. The sentence seems to add value by highlighting additional roles, which could be notable or require emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "It is involved in neuroprotection, where it upregulates the expression of anti-apoptotic proteins and protects neurons from oxidative stress-induced cell death (Cheng2013Carboxypeptidase).",
+      "title": "Introduction",
+      "score": 0.31,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it describes a specific function related to neuroprotection. To meet the requirement, the sentence should provide a broader overview of the article's content and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, making it impossible to determine if the recommended UniProt protein name or HUGO gene symbol was used. To meet the requirement, the sentence should explicitly include the protein name or gene symbol being discussed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the function of a subject related to neuroprotection, specifically mentioning the upregulation of anti-apoptotic proteins and protection against oxidative stress-induced cell death. However, it lacks details on the structure and clinical significance, which are key aspects required for a comprehensive summary. Additionally, it includes a citation that is not formatted correctly, which could be considered unnecessary detail in this context."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the role of a substance in neuroprotection, including the upregulation of anti-apoptotic proteins and protection against oxidative stress-induced cell death. If this information is already present in the infobox, it may be somewhat repetitive. However, the details could be considered notable, which justifies their inclusion to some extent. The score reflects a minor deviation from the requirement due to potential repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These diverse functions highlight the importance of CPE in cellular and organismal physiology, impacting processes ranging from metabolic control to stress response and neurotransmitter regulation.",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article as required. Instead, it discusses the importance and impact of CPE in various physiological processes. Additionally, it does not follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should clearly outline the main topics or areas that the article will cover, using appropriate naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence uses the abbreviation \"CPE\" without specifying whether it refers to a UniProt protein name or a HUGO gene symbol. To meet the requirement, the sentence should use the recommended UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary. The sentence does not provide enough information to determine if \"CPE\" is used correctly according to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the importance of CPE in various physiological processes, which touches on the function aspect. However, it lacks coverage of the structure and clinical significance of CPE, which are key aspects required by the prompt. Additionally, the sentence is more focused on the impact of CPE rather than summarizing the article as a whole. It does not provide a comprehensive summary and includes some unnecessary detail about specific processes."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence effectively summarizes the diverse functions of CPE without unnecessary repetition. It highlights the importance of CPE in various physiological processes, which could be considered notable information. However, without knowing the specific content of the infobox, it's difficult to fully assess the degree of repetition. If the infobox already contains detailed information on these functions, the sentence might slightly reiterate that content, but it does emphasize the significance of CPE's roles, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Clinical Significance\nMutations in the CPE gene, which encodes carboxypeptidase E, have been linked to a variety of endocrinological and neurological disorders.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence does not clearly define the scope of the article. While it mentions the clinical significance of mutations in the CPE gene, it does not provide a comprehensive overview of the article's content or purpose. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve a more structured introduction to the protein or gene in question."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"CPE\" for the gene, which is appropriate. However, it does not specify whether the UniProt protein name for carboxypeptidase E is relatively short or not. If the UniProt protein name is short, it should have been used instead. The sentence partially meets the requirement by using the gene symbol, but it lacks clarity on whether the UniProt name was considered."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence addresses the clinical significance of mutations in the CPE gene by linking them to disorders, which is a key aspect. However, it lacks information on the structure and function of the CPE gene or carboxypeptidase E, which are necessary to fully meet the requirement of summarizing the article concisely. Additionally, the sentence does not provide a comprehensive overview, as it focuses solely on clinical significance without covering other key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the clinical significance of mutations in the CPE gene, which may not be redundant if the infobox does not already contain this detail. If the infobox includes this information, the sentence could be seen as repetitive unless the details are particularly notable or require emphasis. The score reflects the potential for redundancy, but without knowing the infobox content, the sentence seems to add value."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Notably, a homozygous mutation in CPE is associated with severe obesity, type 2 diabetes mellitus, intellectual disability, and hypogonadotrophic hypogonadism (Alsters2015Truncating).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about a homozygous mutation in CPE and its associations with various conditions, but it does not define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein or gene names. The sentence lacks a broader context or introduction to the article's main focus."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"CPE,\" which is the HUGO gene symbol for carboxypeptidase E. The requirement suggests using the recommended UniProt protein name if it is relatively short. The UniProt recommended name for CPE is \"Carboxypeptidase E,\" which is relatively short and could have been used instead. Therefore, the sentence partially meets the requirement by using the gene symbol, but it does not fully comply as it does not use the UniProt protein name when it is short enough to do so."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about a homozygous mutation in CPE and its association with several medical conditions. However, it does not summarize the article concisely or cover key aspects such as structure, function, and clinical significance comprehensively. It lacks context and broader information that would be necessary for a complete summary. Additionally, it includes a citation in a non-standard format, which may be considered unnecessary detail in this context."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about a homozygous mutation in CPE and its associations with various conditions. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable or requires emphasis. The sentence does not indicate whether this repetition is necessary, but it does not seem to add additional emphasis or context that would justify its repetition. However, without knowing the content of the infobox, it's difficult to fully assess the necessity of this repetition, hence the relatively high score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, mutations such as W235R lead to enzymatic inactivity, increasing the risk of hyperproinsulinemia and diabetes in homozygous individuals (Cawley2012New).",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it discusses a specific mutation and its effects, which is not related to setting the scope or context of the article. Additionally, there is no indication that UniProt naming conventions are being followed in this sentence."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any protein name or gene symbol, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the sentence, the specific protein or gene affected by the W235R mutation should be identified using the appropriate naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about a mutation (W235R) and its effects, which is relevant to the clinical significance aspect of the requirement. However, it does not summarize the article concisely or cover key aspects like structure and function. It focuses narrowly on one mutation and its consequences, lacking a broader overview of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides specific information about a mutation (W235R) and its effects, which may already be present in an infobox. If this information is not particularly notable or does not require emphasis beyond what is in the infobox, it may be considered repetitive. However, if the mutation and its consequences are significant, the repetition could be justified. Without knowing the content of the infobox, it's difficult to fully assess the necessity of this repetition, hence the middle score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The gene's role in neurodevelopment is also critical, as evidenced by its involvement in neuron positioning and dendrite morphology; disruptions in these processes due to CPE mutations can result in neurocognitive disorders (Liang2018Cortical).",
+      "title": "Introduction",
+      "score": 0.5,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article as required. Instead, it discusses the gene's role in neurodevelopment and the consequences of its mutations. Additionally, it does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's focus and adhere to the naming conventions specified by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"CPE\" as a reference to a gene or protein, which is likely the HUGO gene symbol. However, it does not specify whether \"CPE\" is the recommended UniProt protein name or if disambiguation is necessary. To fully meet the requirement, the sentence should clarify if \"CPE\" is the recommended UniProt name or provide disambiguation if it is a HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by mentioning the gene's role in neurodevelopment and its clinical significance related to neurocognitive disorders. However, it lacks a comprehensive summary of the article, as it does not cover the gene's structure or provide a broader context of its function. Additionally, it includes a specific study reference, which may be considered unnecessary detail for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the gene's role in neurodevelopment, including its involvement in neuron positioning and dendrite morphology, and the impact of CPE mutations. If this information is already present in the infobox, it may be somewhat repetitive. However, the sentence does emphasize the critical nature of these processes and the potential for neurocognitive disorders, which could justify its inclusion if these aspects are not highlighted in the infobox. The score reflects a minor potential for redundancy, but the details could be considered notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Alterations in CPE expression have significant implications as well.",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions. The sentence is vague and lacks context, making it unclear what the article will cover. To meet the requirement, the sentence should clearly outline the main topic or focus of the article and adhere to specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"CPE,\" which is the HUGO gene symbol for Carboxypeptidase E. However, it does not specify whether this is the recommended UniProt protein name or if disambiguation is necessary. To fully meet the requirement, the sentence should clarify if \"CPE\" is the appropriate term to use or provide the UniProt protein name if it is relatively short."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions \"alterations in CPE expression\" and their \"significant implications,\" but it lacks any specific information about structure, function, or clinical significance. It also does not provide a summary of the article, as it is too vague and lacks context. To meet the requirement, the sentence should concisely cover key aspects of the article, including details on structure, function, and clinical significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not repeat specific information from the infobox, but it is somewhat generic. If the implications of CPE expression alterations are already detailed in the infobox, this sentence might not add significant new information unless it is meant to emphasize the importance of those implications. The score reflects that it mostly meets the requirement but could be more specific or notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Elevated levels of CPE are observed in insulinomas, potentially leading to excessive insulin secretion (Cawley2012New).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively define the scope of the article. It provides a specific observation about elevated levels of CPE in insulinomas, but it does not give a broader context or overview of the article's content. Additionally, it does not follow the recommended UniProt naming conventions, as it lacks specific protein names or identifiers that are typically used in UniProt entries. To improve, the sentence should clearly outline the main focus or objective of the article and incorporate appropriate naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"CPE,\" which is likely referring to a protein or gene. However, it is unclear whether \"CPE\" is the recommended UniProt protein name or the HUGO gene symbol. Without additional context, it is difficult to determine if the requirement to use the recommended UniProt protein name or the HUGO gene symbol with disambiguation is met. To improve the score, ensure that \"CPE\" is clearly identified as either the UniProt protein name or the HUGO gene symbol, with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific observation from the article, mentioning elevated levels of CPE in insulinomas and its potential effect on insulin secretion. However, it does not summarize the article concisely or cover key aspects such as structure, function, and clinical significance comprehensively. It lacks context and broader insights into the study's findings or implications, which are necessary for a complete summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about elevated levels of CPE in insulinomas and their potential effect on insulin secretion. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable or requires emphasis. However, without knowing the content of the infobox, it's difficult to determine if the repetition is necessary. The sentence is informative and specific, which could justify its inclusion if the detail is significant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Conversely, decreased CPE expression correlates with increased disease severity in models of multiple sclerosis (Cawley2012New).",
+      "title": "Introduction",
+      "score": 0.31,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it presents a specific finding related to CPE expression and disease severity in multiple sclerosis models. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein or gene names. The sentence lacks context or an introduction to the broader topic of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence uses \"CPE\" without specifying whether it refers to the UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence should use the recommended UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary. Without this clarification, the sentence does not meet the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific finding related to CPE expression and disease severity in multiple sclerosis models, which touches on clinical significance. However, it lacks a comprehensive summary of the article's key aspects such as structure and function. Additionally, it does not provide an overall summary of the article's content or conclusions, making it insufficient as a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence introduces a specific correlation between decreased CPE expression and increased disease severity in multiple sclerosis models, which may not be common knowledge or already present in an infobox. It provides a specific study reference (Cawley2012New), suggesting that it might be notable information. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated. The sentence is likely to meet the requirement unless the infobox already contains this specific detail."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Furthermore, the presence of CPE autoantibodies has been explored as a diagnostic marker in distinguishing latent autoimmune diabetes in adults (Cawley2012New).",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It mentions a specific topic related to CPE autoantibodies and their role in diagnosing latent autoimmune diabetes in adults, but it lacks a broader context or scope definition for the article. Additionally, there is no indication of adherence to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence uses \"CPE\" without specifying whether it refers to a protein or a gene. To meet the requirement, the sentence should use the recommended UniProt protein name if it is relatively short, or the HUGO gene symbol with disambiguation if necessary. The sentence does not provide enough information to determine if \"CPE\" is the correct UniProt protein name or if it should be replaced with a HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the exploration of CPE autoantibodies as a diagnostic marker for latent autoimmune diabetes in adults, which touches on the clinical significance aspect. However, it lacks information on the structure and function of CPE autoantibodies and does not provide a comprehensive summary of the article. The sentence is too specific and does not cover the key aspects concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence introduces the presence of CPE autoantibodies as a diagnostic marker for latent autoimmune diabetes in adults, which may be notable information. However, without knowing the content of the infobox, it's difficult to determine if this information is repeated unnecessarily. Assuming the infobox contains similar details, the sentence could be seen as redundant unless the information is particularly notable or requires emphasis. The score reflects a slight deduction for potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In summary, both mutations in the CPE gene and alterations in its expression are crucial in the pathogenesis of various metabolic, neurological, and autoimmune disorders, highlighting the gene's broad clinical significance.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a summary of the article's focus on the CPE gene and its role in various disorders, which partially defines the scope. However, it does not explicitly follow the recommended UniProt naming conventions, nor does it clearly establish the full scope of the article in a comprehensive manner. To better meet the requirement, the sentence should explicitly define the scope and adhere to specific naming conventions as outlined by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"CPE\" without disambiguation, which may be appropriate if the UniProt protein name is lengthy or not well-known. However, the requirement suggests using the UniProt protein name if it is relatively short. Without knowing the length or common usage of the UniProt protein name for CPE, it's unclear if the requirement is fully met. Therefore, the sentence partially meets the requirement, resulting in a score of 0.5."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.8,
+          "feedback": [
+            "The sentence effectively summarizes the clinical significance of the CPE gene by mentioning its role in various disorders, which aligns with the requirement to cover clinical significance. However, it lacks specific details about the gene's structure and function, which are also key aspects mentioned in the requirement. Including a brief mention of these elements would provide a more comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides a summary of the significance of mutations and expression alterations in the CPE gene, which may already be covered in an infobox. However, it emphasizes the broad clinical significance of the gene, which could be considered notable. The sentence could be more concise to avoid potential repetition, but it does highlight an important aspect that might not be fully captured in an infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Interactions\nCarboxypeptidase E (CPE) interacts with a variety of proteins that influence its function and trafficking within the cell.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article as required. It begins with a section header \"# # Interactions\" and provides information about Carboxypeptidase E (CPE) interacting with proteins, but it lacks a clear definition of the article's scope. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve a more structured and informative introduction."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Carboxypeptidase E (CPE)\" which is a common name for the protein. However, it is unclear whether this is the recommended UniProt protein name or if the HUGO gene symbol should be used. The sentence partially meets the requirement by providing an abbreviation (CPE), but it does not clarify if this is the preferred naming convention according to UniProt or HUGO guidelines. More information is needed to determine if the correct naming convention is used."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provided does not effectively summarize an article about Carboxypeptidase E (CPE) as it only mentions interactions with other proteins. It lacks coverage of key aspects such as the structure, function, and clinical significance of CPE, which are necessary to meet the requirement of a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides information about Carboxypeptidase E (CPE) interacting with various proteins, which may be a common detail found in an infobox. However, it does not repeat specific details and could be considered notable if the interactions significantly impact CPE's function and trafficking. The sentence could be improved by specifying why these interactions are particularly notable or require emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Notably, CPE interacts with Wolframin, an ER resident protein, which may assist in CPE's folding and intracellular transport (Cawley2012New).",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, which is the primary requirement. Instead, it provides specific information about the interaction between CPE and Wolframin. Additionally, it does not follow the recommended UniProt naming conventions, as it does not specify the full names or identifiers for the proteins mentioned. To better meet the requirement, the sentence should introduce the main topic or focus of the article and adhere to the naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Wolframin,\" which is not the recommended UniProt protein name. The recommended UniProt name for Wolframin is \"Wolframin\" (WFS1), which is relatively short and should be used. The sentence does not specify whether \"CPE\" refers to the protein name or the gene symbol, which could lead to ambiguity. To fully meet the requirement, the sentence should clarify the use of the recommended UniProt protein names or the HUGO gene symbols with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about the interaction between CPE and Wolframin, which relates to the structure and function of CPE. However, it does not summarize the article concisely or cover key aspects like the overall structure, function, and clinical significance of CPE. It focuses on a single interaction without providing a broader context or summary of the article's main points."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interaction between CPE and Wolframin, which may not be common knowledge and could be considered notable. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated. If the infobox already contains this detail, the sentence might be redundant unless the interaction is particularly significant. The score reflects the potential for redundancy but acknowledges the possibility of the information being notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "It also interacts with phogrin, a receptor tyrosine phosphatase-like protein, facilitating and stabilizing a nonclassical transmembrane domain of CPE in the trans-Golgi network (TGN) (Cawley2012New).",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It describes an interaction between proteins but does not provide an overview or context for the article's content. To meet the requirement, the sentence should clearly outline the main focus or objective of the article and adhere to any specific naming conventions set by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the name \"phogrin,\" which is not the recommended UniProt protein name. It is unclear if \"phogrin\" is the recommended name or if it should be replaced with a HUGO gene symbol. The sentence does not provide enough information to determine if the correct naming convention is followed. To fully meet the requirement, the sentence should use the recommended UniProt name or the appropriate HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about the interaction between phogrin and CPE in the trans-Golgi network, which may relate to the structure and function aspects of the article. However, it does not summarize the article concisely or cover key aspects like clinical significance. It focuses on a specific interaction rather than providing a broad overview, which is necessary for a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interaction between phogrin and a nonclassical transmembrane domain of CPE in the trans-Golgi network, which may not be common knowledge or already present in an infobox. However, without knowing the content of the infobox, it's difficult to fully assess the necessity of this information. The sentence seems to offer detailed and potentially notable information, which could justify its inclusion even if some elements are repeated."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, CPE binds to prohormones via a prohormone sorting signal, specifically interacting with the amino acids Arg 255 and Lys 260 on CPE, crucial for the trafficking of CPE from the TGN to the granules of the regulated secretory pathway (RSP) (Cawley2012New).",
+      "title": "Introduction",
+      "score": 0.31,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement of defining the scope of the article. Instead, it provides specific information about the interaction between CPE and prohormones, which is a detail rather than a scope-defining statement. Additionally, it does not follow the recommended UniProt naming conventions, as it does not mention any protein names or identifiers in the format typically used by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence uses the abbreviation \"CPE\" without specifying whether it refers to the recommended UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence should use the recommended UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary. The sentence does not provide enough information to determine if the correct naming convention is followed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific details about the interaction between CPE and prohormones, mentioning particular amino acids and the trafficking process. However, it does not summarize the article concisely or cover key aspects like structure, function, and clinical significance. It focuses on a specific detail rather than providing a broad overview, which is necessary to meet the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the interaction between CPE and prohormones, including the amino acids involved and the process of trafficking from the TGN to the RSP. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable. However, the sentence does offer detailed and specific information that could be considered notable, which is why it scores relatively high. To fully meet the requirement, ensure that this level of detail is necessary and not redundant with the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "CPE is involved in the internalization of the eosinophil cationic protein (ECP) into neuroendocrine cells, a process dependent on the interaction between CPE and ARF6 (Ji2017Dissecting).",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about a biological process involving CPE and ECP, but it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using full protein names followed by their abbreviations in parentheses. The sentence lacks a broader context or introduction to the main focus of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the abbreviation \"CPE\" without specifying whether it refers to the UniProt protein name or the HUGO gene symbol. Without additional context, it's unclear if \"CPE\" is the recommended UniProt protein name or if it should be disambiguated using the HUGO gene symbol. To fully meet the requirement, the sentence should clarify this by either using the full UniProt protein name if it's short or providing the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the interaction between CPE and ARF6 in the internalization of ECP into neuroendocrine cells, which is a structural and functional aspect. However, it lacks a comprehensive summary of the article, as it does not address the overall structure, broader function, or clinical significance of the study. Additionally, it includes a citation that is not explained, which may be considered unnecessary detail in this context."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of CPE in the internalization of ECP into neuroendocrine cells and its dependency on the interaction with ARF6. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does not appear to emphasize or highlight any particularly notable aspect that would justify repetition. The score reflects that while the sentence is informative, it may not fully meet the requirement to avoid repetition unless necessary."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In vesicle transport, the cytoplasmic tail of CPE interacts with motor protein complexes dynactin, kinesin-2, and kinesin-3, facilitating the movement of vesicles such as BDNF and ACTH in neurons (Ji2017Dissecting).",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about the interaction of the cytoplasmic tail of CPE with motor protein complexes and its role in vesicle transport within neurons. However, it does not define the overall scope of the article, nor does it follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should introduce the broader topic or focus of the article and adhere to naming conventions for proteins and other biological entities."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the abbreviation \"CPE\" without specifying whether it refers to a UniProt protein name or a HUGO gene symbol. Without additional context, it's unclear if \"CPE\" is the recommended UniProt protein name or if it should be disambiguated using the HUGO gene symbol. To fully meet the requirement, the sentence should clarify the naming convention used for \"CPE\" based on the guidelines provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific details about the interaction between the cytoplasmic tail of CPE and motor protein complexes in vesicle transport, mentioning specific proteins and their roles in neurons. However, it does not summarize the article concisely or cover key aspects like structure, function, and clinical significance. It focuses on a specific detail rather than providing a broad overview, which is necessary to meet the requirement of summarizing the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides specific details about the interaction of the cytoplasmic tail of CPE with motor protein complexes and its role in vesicle transport, which may be notable information. However, without knowing the content of the infobox, it's unclear if this information is already present there. If the infobox contains similar details, the sentence may be redundant unless these details are particularly notable or require emphasis. The score reflects this uncertainty."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This interaction is crucial for the localization and secretion of neurotransmitters in synaptic vesicles, impacting neurotransmission in both glutamatergic and cholinergic systems (Ji2017Dissecting).",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides specific information about neurotransmitter localization and secretion, but it lacks a broader context or introduction to the article's overall focus. Additionally, it does not adhere to any specific naming conventions that might be expected in a scientific article's introductory sentence."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein or gene name, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence should include a specific protein or gene name and ensure it follows the naming convention specified."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the interaction's role in neurotransmitter localization and secretion, mentioning its impact on neurotransmission in certain systems. However, it does not summarize the article concisely or cover key aspects like structure, function, and clinical significance comprehensively. It lacks broader context and does not address the overall findings or implications of the study."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of the interaction in neurotransmitter localization and secretion, which may not be detailed in an infobox. However, without knowing the content of the infobox, it's difficult to fully assess redundancy. The sentence seems to emphasize the impact on neurotransmission in specific systems, which could be notable. The score reflects a reasonable assumption that the information is not overly repetitive."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # References\n\n\n[1.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a heading or a placeholder for references, rather than a sentence that introduces or defines the scope of an article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any information related to the use of UniProt protein names or HUGO gene symbols. It appears to be an incomplete or incorrectly formatted reference section, and therefore does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a fragment or a placeholder for a references section, rather than a lead summarizing an article. It does not cover any key aspects such as structure, function, or clinical significance, nor does it provide any detail, necessary or unnecessary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 1.0,
+          "feedback": [
+            "The sentence provided does not repeat any information from an infobox, as it is simply a heading for a references section. Therefore, it fully meets the requirement of avoiding repetition of infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Fricker1988Carboxypeptidase) L D Fricker.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation or reference to a work by L D Fricker, rather than an introductory sentence that outlines the article's content or purpose."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not use the recommended UniProt protein name or the HUGO gene symbol. Instead, it uses a citation format that includes a reference to a publication and an author, which does not align with the requirement to use specific naming conventions for proteins or genes."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it fails to provide any summary of the article. It only mentions a reference and an author's name without addressing the structure, function, or clinical significance of the subject. There is no information provided that could be considered a summary, concise or otherwise."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence \"(Fricker1988Carboxypeptidase) L D Fricker\" appears to be a citation or reference to a work by L D Fricker. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable or requires emphasis. The sentence is concise and does not overly repeat information, but without context, it's unclear if the repetition is necessary. Therefore, it mostly meets the requirement but could be improved by ensuring the repetition is justified."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Carboxypeptidase e. Annual Review of Physiology, 50(1):309\u00e2\u0080\u0093321, October 1988.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a bibliographic reference and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should introduce the topic and scope of the article, using appropriate scientific naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it uses \"Carboxypeptidase e,\" which is not the recommended UniProt protein name or the HUGO gene symbol. The sentence should be revised to use the correct UniProt protein name or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article. It lacks any information about the structure, function, or clinical significance of carboxypeptidase e. To meet the requirement, the sentence should concisely cover these key aspects of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a bibliographic reference, likely intended to be part of an infobox or citation list. Without context, it's unclear if this information is repeated from an infobox. If it is, the sentence does not meet the requirement to avoid repetition unless notable. However, if this is the only mention, it would be appropriate. The score reflects this ambiguity."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1146/annurev.ph.50.030188.001521 , doi:10.1146/annurev.ph.50.030188.001521.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it only provides a URL and a DOI, which are identifiers for accessing the article but do not give any information about its content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It contains a URL and a DOI, but it does not mention any UniProt protein name or HUGO gene symbol. The requirement is about using specific naming conventions for proteins or genes, which is not relevant to the content of the sentence provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary or information about the article's structure, function, or clinical significance. There is no content that addresses the key aspects mentioned in the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in an infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the sentence does provide both the URL and DOI, which could be useful in some contexts, hence not scoring the lowest."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(412 citations) 10.1146/annurev.ph.50.030188.001521]( https://doi.org/10.1146/annurev.ph.50.030188.001521 )\n\n[2.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of an article, nor does it follow any naming conventions, including those recommended by UniProt. Instead, it appears to be a citation or reference to a scientific article, including a DOI link. To meet the requirement, the sentence should clearly state the scope of the article and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not mention any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a discussion of proteins or genes."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation reference rather than a summary of an article. It lacks any information about the article's structure, function, or clinical significance, and does not provide a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation count and a DOI link, which are likely to be present in an infobox. However, the citation count could be considered notable information that might warrant emphasis. The sentence mostly meets the requirement, but it could be more concise if the information is already in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Ji2017Dissecting) Lin Ji, Huan-Tong Wu, Xiao-Yan Qin, and Rongfeng Lan.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation or reference to authors and a publication year, not a sentence that defines the scope of an article. It does not follow the recommended UniProt naming conventions or provide any information about the content or scope of the article. To meet the requirement, the sentence should clearly state the focus or main topic of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not mention any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation or reference to authors of a study, which is unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's structure, function, or clinical significance. To meet the requirement, the sentence should concisely summarize the key aspects of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes information that might also be found in an infobox, such as author names and publication details. Without additional context, it's unclear if this information is repeated from an infobox or if it requires emphasis. The sentence neither clearly meets nor violates the requirement, resulting in a middle score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Dissecting carboxypeptidase e: properties, functions and pathophysiological roles in disease.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general overview of the article's topic by mentioning \"carboxypeptidase e\" and its \"properties, functions and pathophysiological roles in disease.\" However, it does not clearly define the scope of the article in detail, nor does it follow the recommended UniProt naming conventions. To improve the score, the sentence should explicitly define the scope and adhere to specific naming conventions as per UniProt guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"carboxypeptidase e,\" which is a common name for the protein. However, it does not specify whether this is the recommended UniProt protein name or the HUGO gene symbol. To fully meet the requirement, the sentence should clarify if \"carboxypeptidase e\" is the recommended UniProt name or use the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a general overview of the article's focus on carboxypeptidase e, mentioning its properties, functions, and roles in disease. However, it lacks specific details about the structure, function, and clinical significance, which are necessary for a concise summary. The sentence is more of a title than a lead, as it does not provide enough information to summarize the article's content comprehensively."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a title or heading, which typically serves to introduce the main topics of a text. It does not seem to repeat information, but without context from the infobox, it's difficult to fully assess compliance with the requirement. Assuming the infobox contains detailed information about carboxypeptidase e, the sentence likely serves as a summary or introduction, which is generally acceptable. However, if the infobox already contains a similar summary, the sentence might be seen as redundant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Endocrine Connections, 6(4):R18\u00e2\u0080\u0093R38, May 2017.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It also does not follow any naming conventions, including the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's scope and adhere to the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not contain any protein names or gene symbols. Therefore, it cannot be evaluated against the requirement, which pertains to the use of UniProt protein names or HUGO gene symbols. To meet the requirement, the sentence would need to include a protein or gene reference."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's content, such as structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a citation for a publication, which may already be present in an infobox. Without context, it's unclear if this information is repeated unnecessarily. If the citation is notable or requires emphasis, it could be justified. However, if it's redundant, it doesn't meet the requirement to avoid repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1530/ec-17-0020 , doi:10.1530/ec-17-0020.",
+      "title": "Introduction",
+      "score": 0.09,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it simply provides a URL and a DOI, which are identifiers for accessing the article but do not describe its content or scope. To meet the requirement, the sentence should summarize the article's focus and adhere to any specific naming conventions outlined by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI reference, with no mention of a UniProt protein name or a HUGO gene symbol. The requirement is about using specific naming conventions for proteins or genes, which is not relevant to the content of the sentence provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary or information about the article's content. It lacks any mention of structure, function, or clinical significance, and therefore does not provide a concise summary of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.3,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not seem particularly notable or necessary for emphasis, thus not meeting the requirement to avoid redundant information. The score reflects the unnecessary duplication of content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(68 citations) 10.1530/ec-17-0020]( https://doi.org/10.1530/ec-17-0020 )\n\n[3.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation or reference to a DOI link, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a sentence discussing proteins or genes."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It only includes a citation and a DOI link, without any information about the article's content, structure, function, or clinical significance. To meet the requirement, the sentence should provide a concise summary of the article's key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation and a DOI link, which may already be present in an infobox. However, the repetition of this information is not particularly notable or emphasized, and it is common to include such references in text for clarity and accessibility. The sentence mostly meets the requirement, but it could be improved by ensuring that this information is not redundant if it is already clearly presented elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Alsters2015Truncating) Suzanne I. M. Alsters, Anthony P. Goldstone, Jessica L. Buxton, Anna Zekavati, Alona Sosinsky, Andrianos M. Yiorkas, Susan Holder, Robert E. Klaber, Nicola Bridges, Mieke M. van Haelst, Carel W. le Roux, Andrew J. Walley, Robin G. Walters, Michael Mueller, and Alexandra I. F. Blakemore.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions, as it does not mention any proteins or related biological terms. To meet the requirement, the sentence should introduce the main topic or focus of the article, ideally using appropriate scientific terminology."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors from a citation and does not mention any proteins or genes. Therefore, it does not address the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The requirement is not applicable to the content of the sentence, resulting in a score of 0.0."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation of authors and does not summarize the article at all. It lacks any information about the article's structure, function, or clinical significance. To meet the requirement, the sentence should provide a concise summary of the article's key aspects rather than listing the authors."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference list, which typically includes author names and publication details. If this information is already present in an infobox, repeating it in the main text may not be necessary unless it is particularly notable. The sentence does not provide context or emphasis that would justify its repetition outside of an infobox, thus partially meeting the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Truncating homozygous mutation of carboxypeptidase e (cpe) in a morbidly obese female with type 2 diabetes mellitus, intellectual disability and hypogonadotrophic hypogonadism.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides specific information about a case involving a truncating homozygous mutation of carboxypeptidase E (CPE) in a patient with several conditions. However, it does not clearly define the overall scope of the article, as it focuses on a specific case rather than outlining the broader context or purpose of the article. Additionally, while it uses the gene name \"carboxypeptidase e\" in lowercase, it does not fully adhere to UniProt naming conventions, which typically require proper formatting and context."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"cpe\" for carboxypeptidase e, which is appropriate if the UniProt protein name is too long. However, the sentence does not clarify whether the UniProt protein name was considered or if disambiguation was necessary. To fully meet the requirement, the sentence should either use the recommended UniProt protein name if it is short or provide disambiguation for the gene symbol if needed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific details about a case involving a truncating homozygous mutation of carboxypeptidase e (CPE) in a patient with several conditions. However, it lacks a broader summary of the article's key aspects such as the structure, function, and clinical significance of CPE. It focuses on a single case without providing context or implications, which limits its effectiveness as a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about a truncating homozygous mutation of carboxypeptidase e (cpe) and its association with several conditions in a patient. If this information is already present in an infobox, it might be considered repetitive. However, the sentence does emphasize the notable connection between the mutation and multiple significant health conditions, which could justify its inclusion outside the infobox. The score reflects that while the sentence may repeat information, it does so with a focus on notable details."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "PLOS ONE, 10(6):e0131417, June 2015.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation reference and does not define the scope of an article. It also does not follow any naming conventions, including those recommended by UniProt. To meet the requirement, the sentence should clearly outline the article's scope and adhere to the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, nor does it address the requirement of using the recommended UniProt protein name or the HUGO gene symbol. It appears to be a citation reference rather than a sentence that can be evaluated against the given requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's structure, function, or clinical significance. To meet the requirement, the sentence should concisely summarize the key aspects of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation in a standard format, which is typically necessary for referencing purposes. However, if the information (journal name, volume, issue, article number, and date) is already present in an infobox, repeating it here might not be necessary unless it is particularly notable or requires emphasis. The sentence is concise and relevant, but the score reflects the potential redundancy if the information is already covered elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1371/journal.pone.0131417 , doi:10.1371/journal.pone.0131417.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It only provides a URL and a DOI for an article, without any information about the scope of the article or adherence to UniProt naming conventions. To meet the requirement, the sentence should include a clear definition of the article's scope and follow the recommended naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. The requirement is about using the recommended UniProt protein name or the HUGO gene symbol, but the sentence only contains a URL and a DOI reference, with no mention of any protein names or gene symbols."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary of the article's content. It lacks any information about the article's structure, function, or clinical significance, and therefore does not fulfill the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the sentence does provide both the URL and DOI, which could be seen as slightly different pieces of information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(68 citations) 10.1371/journal.pone.0131417]( https://doi.org/10.1371/journal.pone.0131417 )\n\n[4.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation reference with a DOI link, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. It contains a citation and a DOI link, but it does not mention any protein names or gene symbols, nor does it attempt to use the recommended UniProt protein name or HUGO gene symbol. To meet the requirement, the sentence should include a protein name or gene symbol and ensure it follows the specified naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It only includes a citation count and a DOI link, without any information about the article's structure, function, or clinical significance. To meet the requirement, the sentence should concisely summarize the key aspects of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation reference, which may already be present in an infobox. Without additional context, it's unclear if this information is particularly notable or requires emphasis. The score reflects the potential redundancy if this citation is already included elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Cool1997Carboxypeptidase) David R Cool, Emmanuel Normant, Fu-sheng Shen, Hao-Chia Chen, Lewis Pannell, Ying Zhang, and Y.Peng Loh.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation or reference to a study or paper, listing authors and a title. To meet the requirement, the sentence should clearly state the focus or subject of the article in accordance with UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not use the recommended UniProt protein name or the HUGO gene symbol. Instead, it uses a non-standard format \"(Cool1997Carboxypeptidase)\" which does not align with the given guideline. To improve, the sentence should be revised to include either the UniProt protein name or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation of authors and does not summarize the article's content. It lacks any information about the structure, function, or clinical significance of the subject matter, which is necessary to meet the requirement of a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference to a study or paper, listing authors and possibly a title. Without context, it's unclear if this information is already present in an infobox or if it is notable enough to be repeated. If this information is already in an infobox and not particularly notable, it may not meet the requirement well. However, if it is notable or not present elsewhere, it could be justified. The score reflects this ambiguity."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Carboxypeptidase e is a regulated secretory pathway sorting receptor: genetic obliteration leads to endocrine disorders in cpefat mice.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially defines the scope of the article by indicating that it discusses the role of carboxypeptidase E as a sorting receptor and its genetic implications in mice. However, it does not fully adhere to the UniProt naming conventions, as \"carboxypeptidase e\" should be capitalized as \"Carboxypeptidase E\" to match the standard protein naming format. Additionally, the sentence could be clearer in explicitly defining the broader scope or context of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Carboxypeptidase e,\" which is likely the UniProt protein name. However, it is not clear if this is the recommended name or if it should be replaced with the HUGO gene symbol \"CPE\" with disambiguation. The sentence partially meets the requirement by using a specific name, but without confirmation that it is the recommended UniProt name, it cannot be fully validated."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.6,
+          "feedback": [
+            "The sentence provides a concise summary of the article by mentioning the role of carboxypeptidase e as a sorting receptor in the regulated secretory pathway and its clinical significance, as indicated by the genetic obliteration leading to endocrine disorders in mice. However, it lacks specific details about the structure and function of carboxypeptidase e, which are key aspects mentioned in the requirement. Additionally, the sentence could be clearer in explaining the clinical significance to a broader audience."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence does not provide enough context to determine if it repeats information from an infobox. Without knowing the content of the infobox, it's unclear if the sentence is redundant. However, the sentence does seem to present specific information about the role of carboxypeptidase e and its genetic implications, which could be notable. More context is needed to accurately assess compliance with the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Cell, 88(1):73\u00e2\u0080\u009383, January 1997.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation reference and does not define the scope of an article. It also does not follow any naming conventions, including those recommended by UniProt. To meet the requirement, the sentence should clearly outline the article's scope and adhere to the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference, which is unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's content, such as structure, function, or clinical significance. To meet the requirement, the sentence should provide a concise summary of the article's key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes information such as volume, issue, page numbers, and date. If this information is already present in an infobox, repeating it in the text may not be necessary unless it is particularly notable. However, without context on what is in the infobox, it's difficult to fully assess redundancy. The sentence is concise and specific, which is generally acceptable for citation purposes."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1016/s0092-8674(00)81860-7 , doi:10.1016/s0092-8674(00)81860-7.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it simply lists a URL and a DOI, which are identifiers for accessing the article but do not provide any information about its content or scope. To meet the requirement, the sentence should summarize the article's focus and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI, with no mention of any protein names or gene symbols. To meet the requirement, the sentence should include a reference to a UniProt protein name or a HUGO gene symbol, depending on the length and context."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI, which are identifiers for accessing the article, but it does not summarize the article's content in any way. There is no information about the structure, function, or clinical significance of the article, nor is there any summary of its key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information in two different formats (URL and plain DOI), which may not be necessary unless there is a specific reason to emphasize both. This repetition does not align well with the requirement to avoid repeating information unless notable. However, if the context requires both formats for clarity or emphasis, the repetition could be justified."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(347 citations) 10.1016/s0092-8674(00)81860-7]( https://doi.org/10.1016/s0092-8674(00)81860-7) [5.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It does not define the scope of the article, nor does it follow any naming conventions, let alone the recommended UniProt naming conventions. Instead, it appears to be a citation reference with a DOI link, which is unrelated to the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any mention of a protein name or gene symbol, and therefore does not address the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference and does not relate to the requirement given."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation reference rather than a summary of an article. It lacks any information about the article's structure, function, or clinical significance, and does not provide a concise summary of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI link twice, which may already be present in an infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the citation count is not repeated and could be considered notable, which is why the score is not lower."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Cawley2012New) Niamh X. Cawley, William C. Wetsel, Saravana R. K. Murthy, Joshua J.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation or reference to authors and a publication, rather than an introductory sentence that outlines the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any protein name or gene symbol, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation or reference to authors, which is unrelated to the requirement provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of providing a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes information that might also be present in an infobox, such as author names and publication details. Without additional context, it's unclear if this information is repeated unnecessarily. If the infobox already contains this citation and it is not particularly notable or emphasized, the sentence may not fully meet the requirement to avoid repetition. However, if the citation is crucial for understanding the text, it might be justified."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Park, Karel Pacak, and Y. Peng Loh.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a list of names, likely authors, and does not provide any information about the content or focus of the article. To meet the requirement, the sentence should clearly outline the article's subject matter and adhere to any specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It does not mention any protein names or gene symbols, whether from UniProt or HUGO. Instead, it appears to be a list of authors' names, which is unrelated to the requirement of using specific protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is not a summary of an article but rather a list of names, likely authors. It does not address any key aspects such as structure, function, or clinical significance, nor does it provide any summary of content. Therefore, it does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a list of names, which might be repeated information from an infobox. Without additional context, it's unclear if these names are particularly notable or require emphasis. If they are already present in the infobox and not emphasized for a specific reason, the sentence may not fully meet the requirement to avoid repetition. However, if these names are significant, the repetition could be justified."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "New roles of carboxypeptidase e in endocrine and neural function and cancer.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a general idea of the topics covered in the article, mentioning \"new roles of carboxypeptidase e\" in various functions and cancer. However, it does not clearly define the scope of the article in detail, nor does it follow the recommended UniProt naming conventions, which typically require more specific and standardized terminology. The sentence lacks clarity and specificity needed to fully meet the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"carboxypeptidase e,\" which is likely the UniProt protein name. However, without additional context, it's unclear if this is the recommended name or if a shorter HUGO gene symbol should be used. The sentence partially meets the requirement by using a specific name, but it lacks confirmation that this is the preferred or shortest form."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general topic of the article, mentioning the roles of carboxypeptidase E in endocrine and neural function and cancer. However, it lacks a concise summary of the article's key aspects such as structure, function, and clinical significance. It does not provide enough detail to understand the article's content or findings, nor does it avoid unnecessary detail, as it is too vague."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information, assuming the infobox contains basic details about carboxypeptidase e. However, without knowing the specific content of the infobox, it's difficult to fully assess compliance. The sentence seems to introduce new roles and contexts (endocrine, neural function, and cancer) that could be notable or require emphasis, which aligns with the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Endocrine Reviews, 33(2):216\u00e2\u0080\u0093253, March 2012.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It also does not follow any naming conventions, including those recommended by UniProt. To meet the requirement, the sentence should clearly outline the article's focus and adhere to the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation reference and does not contain any protein names or gene symbols. Therefore, it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's content, structure, function, or clinical significance. To meet the requirement, a concise summary of the article's key aspects is needed."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes information such as the journal name, volume, issue, page numbers, and date. Without context on what is present in the infobox, it's unclear if this information is repeated. If the infobox already contains this citation, the sentence may not meet the requirement to avoid repetition unless the citation is particularly notable. The score reflects this uncertainty."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1210/er.2011-1039 , doi:10.1210/er.2011-1039.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it only provides a URL and DOI reference, without defining the scope of the article or following any naming conventions, such as those recommended by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI reference, with no mention of a UniProt protein name or a HUGO gene symbol. To meet the requirement, the sentence should include a reference to a protein name or gene symbol, following the specified guidelines."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary of the article's content. It lacks any information about the structure, function, or clinical significance of the topic, and therefore does not fulfill the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which may already be present in an infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, if the context requires emphasis on the DOI, the repetition might be justified."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(86 citations) 10.1210/er.2011-1039]( https://doi.org/10.1210/er.2011-1039 )\n\n[6.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation reference with a DOI link, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It appears to be a citation reference rather than a summary. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of providing a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation count and a DOI link, which are common elements that might be found in an infobox. However, without context, it's unclear if this information is repeated from an infobox or if it is particularly notable. The sentence does not explicitly repeat information, but it could be redundant if the infobox already contains these details. The score reflects a slight deduction for potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Skalka2012Carboxypeptidase) N Skalka, M Caspi, E Caspi, Y P Loh, and R Rosin-Arbesfeld.",
+      "title": "Introduction",
+      "score": 0.06,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation or reference to an article, listing authors and possibly a title or identifier. To meet the requirement, the sentence should clearly state the focus or subject matter of the article in accordance with UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it uses \"Carboxypeptidase\" without specifying whether it is the recommended UniProt protein name or the HUGO gene symbol. Additionally, there is no disambiguation provided, which is necessary if the HUGO gene symbol is used. The sentence lacks clarity on whether the correct naming convention is followed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It appears to be a citation or reference to an article, listing authors and possibly a title, but it does not cover any key aspects such as structure, function, or clinical significance. There is no summary or detail about the content of the article itself."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.2,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes information that might also be found in an infobox, such as author names and publication details. Since the requirement is to avoid repeating information unless it is notable or requires emphasis, this sentence does not meet the requirement well. It seems to repeat basic citation information without any additional context or emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Carboxypeptidase e: a negative regulator of the canonical wnt signaling pathway.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a specific focus on the role of carboxypeptidase E as a negative regulator of the canonical Wnt signaling pathway, which partially defines the scope of the article. However, it does not fully adhere to the recommended UniProt naming conventions, as it lacks proper capitalization and formatting (e.g., \"Carboxypeptidase E\" should be capitalized). Additionally, the sentence could be more explicit in defining the broader context or purpose of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Carboxypeptidase e,\" which appears to be a protein name. However, it is unclear whether this is the recommended UniProt protein name or if the HUGO gene symbol should be used instead. Without additional context or verification, it is difficult to determine if the requirement is fully met. The sentence partially meets the requirement by using a specific name, but it lacks clarity on whether it is the correct or recommended nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a very brief summary of the article by stating that carboxypeptidase e is a negative regulator of the canonical Wnt signaling pathway. However, it lacks details on the structure, function, and clinical significance of carboxypeptidase e, which are key aspects mentioned in the requirement. The sentence is concise but does not cover the necessary elements to fully meet the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to introduce new information about carboxypeptidase e as a negative regulator of the canonical Wnt signaling pathway. Without knowing the content of the infobox, it's difficult to determine if this information is repeated. However, if this detail is not particularly notable or emphasized in the infobox, the sentence meets the requirement well. The score reflects a slight deduction due to the uncertainty about the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Oncogene, 32(23):2836\u00e2\u0080\u00932847, July 2012.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's focus or subject matter, using appropriate scientific terminology as per UniProt standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not mention any protein names or gene symbols. Therefore, it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's content, such as structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes information such as the journal name, volume, issue, page numbers, and date. If this information is already present in an infobox, repeating it in the text may not be necessary unless it is particularly notable. However, without context on what is in the infobox, it's difficult to determine if this repetition is justified. The sentence is concise and specific, which is appropriate for a citation, but it could be redundant if the infobox already contains this exact information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1038/onc.2012.308 , doi:10.1038/onc.2012.308.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It provides a URL and a DOI, which are identifiers for accessing the article, but it does not define the scope of the article. Additionally, it does not follow any naming conventions, let alone the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly state the topic or focus of the article and adhere to the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only provides a URL and a DOI, which are unrelated to the use of UniProt protein names or HUGO gene symbols. There is no mention of any protein names or gene symbols in the sentence, so it cannot be evaluated against the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, without any summary or information about the article's content. It lacks any mention of structure, function, or clinical significance, and therefore does not provide a concise summary of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in an infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the sentence does provide both the URL and DOI format, which could be useful in some contexts, hence a score of 0.5."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(52 citations) 10.1038/onc.2012.308]( https://doi.org/10.1038/onc.2012.308 )\n\n[7.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It appears to be a citation reference rather than a descriptive sentence about the article's content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It appears to be a citation reference rather than a summary. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of providing a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation count and a DOI link, which are likely to be present in an infobox. However, the citation count might be notable information that could warrant emphasis, depending on the context. The sentence mostly meets the requirement but could be seen as slightly redundant if the infobox already contains this information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Cheng2013Carboxypeptidase) Yong Cheng, Niamh X. Cawley, and Y. Peng Loh.",
+      "title": "Introduction",
+      "score": 0.27,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article and does not follow the recommended UniProt naming conventions. It appears to be a citation or reference to authors and a publication year, rather than a sentence that introduces or defines the scope of an article. To meet the requirement, the sentence should clearly state the focus or subject of the article and adhere to UniProt naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Cheng2013Carboxypeptidase\" as a reference, which does not clearly indicate whether it is the recommended UniProt protein name or the HUGO gene symbol. The requirement specifies using the recommended UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary. Without additional context, it is unclear if the requirement is fully met, leading to a partial score."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation or reference to an article, listing authors and a title, rather than a summary. It does not cover any key aspects such as structure, function, or clinical significance, nor does it provide any detail about the content of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference to a study or paper, likely already included in an infobox. If the authors' names and the study title are already present in the infobox, repeating them here does not add notable emphasis or new information. However, without context, it's unclear if this repetition is necessary for emphasis, hence a middle score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Carboxypeptidase e/nf\u00ce\u00b11: a new neurotrophic factor against oxidative stress-induced apoptotic cell death mediated by erk and pi3-k/akt pathways.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a general idea of the article's scope by mentioning the role of Carboxypeptidase e/nf\u00ce\u00b11 as a neurotrophic factor against oxidative stress-induced apoptotic cell death and its mediation by the ERK and PI3-K/AKT pathways. However, it does not fully adhere to the UniProt naming conventions, which typically require standardized protein names and identifiers. Additionally, the sentence lacks clarity and specificity in defining the article's scope, as it does not clearly state the research focus or objectives."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Carboxypeptidase e/nf\u00ce\u00b11,\" which appears to be a combination of a protein name and a gene symbol. It is unclear if this is the recommended UniProt protein name or if it should be represented by a HUGO gene symbol. The sentence could be improved by clearly using either the recommended UniProt protein name if it is short or the HUGO gene symbol with proper disambiguation. The presence of \"nf\u00ce\u00b11\" suggests a possible encoding issue, which further complicates the identification of the correct name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the article by mentioning the key aspects such as the structure (Carboxypeptidase e/nf\u00ce\u00b11), function (neurotrophic factor against oxidative stress-induced apoptotic cell death), and the pathways involved (erk and pi3-k/akt pathways). However, it lacks information on the clinical significance and could be more explicit in explaining the broader implications or applications of the findings. Additionally, the sentence includes some technical terms that might be considered unnecessary detail for a general summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence introduces a specific topic about Carboxypeptidase e/nf\u00ce\u00b11 as a neurotrophic factor and its role in protecting against oxidative stress-induced apoptotic cell death via specific pathways. Without the context of the infobox, it's difficult to determine if the information is repeated. However, the sentence seems to focus on a specific and potentially notable aspect of the subject, which might justify its inclusion. The score reflects a slight deduction due to the lack of context to fully assess repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "PLoS ONE, 8(8):e71578, August 2013.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of an article. It also does not follow any naming conventions, including the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly state the scope of the article and adhere to the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not contain any protein names or gene symbols. Therefore, it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's structure, function, or clinical significance. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes information such as the journal name, volume, issue, article number, and publication date. If this information is already present in an infobox, repeating it in the main text may not be necessary unless it is particularly notable. However, without context on what is in the infobox, it's difficult to determine if this repetition is justified. The sentence is concise and standard for a citation, so it generally meets the requirement, but the score reflects the potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1371/journal.pone.0071578 , doi:10.1371/journal.pone.0071578.",
+      "title": "Introduction",
+      "score": 0.09,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it only provides a URL and a DOI, which are identifiers for accessing the article but do not describe its content or scope. To meet the requirement, the sentence should include a brief description of the article's focus or subject matter, adhering to any specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI reference, with no mention of a UniProt protein name or a HUGO gene symbol. To meet the requirement, the sentence should include a reference to a protein name or gene symbol, using the recommended UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary of the article's content. It lacks any information about the article's structure, function, or clinical significance, and therefore does not fulfill the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.3,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not add notable emphasis or additional context, thus not meeting the requirement to avoid unnecessary repetition. The score reflects the redundancy present in the sentence."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(44 citations) 10.1371/journal.pone.0071578]( https://doi.org/10.1371/journal.pone.0071578 )\n\n[8.",
+      "title": "Introduction",
+      "score": 0.06,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation reference, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, and therefore cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It appears to be a citation reference rather than a summary. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of providing a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.2,
+          "feedback": [
+            "The sentence appears to be a citation reference, which is typically included in an infobox. It repeats information that would likely be present in an infobox, such as the DOI link and citation count, without providing additional context or emphasis. Therefore, it does not meet the requirement to avoid repeating information unless it is particularly notable or requires emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Liang2018Cortical) Chen Liang, Damien Carrel, Anton Omelchenko, Hyuck Kim, Aashini Patel, Isabelle Fanget, and Bonnie L Firestein.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation of authors and does not define the scope of the article. It also does not follow any naming conventions, such as those recommended by UniProt. To meet the requirement, the sentence should clearly state the topic or focus of the article in accordance with UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. It lists authors of a study or paper, but it does not mention any proteins or genes, nor does it use UniProt protein names or HUGO gene symbols. To meet the requirement, the sentence should include a protein or gene name and use the appropriate naming convention as specified."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It only lists the authors and does not cover any key aspects such as structure, function, or clinical significance. To meet the requirement, the sentence should provide a concise summary of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, likely listing authors of a study or paper. If this information is already present in an infobox, repeating it in the main text may not be necessary unless the authorship is particularly notable or requires emphasis. The sentence does not provide additional context or emphasis, so it could be seen as redundant. However, without knowing the full context of the infobox, it's difficult to determine the necessity of this repetition, hence the relatively high score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Cortical neuron migration and dendrite morphology are regulated by carboxypeptidase e. Cerebral Cortex, 29(7):2890\u00e2\u0080\u00932903, July 2018.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general idea of the article's focus by mentioning the regulation of cortical neuron migration and dendrite morphology by carboxypeptidase e. However, it does not clearly define the scope of the article in detail, nor does it follow the recommended UniProt naming conventions, which typically involve using specific protein names and identifiers. The sentence lacks specificity and context that would help in understanding the full scope of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"carboxypeptidase e,\" which is likely the UniProt protein name. However, without additional context, it's unclear if this is the recommended UniProt name or if the HUGO gene symbol should be used instead. The sentence partially meets the requirement by using a specific name, but it lacks confirmation that this is the recommended name according to UniProt or if disambiguation is necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a basic summary of the article by mentioning the regulation of cortical neuron migration and dendrite morphology by carboxypeptidase e. However, it lacks details on the structure, function, and clinical significance of the findings. Additionally, it includes unnecessary citation details like the journal name, volume, and date, which are not relevant to the summary requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about a study on cortical neuron migration and dendrite morphology regulated by carboxypeptidase e, along with a citation. Without the context of the infobox, it's difficult to determine if this information is repeated. However, assuming the infobox contains similar details, the sentence does not emphasize any particularly notable aspect that would justify repetition. The score reflects a minor deduction for potential redundancy, but overall, the sentence is informative and specific."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1093/cercor/bhy155 , doi:10.1093/cercor/bhy155.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it only provides a URL and a DOI, which are identifiers for accessing the article but do not give any information about its content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It provides a URL and a DOI, which are unrelated to the use of UniProt protein names or HUGO gene symbols. The requirement is about naming conventions for proteins or genes, but the sentence does not mention any proteins or genes."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI, which are identifiers for accessing the article, but it does not summarize the article's content, structure, function, or clinical significance. There is no information provided about the article itself, making it impossible to evaluate it against the requirement of summarizing key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the sentence does provide both the URL and DOI, which could be useful in some contexts, hence a score of 0.5."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(9 citations) 10.1093/cercor/bhy155]( https://doi.org/10.1093/cercor/bhy155 )",
+      "title": "Introduction",
+      "score": 0.06,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation reference rather than a descriptive sentence about the article's content or scope. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a sentence discussing proteins or genes."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is not a summary of an article. It appears to be a citation or a reference to a DOI link, which does not contain any information about the article's content, structure, function, or clinical significance. To meet the requirement, a concise summary of the article's key aspects is needed."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.2,
+          "feedback": [
+            "The sentence appears to be a citation reference, which is typically included in an infobox. It repeats information that is likely already present in the infobox without providing additional context or emphasis. Therefore, it does not meet the requirement to avoid repetition unless necessary."
+          ]
+        }
+      ],
+      "color": "red"
+    }
+  ]
+}

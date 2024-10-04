@@ -1,0 +1,50 @@
+# STS
+
+## Overview
+The STS gene, located on the X chromosome, encodes the enzyme steroid sulfatase, which is crucial for the metabolism of steroid hormones. Steroid sulfatase, a membrane-bound enzyme, primarily functions to convert steroid sulfates like dehydroepiandrosterone sulfate (DHEAS) and estrone sulfate (E1S) into their active forms, thereby facilitating the local synthesis of hormones at various body sites. This enzyme is particularly significant in the context of extragonadal estrogen formation, playing a vital role in numerous physiological processes across different tissues and organs. Mutations in the STS gene can lead to X-linked ichthyosis, a condition characterized by a deficiency in enzyme activity, which underscores the enzyme's critical biological functions (Mueller2015The).
+
+## Structure
+The human STS protein, encoded by the STS gene, exhibits a complex molecular structure integral to its function in steroid metabolism. The primary structure of STS includes specific amino acids critical for its enzymatic activity, such as histidine 136, which is essential for catalytic function (Stengel2008Effects). The secondary structure comprises an alpha-helical segment (residues 185-237) and a beta-sheet (residues 466-495), which are fundamental components of the protein's overall architecture (Stengel2008Effects).
+
+Post-translational modifications play a significant role in the functionality and regulation of STS. Notably, N-linked glycosylation at asparagine residues 47 and 259 is crucial for enzyme activity, with additional potential glycosylation sites at asparagine 333 and 459 also identified (Stengel2008Effects). These modifications can affect the stability and localization of the protein within cellular compartments.
+
+The tertiary and quaternary structures of STS are not explicitly detailed in the available literature, and thus cannot be described based on the provided context. Similarly, information on specific domains and splice variant isoforms within the STS protein is limited in the context provided, precluding a detailed discussion on these aspects.
+
+## Function
+Steroid sulfatase (STS) is a membrane-bound enzyme encoded by the STS gene on the X chromosome, primarily located in the rough endoplasmic reticulum of human cells. It plays a critical role in the metabolism of steroids by desulfating steroid sulfates such as dehydroepiandrosterone sulfate (DHEAS) and estrone sulfate (E1S), converting them into their active forms, dehydroepiandrosterone (DHEA) and estrone (E1), respectively. This enzymatic activity is crucial for the local generation of active hormones at extragonadal sites, particularly in post-menopausal women and men (Mueller2015The).
+
+STS is ubiquitously expressed in human tissues, with the highest expression and activity observed in the placenta. It is involved in the production and regulation of steroid hormones across both genders, from gestation through to adult life, influencing various physiological processes including skin desquamation, cholesterol metabolism, and cervical softening during childbirth (Mueller2015The).
+
+The enzyme's structure includes a hydrophobic domain that anchors it to the membrane and a reaction site for desulfation. Mutations in the STS gene can lead to X-linked ichthyosis (XLI), a genetic disorder characterized by large deletions in the gene or point mutations that abolish enzyme activity (Mueller2015The). Additionally, the activity of STS is regulated by post-translational modifications, where a cysteine residue in the catalytic center of the enzyme is modified to form a formylglycine (FGly) residue, a process mediated by the FGly-generating enzyme encoded by the SUMF1 gene (Mueller2015The).
+
+## Clinical Significance
+Mutations in the STS gene, which encodes the enzyme steroid sulfatase, are primarily associated with X-linked ichthyosis (XLI). This genetic condition is characterized by the development of dark, scaly skin due to a deficiency in steroid sulfatase activity, leading to an accumulation of cholesterol sulfate in the skin. The majority of XLI cases are caused by large deletions of the STS gene, although point mutations and smaller deletions also occur (Diociaiuti2018Xâlinked; Kofman-Alfaro2000A).
+
+Beyond the dermatological manifestations, mutations in the STS gene have been linked to a range of other clinical issues, particularly affecting neurological function. There is a notable prevalence of neurodevelopmental disorders such as attention deficit hyperactivity disorder (ADHD) and autism spectrum disorders (ASD) among individuals with XLI. Studies have shown that up to 40% of patients with XLI may exhibit ADHD, and a significant proportion also display traits of ASD (Kent2008X-linked; Rodrigo-NicolÃ¡s2018Evidence).
+
+Furthermore, larger deletions that encompass the STS gene and adjacent genes can lead to syndromic conditions. These include X-linked recessive chondrodysplasia punctata, Kallmann syndrome, ocular albinism type I, and short stature, highlighting the gene's critical role in broader developmental processes (Diociaiuti2018Xâlinked). The diverse clinical implications of STS gene mutations underscore the enzyme's importance beyond its primary metabolic functions in the skin.
+
+## Interactions
+Steroid sulfatase (STS) interacts with various proteins, influencing its function in steroid metabolism and other physiological processes. One significant interaction is with the formylglycine generating enzyme (FGE), which is essential for the posttranslational activation of STS. This interaction is mediated by specific amino acid residues that contribute to a high binding energy, crucial for the catalytic activity of STS in hydrolyzing sulfate esters of estrogen. Mutations at these interaction sites can alter the electrostatic and Van der Waals forces between STS and FGE, potentially serving as a target for inhibiting STS activity to manage estrogen-driven cancers (Kumari2022Molecular).
+
+Additionally, STS can form homodimers, a process important for its enzymatic function. Both the N-terminal and C-terminal regions of the STS protein are critical for this dimerization. Truncations or mutations in these regions significantly reduce enzyme activity, indicating that proper dimer formation is essential for the function of STS. The presence of mutant or truncated forms of STS can exert a dominant negative effect on the enzyme activity of wild-type STS when coexpressed in the same cell (Sugawara2006Both).
+
+
+## References
+
+
+[1. (Kofman-Alfaro2000A) Susana H. Kofman-Alfaro, Ana L. Jimenez Vaca, Sergio A. Cuevas-Covarrubias, and Margarita Valdes-Flores. A novel partial deletion of exons 2â10 of the sts gene in recessive x-linked ichthyosis. Journal of Investigative Dermatology, 114(3):591â593, March 2000. URL: http://dx.doi.org/10.1046/j.1523-1747.2000.00924.x, doi:10.1046/j.1523-1747.2000.00924.x. (18 citations) 10.1046/j.1523-1747.2000.00924.x](https://doi.org/10.1046/j.1523-1747.2000.00924.x)
+
+[2. (Kumari2022Molecular) Molecular interaction between steroid sulfatases and formylglycine generating enzyme: A computational study with multiple mutations (0 citations) 10.21203/rs.3.rs-1931556/v1](https://doi.org/10.21203/rs.3.rs-1931556/v1)
+
+[3. (Rodrigo-NicolÃ¡s2018Evidence) B. Rodrigo-NicolÃ¡s, E. Bueno-MartÃ­nez, A. MartÃ­n-Santiago, J. CaÃ±ueto, A. Vicente, A. Torrelo, L. Noguera-Morel, A. Duat-RodrÃ­guez, C. Jorge-Finnigan, I. Palacios-Ãlvarez, J.L. GarcÃ­a-HernÃ¡ndez, D.F. Sebaratnam, R. GonzÃ¡lez-Sarmiento, and A. HernÃ¡ndez-MartÃ­n. Evidence of the high prevalence of neurological disorders in nonsyndromic x-linked recessive ichthyosis: a retrospective case series. British Journal of Dermatology, 179(4):933â939, September 2018. URL: http://dx.doi.org/10.1111/bjd.16826, doi:10.1111/bjd.16826. (21 citations) 10.1111/bjd.16826](https://doi.org/10.1111/bjd.16826)
+
+[4. (Sugawara2006Both) T Sugawara, E Nomura, and N Hoshi. Both n-terminal and c-terminal regions of steroid sulfatase are important for enzyme activity. Journal of Endocrinology, 188(2):365â374, February 2006. URL: http://dx.doi.org/10.1677/joe.1.06417, doi:10.1677/joe.1.06417. (18 citations) 10.1677/joe.1.06417](https://doi.org/10.1677/joe.1.06417)
+
+[5. (Diociaiuti2018Xâlinked) Andrea Diociaiuti, Adriano Angioni, Elisa Pisaneschi, Viola Alesi, Giovanna Zambruno, Antonio Novelli, and May El Hachem. Xâlinked ichthyosis: clinical and molecular findings in 35 italian patients. Experimental Dermatology, 28(10):1156â1163, July 2018. URL: http://dx.doi.org/10.1111/exd.13667, doi:10.1111/exd.13667. (26 citations) 10.1111/exd.13667](https://doi.org/10.1111/exd.13667)
+
+[6. (Stengel2008Effects) Chloe Stengel, Simon P. Newman, Joanna M. Day, Helena J. Tutill, Michael J. Reed, and Atul Purohit. Effects of mutations and glycosylations on sts activity: a site-directed mutagenesis study. Molecular and Cellular Endocrinology, 283(1â2):76â82, February 2008. URL: http://dx.doi.org/10.1016/j.mce.2007.11.012, doi:10.1016/j.mce.2007.11.012. (14 citations) 10.1016/j.mce.2007.11.012](https://doi.org/10.1016/j.mce.2007.11.012)
+
+[7. (Kent2008X-linked) L Kent, J Emerton, V Bhadravathi, E Weisblatt, G Pasco, L R Willatt, R McMahon, and J R W Yates. X-linked ichthyosis (steroid sulfatase deficiency) is associated with increased risk of attention deficit hyperactivity disorder, autism and social communication deficits. Journal of Medical Genetics, 45(8):519â524, May 2008. URL: http://dx.doi.org/10.1136/jmg.2008.057729, doi:10.1136/jmg.2008.057729. (159 citations) 10.1136/jmg.2008.057729](https://doi.org/10.1136/jmg.2008.057729)
+
+[8. (Mueller2015The) Jonathan W. Mueller, Lorna C. Gilligan, Jan Idkowiak, Wiebke Arlt, and Paul A. Foster. The regulation of steroid action by sulfation and desulfation. Endocrine Reviews, 36(5):526â563, October 2015. URL: http://dx.doi.org/10.1210/er.2015-1036, doi:10.1210/er.2015-1036. (299 citations) 10.1210/er.2015-1036](https://doi.org/10.1210/er.2015-1036)

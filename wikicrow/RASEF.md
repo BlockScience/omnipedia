@@ -1,0 +1,46 @@
+# RASEF
+
+## Overview
+RASEF, short for RAS and EF-hand domain containing, is a gene in humans that encodes the protein known as RAB45. This protein is characterized by its multifunctional nature, playing pivotal roles in cellular signaling and trafficking. Structurally, RAB45 comprises an EF-hand domain, a coiled-coil domain, and a Rab GTPase domain, which collectively contribute to its involvement in calcium signaling and the RAS signaling pathway. These pathways are crucial for processes such as cell growth, differentiation, and survival. RASEF is implicated in various cellular functions and has been studied for its role in cancer, where it can act as either an oncogene or a tumor suppressor, depending on the cancer type (Oshita2013RASEF; Kaplon2014Nearâgenomewide).
+
+## Structure
+The molecular structure of the RASEF protein, also known as Rab45, is characterized by several distinct domains that suggest a complex architecture essential for its function. The protein includes an N-terminal EF-hand domain (EFD), which is typically involved in calcium binding, although the specific role of this domain in RASEF is not detailed (Tsukuba2021Large; Shintani2007Characterization). Following the EF-hand domain, there is a coiled-coil domain (CCD) which facilitates protein-protein interactions and is crucial for the protein's ability to self-interact and form oligomers (Tsukuba2021Large). The C-terminal region of RASEF contains a Rab GTPase domain, responsible for binding guanine nucleotides, a characteristic feature among Rab-family GTPases (Shintani2007Characterization).
+
+RASEF exists in multiple isoforms, including a long form (Rab45-L) and a short form (Rab45-S), which differ in their domain compositions. Rab45-L includes the EF-hand, coiled-coil, and Rab domains, while Rab45-S lacks the N-terminal EF-hand domain but retains the coiled-coil and Rab domains (Tsukuba2021Large). This variation suggests differences in structural configuration and potentially in function between the isoforms.
+
+The available data does not provide detailed information on the tertiary or quaternary structures of RASEF, nor does it mention any prominent folds or common post-translational modifications specific to this protein.
+
+## Function
+RASEF, also known as RAB45, is a multifunctional protein implicated in various cellular processes crucial for maintaining cellular homeostasis and function. It belongs to the Rab GTPase family, known for roles in vesicle trafficking, which is essential for transporting molecules between different cellular compartments (Oshita2013RASEF). The protein structure of RASEF includes calcium-binding EF-hand motifs and a Ras GTPase domain, suggesting its involvement in calcium signaling and the RAS signaling pathway, both of which are critical for cell growth, differentiation, and survival (Maat2008Epigenetic).
+
+In healthy cells, RASEF is involved in activating the MAPK signaling pathway, particularly influencing the levels of phospho-ERK1/2, which plays a significant role in cell signaling related to growth and survival (Oshita2013RASEF). This activation is crucial for regulating cellular processes such as proliferation, survival, and development. Additionally, RASEF's role in the MAPK pathway affects downstream components like RSK and influences the expression of genes involved in the cell cycle, such as CCND1 and CCNB1 (Oshita2013RASEF).
+
+The localization of RASEF to perinuclear areas in cells, facilitated by its unique structural domains, indicates a specialized function possibly related to membrane traffic regulation within the cellular architecture (Shintani2007Characterization). This localization is essential for its function in signaling pathways and cellular trafficking, highlighting its integral role in maintaining cellular function and response to environmental signals.
+
+## Clinical Significance
+RASEF has been identified as a significant factor in the progression and prognosis of various cancers. In lung cancer, particularly non-small cell lung cancer (NSCLC), RASEF is overexpressed and its interaction with ERK1/2 enhances cell proliferation. High RASEF expression correlates with poor patient survival rates, suggesting its potential as a prognostic biomarker and a therapeutic target (Oshita2013RASEF). Additionally, RASEF expression is associated with a higher frequency of EGFR mutations in NSCLCs, indicating its involvement in cancers with various driver mutations (Oshita2013RASEF).
+
+In melanoma, RASEF acts differently, functioning as a tumor suppressor gene that is frequently silenced by promoter hypermethylation. This epigenetic alteration contributes to the malignant transformation of melanocytes by bypassing oncogene-induced senescence, a critical tumor suppressor mechanism. Reactivation of RASEF in melanoma cell lines induces cell cycle arrest, highlighting its potential role in tumor suppression (Kaplon2014Nearâgenomewide).
+
+In uveal melanoma, RASEF is also implicated as a tumor suppressor. Its reduced expression, associated with promoter methylation, correlates with decreased survival, suggesting that alterations in RASEF expression and methylation status are linked to the progression and severity of this cancer (Maat2008Epigenetic). 
+
+These findings across different cancer types underline the diverse roles of RASEF, from promoting tumor growth in lung cancer to suppressing it in melanomas, making it a critical target for cancer research and therapy.
+
+## Interactions
+RASEF, a protein encoded by the human gene RAS and EF-hand domain containing, interacts with the extracellular signal-regulated kinase (ERK) 1/2, a protein kinase involved in signaling pathways that promote cell growth in lung cancer cells. This interaction is facilitated by the COOH-terminal portion of RASEF, specifically the segment from amino acids 520 to 575, which binds to ERK1/2 (Oshita2013RASEF). The binding of RASEF to ERK1/2 enhances ERK1/2 phosphorylation, a modification that activates the kinase and promotes oncogenic signaling pathways (Oshita2013RASEF).
+
+Further studies have shown that manipulating RASEF expression in lung cancer cell lines affects ERK1/2 phosphorylation levels. Overexpression of RASEF in RASEF-negative cells leads to increased phosphorylation of ERK1/2, while suppression of RASEF in RASEF-positive cells reduces ERK1/2 phosphorylation (Oshita2013RASEF). Additionally, the interaction between RASEF and ERK1/2 is critical for the growth of lung cancer cells, as demonstrated by the use of dominant-negative peptides that inhibit this interaction and suppress lung cancer cell growth in a dose-dependent manner (Oshita2013RASEF).
+
+
+## References
+
+
+[1. (Tsukuba2021Large) Takayuki Tsukuba, Yu Yamaguchi, and Tomoko Kadowaki. Large rab gtpases: novel membrane trafficking regulators with a calcium sensor and functional domains. International Journal of Molecular Sciences, 22(14):7691, July 2021. URL: http://dx.doi.org/10.3390/ijms22147691, doi:10.3390/ijms22147691. (10 citations) 10.3390/ijms22147691](https://doi.org/10.3390/ijms22147691)
+
+[2. (Kaplon2014Nearâgenomewide) Joanna Kaplon, Cornelia HÃ¶migâHÃ¶lzel, Linda Gao, Katrin Meissl, Els M. E. Verdegaal, Sjoerd H. van der Burg, Remco van Doorn, and Daniel S. Peeper. Nearâgenomewide <scp>rna</scp>i screening for regulators of <scp>brafv</scp>600eâinduced senescence identifies <scp>rasef</scp>, a gene epigenetically silenced in melanoma. Pigment Cell &amp; Melanoma Research, 27(4):640â652, May 2014. URL: http://dx.doi.org/10.1111/pcmr.12248, doi:10.1111/pcmr.12248. (17 citations) 10.1111/pcmr.12248](https://doi.org/10.1111/pcmr.12248)
+
+[3. (Maat2008Epigenetic) Willem Maat, Sigrid H. W. Beiboer, Martine J. Jager, GreÂ´ P. M. Luyten, Nelleke A. Gruis, and Pieter A. van der Velden. Epigenetic regulation identifiesrasefas a tumor-suppressor gene in uveal melanoma. Investigative Opthalmology &amp; Visual Science, 49(4):1291, April 2008. URL: http://dx.doi.org/10.1167/iovs.07-1135, doi:10.1167/iovs.07-1135. (62 citations) 10.1167/iovs.07-1135](https://doi.org/10.1167/iovs.07-1135)
+
+[4. (Shintani2007Characterization) Mami Shintani, Minoru Tada, Tetsuo Kobayashi, Hiroaki Kajiho, Kenji Kontani, and Toshiaki Katada. Characterization of rab45/rasef containing ef-hand domain and a coiled-coil motif as a self-associating gtpase. Biochemical and Biophysical Research Communications, 357(3):661â667, June 2007. URL: http://dx.doi.org/10.1016/j.bbrc.2007.03.206, doi:10.1016/j.bbrc.2007.03.206. (43 citations) 10.1016/j.bbrc.2007.03.206](https://doi.org/10.1016/j.bbrc.2007.03.206)
+
+[5. (Oshita2013RASEF) Hideto Oshita, Ryohei Nishino, Atsushi Takano, Takashi Fujitomo, Masato Aragaki, Tatsuya Kato, Hirohiko Akiyama, Eiju Tsuchiya, Nobuoki Kohno, Yusuke Nakamura, and Yataro Daigo. Rasef is a novel diagnostic biomarker and a therapeutic target for lung cancer. Molecular Cancer Research, 11(8):937â951, August 2013. URL: http://dx.doi.org/10.1158/1541-7786.mcr-12-0685-t, doi:10.1158/1541-7786.mcr-12-0685-t. (34 citations) 10.1158/1541-7786.mcr-12-0685-t](https://doi.org/10.1158/1541-7786.mcr-12-0685-t)

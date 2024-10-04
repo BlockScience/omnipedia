@@ -1,0 +1,46 @@
+# ADGRG4
+
+## Overview
+ADGRG4, or adhesion G protein-coupled receptor G4, is a gene that encodes the protein adhesion G protein-coupled receptor G4, a member of the adhesion G protein-coupled receptor (GPCR) family. This protein is characterized by a complex structure that includes a large extracellular region with multiple domains essential for its function in cellular signaling and interaction. ADGRG4 plays a pivotal role in various biological processes such as cell-cell recognition, cell migration, and adhesion, functioning through mechanisms that often do not require a known ligand. The protein's structure features unique motifs and domains, such as the pentraxin-like domain and GPCR autoproteolysis-inducing (GAIN) domain, which are critical for its activity and interaction with other cellular components (Kieslich2022The; Peeters2016Getting). As a transmembrane receptor, ADGRG4 is involved in transmitting extracellular signals to the interior of the cell, influencing cellular responses and maintaining tissue and organ integrity.
+
+## Structure
+ADGRG4, also known as GPR112, is a protein encoded by the ADGRG4 gene, which is part of the adhesion G protein-coupled receptor (GPCR) family. This protein features a large extracellular region (ECR) that includes a pentraxin-like (PTX) domain, a hormone receptor binding motif (HRM), and a GPCR autoproteolysis-inducing (GAIN) domain. The PTX-like domain at the N-terminal tip of ADGRG4 is notable for its ability to homodimerize in a calcium-independent manner, which is a significant departure from other known PTX structures (Kieslich2022The).
+
+The molecular structure of ADGRG4 includes a Î²-sandwich fold characterized by two Î²-sheets labeled A and B, each composed of multiple antiparallel Î²-strands. This tertiary structure is stabilized by two disulfide bridges, C58-C123 and C200-C228, which are crucial for maintaining the protein's integrity (Kieslich2022The). The PTX-like domain does not engage in Ca2+-dependent pentamerization and lacks the conventional Ca2+-binding sites found in classical PTXs, distinguishing it from other members of this protein family (Kieslich2022The).
+
+ADGRG4 undergoes post-translational modifications such as glycosylation, which is evident from the presence of a confirmed N-glycosylation site at N166. This modification plays a role in the protein's structure and function, although the glycosylation at this site is not resolved in the crystal structure due to the disorder of nearby residues (Kieslich2022The). The protein also features a highly glycosylated mucin-like stalk, contributing to its structural complexity and function in cellular adhesion (Kieslich2022The).
+
+## Function
+ADGRG4, also known as GPR112, is a member of the adhesion G protein-coupled receptor (GPCR) family, specifically classified within the class B2 subfamily of adhesion GPCRs. This receptor plays a significant role in cellular and developmental processes through its involvement in cell-cell recognition, cell differentiation and specialization, as well as cell migration and adhesion (Peeters2016Getting). ADGRG4 is characterized by its ability to function without a known ligand, exhibiting constitutive activity, which suggests its role in basal signaling processes that do not require external stimuli (Peeters2016Getting).
+
+The protein structure of ADGRG4 includes several critical motifs, such as the DRY motif in the third transmembrane domain (TM3) and the GWGxP motif in the fourth transmembrane domain (TM4), which are essential for its signaling function. Mutations in these motifs can lead to altered signaling activities, impacting the receptor's role in cellular signaling pathways (Peeters2016Getting).
+
+Furthermore, ADGRG4's interaction with other cellular components, such as its potential involvement with proteins sharing the LamG/PTX domain, indicates a broader functional scope, possibly in binding with specific ligands or proteins within the extracellular matrix (Krishnan2016Classification). This interaction is crucial for the receptor's signaling and functional integration into cellular processes, highlighting its importance in maintaining cellular structure and function in healthy human cells.
+
+## Clinical Significance
+ADGRG4, also known as adhesion G protein-coupled receptor G4, has been implicated in various human diseases due to mutations, altered expression levels, or disruptions in its normal interactions. In the context of kidney diseases, ADGRG4 expression is significantly altered in chronic kidney disease (CKD), where its expression level is noted to be 4.004-fold higher compared to normal conditions (Cazorla-VÃ¡zquez2018Adhesion). This suggests a potential role in the pathology or progression of CKD, although specific mutations or the exact mechanisms remain unclear.
+
+In cancer, particularly acute myeloid leukemia (AML), ADGRG4 is among the adhesion GPCRs that exhibit a wide spectrum of genomic and transcriptomic alterations. These alterations include mRNA upregulation, downregulation, amplification, deep deletion, and missense mutations, indicating a significant involvement of ADGRG4 in the pathology of AML (Yang2018Characterization). The high percentage of patients with alterations in ADGRG4 and other adhesion GPCR genes underscores their potential as targets for therapeutic intervention.
+
+Further research is necessary to fully understand the clinical implications of ADGRG4 in these and potentially other diseases, as well as to develop targeted therapies that address the specific genetic and molecular alterations observed in ADGRG4-associated conditions.
+
+## Interactions
+ADGRG4, encoded by the ADGRG4 gene, participates in several notable protein-protein interactions, primarily through its N-terminal PTX-like domain. This domain facilitates homodimerization in a calcium-independent manner, a process critical for its function and distinct from other PTX structures. The homodimerization involves interactions between Î²-strands of two protomers, forming a continuous Î²-sheet across the interface, mediated by peptide backbone hydrogen bonds, hydrophobic interactions, and side-chain hydrogen bonds (Kieslich2022The). This interaction is transient, with a dissociation constant of approximately 16 ÂµM, suggesting a dynamic nature in physiological conditions (Kieslich2022The).
+
+Additionally, ADGRG4's extracellular region, which is highly glycosylated and includes a mucin-like stalk, allows the PTX-like domain to engage in homophilic interactions both in cis (on the same cell) and in trans (between different cells), potentially enabling the protein to function in cellular adhesion and signaling across cells (Kieslich2022The). The mucin-like properties and the presence of a SEA domain further suggest its involvement in complex multiprotein interactions, which are typical of mucins and critical for their adhesive and signaling functions (Kieslich2022The).
+
+These interactions underline the role of ADGRG4 in cellular communication and structural integrity, contributing to its hypothesized functions in sensing mechanical forces and facilitating cellular responses to environmental stimuli.
+
+
+## References
+
+
+[1. (Kieslich2022The) The dimerized pentraxin-like domain of the adhesion G protein-coupled receptor 112 (ADGRG4) suggests function in sensing mechanical forces (1 citations) 10.1101/2022.09.20.508530](https://doi.org/10.1101/2022.09.20.508530)
+
+[2. (Yang2018Characterization) Jiawen Yang, Sharon Wu, and Houda Alachkar. Characterization of upregulated adhesion gpcrs in acute myeloid leukemia. Blood, 132(Supplement 1):1515â1515, November 2018. URL: http://dx.doi.org/10.1182/blood-2018-99-119998, doi:10.1182/blood-2018-99-119998. (14 citations) 10.1182/blood-2018-99-119998](https://doi.org/10.1182/blood-2018-99-119998)
+
+[3. (Krishnan2016Classification) Arunkumar Krishnan, Saskia Nijmeijer, Chris de Graaf, and Helgi B. SchiÃ¶th. Classification, Nomenclature, and Structural Aspects of Adhesion GPCRs, pages 15â41. Springer International Publishing, 2016. URL: http://dx.doi.org/10.1007/978-3-319-41523-9_2, doi:10.1007/978-3-319-41523-9_2. (48 citations) 10.1007/978-3-319-41523-9_2](https://doi.org/10.1007/978-3-319-41523-9_2)
+
+[4. (Peeters2016Getting) Miriam C. Peeters, Iris Mos, Eelke B. Lenselink, Martina Lucchesi, Adriaan P. IJzerman, and Thue W. Schwartz. Getting from a to bâexploring the activation motifs of the class b adhesion g proteinâcoupled receptor subfamily g member 4/gpr112. The FASEB Journal, 30(5):1836â1848, January 2016. URL: http://dx.doi.org/10.1096/fj.201500110, doi:10.1096/fj.201500110. (17 citations) 10.1096/fj.201500110](https://doi.org/10.1096/fj.201500110)
+
+[5. (Cazorla-VÃ¡zquez2018Adhesion) Salvador Cazorla-VÃ¡zquez and Felix B. Engel. Adhesion gpcrs in kidney development and disease. Frontiers in Cell and Developmental Biology, February 2018. URL: http://dx.doi.org/10.3389/fcell.2018.00009, doi:10.3389/fcell.2018.00009. (31 citations) 10.3389/fcell.2018.00009](https://doi.org/10.3389/fcell.2018.00009)

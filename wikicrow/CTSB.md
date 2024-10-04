@@ -1,0 +1,60 @@
+# CTSB
+
+## Overview
+CTSB, or cathepsin B, is a gene that encodes the lysosomal cysteine protease known as cathepsin B. This protease is crucial for protein degradation within the lysosomes, playing a significant role in various cellular processes such as apoptosis, autophagy, and programmed cell death. Cathepsin B is synthesized as an inactive precursor and undergoes several post-translational modifications, including glycosylation and phosphorylation, which are essential for its activation and function (Singh2018Structural). The protein is involved not only in intracellular degradation pathways but also in extracellular matrix remodeling and cellular signaling, impacting tissue architecture and disease progression (Sigloch2016Proteomic). Dysregulation of cathepsin B activity is linked to numerous pathological conditions, including cancer, neurodegenerative diseases, and inflammatory disorders, making it a target of interest for therapeutic interventions (Xie2023Cathepsin; Hook2022Cathepsin).
+
+## Structure
+The molecular structure of the human cathepsin B (CTSB) protein, encoded by the CTSB gene, is characterized by several structural components derived from its gene sequence. The protein is synthesized as preprocathepsin B, which includes a 17-residue prepeptide, a 62-residue propeptide, and a 254-residue single chain mature cathepsin B, along with a 6-residue extension at the carboxy-terminus (Yan2003Molecular). The propeptide region of procathepsin B acts as a scaffold for the catalytic domain during protein folding and serves as a high affinity reversible inhibitor for the premature activation of zymogens (Singh2018Structural). 
+
+Post-translational modifications of cathepsin B include N-terminal glycosylation and phosphorylation, which are crucial for its intracellular trafficking to the lysosome (Singh2018Structural). The enzyme undergoes processing in the acidic environment of the trans-Golgi and lysosome to form the mature enzyme, involving the cleavage and dissociation of the proregion (Jevnikar2011CTSB).
+
+However, the provided excerpts do not offer detailed descriptions of the primary, secondary, tertiary, or quaternary structures of the CTSB protein, nor do they mention specific domains, prominent folds, or splice variant isoforms. Therefore, these aspects of the molecular structure cannot be elaborated upon based on the available information.
+
+## Function
+CTSB (cathepsin B) is a lysosomal cysteine protease encoded by the CTSB gene, playing a pivotal role in the proteolytic degradation of proteins within lysosomes in healthy human cells. This enzyme is crucial for maintaining cellular homeostasis by participating in various cellular processes including apoptosis, autophagy, and programmed cell death pathways such as pyroptosis and ferroptosis (Nagakannan2021Cathepsin; Xie2023Cathepsin). 
+
+In the lysosomal degradation pathway, cathepsin B is involved in the cleavage of the calcium channel MCOLN1, which suppresses the transcription factor TFEB, thereby controlling the expression of lysosomal and autophagy-related proteins. This suppression is essential for regulating the number and size of lysosomes and autophagosomes under homeostatic conditions (Man2016Regulation; Xie2023Cathepsin). 
+
+Furthermore, cathepsin B's activity extends beyond the lysosome. It is synthesized as an inactive precursor and undergoes post-translational modifications for activation. Once active, it can also be secreted outside the cell where it interacts with various extracellular matrix proteins, influencing tissue remodeling and cellular signaling pathways (Sigloch2016Proteomic). 
+
+The regulation of cathepsin B activity is therefore vital for normal cellular function, and its dysregulation can contribute to various diseases, highlighting its importance in both health and disease states.
+
+## Clinical Significance
+CTSB (cathepsin B) is implicated in various diseases primarily due to its role in protein degradation, apoptosis, and inflammation. In gliomas, particularly high-grade gliomas, CTSB is significantly overexpressed and associated with poor prognosis, immune cell infiltration, and immunosuppression. Its high expression correlates with increased tumor recurrence, progression, and resistance to therapies, making it a negative prognostic biomarker and a potential therapeutic target (Ma2022CTSB). Similarly, in hepatocellular carcinoma (HCC), CTSB expression is higher in cancerous tissues compared to non-cancerous tissues and is linked with poor prognosis, including shorter overall survival and increased metastatic potential, serving as an independent prognostic factor (Ruan2016Over-expression).
+
+In acute myeloid leukemia (AML), CTSB mRNA is upregulated, correlating with poorer prognosis, shorter overall survival, and higher white blood cell counts. Knockdown of CTSB in AML cell lines leads to reduced cell proliferation and tumorigenesis, suggesting its potential as a therapeutic target (Peng2021CTSB). Additionally, CTSB's role extends to neurodegenerative conditions where its elevated levels are associated with Alzheimer's disease, contributing to cognitive dysfunction and pathology in the brain's temporal cortex (Hook2022Cathepsin).
+
+## Interactions
+Cathepsin B (CTSB) interacts with various proteins, influencing cellular processes such as apoptosis, migration, and invasion. One notable interaction is with the human homologue of SETA binding protein 1 (hSB1), which has been shown to occur within the lysosomal environment. This interaction was confirmed through yeast two-hybrid, GST pull-down assays, and coimmunoprecipitation experiments, demonstrating subcellular co-localization in lysosomes (Liu2006Human). Although hSB1 does not affect the enzymatic activity of CTSB, it can suppress TNF-triggered apoptosis in ovarian cancer cells, suggesting a regulatory role in CTSB-mediated apoptosis (Liu2006Human).
+
+Additionally, CTSB interacts with the hepatitis B spliced protein (HBSP) in hepatocellular carcinoma (HCC). This interaction, facilitated by the N-terminal 47 amino acids of HBSP, activates MAPK and PI3K signaling pathways, enhancing cell migration and invasion. It also promotes the expression of matrix metalloproteinases like MMP-9 and urokinase-type plasminogen activator (uPA), which are crucial for extracellular matrix degradation and tumor cell invasion (Chen2012Interaction). The interaction between HBSP and CTSB, confirmed through various assays including GST pull-down and co-immunoprecipitation, underscores the multifaceted role of CTSB in cancer progression (Chen2012Interaction).
+
+
+## References
+
+
+[1. (Sigloch2016Proteomic) Florian Christoph Sigloch, Julia Daniela Knopf, Juliane WeiÃer, Alejandro Gomez-Auli, Martin Lothar Biniossek, Agnese Petrera, and Oliver Schilling. Proteomic analysis of silenced cathepsin b expression suggests non-proteolytic cathepsin b functionality. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1863(11):2700â2709, November 2016. URL: http://dx.doi.org/10.1016/j.bbamcr.2016.08.005, doi:10.1016/j.bbamcr.2016.08.005. (16 citations) 10.1016/j.bbamcr.2016.08.005](https://doi.org/10.1016/j.bbamcr.2016.08.005)
+
+[2. (Man2016Regulation) Si Ming Man and Thirumala-Devi Kanneganti. Regulation of lysosomal dynamics and autophagy by ctsb/cathepsin b. Autophagy, 12(12):2504â2505, November 2016. URL: http://dx.doi.org/10.1080/15548627.2016.1239679, doi:10.1080/15548627.2016.1239679. (161 citations) 10.1080/15548627.2016.1239679](https://doi.org/10.1080/15548627.2016.1239679)
+
+[3. (Liu2006Human) Jian-Ping Liu, Nan-Song Liu, Han-Ying Yuan, Qian Guo, Hong Lu, and Yu-Yang Li. Human homologue of seta binding protein 1 interacts with cathepsin b and participates in tnf-induced apoptosis in ovarian cancer cells. Molecular and Cellular Biochemistry, 292(1â2):189â195, May 2006. URL: http://dx.doi.org/10.1007/s11010-006-9214-7, doi:10.1007/s11010-006-9214-7. (15 citations) 10.1007/s11010-006-9214-7](https://doi.org/10.1007/s11010-006-9214-7)
+
+[4. (Yan2003Molecular) S. Yan and B. F. Sloane. Molecular regulation of human cathepsin b: implication in pathologies. Biological Chemistry, January 2003. URL: http://dx.doi.org/10.1515/bc.2003.095, doi:10.1515/bc.2003.095. (84 citations) 10.1515/bc.2003.095](https://doi.org/10.1515/bc.2003.095)
+
+[5. (Xie2023Cathepsin) Zhen Xie, Mengyuan Zhao, Chengxiang Yan, Wei Kong, Fei Lan, Narengaowa, Shuxuan Zhao, Qinghu Yang, Zhantao Bai, Hong Qing, and Junjun Ni. Cathepsin b in programmed cell death machinery: mechanisms of execution and regulatory pathways. Cell Death &amp; Disease, April 2023. URL: http://dx.doi.org/10.1038/s41419-023-05786-0, doi:10.1038/s41419-023-05786-0. (33 citations) 10.1038/s41419-023-05786-0](https://doi.org/10.1038/s41419-023-05786-0)
+
+[6. (Nagakannan2021Cathepsin) Pandian Nagakannan, Md Imamul Islam, Marcus Conrad, and Eftekhar Eftekharpour. Cathepsin b is an executioner of ferroptosis. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1868(3):118928, March 2021. URL: http://dx.doi.org/10.1016/j.bbamcr.2020.118928, doi:10.1016/j.bbamcr.2020.118928. (53 citations) 10.1016/j.bbamcr.2020.118928](https://doi.org/10.1016/j.bbamcr.2020.118928)
+
+[7. (Ruan2016Over-expression) Jian Ruan, Haiyan Zheng, Xiaodong Rong, Xiaomin Rong, Junyi Zhang, Weijia Fang, Peng Zhao, and Rongcheng Luo. Over-expression of cathepsin b in hepatocellular carcinomas predicts poor prognosis of hcc patients. Molecular Cancer, February 2016. URL: http://dx.doi.org/10.1186/s12943-016-0503-9, doi:10.1186/s12943-016-0503-9. (92 citations) 10.1186/s12943-016-0503-9](https://doi.org/10.1186/s12943-016-0503-9)
+
+[8. (Jevnikar2011CTSB) Z Jevnikar and J Kos. Ctsb (cathepsin b). Atlas of Genetics and Cytogenetics in Oncology and Haematology, November 2011. URL: http://dx.doi.org/10.4267/2042/44404, doi:10.4267/2042/44404. (3 citations) 10.4267/2042/44404](https://doi.org/10.4267/2042/44404)
+
+[9. (Peng2021CTSB) Sida Peng, Qingqing Yang, Huan Li, Yuhang Pan, Jiani Wang, Pan Hu, and Nana Zhang. Ctsb knockdown inhibits proliferation and tumorigenesis in hl-60 cells. International Journal of Medical Sciences, 18(6):1484â1491, 2021. URL: http://dx.doi.org/10.7150/ijms.54206, doi:10.7150/ijms.54206. (13 citations) 10.7150/ijms.54206](https://doi.org/10.7150/ijms.54206)
+
+[10. (Ma2022CTSB) Kaiming Ma, Xin Chen, Weihai Liu, Suhua Chen, Chenlong Yang, and Jun Yang. Ctsb is a negative prognostic biomarker and therapeutic target associated with immune cells infiltration and immunosuppression in gliomas. Scientific Reports, March 2022. URL: http://dx.doi.org/10.1038/s41598-022-08346-2, doi:10.1038/s41598-022-08346-2. (27 citations) 10.1038/s41598-022-08346-2](https://doi.org/10.1038/s41598-022-08346-2)
+
+[11. (Chen2012Interaction) Wan-Nan Chen, Jin-Yan Chen, Bo-Yan Jiao, Wan-Song Lin, Yun-Li Wu, Ling-Ling Liu, and Xu Lin. Interaction of the hepatitis b spliced protein with cathepsin b promotes hepatoma cell migration and invasion. Journal of Virology, 86(24):13533â13541, December 2012. URL: http://dx.doi.org/10.1128/jvi.02095-12, doi:10.1128/jvi.02095-12. (53 citations) 10.1128/jvi.02095-12](https://doi.org/10.1128/jvi.02095-12)
+
+[12. (Singh2018Structural) Structural, functional and molecular dynamics analysis of cathepsin B gene SNPs associated with tropical calcific pancreatitis, a rare disease of tropics (8 citations) 10.1101/308932](https://doi.org/10.1101/308932)
+
+[13. (Hook2022Cathepsin) Gregory Hook, Thomas Reinheckel, Junjun Ni, Zhou Wu, Mark Kindy, Christoph Peters, and Vivian Hook. Cathepsin b gene knockout improves behavioral deficits and reduces pathology in models of neurologic disorders. Pharmacological Reviews, 74(3):600â629, June 2022. URL: http://dx.doi.org/10.1124/pharmrev.121.000527, doi:10.1124/pharmrev.121.000527. (38 citations) 10.1124/pharmrev.121.000527](https://doi.org/10.1124/pharmrev.121.000527)

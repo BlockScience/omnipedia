@@ -1,0 +1,58 @@
+# IFITM1
+
+## Overview
+IFITM1, or Interferon Induced Transmembrane Protein 1, is a gene in humans that encodes a transmembrane protein known for its role in the immune response to viral infections. The protein, also referred to as IFITM1, is part of the broader IFITM family, which functions primarily as antiviral factors by inhibiting the replication of various enveloped RNA and DNA viruses. Beyond its antiviral activity, IFITM1 is involved in several other cellular processes including cell adhesion, immune signaling pathways, and potentially in regulating apoptosis. The protein's ability to interact with other cellular proteins and its involvement in critical signaling pathways underscore its multifunctional role in both immune defense mechanisms and in pathological conditions such as cancer (Smith2019Interferon-Induced; Yang2006IFITM1).
+
+## Structure
+The molecular structure of IFITM1 (Interferon Induced Transmembrane Protein 1) includes several distinct domains that contribute to its function. The protein structure is characterized by a N-terminal domain (NTD), an intramembrane domain (IMD), a conserved intracellular loop (CIL), a transmembrane domain (TMD), and a C-terminal domain (CTD). The NTD is located intracellularly, while the CTD is exposed on the extracellular surface. The IMD connects with the TMD via the CIL, suggesting a complex arrangement that facilitates the protein's role in viral restriction and possibly in cancer progression (NekulovÃ¡2024Biochemical).
+
+IFITM1 is known to oligomerize, forming monomers, dimers, and larger oligomeric species. This oligomerization is crucial for its function, with different oligomeric states such as monomeric, dimeric, and tetrameric structures identified using size exclusion chromatography and further characterized by SEC-MALS (NekulovÃ¡2024Biochemical). The stability of these forms varies, with the dimeric form being sensitive to DTT reduction, unlike the more stable oligomeric forms (NekulovÃ¡2024Biochemical).
+
+Post-translational modifications of IFITM1, including ubiquitination, methylation, palmitoylation, and phosphorylation, are crucial for its intracellular localization and antiviral activity. These modifications may also influence the protein's oligomerization, although direct studies on this aspect are not detailed (NekulovÃ¡2024Biochemical).
+
+Overall, the structure and modifications of IFITM1 are integral to its function in the immune response, influencing both its stability and activity within cellular environments.
+
+## Function
+IFITM1 (Interferon Induced Transmembrane Protein 1) is a protein encoded by the IFITM1 gene in humans, playing a crucial role in the body's defense mechanisms against viral infections. This protein is part of the interferon-induced transmembrane (IFITM) family, which is known for its antiviral cell-intrinsic restriction factors. IFITM1 is involved in inhibiting the replication of various viruses that enter cells via the plasma membrane, including enveloped RNA and DNA viruses such as Respiratory Syncytial Virus, mumps virus, human metapneumovirus, and herpes simplex virus 1 (Smith2019Interferon-Induced). 
+
+The protein localizes primarily to the plasma membrane and early endosomes, which allows it to intercept viruses at the point of entry into the cell (YÃ¡nez2019The). IFITM1 is also implicated in various cellular functions beyond its antiviral activity. It is involved in processes such as cell adhesion, signaling pathways that regulate immune responses, and potentially cell death. The protein's role in these processes contributes to its function in the immune system, particularly in how it manages responses to viral threats (YÃ¡nez2019The).
+
+Moreover, IFITM1 has been identified as having tumor suppressive functions, as it is involved in the regulation of cell growth and has been shown to enhance the transcriptional activity of p53, a well-known tumor suppressor (Yang2006IFITM1). This multifunctional role underscores the importance of IFITM1 in both antiviral defense and cellular regulatory mechanisms.
+
+## Clinical Significance
+IFITM1 (interferon induced transmembrane protein 1) has been implicated in various diseases and conditions, particularly in the context of cancer and immune responses. Elevated expression of IFITM1 is associated with poor prognosis in several cancers, including colorectal cancer, pancreatic cancer, breast cancer, and lung cancer. In colorectal cancer, high IFITM1 levels correlate with advanced clinical stages, lymph node and distant metastasis, and are an independent prognostic factor for poor survival (Yu2015IFITM1). Similarly, in pancreatic cancer, increased IFITM1 expression is linked to poor histologic differentiation, advanced TNM stage, and decreased overall survival (Wu2021Identification). Overexpression of IFITM1 also contributes to the aggressiveness of breast cancer under estrogen-deprived conditions, enhancing tumor proliferation and invasion (Lui2017IFITM1).
+
+Beyond cancer, IFITM1 expression alterations have been noted in schizophrenia and Epstein-Barr virus-related diseases, indicating its broader clinical significance (Klymiuk2012In). Additionally, IFITM1 gene polymorphisms have been associated with susceptibility to ulcerative colitis, suggesting a potential role in inflammatory bowel disease (Mo2013Identification).
+
+These findings underscore the potential of IFITM1 as a target for therapeutic intervention and as a biomarker for diagnosing and predicting the progression of these diseases.
+
+## Interactions
+IFITM1 interacts with various proteins and nucleic acids, playing a significant role in cellular processes and immune responses. One of the key interactions is with caveolin-1 (CAV-1), where IFITM1 binds through its hydrophobic transmembrane domains to inhibit extracellular signal-regulated kinase (ERK) activation, a pathway crucial for cell proliferation and differentiation (Xu2009Binding). Additionally, IFITM1 has been shown to interact with several splicing regulatory factors from the SRSF superfamily, including SRSF1, SRSF2, SRSF3, SRSF6, and U2AF1. These interactions suggest a role in regulating mRNA splicing and potentially influencing protein synthesis (GÃ³mez-Herranz2022SRSF1). 
+
+Moreover, IFITM1 is involved in modulating immune responses by interacting with HLA-B mRNA, which could affect antigen presentation and the immune response to infections (GÃ³mez-Herranz2022SRSF1). The protein also associates with RPL7a, a component of the 60S ribosomal subunit, indicating a potential role in guiding mRNA products to the ribosome and influencing translation (GÃ³mez-Herranz2022SRSF1). These interactions highlight the multifunctional role of IFITM1 in cellular signaling, immune responses, and possibly in tumor suppression.
+
+
+## References
+
+
+[1. (Wu2021Identification) Lingyun Wu, Xinli Zhu, Danfang Yan, Mengmeng Tang, Chiyuan Ma, and Senxiang Yan. Identification of ifn-induced transmembrane protein 1 with prognostic value in pancreatic cancer using network module-based analysis. Frontiers in Oncology, March 2021. URL: http://dx.doi.org/10.3389/fonc.2021.626883, doi:10.3389/fonc.2021.626883. (5 citations) 10.3389/fonc.2021.626883](https://doi.org/10.3389/fonc.2021.626883)
+
+[2. (Klymiuk2012In) Ingeborg Klymiuk, Lukas Kenner, Thure Adler, Dirk H. Busch, Auke Boersma, Martin Irmler, ValÃ©rie Gailus-Durner, Helmut Fuchs, Nicole Leitner, Mathias MÃ¼ller, Ralf KÃ¼hn, Michaela Schlederer, Irina Treise, Martin HrabÄ de Angelis, and Johannes Beckers. In vivo functional requirement of the mouse ifitm1 gene for germ cell development, interferon mediated immune response and somitogenesis. PLoS ONE, 7(10):e44609, October 2012. URL: http://dx.doi.org/10.1371/journal.pone.0044609, doi:10.1371/journal.pone.0044609. (19 citations) 10.1371/journal.pone.0044609](https://doi.org/10.1371/journal.pone.0044609)
+
+[3. (GÃ³mez-Herranz2022SRSF1) SRSF1 as a novel interacting partner for IFITM1/3 unravels the emergent role of IFITM1/3 mediating protein expression (1 citations) 10.1101/2022.02.02.478792](https://doi.org/10.1101/2022.02.02.478792)
+
+[4. (Smith2019Interferon-Induced) S. E. Smith, D. C. Busse, S. Binter, S. Weston, C. Diaz Soria, B. M. Laksono, S. Clare, S. Van Nieuwkoop, B. G. Van den Hoogen, M. Clement, M. Marsden, I. R. Humphreys, M. Marsh, R. L. de Swart, R. S. Wash, J. S. Tregoning, and P. Kellam. Interferon-induced transmembrane protein 1 restricts replication of viruses that enter cells via the plasma membrane. Journal of Virology, March 2019. URL: http://dx.doi.org/10.1128/jvi.02003-18, doi:10.1128/jvi.02003-18. (62 citations) 10.1128/jvi.02003-18](https://doi.org/10.1128/jvi.02003-18)
+
+[5. (Lui2017IFITM1) Asona J. Lui, Eric S. Geanes, Joshua Ogony, Fariba Behbod, Jordan Marquess, Kelli Valdez, William Jewell, Ossama Tawfik, and Joan Lewis-Wambi. Ifitm1 suppression blocks proliferation and invasion of aromatase inhibitor-resistant breast cancer in vivo by jak/stat-mediated induction of p21. Cancer Letters, 399:29â43, July 2017. URL: http://dx.doi.org/10.1016/j.canlet.2017.04.005, doi:10.1016/j.canlet.2017.04.005. (40 citations) 10.1016/j.canlet.2017.04.005](https://doi.org/10.1016/j.canlet.2017.04.005)
+
+[6. (Yang2006IFITM1) G Yang, Y Xu, X Chen, and G Hu. Ifitm1 plays an essential role in the antiproliferative action of interferon-Î³. Oncogene, 26(4):594â603, July 2006. URL: http://dx.doi.org/10.1038/sj.onc.1209807, doi:10.1038/sj.onc.1209807. (181 citations) 10.1038/sj.onc.1209807](https://doi.org/10.1038/sj.onc.1209807)
+
+[7. (Xu2009Binding) Ye Xu, Guohua Yang, and Gengxi Hu. Binding of ifitm1 enhances the inhibiting effect of caveolin-1 on erk activation. Acta Biochimica et Biophysica Sinica, 41(6):488â494, June 2009. URL: http://dx.doi.org/10.1093/abbs/gmp034, doi:10.1093/abbs/gmp034. (42 citations) 10.1093/abbs/gmp034](https://doi.org/10.1093/abbs/gmp034)
+
+[8. (YÃ¡nez2019The) Diana C. YÃ¡nez, Susan Ross, and Tessa Crompton. The ifitm protein family in adaptive immunity. Immunology, 159(4):365â372, December 2019. URL: http://dx.doi.org/10.1111/imm.13163, doi:10.1111/imm.13163. (86 citations) 10.1111/imm.13163](https://doi.org/10.1111/imm.13163)
+
+[9. (Yu2015IFITM1) Fang Yu, Dan Xie, Samuel S. Ng, Ching Tung Lum, Mu-Yan Cai, William K. Cheung, Hsiang-Fu Kung, Guimiao Lin, Xiaomei Wang, and Marie C. Lin. Ifitm1 promotes the metastasis of human colorectal cancer via cav-1. Cancer Letters, 368(1):135â143, November 2015. URL: http://dx.doi.org/10.1016/j.canlet.2015.07.034, doi:10.1016/j.canlet.2015.07.034. (81 citations) 10.1016/j.canlet.2015.07.034](https://doi.org/10.1016/j.canlet.2015.07.034)
+
+[10. (NekulovÃ¡2024Biochemical) Marta NekulovÃ¡, Marta Wyszkowska, Nela FriedlovÃ¡, LukÃ¡Å¡ UhrÃ­k, Filip Zavadil KokÃ¡Å¡, VÃ¡clav Hrabal, Lenka HernychovÃ¡, BoÅivoj VojtÄÅ¡ek, Ted R. Hupp, and MichaÅ R. SzymaÅski. Biochemical evidence for conformational variants in the anti-viral and pro-metastatic protein ifitm1. Biological Chemistry, 405(5):311â324, February 2024. URL: http://dx.doi.org/10.1515/hsz-2023-0327, doi:10.1515/hsz-2023-0327. (0 citations) 10.1515/hsz-2023-0327](https://doi.org/10.1515/hsz-2023-0327)
+
+[11. (Mo2013Identification) Ji-Su Mo, Kyung-Sook Na, Ji-In Yu, and Soo-Cheon Chae. Identification of the polymorphisms in ifitm1 gene and their association in a korean population with ulcerative colitis. Immunology Letters, 156(1â2):118â122, November 2013. URL: http://dx.doi.org/10.1016/j.imlet.2013.09.026, doi:10.1016/j.imlet.2013.09.026. (12 citations) 10.1016/j.imlet.2013.09.026](https://doi.org/10.1016/j.imlet.2013.09.026)

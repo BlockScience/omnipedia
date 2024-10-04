@@ -1,0 +1,62 @@
+# NPM1
+
+## Overview
+Nucleophosmin 1 (NPM1) is a gene located on chromosome 5q35 that encodes the nucleolar phosphoprotein nucleophosmin 1, also known as B23, numatrin, or NO38. This protein is involved in several fundamental cellular processes, including ribosome biogenesis, chromatin remodeling, and the regulation of p53, playing a critical role in cellular growth and survival (Box2016Nucleophosmin:; Karimi2021The). NPM1 is predominantly localized in the nucleolus but shuttles between the nucleolus, nucleoplasm, and cytoplasm, facilitating its involvement in various cellular functions (Yu2006Nucleophosmin). The protein itself is not categorized as a kinase, receptor, or transmembrane protein but functions as a multifaceted chaperone and assembly factor that is essential for maintaining cellular homeostasis and genomic stability (Cela2020Nucleophosmin). Mutations in the NPM1 gene, particularly those that lead to its aberrant cytoplasmic localization, are frequently associated with acute myeloid leukemia (AML) and have significant prognostic implications (Chen2020Nucleophosmin1; Patel2020NPM1).
+
+## Structure
+Nucleophosmin 1 (NPM1) is a multifunctional protein characterized by a distinct modular architecture that plays a crucial role in its diverse cellular functions. The N-terminal domain (NTD) of NPM1 is highly conserved and features a core domain composed of eight antiparallel beta-strands arranged in a jellyroll barrel configuration. This domain is essential for protein binding and self-oligomerization, enabling the formation of pentamers and potentially decamers through head-to-head interactions (Cela2020Nucleophosmin).
+
+The central region of NPM1 includes an intrinsically disordered region (IDR) that contains acidic tracts and a bipartite nuclear localization signal (NLS), which are thought to support chromatin remodeling and other dynamic interactions with nucleic acids (Cela2020Nucleophosmin).
+
+The C-terminal domain (CTD) of NPM1 is structured as a three-helix bundle, crucial for interactions with nucleic acids, particularly recognizing G-quadruplex DNA structures. This domain retains structure even in a denatured state and is involved in binding through electrostatic interactions facilitated by several lysine residues (Cela2020Nucleophosmin).
+
+Post-translational modifications of NPM1 include multisite phosphorylation and acetylation of lysine residues, which regulate its oligomerization, function, and localization (Cela2020Nucleophosmin). The protein is encoded by the NPM1 gene on chromosome 5q35 and produces at least three isoforms through alternative mRNA splicing, with the primary isoform being NPM1.1 (Cela2020Nucleophosmin).
+
+## Function
+Nucleophosmin 1 (NPM1) is a multifunctional nucleolar phosphoprotein essential for various cellular processes, particularly ribosome biogenesis, which is crucial for protein synthesis in cells. NPM1 is involved in the assembly and transport of ribosomal subunits, interacting with ribosomal protein L5 and facilitating the nuclear export of the rpL5-5S rRNA complex, a key component in ribosome assembly (Yu2006Nucleophosmin). This protein also plays a significant role in maintaining genomic integrity, participating in DNA repair and replication, and chromatin remodeling, which are vital for gene expression regulation and DNA replication (Box2016Nucleophosmin:; Karimi2021The).
+
+Additionally, NPM1 contributes to cell cycle progression and cellular growth by shuttling between the nucleolus, nucleus, and cytoplasm, which is essential for its function in cell proliferation (Yu2006Nucleophosmin). It also interacts with various proteins, including those involved in tumor suppression and response to cellular stress, such as the ARF-p53 pathway, highlighting its role in tumor suppression and cellular stress responses (Karimi2021The).
+
+NPM1's involvement in these processes underscores its importance in normal cellular function and highlights its potential impact on disease development when mutated or dysregulated.
+
+## Clinical Significance
+Mutations in the NPM1 gene are primarily associated with acute myeloid leukemia (AML), particularly in cases with a normal karyotype. These mutations are found in approximately 30% of all AML cases and are more prevalent in de novo AML, occurring in 50-60% of such cases (Chen2020Nucleophosmin1; Patel2020NPM1). NPM1 mutations result in the aberrant cytoplasmic localization of the nucleophosmin protein, which is a key factor in the pathogenesis of AML (Brunetti2019New; Patel2020NPM1). Clinically, the presence of NPM1 mutations is associated with a favorable prognosis in cytogenetically normal AML, particularly when not accompanied by FLT3-ITD mutations (Chen2020Nucleophosmin1).
+
+NPM1 mutations are also implicated in a smaller percentage of myelodysplastic syndromes (MDS) and myelodysplastic/myeloproliferative neoplasms (MDS/MPN), where they are linked with aggressive disease progression (Patel2020NPM1). In addition to AML, NPM1 mutations have been sporadically detected in other hematologic malignancies and solid tumors, although their role in these cancers is less clear (Meani2009Role).
+
+The discovery and ongoing study of NPM1 mutations have significantly influenced the diagnostic and therapeutic strategies for AML, highlighting the importance of genetic profiling in the management of the disease (Falini2005Cytoplasmic).
+
+## Interactions
+NPM1 (nucleophosmin 1) interacts with a wide range of protein partners and nucleic acids, playing a pivotal role in cellular processes such as ribosome biogenesis, DNA repair, and cell cycle regulation. Its N-terminal domain is crucial for protein-protein interactions within the nucleolus, recognizing nucleolar localization signals in various proteins, which are typically rich in arginines and lysines (Mitrea2016Nucleophosmin). This domain also interacts with the tumor suppressor p14ARF, stabilizing the NPM1 pentamer structure and facilitating the formation of large soluble molecular weight assemblies (Cela2020Nucleophosmin).
+
+NPM1's interactions are not limited to protein-protein interactions; it also binds to nucleic acids. The C-terminal domain of NPM1 is essential for its interaction with nucleic acids, particularly G-quadruplex regions in ribosomal DNA, which anchors NPM1 within the nucleoli (Di2017Structural). Additionally, NPM1 binds to RNA, showing a preference for 28S, 5.8S, and 5S rRNA over 18S rRNA, with the interaction involving the basic portion of its Intrinsically Disordered Region (IDR) (Cela2020Nucleophosmin).
+
+Furthermore, NPM1 is involved in the organization of the nucleolus through liquid-liquid phase separation (LLPS), interacting with rRNA and nucleolar proteins to form a multicomponent, liquid-like matrix within the nucleolus (Mitrea2018Self-interaction). These interactions are primarily electrostatic, involving the negatively charged A-tracts of NPM1 binding to positively charged R-motifs on other proteins, and the positively charged B-tracts of NPM1 interacting with rRNA (Mitrea2018Self-interaction).
+
+
+## References
+
+
+[1. (Falini2005Cytoplasmic) Brunangelo Falini, Cristina Mecucci, Enrico Tiacci, Myriam Alcalay, Roberto Rosati, Laura Pasqualucci, Roberta La Starza, Daniela Diverio, Emanuela Colombo, Antonella Santucci, Barbara Bigerna, Roberta Pacini, Alessandra Pucciarini, Arcangelo Liso, Marco Vignetti, Paola Fazi, Natalia Meani, Valentina Pettirossi, Giuseppe Saglio, Franco Mandelli, Francesco Lo-Coco, Pier-Giuseppe Pelicci, and Massimo F. Martelli. Cytoplasmic nucleophosmin in acute myelogenous leukemia with a normal karyotype. New England Journal of Medicine, 352(3):254â266, January 2005. URL: http://dx.doi.org/10.1056/nejmoa041974, doi:10.1056/nejmoa041974. (1428 citations) 10.1056/nejmoa041974](https://doi.org/10.1056/nejmoa041974)
+
+[2. (Box2016Nucleophosmin:) Joseph K. Box, Nicolas Paquet, Mark N. Adams, Didier Boucher, Emma Bolderson, Kenneth J. OâByrne, and Derek J. Richard. Nucleophosmin: from structure and function to disease development. BMC Molecular Biology, August 2016. URL: http://dx.doi.org/10.1186/s12867-016-0073-9, doi:10.1186/s12867-016-0073-9. (263 citations) 10.1186/s12867-016-0073-9](https://doi.org/10.1186/s12867-016-0073-9)
+
+[3. (Cela2020Nucleophosmin) Ilaria Cela, Adele Di Matteo, and Luca Federici. Nucleophosmin in its interaction with ligands. International Journal of Molecular Sciences, 21(14):4885, July 2020. URL: http://dx.doi.org/10.3390/ijms21144885, doi:10.3390/ijms21144885. (32 citations) 10.3390/ijms21144885](https://doi.org/10.3390/ijms21144885)
+
+[4. (Di2017Structural) A Di Matteo, M Franceschini, A Paiardini, A Grottesi, S Chiarella, S Rocchio, C Di Natale, D Marasco, L Vitagliano, C Travaglini-Allocatelli, and L Federici. Structural investigation of nucleophosmin interaction with the tumor suppressor fbw7Î³. Oncogenesis, 6(9):e379âe379, September 2017. URL: http://dx.doi.org/10.1038/oncsis.2017.78, doi:10.1038/oncsis.2017.78. (17 citations) 10.1038/oncsis.2017.78](https://doi.org/10.1038/oncsis.2017.78)
+
+[5. (Mitrea2018Self-interaction) Diana M. Mitrea, Jaclyn A. Cika, Christopher B. Stanley, Amanda Nourse, Paulo L. Onuchic, Priya R. Banerjee, Aaron H. Phillips, Cheon-Gil Park, Ashok A. Deniz, and Richard W. Kriwacki. Self-interaction of npm1 modulates multiple mechanisms of liquidâliquid phase separation. Nature Communications, February 2018. URL: http://dx.doi.org/10.1038/s41467-018-03255-3, doi:10.1038/s41467-018-03255-3. (318 citations) 10.1038/s41467-018-03255-3](https://doi.org/10.1038/s41467-018-03255-3)
+
+[6. (Karimi2021The) Fateme Karimi Dermani, Saeideh Gholamzadeh Khoei, Saeid Afshar, and Razieh Amini. The potential role of nucleophosmin (npm1) in the development of cancer. Journal of Cellular Physiology, 236(11):7832â7852, May 2021. URL: http://dx.doi.org/10.1002/jcp.30406, doi:10.1002/jcp.30406. (41 citations) 10.1002/jcp.30406](https://doi.org/10.1002/jcp.30406)
+
+[7. (Brunetti2019New) Lorenzo Brunetti, Michael C. Gundry, and Margaret A. Goodell. New insights into the biology of acute myeloid leukemia with mutated npm1. International Journal of Hematology, 110(2):150â160, January 2019. URL: http://dx.doi.org/10.1007/s12185-018-02578-7, doi:10.1007/s12185-018-02578-7. (29 citations) 10.1007/s12185-018-02578-7](https://doi.org/10.1007/s12185-018-02578-7)
+
+[8. (Meani2009Role) Natalia Meani and Myriam Alcalay. Role of nucleophosmin in acute myeloid leukemia. Expert Review of Anticancer Therapy, 9(9):1283â1294, September 2009. URL: http://dx.doi.org/10.1586/era.09.84, doi:10.1586/era.09.84. (30 citations) 10.1586/era.09.84](https://doi.org/10.1586/era.09.84)
+
+[9. (Chen2020Nucleophosmin1) Yingyu Chen and Jianda Hu. Nucleophosmin1 (npm1) abnormality in hematologic malignancies, and therapeutic targeting of mutant npm1 in acute myeloid leukemia. Therapeutic Advances in Hematology, 11:204062071989981, January 2020. URL: http://dx.doi.org/10.1177/2040620719899818, doi:10.1177/2040620719899818. (35 citations) 10.1177/2040620719899818](https://doi.org/10.1177/2040620719899818)
+
+[10. (Mitrea2016Nucleophosmin) Diana M Mitrea, Jaclyn A Cika, Clifford S Guy, David Ban, Priya R Banerjee, Christopher B Stanley, Amanda Nourse, Ashok A Deniz, and Richard W Kriwacki. Nucleophosmin integrates within the nucleolus via multi-modal interactions with proteins displaying r-rich linear motifs and rrna. eLife, February 2016. URL: http://dx.doi.org/10.7554/elife.13571, doi:10.7554/elife.13571. (399 citations) 10.7554/elife.13571](https://doi.org/10.7554/elife.13571)
+
+[11. (Patel2020NPM1) Sanjay S. Patel, Michael J. Kluk, and Olga K. Weinberg. Npm1 biology in myeloid neoplasia. Current Hematologic Malignancy Reports, 15(4):350â359, June 2020. URL: http://dx.doi.org/10.1007/s11899-020-00592-3, doi:10.1007/s11899-020-00592-3. (6 citations) 10.1007/s11899-020-00592-3](https://doi.org/10.1007/s11899-020-00592-3)
+
+[12. (Yu2006Nucleophosmin) Yue Yu, Leonard B. Maggi, Suzanne N. Brady, Anthony J. Apicelli, Mu-Shui Dai, Hua Lu, and Jason D. Weber. Nucleophosmin is essential for ribosomal protein l5 nuclear export. Molecular and Cellular Biology, 26(10):3798â3809, May 2006. URL: http://dx.doi.org/10.1128/mcb.26.10.3798-3809.2006, doi:10.1128/mcb.26.10.3798-3809.2006. (166 citations) 10.1128/mcb.26.10.3798-3809.2006](https://doi.org/10.1128/mcb.26.10.3798-3809.2006)

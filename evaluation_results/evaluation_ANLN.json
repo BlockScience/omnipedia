@@ -1,0 +1,2848 @@
+{
+  "LeadSection": [
+    {
+      "text": "# ANLN # # Overview\nThe ANLN gene encodes the protein anillin, an actin-binding protein that plays a crucial role in cytokinesis, the final step of cell division where the cell splits into two daughter cells.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a brief overview of the ANLN gene and its function, which partially defines the scope of the article. However, it does not fully adhere to the recommended UniProt naming conventions, as it lacks specific details about the conventions themselves and does not clearly outline the entire scope of the article. To improve, the sentence should explicitly state the focus of the article and ensure it aligns with UniProt's guidelines for naming and content structure."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"ANLN\" and provides the protein name \"anillin.\" However, it does not specify whether \"anillin\" is the recommended UniProt protein name or if it is relatively short. The sentence partially meets the requirement by mentioning both the gene symbol and the protein name, but it lacks clarity on whether the recommended UniProt name is used. To fully meet the requirement, the sentence should confirm that \"anillin\" is the recommended UniProt name or use the HUGO gene symbol with appropriate disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the ANLN gene and its role in cytokinesis, which addresses the function aspect. However, it lacks information on the structure and clinical significance of the gene, which are key aspects mentioned in the requirement. Additionally, the sentence includes unnecessary detail, such as the repetition of the word \"ANLN\" and the use of hashtags, which do not contribute to a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise overview of the ANLN gene and its function, which is likely to be information that could be found in an infobox. However, it does not repeat the information unnecessarily and focuses on the notable role of the protein in cytokinesis, which may warrant emphasis. The sentence could be improved by ensuring that it only includes details that are not redundant with the infobox unless they are particularly notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Anillin is not only essential for the structural organization of the actin cytoskeleton but also interacts with various other proteins to facilitate the formation and constriction of the contractile ring, a key structure in cell division.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the role of anillin in cell division, specifically its involvement with the actin cytoskeleton and the contractile ring. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to any specific naming guidelines provided by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Anillin,\" which is the HUGO gene symbol (ANLN) rather than the recommended UniProt protein name. The requirement suggests using the UniProt protein name if it is relatively short, which in this case is also \"Anillin.\" However, the sentence does not specify whether \"Anillin\" is being used as the gene symbol or the protein name, leading to ambiguity. To fully meet the requirement, the sentence should clarify the context or explicitly use the UniProt protein name if it is indeed short and appropriate."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of anillin's role in the structural organization of the actin cytoskeleton and its interaction with other proteins during cell division. However, it lacks coverage of the clinical significance of anillin, which is a key aspect mentioned in the requirement. Additionally, while it touches on structure and function, it does not provide a comprehensive summary of these elements, focusing instead on a specific aspect of anillin's function."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about Anillin's role in cell division, specifically its interaction with the actin cytoskeleton and other proteins. If this information is already present in the infobox, it may be somewhat repetitive. However, the sentence does emphasize the importance of Anillin in the formation and constriction of the contractile ring, which could be considered notable. The score reflects that while there might be some repetition, the emphasis on Anillin's critical functions could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This protein is involved in several cellular processes beyond cytokinesis, including maintaining cell shape, polarity, and contributing to the formation of cellular junctions.",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the functions of a protein, mentioning its involvement in cellular processes like maintaining cell shape, polarity, and forming cellular junctions. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and use specific UniProt terminology to describe the protein and its functions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement because it does not specify the protein name or gene symbol at all. To fulfill the requirement, the sentence should include either the recommended UniProt protein name or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the function of the protein, mentioning its involvement in cellular processes like maintaining cell shape, polarity, and forming cellular junctions. However, it lacks details on the protein's structure and clinical significance, which are key aspects required by the prompt. Additionally, it does not serve as a comprehensive summary of an article, as it focuses narrowly on function without broader context or detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides additional details about the protein's involvement in cellular processes beyond cytokinesis, which may not be fully covered in an infobox. However, without knowing the specific content of the infobox, it's difficult to determine if this information is repetitive. If the infobox already includes these details, the sentence could be seen as redundant unless these aspects are particularly notable or require emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Due to its critical functions in cell division and maintenance, anillin has been implicated in the progression of various cancers and other diseases, making it a potential target for therapeutic interventions (Naydenov2020Anillin; Magnusson2016ANLN).",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the role of anillin in cell division and its implications in diseases, which could hint at the scope of the article. However, it does not clearly define the scope of the article in a comprehensive manner. Additionally, it does not follow the recommended UniProt naming conventions, as it does not specify the organism or use the standardized format for protein names. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"anillin,\" which is the common name for the protein encoded by the ANLN gene. However, it does not specify whether \"anillin\" is the recommended UniProt protein name or if it should be referred to by the HUGO gene symbol \"ANLN\" with disambiguation. Without confirmation that \"anillin\" is the recommended UniProt name, the sentence partially meets the requirement by using a recognizable name but lacks clarity on adherence to the specific naming guideline."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.7,
+          "feedback": [
+            "The sentence effectively highlights the clinical significance of anillin by mentioning its role in cell division, maintenance, and its implication in cancer progression, which aligns with the requirement to cover function and clinical significance. However, it lacks information on the structure of anillin, which is a key aspect mentioned in the requirement. Additionally, while it is concise, it could provide a bit more context or detail to fully summarize the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about anillin's role in cell division, its implication in cancer progression, and its potential as a therapeutic target. If this information is already present in the infobox, the sentence may be somewhat redundant. However, the inclusion of specific references (Naydenov2020Anillin; Magnusson2016ANLN) and the emphasis on therapeutic potential could justify its repetition if these aspects are not highlighted in the infobox. The score reflects a minor deviation from the requirement, assuming the infobox contains similar information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Structure\nAnillin, encoded by the ANLN gene, is a multifunctional protein crucial for cytokinesis, characterized by several distinct domains that contribute to its structural and functional diversity.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a brief introduction to Anillin, mentioning its gene (ANLN) and its role in cytokinesis, which partially defines the scope of the article. However, it lacks a clear statement of the article's overall focus or purpose, and it does not explicitly follow UniProt naming conventions, which typically include the organism and a more structured format. To fully meet the requirement, the sentence should more clearly define the article's scope and adhere to the specific naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Anillin,\" which is the recommended UniProt protein name and is relatively short. However, the requirement also suggests using the HUGO gene symbol with disambiguation if necessary, which is not addressed in the sentence. The sentence partially meets the requirement by using the UniProt name but does not consider the alternative option of using the HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the structure and function of Anillin, mentioning its encoding gene and its role in cytokinesis. However, it lacks information on the clinical significance of Anillin, which is a key aspect required by the prompt. Additionally, the sentence includes some unnecessary detail about the distinct domains, which could be omitted for a more concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about Anillin, including its encoding gene (ANLN) and its role in cytokinesis, which may already be present in an infobox. However, it emphasizes the multifunctional nature and structural diversity of the protein, which could be considered notable. The sentence mostly meets the requirement by focusing on the protein's characteristics rather than repeating basic information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein has a molecular weight of approximately 124 kDa but exhibits anomalous migration on SDS-PAGE, suggesting posttranslational modifications or unusual folding patterns (Naydenov2020Anillin; Field1995Anillin).",
+      "title": "Introduction",
+      "score": 0.31,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it provides specific information about a protein's molecular weight and behavior on SDS-PAGE, which is more characteristic of a detailed observation or result rather than an introductory scope statement. To meet the requirement, the sentence should clearly outline the main focus or objective of the article and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not use either the recommended UniProt protein name or the HUGO gene symbol. Instead, it references the protein as \"the protein\" and cites two sources with \"Anillin\" in their references, which does not clarify the specific protein name or gene symbol being discussed. To meet the requirement, the sentence should explicitly use the recommended UniProt protein name or the HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the protein's molecular weight and its behavior on SDS-PAGE, which may suggest structural characteristics like posttranslational modifications or folding patterns. However, it does not summarize the article concisely or cover key aspects such as the protein's function or clinical significance. The sentence lacks a broader context and does not fulfill the requirement of summarizing the article comprehensively."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the protein's molecular weight and its behavior on SDS-PAGE, which may not be common knowledge or included in a typical infobox. The mention of posttranslational modifications or unusual folding patterns adds context that could be notable. However, if the infobox already contains this information, the sentence could be seen as repetitive unless these details are particularly emphasized or expanded upon in the main text."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The N-terminal region of anillin contains actin-binding domains (amino acids 251-454), which facilitate interactions with actin filaments and myosin II, essential for contractile ring dynamics during cell division (Piekny2008Anillin).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about the N-terminal region of anillin and its role in cell division, but it does not define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein names and identifiers. To better meet the requirement, the sentence should introduce the broader topic or focus of the article and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the name \"anillin,\" which is likely the common name for the protein. However, it does not specify whether this is the recommended UniProt protein name or the HUGO gene symbol. To fully meet the requirement, the sentence should clarify if \"anillin\" is the recommended UniProt name or provide the HUGO gene symbol with disambiguation if necessary. Without this clarification, it only partially meets the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific details about the structure and function of anillin, particularly its N-terminal region and its role in cell division. However, it lacks a comprehensive summary of the article, as it does not address the overall structure, broader function, or any clinical significance of anillin. Additionally, it includes a specific reference (Piekny2008Anillin) that may not be necessary for a concise summary. To better meet the requirement, the sentence should provide a broader overview of the article's key points, including any clinical implications, without focusing too narrowly on specific details."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the N-terminal region of anillin, including the exact amino acid range and its role in cell division, which may not be present in an infobox. However, if the infobox already contains this detailed information, the sentence could be seen as repetitive. The score reflects that while the information might be redundant, it is specific and potentially notable, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This region also includes multiple actin-binding sites, allowing anillin to bind more than one actin monomer (Naydenov2020Anillin).",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it provides specific information about a region with actin-binding sites related to anillin. Additionally, it does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's focus and adhere to the naming conventions specified by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"anillin,\" which is the common name for the protein encoded by the ANLN gene. However, it is unclear whether \"anillin\" is the recommended UniProt protein name or if the HUGO gene symbol (ANLN) should be used. Without additional context, it's difficult to determine if the requirement is fully met. The sentence partially meets the requirement by using a recognizable name, but it lacks clarity on whether it aligns with the specific naming convention requested."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about the structure of anillin, mentioning its ability to bind multiple actin monomers. However, it does not summarize the article concisely or cover key aspects such as the overall structure, function, and clinical significance of anillin. It lacks a broader context and focuses on a single detail, which does not fulfill the requirement of a comprehensive lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the region having multiple actin-binding sites and the ability of anillin to bind more than one actin monomer. If this information is already present in the infobox, it might be considered repetitive. However, the detail about multiple binding sites and the specific reference to a study (Naydenov2020Anillin) could be seen as notable, which justifies its inclusion to some extent. The score reflects that while the sentence may repeat information, it adds a level of detail that could be valuable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The C-terminal part of the protein features an anillin homology domain (AHD, amino acids 645-980) and a pleckstrin homology (PH) domain.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it describes specific features of a protein, mentioning an anillin homology domain and a pleckstrin homology domain. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein names and identifiers."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention the UniProt protein name or the HUGO gene symbol, which are required by the guideline. It only describes domains within a protein without specifying the protein's name or gene symbol. To meet the requirement, the sentence should include either the recommended UniProt protein name or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific details about the structure of a protein, mentioning the presence of an anillin homology domain and a pleckstrin homology domain. However, it does not summarize an article, nor does it cover key aspects like function or clinical significance. It focuses solely on structural details, lacking the broader context required for a comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the protein's structure, mentioning the anillin homology domain and the pleckstrin homology domain, which may already be present in an infobox. However, the inclusion of the amino acid range for the AHD (645-980) adds a level of detail that could be considered notable or useful for emphasis. The sentence mostly meets the requirement by potentially offering additional context or emphasis, but if this information is not particularly notable or emphasized in the main text, it could be seen as redundant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The AHD is crucial for regulating the Rho family of small GTPases and contains a binding site for RhoA, which is vital for the persistent equatorial localization of ANLN during cytokinesis (Piekny2008Anillin).",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the AHD's role in regulating the Rho family of small GTPases and its interaction with RhoA during cytokinesis. However, it does not define the overall scope of the article, nor does it follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should introduce the broader topic or focus of the article and adhere to the naming conventions specified by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RhoA\" and \"ANLN,\" which are gene symbols. The requirement suggests using the recommended UniProt protein name if it is relatively short. The sentence does not specify whether the UniProt protein names for these genes are short or not, and it defaults to using the gene symbols without disambiguation. To fully meet the requirement, the sentence should clarify whether the UniProt names are used or provide disambiguation for the gene symbols if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the AHD's role in regulating Rho family GTPases and its interaction with RhoA, which is relevant to the function aspect of the requirement. However, it lacks a comprehensive summary of the article, as it does not address the structure or clinical significance of the topic. Additionally, it includes a citation that may not be necessary for a concise summary. Overall, the sentence is too focused on a specific detail rather than providing a broad overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the AHD's role in regulating the Rho family of small GTPases and its interaction with RhoA, which may not be common knowledge or explicitly detailed in an infobox. However, if this information is already present in the infobox and not particularly notable or requiring emphasis, it could be seen as redundant. The sentence is informative, but without knowing the content of the infobox, it's difficult to fully assess the necessity of the repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The PH domain mediates interactions with septin filaments and can bind phospholipids like PIP2, playing a significant role in the localization of anillin to the cleavage furrow during cell division (Naydenov2020Anillin).",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about the PH domain's role in cell division, but it does not define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein names and identifiers. To better meet the requirement, the sentence should introduce the main topic or focus of the article and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, so it cannot be evaluated against the requirement to use the recommended UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence should explicitly include the name of the protein or gene being discussed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the function of the PH domain in relation to septin filaments and phospholipids, specifically PIP2, and its role in cell division. However, it lacks a comprehensive summary of the article, as it does not address the structure or clinical significance of the PH domain or anillin. Additionally, it includes a specific detail (Naydenov2020Anillin) that may not be necessary for a concise summary. To better meet the requirement, the sentence should cover the structure, function, and clinical significance more broadly and concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the PH domain's role in cell division, which may already be present in an infobox. However, it emphasizes the specific interactions and functions, which could be considered notable. The score reflects that while the information might be repeated, it is presented with additional context that could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, a shorter splice isoform of anillin, missing an exon (508-544 amino acid region), has been reported, though its functional differences have not been explored (Naydenov2020Anillin).",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it provides specific information about a splice isoform of anillin. Additionally, it does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the main focus or scope of the article and adhere to the naming conventions specified by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the name \"anillin,\" which is the common name for the protein encoded by the ANLN gene. However, it is unclear whether \"anillin\" is the recommended UniProt protein name or if the HUGO gene symbol (ANLN) should have been used with disambiguation. Without confirmation that \"anillin\" is the recommended UniProt name, the sentence partially meets the requirement. To fully meet the requirement, it should be verified that \"anillin\" is indeed the recommended UniProt name or the sentence should use the HUGO gene symbol with appropriate disambiguation."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about a splice isoform of anillin, mentioning a missing exon and a reference to a study. However, it does not summarize the article concisely or cover key aspects such as structure, function, and clinical significance. It lacks a broader context and does not provide an overview of the article's main points, making it insufficient as a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about a shorter splice isoform of anillin, including the missing exon region and a reference to a study. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable or requires emphasis. However, the sentence does not overly emphasize or repeat the information, so it largely meets the requirement. The score reflects that while the sentence is informative, it could be redundant if the infobox already contains this detail."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This variability in splicing may influence the protein's function and interaction with other cellular components.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It discusses variability in splicing and its potential effects, but it does not introduce or outline the main topic or purpose of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein or gene, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence should specify a particular protein or gene using the appropriate naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions variability in splicing and its potential influence on protein function and interactions, which touches on the aspect of function. However, it does not summarize the article concisely or cover key aspects like structure and clinical significance. It lacks the breadth and depth needed to serve as a lead summarizing the entire article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not explicitly repeat information, but without context from the infobox, it's unclear if the information about splicing variability and its influence on protein function is already covered. Assuming the infobox contains similar details, the sentence could be seen as redundant unless this aspect is particularly notable or requires emphasis. The score reflects a potential overlap, but without more context, it is not possible to definitively say it violates the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Function\nThe ANLN gene encodes anillin, a multifunctional protein that plays a pivotal role in cytokinesis, the process of cell division.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a brief introduction to the ANLN gene and its function, which partially defines the scope of the article. However, it does not fully adhere to the recommended UniProt naming conventions, as it lacks specific details such as the organism or context in which the gene is being discussed. Additionally, it does not clearly outline the broader scope or focus of the article beyond the function of the ANLN gene."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"ANLN\" and describes the protein as \"anillin.\" However, it does not specify whether \"anillin\" is the recommended UniProt protein name or if it is using the HUGO gene symbol with disambiguation. To fully meet the requirement, the sentence should clarify if \"anillin\" is the recommended UniProt name or provide the necessary disambiguation if using the HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the function of the ANLN gene, specifically mentioning its role in encoding anillin and its involvement in cytokinesis. However, it lacks information on the gene's structure and clinical significance, which are key aspects mentioned in the requirement. Additionally, the sentence does not summarize an article but rather provides a single fact, which limits its ability to meet the requirement of a comprehensive lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides information about the ANLN gene and its role in encoding anillin, which is involved in cytokinesis. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable. However, the sentence does emphasize the multifunctional nature of the protein and its pivotal role, which could justify its inclusion. The score reflects that while the sentence may repeat information, it adds some emphasis that could be considered notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Anillin is essential for the proper formation and ingression of the cleavage furrow during cytokinesis, facilitating the physical separation of daughter cells.",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific function of Anillin related to cytokinesis, which is informative but does not clearly define the overall scope of the article. Additionally, it does not explicitly follow the recommended UniProt naming conventions, which typically include the protein name, its function, and its organism. To better meet the requirement, the sentence should introduce the broader context or focus of the article and adhere to the naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Anillin,\" which is the HUGO gene symbol (ANLN). However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The UniProt recommended name for Anillin is \"Anillin,\" which is the same as the gene symbol. The sentence partially meets the requirement by using a name that is both the gene symbol and the UniProt name, but it does not clarify this dual usage. Therefore, the score is not a full 1.0."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a concise summary of Anillin's role in cytokinesis, specifically mentioning its function in cleavage furrow formation and cell separation. However, it lacks information on the structure and clinical significance of Anillin, which are key aspects mentioned in the requirement. To better meet the requirement, the sentence should include these additional elements."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides information about Anillin's role in cytokinesis, which may already be present in an infobox. If this information is not particularly notable or does not require emphasis beyond what is in the infobox, it may be considered repetitive. However, without knowing the specific content of the infobox, it's difficult to fully assess the necessity of this repetition. The score reflects a balance between potential redundancy and the possibility that the information is emphasized for a reason."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "It achieves this by interacting with critical cytoskeletal components such as actin, myosin, and septins, which are integral to the contractile ring at the site of division (Suzuki2005ANLN; Magnusson2016ANLN).",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It describes a specific biological interaction but does not provide an overview or context for the article's content. Additionally, it lacks any mention of UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence mentions proteins such as actin, myosin, and septins, but it does not specify whether these names are the recommended UniProt protein names or HUGO gene symbols. Without this clarification, it is unclear if the requirement to use the recommended UniProt protein name or the HUGO gene symbol is being met. Additionally, the sentence includes references (Suzuki2005ANLN; Magnusson2016ANLN) that do not clarify the naming convention used. To improve the score, the sentence should explicitly use the recommended UniProt protein names or the HUGO gene symbols with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific details about the interaction of cytoskeletal components but does not summarize the article's key aspects such as structure, function, and clinical significance. It lacks a broader context or overview that would be expected in a lead summary. Additionally, it includes specific references, which are not necessary for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the interaction with cytoskeletal components, which may not be present in the infobox. However, without knowing the content of the infobox, it's difficult to fully assess redundancy. The sentence seems to emphasize the importance of these interactions, which could justify its inclusion even if similar information is in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In addition to its role in cell division, anillin is involved in maintaining cell morphology and polarity.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions the functions of anillin in cell division, morphology, and polarity, but it does not define the scope of an article or follow the recommended UniProt naming conventions. It lacks context about the article's focus and does not introduce the topic in a way that sets the scope for the entire article. To better meet the requirement, the sentence should clearly state the article's main topic and adhere to any specific naming conventions provided by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"anillin,\" which is the common name for the protein. However, the requirement specifies using the recommended UniProt protein name if it is relatively short, or the HUGO gene symbol with disambiguation if necessary. Without additional context, it's unclear if \"anillin\" is the recommended UniProt name or if the HUGO gene symbol should be used. The sentence partially meets the requirement by using a known name, but it does not clarify if it aligns with the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions anillin's role in cell division and its involvement in maintaining cell morphology and polarity, which touches on its function. However, it does not address the structure or clinical significance of anillin, nor does it provide a comprehensive summary of an article. The sentence lacks coverage of key aspects and is not a complete summary, thus not meeting the requirement effectively."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence introduces additional information about anillin's roles beyond cell division, which may not be present in the infobox. However, without knowing the specific content of the infobox, it's difficult to fully assess whether the information is repeated. Assuming the infobox primarily focuses on cell division, this sentence likely adds value by mentioning cell morphology and polarity, thus meeting the requirement to avoid unnecessary repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "During the interphase of the cell cycle, anillin is predominantly located in the nucleus, but it relocates to the cytoplasm and cell cortex during mitosis, where it interacts with various proteins to regulate the cytoskeleton's dynamics (Naydenov2020Anillin; Magnusson2016ANLN).",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about the behavior of anillin during the cell cycle, but it does not define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name and its gene symbol in parentheses. The sentence lacks a broader context or introduction to the article's main focus."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"anillin,\" which is the common name for the protein encoded by the ANLN gene. However, it does not specify whether \"anillin\" is the recommended UniProt protein name or if the HUGO gene symbol (ANLN) should be used. To fully meet the requirement, the sentence should clarify if \"anillin\" is the recommended UniProt name or use the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the location and function of anillin during the cell cycle, which partially addresses the requirement to cover structure and function. However, it lacks a comprehensive summary of the article, as it does not mention the clinical significance of anillin or provide a broader context. Additionally, it includes specific details and references that are not necessary for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides detailed information about the location and function of anillin during the cell cycle, which may already be present in an infobox. If this information is not particularly notable or does not require emphasis, it could be considered repetitive. However, without knowing the content of the infobox, it's difficult to fully assess the necessity of this repetition. The score reflects this uncertainty."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This dynamic localization underscores its versatile role in cellular structure and function.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It is a descriptive statement about dynamic localization and its role in cellular structure and function, but it lacks any indication of the article's scope or adherence to specific naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein or gene, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To fulfill the requirement, the sentence should include a specific protein or gene name in the appropriate format."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions \"dynamic localization\" and its role in \"cellular structure and function,\" which touches on structure and function aspects. However, it lacks any mention of clinical significance and does not provide a comprehensive summary of an article. It is too vague and does not cover key aspects in detail, making it insufficient as a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence does not provide enough context to determine if it repeats information from the infobox. Without knowing the content of the infobox, it's unclear if the sentence is redundant or if it emphasizes particularly notable information. The score reflects this uncertainty."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Furthermore, anillin plays a significant role in the assembly of adherens and tight junctions in epithelial cells, contributing to cellular barrier integrity.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides information about the role of anillin in epithelial cells, but it does not define the scope of an article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the standard protein or gene names as recognized by UniProt. The sentence lacks a clear indication of the article's overall focus or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the name \"anillin,\" which is a common name for the protein. However, it does not specify whether this is the recommended UniProt protein name or the HUGO gene symbol. To fully meet the requirement, the sentence should clarify if \"anillin\" is the recommended UniProt name or use the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the role of anillin in the assembly of adherens and tight junctions, which touches on its function and contribution to cellular barrier integrity. However, it lacks information on the structure and clinical significance of anillin, which are key aspects required by the prompt. Additionally, it does not provide a comprehensive summary of the article, as it focuses on a specific detail rather than a broader overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about anillin's role in epithelial cells, which may not be common knowledge and could be considered notable. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated. If the infobox already contains this detail, the sentence might slightly deviate from the requirement to avoid repetition unless emphasis is needed."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "It organizes the perijunctional and apical actomyosin cytoskeleton and modulates tensile forces within these structures, which is crucial for maintaining the structural integrity and function of epithelial tissues (Naydenov2020Anillin).",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides a specific detail about the function of a protein or cellular component but lacks a broader context or introduction to the article's overall focus. To meet the requirement, the sentence should clearly outline the main topic or objective of the article and adhere to naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the score, the sentence should include the appropriate protein name or gene symbol as specified in the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the function of a specific protein in organizing the actomyosin cytoskeleton and its role in maintaining epithelial tissue integrity. However, it lacks a comprehensive summary of the article, as it does not address the structure, broader function, or clinical significance of the topic. Additionally, it references a study (Naydenov2020Anillin) without explaining its findings or implications, which limits its effectiveness as a lead summarizing the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the role of actomyosin cytoskeleton in epithelial tissues, which may not be necessary if this information is already present in the infobox. However, it does not appear to be overly repetitive or redundant, and it emphasizes the importance of these structures, which could be considered notable. The score reflects a minor deviation from the requirement, as the sentence could potentially be more concise if the information is already covered elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Clinical Significance\nANLN, the gene encoding the anillin actin-binding protein, is significantly implicated in various human cancers due to mutations and alterations in its expression.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a specific focus on the clinical significance of the ANLN gene in relation to human cancers, which partially defines the scope of the article. However, it does not fully adhere to the recommended UniProt naming conventions, as it lacks a clear introductory statement that sets the overall context or purpose of the article. Additionally, the sentence starts with a section header (\"# # Clinical Significance\") rather than a complete sentence that defines the scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"ANLN,\" which is the HUGO gene symbol for the gene encoding the anillin actin-binding protein. However, it does not specify whether the UniProt protein name is relatively short or not. If the UniProt protein name is short and recommended, it should be used instead. The sentence partially meets the requirement by using the HUGO gene symbol, but it lacks clarity on whether this is the best choice according to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence addresses the clinical significance of the ANLN gene by mentioning its implication in human cancers due to mutations and expression alterations. However, it lacks information on the structure and function of the gene, which are key aspects required for a comprehensive summary. Additionally, the sentence does not provide a concise overview of the entire article, focusing only on clinical significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the ANLN gene and its role in human cancers, which may be notable enough to warrant emphasis. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated unnecessarily. If the infobox already contains detailed information about ANLN's role in cancer, the sentence might be redundant. If not, it effectively highlights a significant aspect of the gene's clinical relevance."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Overexpression of ANLN has been observed in multiple tumor types including breast, lung, pancreatic, liver, bladder, and colorectal cancers, often correlating with poor prognosis and aggressive tumor characteristics (Liu2022Pan-cancer; Wang2016Overexpression).",
+      "title": "Introduction",
+      "score": 0.5,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides information about the overexpression of ANLN in various tumor types and its correlation with prognosis, which suggests a focus on cancer research. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the article's scope and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"ANLN\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should be used according to the requirement. The sentence partially meets the requirement by using a recognized gene symbol, but it does not check if the UniProt name is short and suitable for use."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the clinical significance of ANLN overexpression in various tumor types, highlighting its correlation with poor prognosis and aggressive tumor characteristics. However, it lacks information on the structure and function of ANLN, which are key aspects mentioned in the requirement. To fully meet the requirement, the sentence should include a brief mention of ANLN's structure and function."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides detailed information about the overexpression of ANLN in various tumor types and its correlation with poor prognosis and aggressive characteristics. If this information is already present in the infobox, it may be somewhat repetitive. However, the sentence does emphasize the correlation with prognosis and tumor characteristics, which could be considered notable. The score reflects that while the sentence may repeat some infobox content, it adds value by highlighting the significance of the overexpression."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Specifically, in non-small cell lung cancer (NSCLC), ANLN overexpression is linked to tumor progression and shorter cancer-specific survival times (Suzuki2005ANLN).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions a specific aspect of non-small cell lung cancer (NSCLC) related to ANLN overexpression, but it does not define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein or gene names. The sentence lacks a broader context or introduction to the main topic of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"ANLN,\" which is the HUGO gene symbol for anillin. However, it does not specify whether \"ANLN\" is the recommended UniProt protein name or if it should be disambiguated. To fully meet the requirement, the sentence should clarify if \"ANLN\" is the appropriate term according to UniProt or provide the UniProt protein name if it is relatively short."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about ANLN overexpression in non-small cell lung cancer and its association with tumor progression and survival times. However, it does not summarize the article concisely or cover key aspects such as structure, function, and clinical significance comprehensively. It lacks context and broader information that would be necessary for a complete summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about ANLN overexpression in non-small cell lung cancer, which may be notable or require emphasis if not already detailed in the infobox. However, without knowing the content of the infobox, it's difficult to fully assess redundancy. If this information is already present in the infobox and not particularly notable, the sentence could be seen as repetitive."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In colorectal cancer, elevated levels of ANLN are associated with deeper tumor invasion, larger tumor size, and worse overall survival, establishing ANLN as an independent prognostic factor (Wang2016Overexpression).",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides information about the role of ANLN in colorectal cancer, suggesting it is a prognostic factor. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and ensure that protein names adhere to UniProt standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"ANLN,\" which is the HUGO gene symbol for the protein Anillin. The requirement suggests using the recommended UniProt protein name if it is relatively short. \"Anillin\" is a relatively short name and could have been used instead of the gene symbol. Therefore, the sentence partially meets the requirement by using a recognized symbol, but it does not fully comply by opting for the UniProt protein name when it is short."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.7,
+          "feedback": [
+            "The sentence effectively summarizes the clinical significance of ANLN in colorectal cancer by highlighting its association with tumor characteristics and survival outcomes, thus establishing it as a prognostic factor. However, it lacks details on the structure and function of ANLN, which are key aspects mentioned in the requirement. Including a brief mention of these elements would provide a more comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of ANLN in colorectal cancer, which may not be detailed in an infobox. It highlights ANLN's association with tumor characteristics and survival, establishing it as a prognostic factor. If this information is not already in the infobox, it is notable and relevant. However, if the infobox already contains this level of detail, the sentence could be seen as repetitive. The score reflects the potential for redundancy depending on the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Furthermore, ANLN mutations have been identified in various conditions.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions \"ANLN mutations\" and their identification in various conditions, which could hint at the article's focus on ANLN-related research. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the article's scope and adhere to specific naming conventions, such as using the full protein name or gene symbol as per UniProt guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"ANLN\" without disambiguation, which may be acceptable if the UniProt protein name is significantly longer or less recognizable. However, without knowing the length or common usage of the UniProt protein name, it's unclear if this choice fully meets the requirement. Providing the UniProt protein name or ensuring disambiguation could improve clarity."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions the identification of ANLN mutations in various conditions, which touches on clinical significance. However, it lacks information on structure and function, and it does not provide a comprehensive summary of the article. The sentence is too vague and does not cover key aspects as required."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence \"Furthermore, ANLN mutations have been identified in various conditions\" is a general statement that may repeat information typically found in an infobox, such as the presence of mutations in certain conditions. However, without knowing the specific content of the infobox, it's difficult to determine if this information is redundant. The sentence does not emphasize or provide notable details about the mutations, which could have justified its inclusion. Therefore, it mostly meets the requirement but could be improved by ensuring it adds new or emphasized information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "A missense mutation in ANLN is linked to focal segmental glomerulosclerosis, a disease leading to kidney failure (Deng2018Identification).",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about a missense mutation in the ANLN gene and its link to a particular disease, which is relevant to the scope of an article. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name followed by the gene name in parentheses. The sentence lacks a broader context or introduction to the main focus of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"ANLN\" instead of the recommended UniProt protein name. The requirement suggests using the UniProt protein name if it is relatively short, which is not addressed in the sentence. However, the gene symbol is correctly used with disambiguation, which partially meets the requirement. To fully meet the requirement, the sentence should verify if the UniProt protein name is short and use it if applicable."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the article's clinical significance by linking a missense mutation in ANLN to a specific disease, focal segmental glomerulosclerosis, which leads to kidney failure. However, it lacks information on the structure and function aspects of the mutation or the gene involved, which are key components of the requirement. Additionally, the citation style \"(Deng2018Identification)\" is not standard and could be clearer."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about a missense mutation in the ANLN gene and its link to a particular disease, which may not be common knowledge and could be considered notable. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated. Assuming the infobox contains similar details, the sentence could be seen as redundant unless the mutation's link to the disease is particularly emphasized or notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, a specific mutation in ANLN has been associated with branchio-otic syndrome, marking its first identification with this genetic disorder (Deng2018Identification).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It mentions a specific mutation in ANLN associated with a genetic disorder, which could be part of the article's content, but it does not clearly establish the overall scope or context. Additionally, it lacks the use of UniProt naming conventions, which typically involve standardized protein or gene names and identifiers."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"ANLN\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used. However, if the UniProt name is long or not well-known, using the HUGO gene symbol is acceptable. The sentence does not provide disambiguation for \"ANLN,\" which might be necessary if there are multiple proteins or genes with similar names."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about a mutation in ANLN being associated with branchio-otic syndrome, which touches on clinical significance. However, it lacks information on the structure and function of ANLN, and it does not provide a comprehensive summary of the article. The sentence is too focused on a single aspect and does not cover the key aspects required by the prompt."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence introduces new information about a specific mutation in ANLN being associated with branchio-otic syndrome, which may not be present in the infobox. It seems to emphasize the novelty of this identification, which could be considered notable. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated. The sentence appears to meet the requirement by potentially highlighting a significant finding."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These findings underscore the clinical significance of ANLN in both oncological and non-oncological diseases, highlighting its potential as a target for therapeutic intervention and as a biomarker for disease prognosis.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general overview of the article's focus on the clinical significance of ANLN in diseases and its potential as a therapeutic target and biomarker. However, it does not clearly define the scope of the article in a detailed manner, nor does it explicitly follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should more explicitly outline the specific aspects or areas the article will cover and ensure adherence to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"ANLN,\" which is the HUGO gene symbol for anillin. However, it does not specify whether this is the recommended UniProt protein name or if disambiguation is necessary. To fully meet the requirement, the sentence should clarify if \"ANLN\" is the appropriate term to use or if the UniProt protein name should be used instead."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.7,
+          "feedback": [
+            "The sentence effectively highlights the clinical significance of ANLN and its potential as a therapeutic target and biomarker, which are key aspects of the article. However, it lacks specific mention of ANLN's structure and function, which are also important components of the requirement. Including these elements would provide a more comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence effectively highlights the significance of ANLN in diseases and its potential as a therapeutic target and biomarker. However, without knowing the content of the infobox, it's difficult to fully assess if the information is repetitive. Assuming the infobox contains similar details, the sentence may slightly reiterate existing information, but it does emphasize the importance of ANLN, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Interactions\nANLN, an actin-binding protein, is involved in various physical interactions that are crucial for cell division and cancer progression.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about ANLN, mentioning its role in cell division and cancer progression, which could hint at the scope of the article. However, it does not clearly define the scope of the article as a whole. Additionally, it does not follow the recommended UniProt naming conventions, which typically include the full name of the protein, its gene name, and species information. The sentence lacks these elements, which are crucial for meeting the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"ANLN,\" which is the HUGO gene symbol for the protein Anillin. The requirement suggests using the recommended UniProt protein name if it is relatively short. In this case, \"Anillin\" is a relatively short name and could have been used instead of the gene symbol. Therefore, the sentence partially meets the requirement by using a recognized identifier but does not fully comply by opting for the gene symbol over the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief mention of ANLN as an actin-binding protein involved in physical interactions related to cell division and cancer progression. However, it lacks coverage of key aspects such as the structure and detailed function of ANLN, as well as its clinical significance. The sentence is too vague and does not summarize the article comprehensively, missing important elements required by the lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about ANLN's role in cell division and cancer progression, which may not be redundant if the infobox does not already contain this detail. However, without knowing the content of the infobox, it's difficult to fully assess the necessity of this repetition. If the infobox already includes this information and it is not particularly notable, the sentence could be seen as redundant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "ANLN interacts with the c-Myc protein, enhancing the stability of c-Myc and contributing to its oncogenic role in head and neck squamous cell carcinoma (HNSCC) (Guo2021Alternatively).",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the interaction between ANLN and c-Myc in the context of head and neck squamous cell carcinoma, which could be part of the article's scope. However, it does not clearly define the overall scope of the article. Additionally, the sentence does not follow the recommended UniProt naming conventions, which typically involve using the full protein name followed by the gene name in parentheses. The citation format \"(Guo2021Alternatively)\" is also unconventional and unclear."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"ANLN\" and \"c-Myc,\" which are gene symbols rather than the recommended UniProt protein names. While \"c-Myc\" is a commonly used name, it is not the official UniProt name. The sentence partially meets the requirement by using recognizable gene symbols, but it does not fully comply with the instruction to use UniProt names or provide disambiguation for the gene symbols."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a specific detail about the interaction between ANLN and c-Myc, highlighting its role in the stability and oncogenic function of c-Myc in head and neck squamous cell carcinoma. However, it lacks a comprehensive summary of the article, as it does not address the overall structure, broader function, or clinical significance beyond this specific interaction. Additionally, it does not provide context or background information that would help in understanding the full scope of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interaction between ANLN and c-Myc, which may not be common knowledge or already present in an infobox. It highlights the role of this interaction in the context of head and neck squamous cell carcinoma, which could be considered notable. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this repetition. The score reflects a reasonable assumption that this detail might not be redundant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This interaction is facilitated by a conserved binding domain at the N-terminal of the ANLN-201 isoform, which is absent in ANLN-210, indicating isoform-specific interactions (Guo2021Alternatively).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides specific information about isoform-specific interactions involving ANLN-201 and ANLN-210, but it lacks a broader context or introduction to the article's overall focus. Additionally, the citation format \"(Guo2021Alternatively)\" does not align with UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"ANLN\" which is the HUGO gene symbol for the protein Anillin. However, it does not specify whether \"ANLN\" is the recommended UniProt protein name or if disambiguation is necessary. To fully meet the requirement, the sentence should clarify if \"ANLN\" is the appropriate name to use according to UniProt or provide disambiguation if needed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the interaction facilitated by a binding domain in the ANLN-201 isoform, but it does not summarize the article concisely. It lacks information on the overall structure, function, and clinical significance of the topic discussed in the article. Additionally, it includes unnecessary detail about isoform-specific interactions without providing a broader context."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interaction facilitated by a conserved binding domain in the ANLN-201 isoform, which is absent in ANLN-210. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does emphasize the isoform-specific nature of the interaction, which could be notable. The score reflects that while the sentence may repeat information, it also highlights a potentially important distinction between the isoforms."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, ANLN-210 interacts with the RNA-binding protein hnRNPC, which is essential for the exosomal transfer of ANLN-210 to macrophages, influencing tumor growth through the PTEN/PI3K/Akt signaling pathway (Guo2021Alternatively).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it provides specific information about a protein interaction and its effects on tumor growth. To meet the requirement, the sentence should introduce the main topic or focus of the article and adhere to UniProt naming conventions for proteins."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"hnRNPC,\" which is the HUGO gene symbol for the RNA-binding protein. However, it does not specify whether this is the recommended UniProt protein name or if it should be disambiguated. The sentence partially meets the requirement by using a gene symbol, but it lacks clarity on whether this is the best choice according to the requirement. To fully meet the requirement, the sentence should confirm if \"hnRNPC\" is the recommended UniProt name or provide disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific details about the interaction between ANLN-210 and hnRNPC, as well as its influence on tumor growth through a specific signaling pathway. However, it does not effectively summarize the article as a whole, lacking coverage of key aspects such as the overall structure, broader function, and clinical significance of the study. Additionally, the citation format is incorrect, which may detract from clarity. The sentence is too focused on a specific detail rather than providing a concise summary of the entire article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the interaction between ANLN-210 and hnRNPC, as well as its impact on tumor growth through a specific signaling pathway. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable. However, the sentence does not appear to be overly redundant or unnecessary, so it largely meets the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In the context of hepatocellular carcinoma, ANLN interacts with various kinases such as PLK1, CDK1, and AURKB, which are involved in cell cycle regulation and mitotic processes (Hu2020Up-regulated).",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the interaction of ANLN with certain kinases in the context of hepatocellular carcinoma, which is a detailed aspect of the article's content. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein names and their corresponding gene names in italics. To better meet the requirement, the sentence should provide a broader overview of the article's focus and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses HUGO gene symbols (PLK1, CDK1, AURKB) instead of the recommended UniProt protein names. While the gene symbols are commonly used, the requirement specifies using UniProt names if they are relatively short. The sentence partially meets the requirement by using gene symbols, but it does not fully comply with the preference for UniProt names."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the interaction of ANLN with kinases in the context of hepatocellular carcinoma, focusing on cell cycle regulation and mitotic processes. However, it does not summarize the article concisely or cover key aspects such as structure, function, and clinical significance comprehensively. It lacks a broader overview and context, which are necessary to meet the requirement of summarizing the article effectively."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interaction of ANLN with kinases in the context of hepatocellular carcinoma, which may not be common knowledge or already present in an infobox. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this information. The sentence seems to emphasize the role of ANLN in cell cycle regulation, which could be notable, but the score reflects the uncertainty regarding the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Moreover, ANLN directly interacts with RhoA in breast cancer cells, promoting doxorubicin resistance by activating RhoA and enhancing cell viability (Wang2020).",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about a biological interaction and its effects in breast cancer cells, which could be part of the article's scope. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, as it uses \"ANLN\" and \"RhoA\" without specifying their full names or UniProt identifiers. To better meet the requirement, the sentence should clearly outline the article's main focus and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RhoA,\" which is both the HUGO gene symbol and the recommended UniProt protein name, so it meets the requirement for RhoA. However, \"ANLN\" is the HUGO gene symbol for anillin, and the sentence does not use the recommended UniProt protein name, which is \"Anillin.\" Therefore, the sentence partially meets the requirement by correctly using the name for RhoA but not for ANLN."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a specific finding from the article, mentioning the interaction between ANLN and RhoA in breast cancer cells and its effect on doxorubicin resistance. However, it lacks a comprehensive summary of the article's key aspects such as the overall structure, broader function, and clinical significance. It focuses on a specific detail rather than providing a concise overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interaction between ANLN and RhoA in breast cancer cells, which may not be common knowledge or present in an infobox. It also includes a citation, suggesting that the information might be notable or require emphasis. However, without knowing the content of the infobox, it's difficult to fully assess whether the information is repeated. The sentence is likely to meet the requirement well, assuming the details are not redundant with the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These interactions underline the multifaceted role of ANLN in regulating cellular processes and its potential as a therapeutic target in various cancers.",
+      "title": "Introduction",
+      "score": 0.5,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions the role of ANLN in cellular processes and its potential as a therapeutic target in cancers, which hints at the scope of the article. However, it does not explicitly define the scope or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should clearly state the focus of the article and adhere to specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"ANLN,\" which is the HUGO gene symbol for the protein Anillin. The requirement suggests using the recommended UniProt protein name if it is relatively short. Since \"Anillin\" is a short name, it would have been more appropriate to use it instead of the gene symbol. The sentence partially meets the requirement by using a recognized symbol, but it does not fully comply with the preference for the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence touches on the function and clinical significance of ANLN by mentioning its role in regulating cellular processes and its potential as a therapeutic target in cancers. However, it lacks information about the structure of ANLN and does not provide a comprehensive summary of the article. It is concise but omits key aspects required by the prompt."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence effectively summarizes the role of ANLN without unnecessary repetition, assuming the infobox contains detailed information about ANLN's functions and therapeutic potential. However, if the infobox already emphasizes these points, the sentence could be seen as redundant. The score reflects that while the sentence is concise, it may not add significant new information if the infobox is comprehensive."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # References\n\n\n[1.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow any naming conventions, including those recommended by UniProt. It appears to be an incomplete or incorrectly formatted reference section header rather than a sentence that introduces or defines the scope of an article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any information related to the use of UniProt protein names or HUGO gene symbols. It appears to be an incomplete or incorrectly formatted reference section, and thus does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a fragment or a heading related to references, and it does not summarize any article or cover key aspects like structure, function, or clinical significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 1.0,
+          "feedback": [
+            "The sentence provided does not repeat any information from an infobox, as it is simply a heading for a references section. Therefore, it fully meets the requirement of avoiding repetition of infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Deng2018Identification) Lisha Deng, Yuanzhen Liu, Wenjun Xia, Jiongjiong Hu, and Zhaoxin Ma.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It lists authors' names and a reference identifier, which does not meet the requirement of defining the article's scope or following UniProt naming conventions. To meet the requirement, the sentence should clearly state the main focus or subject of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. It appears to be a citation or reference to a publication, listing authors' names, rather than discussing protein names or gene symbols. To meet the requirement, the sentence should include a reference to a UniProt protein name or a HUGO gene symbol, depending on the length and context."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It only lists the authors of the article and does not cover any key aspects such as structure, function, or clinical significance. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes author names and publication details. If this information is already present in an infobox, repeating it in the main text may not be necessary unless it is particularly notable. However, without additional context, it's unclear if this repetition is justified. The sentence mostly meets the requirement, but the score reflects the potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Identification of anln as a new likely pathogenic gene of branchio\u00e2\u0080\u0090otic syndrome in a three\u00e2\u0080\u0090generation chinese family.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence partially defines the scope of the article by indicating the identification of a new gene related to branchio-otic syndrome in a specific family. However, it does not fully adhere to the UniProt naming conventions, as \"anln\" should be formatted according to those guidelines. Additionally, the sentence lacks clarity and completeness in defining the broader scope of the article, such as the methods used or the significance of the findings."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"anln\" as the gene name, which is the HUGO gene symbol for \"anillin.\" However, it does not provide any disambiguation or context to clarify this. If \"anillin\" is the recommended UniProt protein name and is relatively short, it should be used instead. The sentence partially meets the requirement by using the gene symbol, but it lacks clarity and disambiguation."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence identifies the discovery of a new gene, \"anln,\" associated with branchio-otic syndrome in a specific family, which touches on the clinical significance. However, it lacks details on the gene's structure and function, and it does not provide a comprehensive summary of the article's key aspects. Additionally, the sentence includes unnecessary detail about the family being three generations and Chinese, which may not be essential for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a concise and specific statement about the identification of a new gene related to a syndrome in a particular family. Without the context of the infobox, it's difficult to determine if the information is repeated. However, the sentence does not seem to contain unnecessary repetition and focuses on a specific finding, which could be considered notable. The score reflects a good adherence to the requirement, assuming the information is not redundant with the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Molecular Genetics &amp; Genomic Medicine, December 2018.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of an article nor does it follow the recommended UniProt naming conventions. It appears to be a citation or reference to a journal issue and does not contain any information about the content or scope of an article. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It does not mention any protein name or gene symbol, whether from UniProt or HUGO. It only provides a journal name and date, which is unrelated to the requirement of using specific protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation or reference to a publication (\"Molecular Genetics & Genomic Medicine, December 2018\") and does not summarize an article. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence \"Molecular Genetics &amp; Genomic Medicine, December 2018.\" is concise and does not appear to repeat information unnecessarily. However, without context from the infobox, it's unclear if this information is already present there. Assuming it is, the sentence does not emphasize or highlight any notable aspect, which could be a minor issue if the requirement is to avoid repetition unless notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1002/mgg3.525 , doi:10.1002/mgg3.525.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It only provides a URL and a DOI, which are identifiers for accessing the article, but it does not define the scope of the article or follow any naming conventions, such as those recommended by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only provides a URL and a DOI, which are unrelated to the use of UniProt protein names or HUGO gene symbols. There is no mention of any protein name or gene symbol in the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, without any summary of the article's content. There is no information about the article's structure, function, or clinical significance, nor is there any attempt to summarize the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement. However, the sentence does provide both the URL and DOI format, which could be useful in some contexts, hence a middle score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(5 citations) 10.1002/mgg3.525]( https://doi.org/10.1002/mgg3.525 )\n\n[2.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow any naming conventions, including those recommended by UniProt. It appears to be a citation or reference rather than a descriptive sentence about the article's content. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be an incomplete citation or reference link rather than a summary of an article. It does not cover any key aspects such as structure, function, or clinical significance, nor does it provide any concise summary of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information from an infobox, as it seems to be a citation reference. However, without context or access to the infobox, it's difficult to fully assess whether the information is repeated. The score reflects that the sentence likely meets the requirement, assuming the citation is not redundant with the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Liu2022Pan-cancer) Kejun Liu, Lei Cui, Cunquan Li, Chaofeng Tang, Yiming Niu, Ji Hao, Yang Bu, and Bendong Chen.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation or a list of authors, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement, which is about using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation or list of authors from a study, and it does not mention any protein names or gene symbols. Therefore, it does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and only lists the authors of a study, without any summary of the article's content. It does not address the requirement to concisely summarize the article's structure, function, and clinical significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, listing authors of a study or paper. If this information is already present in an infobox, repeating it in this format may not be necessary unless the authorship is particularly notable or requires emphasis. The sentence could be improved by integrating the information in a way that highlights its importance or relevance, if applicable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Pan-cancer analysis of the prognostic and immunological role of anln: an onco-immunological biomarker.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by indicating the scope of the article, which is a pan-cancer analysis focusing on the prognostic and immunological role of \"anln\" as an onco-immunological biomarker. However, it does not fully adhere to the UniProt naming conventions, as \"anln\" should be capitalized as \"ANLN\" to align with the standard protein naming format. Additionally, the sentence could be more explicit in defining the scope by providing more context or details about the analysis."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"anln,\" which appears to be a gene symbol. However, it is not clear if this is the recommended UniProt protein name or the HUGO gene symbol. The requirement specifies using the UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary. Without additional context, it's unclear if \"anln\" meets these criteria, leading to a partial score."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a general overview of the article's focus on the prognostic and immunological role of ANLN as an onco-immunological biomarker in a pan-cancer analysis. However, it lacks specific details about the structure, function, and clinical significance of ANLN, which are key aspects mentioned in the requirement. The sentence is concise but does not fully summarize the article's content as required."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a concise title or summary of a study, which is typically acceptable to repeat if it is particularly notable or requires emphasis. However, without context on what is in the infobox, it's difficult to fully assess if the repetition is necessary. Assuming the sentence is a key point or title, it generally meets the requirement, but the score reflects the uncertainty due to lack of context."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Frontiers in Genetics, August 2022.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Frontiers in Genetics, August 2022.\" does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It merely provides a publication name and date, lacking any information about the article's content or adherence to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation or reference to a publication, which is unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is merely a citation and does not summarize the article at all. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence \"Frontiers in Genetics, August 2022\" may repeat information that is likely present in an infobox, such as the publication name and date. However, without context, it's unclear if this repetition is notable or requires emphasis. The score reflects the potential redundancy, but acknowledges that the information might be important depending on the context."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.3389/fgene.2022.922472 , doi:10.3389/fgene.2022.922472.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It only provides a URL and a DOI, which are identifiers for accessing the article, but it does not define the scope of the article or follow any naming conventions, such as those recommended by UniProt. To meet the requirement, the sentence should include a description of the article's content or focus."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI reference, with no mention of a UniProt protein name or a HUGO gene symbol. To meet the requirement, the sentence should include a reference to a protein name or gene symbol, using the recommended UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary or information about the article's content, structure, function, or clinical significance. To meet the requirement, the sentence should concisely summarize the key aspects of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information twice, which does not meet the requirement to avoid repeating information unless it is particularly notable or requires emphasis. The repetition does not add value or emphasis, so the sentence could be improved by removing the redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(9 citations) 10.3389/fgene.2022.922472]( https://doi.org/10.3389/fgene.2022.922472 )\n\n[3.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation or reference to a DOI link, which does not fulfill the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a sentence discussing proteins or genes."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It appears to be a citation or reference to an article, rather than a summary. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of providing a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation reference, which is typically included in an infobox. However, without additional context, it's unclear if this information is repeated from an infobox or if it is particularly notable. The score reflects that it likely meets the requirement, but the lack of context prevents a perfect score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Piekny2008Anillin) Alisa J. Piekny and Michael Glotzer.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It appears to be a citation or reference to authors and a publication year, rather than a sentence that introduces or defines the scope of an article. To meet the requirement, the sentence should clearly state the topic or focus of the article and adhere to any specific naming conventions outlined by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not use either the recommended UniProt protein name or the HUGO gene symbol. Instead, it appears to be a citation or reference format, which does not address the requirement of naming a protein using the specified conventions."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains the authors' names and a citation, without any summary of the article's content. There is no information about the structure, function, or clinical significance of the topic, nor any concise summary of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference to a work by Alisa J. Piekny and Michael Glotzer, likely related to a study or paper on Anillin. If this information is already present in an infobox, it may not need to be repeated unless it is particularly notable or requires emphasis. The sentence does not provide additional context or emphasis, so it could be seen as redundant. However, without knowing the full context of the infobox, it's difficult to determine the necessity of this repetition, hence the relatively high score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Anillin is a scaffold protein that links rhoa, actin, and myosin during cytokinesis.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a brief description of Anillin's function, which is a good start for defining the scope of an article. However, it does not fully meet the requirement of defining the scope of the article, as it lacks context about the broader topic or focus of the article. Additionally, it does not explicitly follow the recommended UniProt naming conventions, which typically include the full name of the protein, its function, and its organism of origin. To improve, the sentence should provide a clearer indication of the article's focus and adhere more closely to UniProt conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Anillin,\" which is the HUGO gene symbol (ANLN) rather than the recommended UniProt protein name. The requirement suggests using the UniProt name if it is relatively short, which in this case is \"Anillin\" as well. However, the sentence does not clarify whether \"Anillin\" is being used as the gene symbol or the protein name, leading to potential ambiguity. Additionally, \"rhoa\" should be capitalized as \"RhoA\" to reflect the correct gene/protein naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of Anillin's function by mentioning its role as a scaffold protein linking RhoA, actin, and myosin during cytokinesis. However, it lacks information on the structure and clinical significance of Anillin, which are key aspects required for a comprehensive summary. Additionally, the sentence does not provide enough context or detail to serve as a complete lead for an article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise description of Anillin's function, which may be notable enough to include even if it is present in the infobox. However, without knowing the specific content of the infobox, it's difficult to fully assess the necessity of this repetition. If the information is not particularly notable or emphasized, it might slightly detract from the requirement to avoid repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Current Biology, 18(1):30\u00e2\u0080\u009336, January 2008.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of an article. It also does not follow any naming conventions, such as those recommended by UniProt. To meet the requirement, the sentence should clearly outline the article's scope and adhere to the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not contain any protein names or gene symbols. Therefore, it cannot be evaluated against the requirement, which pertains to the use of UniProt protein names or HUGO gene symbols. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's content, such as structure, function, or clinical significance. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes information such as the journal name, volume, issue, page numbers, and date. If this information is already present in an infobox, repeating it in the main text may not be necessary unless it is particularly notable or requires emphasis. The score reflects that while the sentence is concise and factual, it may not fully meet the requirement to avoid repetition if the same details are already in an infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1016/j.cub.2007.11.068 , doi:10.1016/j.cub.2007.11.068.",
+      "title": "Introduction",
+      "score": 0.09,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It only contains a URL and a DOI, which are identifiers for accessing the article, but do not provide any information about the content or scope of the article itself."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It contains a URL and a DOI reference, but it does not mention any protein names or gene symbols, nor does it attempt to use the recommended UniProt protein name or the HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary or information about the article's structure, function, or clinical significance. There is no content to evaluate against the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.3,
+          "feedback": [
+            "The sentence repeats the DOI information twice, which is unnecessary and does not meet the requirement to avoid repeating information unless it is particularly notable or requires emphasis. The repetition does not add value or emphasis, thus lowering the score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(476 citations) 10.1016/j.cub.2007.11.068]( https://doi.org/10.1016/j.cub.2007.11.068 )\n\n[4.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation reference rather than a descriptive sentence about the article's content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference, which is unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It only includes a citation count and a DOI link, without any information about the article's content, structure, function, or clinical significance. To meet the requirement, the sentence should provide a concise summary of the article's key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation count and a DOI link, which are likely to be present in an infobox. However, the citation count could be considered notable information that might warrant emphasis. The sentence is concise and does not overly repeat information, thus it mostly meets the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Suzuki2005ANLN) Chie Suzuki, Yataro Daigo, Nobuhisa Ishikawa, Tatsuya Kato, Satoshi Hayama, Tomoo Ito, Eiju Tsuchiya, and Yusuke Nakamura.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly state the topic or focus of the article in accordance with UniProt guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any information about protein names or gene symbols, nor does it attempt to use the UniProt protein name or HUGO gene symbol. It appears to be a citation or list of authors, which is unrelated to the requirement of using specific naming conventions for proteins or genes. Therefore, it does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation listing authors and does not summarize an article. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, listing authors of a work. If this information is already present in an infobox, repeating it in the main text may not be necessary unless the authorship is particularly notable or requires emphasis. The sentence does not provide additional context or explanation, which could help justify its repetition outside of the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Anln plays a critical role in human lung carcinogenesis through the activation of rhoa and by involvement in the phosphoinositide 3-kinase/akt pathway.",
+      "title": "Introduction",
+      "score": 0.5,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially defines the scope of the article by indicating that it discusses the role of Anln in human lung carcinogenesis. However, it does not fully adhere to the recommended UniProt naming conventions, as \"Anln\" should be specified more clearly, possibly with its full name or identifier. Additionally, the sentence could be more explicit in outlining the broader context or focus of the article beyond the specific pathways mentioned."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Anln,\" which is the HUGO gene symbol for the protein Anillin. However, it does not provide any disambiguation, which might be necessary for clarity. Additionally, it does not use the recommended UniProt protein name, which could be more informative if it is relatively short. The sentence partially meets the requirement by using the gene symbol, but it lacks disambiguation and does not consider the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the article's focus on Anln's role in lung carcinogenesis, mentioning its activation of RhoA and involvement in a specific pathway. However, it lacks details on the structure and clinical significance of Anln, which are key aspects required by the prompt. Additionally, the sentence could be clearer and more comprehensive in summarizing the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides specific information about the role of Anln in human lung carcinogenesis, mentioning the activation of rhoa and involvement in the phosphoinositide 3-kinase/akt pathway. Without knowing the content of the infobox, it's unclear if this information is repeated. If the infobox already contains this detailed information, the sentence may not meet the requirement to avoid repetition unless this detail is particularly notable. The score reflects this uncertainty."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Cancer Research, 65(24):11314\u00e2\u0080\u009311325, December 2005.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly state the focus or scope of the article and adhere to any specific naming conventions outlined by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not contain any protein names or gene symbols. Therefore, it cannot be evaluated against the requirement, which pertains to the use of UniProt protein names or HUGO gene symbols. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article. It lacks any information about the article's structure, function, or clinical significance. To meet the requirement, a concise summary of the article's key aspects is needed."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes specific details such as the journal name, volume, issue, page numbers, and date. If this information is already present in an infobox, repeating it in this format might not be necessary unless it is particularly notable. However, since citations often need to be complete and precise, the repetition might be justified. The score reflects that while the sentence may repeat information, it serves a specific purpose in providing a complete reference."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1158/0008-5472.can-05-1507 , doi:10.1158/0008-5472.can-05-1507.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it contains a URL and a DOI, which are identifiers for accessing the article but do not provide any information about its content or scope. To meet the requirement, the sentence should include a clear statement about the article's focus or subject matter, using appropriate naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement, which is to use the recommended UniProt protein name or the HUGO gene symbol. Instead, the sentence contains a URL and a DOI, which are unrelated to the naming of proteins or genes. There is no mention of any protein or gene name in the sentence, so it does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI, which are identifiers for accessing the article, but it does not summarize the article's content. There is no information about the structure, function, or clinical significance of the article, nor is there any summary of its key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information twice, once as a URL and once as a DOI, which is unnecessary unless there is a specific reason to emphasize both formats. This repetition does not align well with the requirement to avoid repeating information unless it is particularly notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(220 citations) 10.1158/0008-5472.can-05-1507]( https://doi.org/10.1158/0008-5472.can-05-1507 )\n\n[5.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It appears to be a citation reference rather than a descriptive sentence about the article's content or scope. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference and does not address the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It only includes a citation count and a DOI link, without any information about the article's content, structure, function, or clinical significance. To meet the requirement, a concise summary of the article's key aspects is needed."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation reference, which may already be present in an infobox. Without additional context, it's unclear if this information is particularly notable or requires emphasis. The score reflects the potential redundancy if this information is already covered elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Guo2021Alternatively) Alternatively Spliced ANLN Isoforms Synergistically Contribute To The Progression of Head and Neck Squamous Cell Carcinoma (15 citations) 10.21203/rs.3.rs-375675/v1]( https://doi.org/10.21203/rs.3.rs-375675/v1 )\n\n[6.",
+      "title": "Introduction",
+      "score": 0.34,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides the title of the article and mentions the topic, which is the role of alternatively spliced ANLN isoforms in the progression of head and neck squamous cell carcinoma. However, it does not clearly define the scope of the article in a detailed manner. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve specific guidelines for protein and gene names. The sentence lacks clarity and detail about the article's scope and does not adhere to the naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not use any protein names or gene symbols, so it cannot be evaluated against the requirement to use the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation or reference rather than a statement about a specific protein or gene."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides the title of the article and a citation count, but it does not summarize the article's content. It lacks information on the structure, function, and clinical significance of the ANLN isoforms in relation to head and neck squamous cell carcinoma. To meet the requirement, the sentence should concisely convey these key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation and a DOI link, which are likely to be present in an infobox. However, it does not repeat any specific information that would typically be found in an infobox, such as the title, authors, or publication details, unless the citation count is considered notable. The sentence mostly adheres to the requirement, but the inclusion of the citation count might be redundant if it is already highlighted in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Field1995Anillin) C M Field and B M Alberts.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation or reference to authors and a publication year, which does not meet the requirement of providing a scope definition."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It does not mention any protein name or gene symbol, whether from UniProt or HUGO. Instead, it appears to be a citation or reference to a publication by authors C M Field and B M Alberts, with no connection to the requirement of using a protein name or gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation or reference to an article by C M Field and B M Alberts, rather than a summary of the article. It does not cover any key aspects such as structure, function, or clinical significance, nor does it provide any detail, necessary or otherwise."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes author names and publication details. If this information is already present in an infobox, repeating it here may not be necessary unless it is particularly notable. However, without additional context, it's difficult to determine if this repetition is justified. The sentence mostly meets the requirement but could be improved by ensuring that the repetition is necessary or by providing additional context or emphasis if needed."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Anillin, a contractile ring protein that cycles from the nucleus to the cell cortex.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence introduces Anillin as a contractile ring protein and mentions its movement from the nucleus to the cell cortex, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically include the full name of the protein, its function, and its organism. To better meet the requirement, the sentence should provide a more comprehensive overview of the article's focus and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the name \"Anillin,\" which is the common name for the protein. However, it does not specify whether this is the recommended UniProt protein name or the HUGO gene symbol. Without this clarification, it is unclear if the requirement to use the recommended UniProt protein name or the HUGO gene symbol with disambiguation is fully met. To improve the score, the sentence should explicitly confirm that \"Anillin\" is the recommended UniProt name or provide the HUGO gene symbol if applicable."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief mention of Anillin as a contractile ring protein and its movement from the nucleus to the cell cortex, which touches on its function and location. However, it lacks information on the structure and clinical significance of Anillin, and it does not summarize an article concisely. More comprehensive details are needed to meet the requirement fully."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise description of Anillin's function and location, which may be notable information. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repetitive. If the infobox already contains this exact information, the sentence might not be necessary unless it adds emphasis or context."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The Journal of cell biology, 131(1):165\u00e2\u0080\u0093178, October 1995.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation for an article from \"The Journal of Cell Biology\" and does not define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, as it is not a sentence that describes the content or focus of the article. To meet the requirement, the sentence should clearly outline the article's scope and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not mention any protein names or gene symbols. Therefore, it does not address the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article's content. It lacks any information about the article's structure, function, or clinical significance, which are necessary to meet the requirement of a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation for a journal article, which is typically included in an infobox. However, without context, it's unclear if this information is repeated from an infobox or if it is particularly notable. The sentence is concise and does not appear to unnecessarily repeat information, but the score reflects the potential for redundancy depending on the context."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1083/jcb.131.1.165 , doi:10.1083/jcb.131.1.165.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it simply provides a URL and a DOI, which are identifiers for accessing the article but do not describe its content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It contains a URL and a DOI reference, but it does not mention any protein names or gene symbols, nor does it attempt to use the recommended UniProt protein name or the HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary or information about the article's content, structure, function, or clinical significance. To meet the requirement, the sentence should provide a concise summary of the article's key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information in two different formats (URL and DOI), which may not be necessary unless there is a specific reason to emphasize both. This repetition does not align well with the requirement to avoid repeating information unless notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(340 citations) 10.1083/jcb.131.1.165]( https://doi.org/10.1083/jcb.131.1.165 )\n\n[7.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation reference rather than a descriptive sentence about the article's content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation reference rather than a summary of an article. It lacks any information about the article's structure, function, or clinical significance, and does not provide a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation reference, which may already be present in an infobox. Without additional context, it's unclear if this information is particularly notable or requires emphasis. The score reflects the potential redundancy, but acknowledges that the citation count might be notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Hu2020Up-regulated) Up-regulated Expression and Related Gene Regulatory Networks of ANLN Predict Poor Prognosis and Correlate with Immune Infiltration in Hepatocellular Carcinoma (0 citations) 10.21203/rs.3.rs-31170/v1]( https://doi.org/10.21203/rs.3.rs-31170/v1 )\n\n[8.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general idea of the article's focus, mentioning the up-regulation of ANLN expression and its implications in hepatocellular carcinoma. However, it does not clearly define the scope of the article in detail, nor does it follow the recommended UniProt naming conventions. The sentence lacks clarity and specificity regarding the scope and does not adhere to the naming conventions, which affects its score."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"ANLN,\" which is the HUGO gene symbol for anillin. However, it does not specify whether \"ANLN\" is the recommended UniProt protein name or if it should be disambiguated. The requirement suggests using the UniProt protein name if it is short, but this information is not provided in the sentence. Therefore, the sentence partially meets the requirement by using the gene symbol but lacks clarity on whether it aligns with the recommended naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a basic overview of the article's topic, mentioning the up-regulation of ANLN, its prediction of poor prognosis, and its correlation with immune infiltration in hepatocellular carcinoma. However, it lacks detail on the structure, function, and clinical significance of ANLN, which are key aspects required for a concise summary. Additionally, the sentence includes unnecessary details such as the citation count and DOI link, which do not contribute to summarizing the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information from an infobox, as no infobox is provided in the context. However, the sentence includes a citation count and DOI link, which might be present in an infobox if one existed. Since the requirement is to avoid repetition unless notable, and without an infobox to compare against, the sentence is mostly compliant. The score reflects a slight deduction for potential redundancy if such details were indeed in an infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Naydenov2020Anillin) Nayden G. Naydenov, Jennifer E. Koblinski, and Andrei I. Ivanov.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation or reference to authors of a study, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not mention any protein names or gene symbols, nor does it attempt to use the recommended UniProt protein name or the HUGO gene symbol. It appears to be a citation or reference to a publication, which does not address the requirement of using specific protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's structure, function, or clinical significance. To meet the requirement, the sentence should concisely summarize these key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes information that might also be present in an infobox, such as author names and publication details. However, without context on what is in the infobox, it's difficult to determine if this repetition is necessary or notable. The sentence does not seem to emphasize any particular aspect that would justify repetition, but it is concise and typical for a reference list."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Anillin is an emerging regulator of tumorigenesis, acting as a cortical cytoskeletal scaffold and a nuclear modulator of cancer cell differentiation.",
+      "title": "Introduction",
+      "score": 0.64,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence introduces Anillin as a regulator of tumorigenesis and describes its roles, which partially defines the scope of the article. However, it does not clearly follow the recommended UniProt naming conventions, which typically involve specifying the organism and providing a more structured introduction to the protein's function and relevance. The sentence could be improved by explicitly stating the organism and aligning more closely with UniProt's style."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Anillin,\" which is the HUGO gene symbol (ANLN) rather than the UniProt protein name. The requirement suggests using the UniProt protein name if it is relatively short. Since the sentence does not specify the UniProt name, it partially meets the requirement by using the gene symbol, but it does not fully comply as it does not consider the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides a concise summary of the article by mentioning Anillin's role as a regulator of tumorigenesis, its function as a cortical cytoskeletal scaffold, and its involvement in cancer cell differentiation. However, it lacks explicit mention of the clinical significance, which is a key aspect of the requirement. Including a brief note on the clinical implications would improve the score."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about Anillin's role in tumorigenesis, highlighting its functions as a cortical cytoskeletal scaffold and a nuclear modulator. If this information is already present in the infobox, it may not be necessary to repeat it unless it is particularly notable. However, the sentence does emphasize Anillin's emerging role, which could justify its inclusion. The score reflects a slight deduction for potential redundancy, but acknowledges the emphasis on Anillin's significance."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Cellular and Molecular Life Sciences, 78(2):621\u00e2\u0080\u0093633, September 2020.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It also does not follow any naming conventions, including the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's focus and adhere to the specified naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not contain any protein names or gene symbols. Therefore, it cannot be evaluated against the requirement, which pertains to the use of protein names or gene symbols."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article. It lacks any information about the article's content, such as structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes specific details such as the journal name, volume, issue, page numbers, and date. If this information is already present in an infobox, repeating it in the text may not be necessary unless it is particularly notable. However, without context on what is in the infobox, it's difficult to determine if this repetition is justified. The sentence is concise and factual, which aligns with typical citation practices, but it could be redundant if the infobox already contains this information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1007/s00018-020-03605-9 , doi:10.1007/s00018-020-03605-9.",
+      "title": "Introduction",
+      "score": 0.09,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, which do not define the scope of the article or follow any naming conventions, let alone the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly state the topic or focus of the article using appropriate scientific terminology."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI reference, with no mention of a UniProt protein name or a HUGO gene symbol. The requirement is about using specific naming conventions for proteins or genes, which is not relevant to the content of the sentence provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI, which do not summarize the article or cover any key aspects such as structure, function, or clinical significance. There is no content related to the article's subject matter, making it impossible to evaluate it against the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.3,
+          "feedback": [
+            "The sentence repeats the DOI information twice, which is unnecessary and does not add any notable emphasis. This repetition does not align well with the requirement to avoid repeating information unless it is particularly notable or requires emphasis. The sentence could be improved by mentioning the DOI only once."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(27 citations) 10.1007/s00018-020-03605-9]( https://doi.org/10.1007/s00018-020-03605-9 )\n\n[9.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation reference with a DOI link, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a sentence discussing proteins or genes."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It only includes a citation count, a DOI, and a partial reference number. There is no information about the article's structure, function, or clinical significance, nor is there any summary content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation count and a DOI link, which are common elements that might already be present in an infobox. However, the citation count could be considered notable information, especially if it highlights the impact or relevance of the work. The sentence does not overly repeat information but could be seen as redundant if the infobox already contains these details."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Wang2016Overexpression) Guanghui Wang, Wei Shen, Long Cui, Wei Chen, Xuguang Hu, and Jihong Fu.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article. Instead, it appears to be a citation or reference to an article, listing authors and possibly a title or identifier. It does not follow the recommended UniProt naming conventions or provide any information about the content or focus of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not mention any protein names or gene symbols, nor does it use the UniProt protein name or HUGO gene symbol. It appears to be a citation or reference to a publication, which does not address the requirement of using the recommended UniProt protein name or HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and author list, not a summary of an article. It does not cover any key aspects such as structure, function, or clinical significance, nor does it provide any detail about the content of the article. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, listing authors of a work. If this information is already present in an infobox, repeating it in this format may not be necessary unless the authors' names are particularly notable or require emphasis. The sentence could be improved by integrating the information in a way that adds value beyond what is in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Overexpression of anillin (anln) is correlated with colorectal cancer progression and poor prognosis.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by indicating a focus on the relationship between anillin (anln) and colorectal cancer progression and prognosis. However, it does not fully define the scope of the article, as it lacks details on the specific aspects of this relationship that will be explored. Additionally, while it uses the gene name \"anln\" in parentheses, it does not fully adhere to UniProt naming conventions, which typically involve using the full protein name and its corresponding gene symbol in a specific format."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"anillin\" and provides the HUGO gene symbol \"anln\" in parentheses. However, it does not specify whether \"anillin\" is the recommended UniProt protein name or if the HUGO gene symbol is being used due to the name's length. To fully meet the requirement, the sentence should clarify if \"anillin\" is the recommended UniProt name or if the HUGO gene symbol is being used appropriately with necessary disambiguation."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by mentioning the clinical significance of anillin (anln) in relation to colorectal cancer progression and prognosis. However, it lacks information on the structure and function of anillin, which are key aspects that should be included in a concise summary of the article. Additionally, the sentence does not provide enough context or detail to fully summarize the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the correlation between anillin overexpression and colorectal cancer, which could be considered notable. However, if this information is already present in the infobox and does not require additional emphasis, it may be seen as repetitive. The score reflects that while the sentence is informative, it may not fully meet the requirement to avoid repetition unless necessary."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Cancer Biomarkers, 16(3):459\u00e2\u0080\u0093465, March 2016.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It also does not follow any naming conventions, including the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly state the article's focus and adhere to the specified naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article. It lacks any information about the article's structure, function, or clinical significance. To meet the requirement, a concise summary of the article's key aspects is needed."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes information such as the journal name, volume, issue, page numbers, and date. If this information is already present in an infobox, repeating it in this format may not be necessary unless it is particularly notable or requires emphasis. The sentence partially meets the requirement by providing a standard citation format, but it may not be necessary if the infobox already contains this information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.3233/cbm-160585 , doi:10.3233/cbm-160585.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it simply provides a URL and a DOI, which are identifiers for accessing the article but do not give any information about its content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI reference, with no mention of a UniProt protein name or a HUGO gene symbol. The requirement is about using specific naming conventions for proteins or genes, which is not relevant to the content of the sentence provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary of the article's content. There is no information about the article's structure, function, or clinical significance, nor any attempt to summarize the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the sentence does provide both the URL and DOI format, which could be useful in some contexts, hence a middle score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(67 citations) 10.3233/cbm-160585]( https://doi.org/10.3233/cbm-160585 )\n\n[10.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow any naming conventions, let alone the recommended UniProt naming conventions. It appears to be a citation or reference link rather than a descriptive sentence about the article's content."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference and does not address the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It appears to be a citation or reference link rather than a summary. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation count and a DOI link, which are likely to be present in an infobox. However, the citation count might be notable information that could warrant emphasis, depending on the context. The sentence mostly meets the requirement, but it could be seen as slightly redundant if this information is already clearly presented elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Magnusson2016ANLN) Kristina Magnusson, Gabriela Gremel, Lisa Ryd\u00c3\u00a9n, Victor Pont\u00c3\u00a9n, Mathias Uhl\u00c3\u00a9n, Anna Dimberg, Karin Jirstr\u00c3\u00b6m, and Fredrik Pont\u00c3\u00a9n.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation of authors and does not define the scope of an article. It also does not follow the recommended UniProt naming conventions, as it does not mention any proteins, genes, or related biological terms. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, and therefore does not address the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a list of authors from a publication, which is unrelated to the requirement given."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation of authors and does not summarize the article at all. It lacks any information about the article's structure, function, or clinical significance. To meet the requirement, the sentence should concisely convey the main points and findings of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, listing authors of a study or paper. If this information is already present in an infobox, repeating it in this format may not be necessary unless the authorship is particularly notable or requires emphasis. The sentence does not provide additional context or emphasis, so it partially meets the requirement by potentially being redundant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Anln is a prognostic biomarker independent of ki-67 and essential for cell cycle progression in primary breast cancer.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence partially defines the scope of the article by mentioning the role of Anln as a prognostic biomarker and its importance in cell cycle progression in primary breast cancer. However, it does not fully adhere to the UniProt naming conventions, as \"Anln\" should be referred to by its full name, \"Anillin,\" according to UniProt standards. Additionally, the sentence could be more explicit in outlining the broader context or objectives of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Anln,\" which is the HUGO gene symbol for the protein Anillin. However, it does not specify whether this is the recommended UniProt protein name or if disambiguation is necessary. To fully meet the requirement, the sentence should clarify if \"Anillin\" is the recommended UniProt name or provide disambiguation if needed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.7,
+          "feedback": [
+            "The sentence effectively summarizes the article by mentioning Anln as a prognostic biomarker, its independence from ki-67, and its role in cell cycle progression in primary breast cancer. However, it lacks specific details about the structure and function of Anln, which are key aspects mentioned in the requirement. Additionally, while it touches on clinical significance, it could be more explicit in explaining its implications for patient care or treatment."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about Anln as a prognostic biomarker and its role in cell cycle progression, which may not be redundant unless the infobox already contains this exact detail. If the infobox includes this information, the sentence could be seen as repetitive. However, if the infobox lacks this detail, the sentence is informative and relevant. The score reflects the potential for redundancy depending on the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "BMC Cancer, November 2016.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"BMC Cancer, November 2016.\" does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It only provides the name of a journal and a date, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It does not mention any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence only provides a journal name and date."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is merely a citation and does not summarize the article at all. It lacks any information about the article's structure, function, or clinical significance. To meet the requirement, the sentence should concisely convey the main points and findings of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence \"BMC Cancer, November 2016\" appears to be a citation or reference to a publication date and source. Without additional context, it's unclear if this information is already present in an infobox or if it is particularly notable. If this information is already in an infobox and not emphasized for a specific reason, it may be redundant. The score reflects the potential redundancy, but acknowledges that the context is not fully clear."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1186/s12885-016-2923-8 , doi:10.1186/s12885-016-2923-8.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it simply lists a URL and a DOI, which are identifiers for accessing the article but do not provide any information about its content or scope. To meet the requirement, the sentence should include a brief description of the article's focus or subject matter, adhering to any specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It contains a URL and a DOI reference, but it does not mention any protein names or gene symbols, nor does it make any attempt to use the UniProt protein name or the HUGO gene symbol. Therefore, it does not meet the requirement in any way."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary or information about the article's structure, function, or clinical significance. There is no content that addresses the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information twice, which may not be necessary unless there is a specific reason to emphasize it. This repetition does not align well with the requirement to avoid repeating information unless notable. However, the sentence does provide both the URL and DOI format, which could be useful in some contexts."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(59 citations) 10.1186/s12885-016-2923-8]( https://doi.org/10.1186/s12885-016-2923-8 )",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It does not define the scope of the article, nor does it follow any naming conventions, let alone the recommended UniProt naming conventions. Instead, it appears to be a citation reference with a DOI link, which is unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. It contains a citation and a DOI link, but it does not mention any protein names or gene symbols, nor does it use the UniProt protein name or HUGO gene symbol. To meet the requirement, the sentence should include a protein name or gene symbol and follow the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a citation count and a DOI link, without any summary of the article's content. There is no information about the structure, function, or clinical significance of the article, nor any attempt to concisely summarize it."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation count and a DOI link, which are likely to be found in an infobox. However, the citation count could be considered notable information that might warrant emphasis, depending on the context. The sentence mostly meets the requirement, but it could be redundant if this information is already present in the infobox without additional context or emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    }
+  ]
+}

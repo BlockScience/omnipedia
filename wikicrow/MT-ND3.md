@@ -1,0 +1,45 @@
+# MT-ND3
+
+## Overview
+The MT-ND3 gene, located within the mitochondrial genome, encodes the mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 3, a vital component of Complex I in the mitochondrial electron transport chain. This protein plays a crucial role in the initial stages of oxidative phosphorylation, where it assists in electron transfer from NADH to ubiquinone, facilitating the generation of ATP, which is essential for cellular energy production. The proper function of MT-ND3 is critical for maintaining the efficiency of the electron transport chain and overall mitochondrial function. Disruptions in the MT-ND3 gene can lead to severe mitochondrial disorders due to compromised energy production, highlighting its importance in cellular metabolism and energy homeostasis (Mao2018Genetic; Nguyen2020Deregulated).
+
+## Function
+The MT-ND3 gene encodes one of the subunits of Complex I, also known as NADH:ubiquinone oxidoreductase, which is a key enzyme in the mitochondrial electron transport chain. This enzyme complex is crucial for the process of oxidative phosphorylation, the primary method by which energy stored in nutrients is converted into adenosine triphosphate (ATP), the main energy currency of the cell. Located in the inner membrane of mitochondria, Complex I plays a pivotal role in cellular respiration by accepting electrons from NADH and transferring them to ubiquinone (coenzyme Q10), initiating a chain of electron transfers that ultimately generate ATP (Mao2018Genetic; Wang2013Highly; Nguyen2020Deregulated).
+
+The proper functioning of MT-ND3 is essential for the normal assembly and operation of Complex I. Mutations in the MT-ND3 gene can disrupt this process, leading to impaired mitochondrial respiration and reduced energy production, which can affect overall cellular health and function (Mao2018Genetic). Additionally, MT-ND3 contributes to maintaining the mitochondrial and cellular function, particularly in energy metabolism and redox balance, which are critical for preventing oxidative stress and ensuring cell viability (Wang2013Highly).
+
+## Clinical Significance
+Mutations in the MT-ND3 gene, which encodes one of the subunits of mitochondrial complex I, have been linked to several severe mitochondrial disorders, notably Leigh syndrome and mitochondrial encephalomyopathy. These conditions are characterized by progressive neurological deterioration and can manifest in various forms depending on the specific mutation and its expression in different tissues.
+
+One of the most studied mutations in the MT-ND3 gene is the m.10191T>C variant, which has been associated with Leigh syndrome. This mutation leads to mitochondrial complex I deficiency, disrupting normal electron transfer and proton translocation across the mitochondrial membrane, which in turn affects ATP synthesis (Cipriano2023Walking). Similarly, the m.10197G>A mutation has been linked not only to Leigh syndrome but also to Leber hereditary optic neuropathy and dystonia, illustrating the diverse clinical impact of mutations in this gene (Leng2014The).
+
+The severity and range of symptoms associated with MT-ND3 mutations can vary widely, from organ-specific to multisystem involvement. These can include neurological symptoms such as muscle weakness, ataxia, and cognitive decline, often accompanied by lactic acidosis and brain abnormalities visible on MRI scans (Leshinsky-Silver2005Fulminant; Sarzi2006A).
+
+These findings underscore the critical role of the MT-ND3 gene in mitochondrial function and its significant implications for human health when mutated.
+
+## Interactions
+MT-ND3, a subunit of mitochondrial complex I, is crucial for the enzyme's function in electron transfer within the mitochondrial respiratory chain. The m.10191T>C mutation in MT-ND3 results in a serine to proline substitution at position 45, disrupting a hydrophilic transmembrane alpha helix domain. This alteration is significant as it impairs the interaction between MT-ND3 and other major subunits of complex I, which is essential for the activity of this enzyme complex (Levy2013Long). The mutation leads to a 60% reduction in the assembled complex I protein, significantly affecting its functional capacity and highlighting the importance of MT-ND3 in complex I assembly and catalysis (Levy2013Long).
+
+Furthermore, studies on mesenchymal stem cells (MSCs) interacting with fibroblasts carrying pathogenic variants of MT-ND3 suggest broader cellular interactions involving mitochondrial components. Although these studies do not detail direct physical interactions of MT-ND3 protein with other proteins or nucleic acids, they imply a complex interplay involving mitochondrial DNA transfer and mitochondrial function enhancement in a cellular context (Navaratnarajah2022Mesenchymal).
+
+
+## References
+
+
+[1. (Levy2013Long) Rebecca J. Levy, PurificaciÃ³n Gutierrez RÃ­os, Hasan O. Akman, Monica Sciacco, Darryl C. De Vivo, and Salvatore DiMauro. Long survival in patients with leigh syndrome and the m.10191t&gt;c mutation in mt-nd3: a case report and review of the literature. Journal of Child Neurology, 29(10):NP105âNP110, November 2013. URL: http://dx.doi.org/10.1177/0883073813506783, doi:10.1177/0883073813506783. (22 citations) 10.1177/0883073813506783](https://doi.org/10.1177/0883073813506783)
+
+[2. (Leng2014The) Yinglin Leng, Yuhe Liu, Xiaojing Fang, Yao Li, Lei Yu, Yun Yuan, and Zhaoxia Wang. The mitochondrial dna 10197 g &gt; a mutation causes melas/leigh overlap syndrome presenting with acute auditory agnosia. Mitochondrial DNA, 26(2):208â212, April 2014. URL: http://dx.doi.org/10.3109/19401736.2014.905860, doi:10.3109/19401736.2014.905860. (24 citations) 10.3109/19401736.2014.905860](https://doi.org/10.3109/19401736.2014.905860)
+
+[3. (Wang2013Highly) Han-Ning Wang, Hong-Dong Chen, Kai-Yun Chen, Jin-Feng Xiao, Ke He, Guo-An Xiang, and Xin Xie. Highly expressed mt-nd3 positively associated with histological severity of hepatic steatosis. APMIS, 122(5):443â451, September 2013. URL: http://dx.doi.org/10.1111/apm.12166, doi:10.1111/apm.12166. (10 citations) 10.1111/apm.12166](https://doi.org/10.1111/apm.12166)
+
+[4. (Cipriano2023Walking) E. Cipriano, D. Vecchio, L. Mazzini, G. Strigaro, D. Piga, M. Sciacco, G.P. Comi, E. Genovese, and R. Cantello. Walking difficulties and brainstem dysfunction: a case report of adult onset leigh syndrome. SN Comprehensive Clinical Medicine, June 2023. URL: http://dx.doi.org/10.1007/s42399-023-01496-y, doi:10.1007/s42399-023-01496-y. (1 citations) 10.1007/s42399-023-01496-y](https://doi.org/10.1007/s42399-023-01496-y)
+
+[5. (Nguyen2020Deregulated) Ngoc Ngo Yen Nguyen, Sung Soo Kim, and Yong Hwa Jo. Deregulated mitochondrial dna in diseases. DNA and Cell Biology, 39(8):1385â1400, August 2020. URL: http://dx.doi.org/10.1089/dna.2019.5220, doi:10.1089/dna.2019.5220. (19 citations) 10.1089/dna.2019.5220](https://doi.org/10.1089/dna.2019.5220)
+
+[6. (Navaratnarajah2022Mesenchymal) Tharsini Navaratnarajah, Marlen Bellmann, Annette Seibt, Ruchika Anand, Ãzer Degistirici, Roland Meisel, Ertan Mayatepek, Andreas Reichert, Fabian Baertling, and Felix Distelmaier. Mesenchymal stem cells improve redox homeostasis and mitochondrial respiration in fibroblast cell lines with pathogenic mt-nd3 and mt-nd6 variants. Stem Cell Research &amp; Therapy, June 2022. URL: http://dx.doi.org/10.1186/s13287-022-02932-x, doi:10.1186/s13287-022-02932-x. (0 citations) 10.1186/s13287-022-02932-x](https://doi.org/10.1186/s13287-022-02932-x)
+
+[7. (Sarzi2006A) Emmanuelle Sarzi, Michael D. Brown, Sophie Lebon, Dominique Chretien, Arnold Munnich, AgnÃ¨s Rotig, and Vincent Procaccio. A novel recurrent mitochondrial dna mutation in nd3 gene is associated with isolated complex i deficiency causing leigh syndrome and dystonia. American Journal of Medical Genetics Part A, 143A(1):33â41, December 2006. URL: http://dx.doi.org/10.1002/ajmg.a.31565, doi:10.1002/ajmg.a.31565. (85 citations) 10.1002/ajmg.a.31565](https://doi.org/10.1002/ajmg.a.31565)
+
+[8. (Leshinsky-Silver2005Fulminant) E. Leshinsky-Silver, D. Lev, Z. Tzofi-Berman, S. Cohen, A. Saada, M. Yanoov-Sharav, E. Gilad, and T. Lerman-Sagie. Fulminant neurological deterioration in a neonate with leigh syndrome due to a maternally transmitted missense mutation in the mitochondrial nd3 gene. Biochemical and Biophysical Research Communications, 334(2):582â587, August 2005. URL: http://dx.doi.org/10.1016/j.bbrc.2005.06.134, doi:10.1016/j.bbrc.2005.06.134. (29 citations) 10.1016/j.bbrc.2005.06.134](https://doi.org/10.1016/j.bbrc.2005.06.134)
+
+[9. (Mao2018Genetic) Xudong Mao, Yu Shi, Xiaohu Liang, Mingcheng Cai, Xue Yang, Shiyi Chen, Xianbo Jia, Jie Wang, Shenqiang Hu, and Songjia Lai. Genetic diversities of mt-nd3 and mt-nd4l genes are associated with high-altitude adaptation. Mitochondrial DNA Part B, 4(1):324â328, December 2018. URL: http://dx.doi.org/10.1080/23802359.2018.1544040, doi:10.1080/23802359.2018.1544040. (1 citations) 10.1080/23802359.2018.1544040](https://doi.org/10.1080/23802359.2018.1544040)

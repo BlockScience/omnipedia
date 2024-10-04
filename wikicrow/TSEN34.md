@@ -1,0 +1,50 @@
+# TSEN34
+
+## Overview
+TSEN34 is a gene in humans that encodes the protein tRNA splicing endonuclease subunit 34, a critical component of the tRNA splicing endonuclease (TSEN) complex. This complex is essential for the maturation of precursor tRNAs, a fundamental process in the synthesis of functional tRNA molecules necessary for protein synthesis. The TSEN34 protein interacts with other subunits within the TSEN complex, including TSEN2, TSEN54, and TSEN15, to form the catalytic core that facilitates precise cleavage at the 3' splice site of pre-tRNAs. Mutations in the TSEN34 gene are linked to severe neurological disorders, underscoring its vital role in neural development and function (Hayne2019Reconstitution; Hayne2023Structural). The protein's involvement in RNA metabolism extends beyond tRNA splicing, indicating a broader significance in cellular RNA processing (Hayne2022Recent).
+
+## Structure
+TSEN34, a subunit of the human tRNA splicing endonuclease complex, exhibits a complex molecular structure that plays a crucial role in the recognition and processing of pre-tRNA. The protein is composed of 310 residues and includes ordered domains at both its N-terminus (34N) and C-terminus (34C), separated by a large disordered region predicted to contain a long alpha-helix (Hayne2022Recent). The secondary structure of TSEN34 predominantly features alpha-helices, which assist in positional proofreading of pre-tRNAs by sensing their elbow region (Sekulovski2022Structural).
+
+In terms of tertiary structure, TSEN34 forms a significant part of the interaction interface within the TSEN complex, engaging TSEN54 through an intricate interface involving hydrogen bonds, salt bridges, and hydrophobic interactions (Sekulovski2022Structural). The quaternary structure involves the formation of a heterodimer with TSEN15, comparable to archaeal tRNA endonucleases, and a sophisticated arrangement with TSEN54, forming a 'three-claw-clamp' conformation where TSEN54 tightly holds TSEN34, burying approximately 4000 Ã2 of surface area (Yuan2023Recognition).
+
+Specific residues such as V284, K239, H255, K286, and Y247 in TSEN34 are crucial for interaction and cleavage processes, suggesting a conservation of the catalytic core across different species (Hayne2023Structural). The protein's interaction with RNA and other subunits is essential for effective splicing, highlighting the importance of these structural features in the function of the TSEN complex.
+
+## Function
+TSEN34 encodes a subunit of the tRNA splicing endonuclease (TSEN) complex, essential for the maturation of precursor tRNAs in human cells by excising intronic sequences. This process is crucial for synthesizing functional tRNA molecules, which are integral for protein synthesis. TSEN34, in conjunction with other subunits such as TSEN2, TSEN54, and TSEN15, forms the catalytic core of the TSEN complex, specifically facilitating the cleavage at the 3' splice site of pre-tRNAs (Hayne2019Reconstitution; Hayne2023Structural).
+
+The protein is active in the nucleus where it recognizes and binds to specific structural motifs in pre-tRNA, such as the bulge-helix-bulge (BHB) motif, ensuring accurate splicing and cellular homeostasis (Sekulovski2022Structural). Mutations in TSEN34 and other components of the TSEN complex have been linked to pontocerebellar hypoplasia, highlighting its importance in neural development and function (Hayne2022Recent; Sekulovski2022Structural).
+
+Additionally, TSEN34's role extends beyond tRNA splicing, as it has been implicated in the processing of other RNA molecules, suggesting a broader involvement in RNA metabolism (Hayne2022Recent). This multifunctional nature underscores the protein's fundamental role in cell biology and its evolutionary conservation across eukaryotes (Hayne2022Recent).
+
+## Clinical Significance
+Mutations in the TSEN34 gene are associated with pontocerebellar hypoplasia (PCH), a group of autosomal recessive neurodegenerative disorders that severely affect brain development and function. The TSEN34 gene encodes a subunit of the tRNA splicing endonuclease complex, which is essential for the maturation of transfer RNAs, critical components in protein synthesis. Disruptions in this process due to mutations in TSEN34 lead to various subtypes of PCH, characterized by cerebellar hypoplasia, microcephaly, developmental delays, and, in some cases, epilepsy (Battini2013Novel; Breuss2016Autosomal-Recessive).
+
+Specific mutations in TSEN34, such as R58W, have been identified as causative for PCH. These mutations do not occur in the catalytic sites of the protein but still significantly impact the function of the TSEN complex, leading to a reduction in tRNA cleavage activity and subsequent brain development issues (Sekulovski2021Assembly). The exact mechanisms by which these mutations affect the TSEN complex and contribute to the pathology of PCH are not fully understood, highlighting a critical area for further research (Sekulovski2021Assembly).
+
+## Interactions
+TSEN34, a subunit of the human tRNA splicing endonuclease complex, engages in critical interactions with other proteins and nucleic acids essential for its function in RNA processing. It forms a significant interface with TSEN54, characterized by extensive contacts in a 'three-claw-clamp' conformation, which is crucial for the stability and function of the complex (Yuan2023Recognition). This interaction involves a large buried surface area, indicating a tight and specific binding essential for the enzymatic activity of the complex. Additionally, TSEN34 pairs with TSEN15 to form a heterodimer, which is a critical step in the assembly of the functional TSEN complex (Sekulovski2021Assembly). 
+
+On the nucleic acid front, TSEN34 interacts with pre-tRNA molecules, specifically recognizing and cleaving at splicing boundaries. It makes polar contacts with the phosphoribose backbone of various regions of the pre-tRNA, including the acceptor stem, the D-stem, and the anticodon stem (Sekulovski2022Structural). These interactions are vital for positioning the mature domain of pre-tRNAs, facilitating accurate splicing and processing. 
+
+Overall, the interactions of TSEN34 with other proteins and nucleic acids are integral to the structural and functional dynamics of the TSEN complex during the splicing of pre-tRNA.
+
+
+## References
+
+
+[1. (Hayne2022Recent) Cassandra K. Hayne, Tanae A. Lewis, and Robin E. Stanley. Recent insights into the structure, function, and regulation of the eukaryotic transfer <scp>rna</scp> splicing endonuclease complex. WIREs RNA, February 2022. URL: http://dx.doi.org/10.1002/wrna.1717, doi:10.1002/wrna.1717. (17 citations) 10.1002/wrna.1717](https://doi.org/10.1002/wrna.1717)
+
+[2. (Hayne2023Structural) Cassandra K. Hayne, Kevin John U. Butay, Zachary D. Stewart, Juno M. Krahn, Lalith Perera, Jason G. Williams, Robert M. Petrovitch, Leesa J. Deterding, A. Gregory Matera, Mario J. Borgnia, and Robin E. Stanley. Structural basis for pre-trna recognition and processing by the human trna splicing endonuclease complex. Nature Structural &amp; Molecular Biology, 30(6):824â833, May 2023. URL: http://dx.doi.org/10.1038/s41594-023-00991-z, doi:10.1038/s41594-023-00991-z. (14 citations) 10.1038/s41594-023-00991-z](https://doi.org/10.1038/s41594-023-00991-z)
+
+[3. (Sekulovski2021Assembly) Samoil Sekulovski, Pascal Devant, Silvia Panizza, Tasos Gogakos, Anda Pitiriciu, Katharina Heitmeier, Ewan Phillip Ramsay, Marie Barth, Carla Schmidt, Thomas Tuschl, Frank Baas, Stefan Weitzer, Javier Martinez, and Simon Trowitzsch. Assembly defects of human trna splicing endonuclease contribute to impaired pre-trna processing in pontocerebellar hypoplasia. Nature Communications, September 2021. URL: http://dx.doi.org/10.1038/s41467-021-25870-3, doi:10.1038/s41467-021-25870-3. (24 citations) 10.1038/s41467-021-25870-3](https://doi.org/10.1038/s41467-021-25870-3)
+
+[4. (Battini2013Novel) Roberta Battini, Stefano DâArrigo, Denise Cassandrini, Andrea Guzzetta, Chiara Fiorillo, Chiara Pantaleoni, Alessandro Romano, Enrico Alfei, Giovanni Cioni, and Filippo M. Santorelli. Novel mutations in tsen54 in pontocerebellar hypoplasia type 2. Journal of Child Neurology, 29(4):520â525, January 2013. URL: http://dx.doi.org/10.1177/0883073812470002, doi:10.1177/0883073812470002. (26 citations) 10.1177/0883073812470002](https://doi.org/10.1177/0883073812470002)
+
+[5. (Hayne2019Reconstitution) Reconstitution of the Human tRNA Splicing Endonuclease Complex: insight into the regulation of pre-tRNA cleavage (54 citations) 10.1101/2019.12.16.878546](https://doi.org/10.1101/2019.12.16.878546)
+
+[6. (Sekulovski2022Structural) Structural basis of substrate recognition by human tRNA splicing endonuclease TSEN (12 citations) 10.1101/2022.09.03.506465](https://doi.org/10.1101/2022.09.03.506465)
+
+[7. (Yuan2023Recognition) Ling Yuan, Yaoyao Han, Jiazheng Zhao, Yixiao Zhang, and Yadong Sun. Recognition and cleavage mechanism of intron-containing pre-trna by human tsen endonuclease complex. Nature Communications, September 2023. URL: http://dx.doi.org/10.1038/s41467-023-41845-y, doi:10.1038/s41467-023-41845-y. (3 citations) 10.1038/s41467-023-41845-y](https://doi.org/10.1038/s41467-023-41845-y)
+
+[8. (Breuss2016Autosomal-Recessive) Martin W. Breuss, Tipu Sultan, Kiely N. James, Rasim O. Rosti, Eric Scott, Damir Musaev, Bansri Furia, AndrÃ© Reis, Heinrich Sticht, Mohammed Al-Owain, Fowzan S. Alkuraya, Miriam S. Reuter, Rami Abou Jamra, Christopher R. Trotta, and Joseph G. Gleeson. Autosomal-recessive mutations in the trna splicing endonuclease subunit tsen15 cause pontocerebellar hypoplasia and progressive microcephaly. The American Journal of Human Genetics, 99(1):228â235, July 2016. URL: http://dx.doi.org/10.1016/j.ajhg.2016.05.023, doi:10.1016/j.ajhg.2016.05.023. (66 citations) 10.1016/j.ajhg.2016.05.023](https://doi.org/10.1016/j.ajhg.2016.05.023)

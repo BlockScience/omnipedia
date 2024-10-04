@@ -1,0 +1,2092 @@
+{
+  "LeadSection": [
+    {
+      "text": "# RPAP2 # # Overview\nRPAP2, or RNA polymerase II associated protein 2, is a gene that encodes the protein RNA polymerase II associated protein 2, which is integral to the transcription machinery of eukaryotic cells.",
+      "title": "Introduction",
+      "score": 0.5,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides a basic definition of RPAP2, mentioning its role in the transcription machinery of eukaryotic cells, which helps define the scope of the article. However, it could be improved by explicitly stating the focus of the article, such as its biological function, structure, or significance, to better align with the recommended UniProt naming conventions. Additionally, the use of hashtags and the word \"Overview\" is unconventional for a formal article introduction."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"RPAP2\" and provides a description of the gene and its function. However, it does not mention whether the UniProt protein name was considered or if it is relatively short. To fully meet the requirement, the sentence should either use the recommended UniProt protein name if it is short or clarify why the HUGO gene symbol is used."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a basic introduction to RPAP2, mentioning its role in the transcription machinery of eukaryotic cells. However, it lacks coverage of key aspects such as the structure, detailed function, and clinical significance of RPAP2. Additionally, the sentence includes unnecessary repetition of the gene and protein name, which does not contribute to a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the name \"RNA polymerase II associated protein 2\" twice, which could be considered redundant if this information is already present in the infobox. The repetition does not add notable emphasis or new information, which partially violates the requirement to avoid unnecessary repetition. However, the sentence does provide a brief overview of the gene's function, which is useful."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The RPAP2 protein plays a critical role in the transcription and processing of small nuclear RNA (snRNA) genes by interacting with the phosphorylated C-terminal domain (CTD) of RNA polymerase II.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a specific function of the RPAP2 protein, which is relevant to the scope of an article about this protein. However, it does not clearly define the overall scope of the article, as it focuses on a specific role rather than providing a broader context or overview. Additionally, it does not explicitly follow UniProt naming conventions, which typically include the full name of the protein and its organism of origin."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RPAP2 protein,\" which is the HUGO gene symbol. However, it does not specify if this is the recommended UniProt protein name or if disambiguation is necessary. To fully meet the requirement, the sentence should clarify whether \"RPAP2\" is the recommended UniProt name or provide disambiguation if needed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a concise summary of the function of the RPAP2 protein, specifically its role in transcription and processing of snRNA genes and its interaction with RNA polymerase II. However, it lacks information on the structure and clinical significance of the protein, which are key aspects mentioned in the requirement. Additionally, the sentence focuses on a specific detail rather than providing a broader overview of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of the RPAP2 protein and its interaction with RNA polymerase II, which may not be redundant if the infobox does not contain these details. However, if the infobox already includes this information, the sentence could be seen as repetitive unless the interaction is particularly notable or requires emphasis. The score reflects a good adherence to the requirement, assuming the details are not already covered in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This interaction is crucial for the recruitment of the Integrator complex, essential for the 3' end maturation of snRNAs.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It mentions a specific interaction and its role in a biological process, but it lacks context or broader information that would set the scope for an article. Additionally, there is no indication that UniProt naming conventions are being followed."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Integrator complex,\" which is a general term and not a specific protein name. It does not specify whether this is the recommended UniProt protein name or the HUGO gene symbol. To fully meet the requirement, the sentence should clarify if \"Integrator complex\" is the recommended UniProt name or provide the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the recruitment of the Integrator complex and its role in snRNA maturation, which relates to function. However, it does not summarize the article concisely or cover key aspects like structure and clinical significance. It lacks a broader context and does not address the requirement to avoid unnecessary detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of the Integrator complex in snRNA maturation, which may not be common knowledge and could be considered notable. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated. If the infobox already contains this detail, the sentence might slightly deviate from the requirement to avoid repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, RPAP2 exhibits phosphatase activity and is involved in the transcription regulation of various protein-coding genes, highlighting its multifaceted role in gene expression regulation and transcription machinery stability (Egloff2012Ser7; Wani2014Human).",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article as required. Instead, it provides specific information about RPAP2's functions and roles, which is more suitable for the body of an article rather than an introductory sentence. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein names and identifiers. To better meet the requirement, the sentence should introduce the main topic or focus of the article in a broader context and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RPAP2,\" which is the HUGO gene symbol. However, it does not specify whether this is the recommended UniProt protein name or if it is relatively short. Without this clarification, it is unclear if the requirement to use the recommended UniProt protein name when it is short has been met. To fully meet the requirement, the sentence should either confirm that \"RPAP2\" is the recommended UniProt protein name or use the UniProt name if it is short."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the function of RPAP2, specifically its phosphatase activity and role in transcription regulation. However, it lacks details on the structure and clinical significance of RPAP2, which are key aspects mentioned in the requirement. Additionally, the sentence includes specific references (Egloff2012Ser7; Wani2014Human) that may be considered unnecessary detail for a concise summary. Overall, the sentence does not comprehensively summarize the article as required."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides specific details about RPAP2's functions, such as its phosphatase activity and role in transcription regulation, which may not be present in an infobox. However, without knowing the content of the infobox, it's difficult to determine if this information is repeated. The sentence does emphasize the multifaceted role of RPAP2, which could be considered notable. The score reflects a reasonable assumption that the sentence adds value beyond what might be in an infobox, but there's a possibility of overlap."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Structure\nThe molecular structure of RPAP2 (RNA polymerase II associated protein 2) has been characterized through cryo-electron microscopy (cryo-EM) studies.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the molecular structure of RPAP2 and mentions the method used to characterize it, which could be part of the article's scope. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name followed by the abbreviation in parentheses. The sentence could be improved by explicitly stating the broader focus of the article and ensuring adherence to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RPAP2\" which is the HUGO gene symbol. However, it does not specify whether this is the recommended UniProt protein name or if it is relatively short. To fully meet the requirement, the sentence should clarify if \"RPAP2\" is indeed the recommended UniProt name or provide the UniProt name if it is short. If \"RPAP2\" is not the recommended UniProt name, the sentence should use the UniProt name or provide disambiguation."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief mention of the molecular structure of RPAP2 and the method used to characterize it (cryo-EM), which partially addresses the \"structure\" aspect of the requirement. However, it does not cover the function or clinical significance of RPAP2, which are key aspects mentioned in the requirement. Additionally, the sentence lacks a comprehensive summary of the article and does not provide context or relevance, making it insufficient as a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the molecular structure of RPAP2 being characterized through cryo-electron microscopy. If this information is already present in the infobox, it might be considered repetitive. However, the use of cryo-EM could be notable enough to warrant emphasis, which is why the score is relatively high. To fully meet the requirement, ensure that the information is not redundant unless it adds significant value or emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The RPAP2 protein includes a highly conserved N-terminal domain that plays a crucial role in binding between the jaw domains of the RNA Polymerase II subunits RPB1 and RPB5.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the RPAP2 protein and its function, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically include the full name of the protein and its organism. To better meet the requirement, the sentence should introduce the broader topic or focus of the article and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RPAP2 protein,\" which is likely referring to a specific protein. However, it does not specify whether \"RPAP2\" is the recommended UniProt protein name or the HUGO gene symbol. To fully meet the requirement, the sentence should clarify this by either using the recommended UniProt name if it is short or providing the HUGO gene symbol with disambiguation if necessary. Without this clarification, the sentence partially meets the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the structure and function of the RPAP2 protein, specifically mentioning its N-terminal domain and its role in binding RNA Polymerase II subunits. However, it lacks a comprehensive summary of the article, as it does not address the overall structure of the protein, its broader functions, or any clinical significance. Additionally, it focuses on a specific detail rather than providing a concise overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the RPAP2 protein's N-terminal domain and its role in binding between RNA Polymerase II subunits, which could be considered notable. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated. Assuming the infobox contains basic details about RPAP2, the sentence likely adds value by emphasizing the specific interaction and role, thus meeting the requirement well."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This domain is composed of residues 48-155, which are confidently modeled, including side chains.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it provides specific information about a domain and its residues, which is unrelated to the scope or naming conventions of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any protein name or gene symbol, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the score, the sentence should include the appropriate protein name or gene symbol as specified in the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about the structure of a domain, mentioning the residues and modeling confidence. However, it does not summarize an article or cover key aspects like function and clinical significance. It lacks the broader context and details necessary for a comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the domain and its residues, which may already be present in an infobox. However, it adds the detail that the residues are \"confidently modeled, including side chains,\" which could be considered notable or require emphasis. The sentence mostly meets the requirement, but if the information about residues 48-155 is already in the infobox and not particularly notable, it could be seen as slightly redundant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The structure of this domain features \u00ce\u00b1-helices and insertion \u00ce\u00b2-strands, with the insertion (residues 116-128) forming two \u00ce\u00b2-strands, a feature conserved from Drosophila to humans but absent in yeast, indicating a metazoan-specific adaptation (Fianu2021Cryo-EM).",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific details about the structure of a domain, mentioning features like \u03b1-helices and \u03b2-strands, and notes a metazoan-specific adaptation. However, it does not define the overall scope of the article or follow the recommended UniProt naming conventions. It lacks a broader context or introduction to the main topic of the article, which is necessary to meet the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the score, the sentence should include the appropriate protein name or gene symbol as specified in the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a detailed description of the structural features of a domain, specifically mentioning \u00ce\u00b1-helices and \u00ce\u00b2-strands, and notes a metazoan-specific adaptation. However, it lacks a summary of the article's key aspects such as function and clinical significance. The sentence is too focused on structural details and does not provide a concise overview of the article's broader context or implications."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the structure of a domain, specifically mentioning \u00ce\u00b1-helices, insertion \u00ce\u00b2-strands, and a conserved feature across species. If this information is already present in the infobox, it might be considered repetitive unless the cross-species conservation or the metazoan-specific adaptation is particularly notable. The sentence does not overly repeat information but could be more concise if the details are not emphasized in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The interaction of RPAP2 with RPB5 involves helices \u00ce\u00b1\u00e2\u0082\u0081 and \u00ce\u00b1\u00e2\u0082\u0083 of RPAP2 and helices \u00ce\u00b1\u00e2\u0082\u0085 and \u00ce\u00b1\u00e2\u0082\u0086 of RPB5, facilitated by hydrophobic, ionic, and hydrogen bonding interactions.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific details about the interaction between RPAP2 and RPB5, including the involvement of specific helices and types of interactions. However, it does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should introduce the broader topic or focus of the article and ensure that protein names adhere to UniProt standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RPAP2\" and \"RPB5,\" which appear to be gene symbols rather than UniProt protein names. The requirement suggests using the recommended UniProt protein name if it is relatively short, or the HUGO gene symbol with disambiguation if necessary. The sentence does not clarify whether these are the recommended UniProt names or provide disambiguation for the gene symbols, which affects the score. To improve, the sentence should specify if these are the recommended UniProt names or provide the full names or disambiguation for clarity."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific details about the interaction between RPAP2 and RPB5, focusing on the structural aspects of their interaction. However, it does not summarize the article concisely or cover key aspects such as function and clinical significance. It lacks a broader context and does not address the requirement to avoid unnecessary detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the interaction between RPAP2 and RPB5, including the involvement of specific helices and types of interactions. If this information is already present in the infobox, it may be considered repetitive. However, the sentence does emphasize the types of interactions, which could be notable. The score reflects that while the sentence may repeat information, it does so with a level of detail that could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Specific residues such as L59, L66, I96, E63, D92, D89, and E93 in RPAP2 interact with corresponding residues in RPB5 through van der Waals contacts, salt bridges, and hydrogen bonds (Fianu2021Cryo-EM).",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific details about interactions between residues in RPAP2 and RPB5, which may be part of the article's content, but it does not define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using full protein names and identifiers. The sentence lacks a broader context or introduction to the main topic or focus of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the names \"RPAP2\" and \"RPB5,\" which appear to be gene symbols rather than UniProt protein names. The requirement specifies using the recommended UniProt protein name if it is relatively short, or the HUGO gene symbol with disambiguation if necessary. The sentence does not clarify whether these are the recommended UniProt names or provide disambiguation for the gene symbols. To fully meet the requirement, the sentence should either use the UniProt names or provide disambiguation for the gene symbols."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific details about interactions between residues in RPAP2 and RPB5, which may relate to the structure of these proteins. However, it does not summarize the article concisely or cover key aspects such as the overall structure, function, or clinical significance of the study. The sentence focuses on specific molecular interactions without providing a broader context or summary of the article's main findings or implications."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the interactions between residues in RPAP2 and RPB5, which may not be present in an infobox. The mention of specific residues and types of interactions (van der Waals contacts, salt bridges, and hydrogen bonds) adds depth and specificity that might not be captured in a concise infobox. However, if these details are already included in the infobox, the sentence could be seen as repetitive unless these interactions are particularly notable or require emphasis. The score reflects the potential for redundancy depending on the content of the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The C-terminal region of RPAP2, although not involved in the observed structural interactions detailed in the cryo-EM study, might interact with Pol II under certain conditions and possibly engage with hyperphosphorylated Pol II via proteins RPRD1A and RPRD1B, influencing the dephosphorylation of the Pol II CTD (Fianu2021Cryo-EM).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively define the scope of the article. Instead, it provides specific details about the C-terminal region of RPAP2 and its potential interactions, which are more suited to a discussion or results section. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein names and identifiers. To better meet the requirement, the sentence should clearly outline the main focus or objective of the article in a broader context."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols \"RPRD1A\" and \"RPRD1B\" instead of the recommended UniProt protein names. The requirement suggests using the UniProt protein name if it is relatively short, which is not addressed in the sentence. However, the sentence does use the HUGO gene symbols correctly, which partially meets the requirement. To fully meet the requirement, the sentence should use the UniProt protein names if they are short and well-known."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the C-terminal region of RPAP2 and its potential interactions with Pol II, but it does not effectively summarize the article. It lacks coverage of key aspects such as the overall structure, function, and clinical significance of the study. Additionally, it includes unnecessary detail about specific proteins and interactions without providing a broader context or summary of the article's main findings."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the potential interactions of the C-terminal region of RPAP2 with Pol II, which may not be directly repeated in the infobox. However, if the infobox already contains similar details about RPAP2's interactions and functions, the sentence could be seen as somewhat redundant. The sentence does emphasize the potential interactions and conditions under which they occur, which might justify its inclusion if these aspects are not covered in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "However, no detailed structural information is available for the C-terminal region or for any post-translational modifications, prominent folds, or splice variant isoforms of RPAP2.",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it provides information about the lack of detailed structural information for certain aspects of RPAP2. Additionally, it does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the main focus or purpose of the article and adhere to the naming conventions specified by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RPAP2,\" which is the HUGO gene symbol. However, it does not provide any disambiguation, which may be necessary if there are multiple entities with similar names. Additionally, it does not use the UniProt protein name, which might be preferred if it is relatively short. The sentence partially meets the requirement by using a gene symbol, but it lacks clarity on whether disambiguation is needed or if the UniProt name would be more appropriate."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively summarize the article as required. It only mentions the lack of detailed structural information for certain aspects of RPAP2, without addressing the overall structure, function, or clinical significance of the subject. It lacks a comprehensive overview and does not provide a concise summary of key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the lack of structural information for the C-terminal region, post-translational modifications, prominent folds, and splice variant isoforms of RPAP2. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does emphasize the absence of detailed information, which could be notable if the context requires highlighting gaps in knowledge. The score reflects that while the sentence may repeat infobox content, it does so with a potential emphasis on the lack of data, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Function\nRPAP2 (RNA polymerase II associated protein 2) plays a crucial role in the transcription and processing of small nuclear RNA (snRNA) genes by interacting with the phosphorylated C-terminal domain (CTD) of RNA polymerase II (Pol II).",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific function of RPAP2, which is useful information, but it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve a more structured format for protein names and functions. To better meet the requirement, the sentence should introduce the broader topic or focus of the article and adhere to the naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"RPAP2\" instead of the recommended UniProt protein name. If the UniProt name is relatively short, it should be used according to the requirement. The sentence partially meets the requirement by providing the full name in parentheses, but it does not specify whether the UniProt name was considered."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the function of RPAP2, specifically its role in transcription and processing of snRNA genes. However, it lacks information on the structure and clinical significance of RPAP2, which are key aspects mentioned in the requirement. Additionally, the sentence includes some unnecessary detail, such as the specific interaction with the phosphorylated CTD of RNA polymerase II, which may not be essential for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the function of RPAP2, which may be necessary for understanding its role. However, if the infobox already contains this information, the sentence could be seen as repetitive. The score reflects that while the sentence is informative, it may not fully adhere to the requirement to avoid repetition unless the information is particularly notable or requires emphasis. If the details about RPAP2's interaction with the CTD of Pol II are not emphasized in the infobox, then the repetition could be justified."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Specifically, RPAP2 recognizes the phosphorylated Ser7 on the CTD, which is essential for the recruitment of the Integrator complex, crucial for the 3' end maturation of snRNAs (Egloff2012Ser7).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it provides a specific detail about the function of RPAP2 and its interaction with the CTD and Integrator complex. To meet the requirement, the sentence should introduce the main topic or focus of the article in a broader context and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RPAP2,\" which is the HUGO gene symbol, but it does not provide any disambiguation. It is unclear if \"RPAP2\" is the recommended UniProt protein name or if it should have been disambiguated. The sentence partially meets the requirement by using a gene symbol, but it lacks clarity on whether this is the best choice according to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the function of RPAP2 and its interaction with the CTD, which is relevant to the structure and function aspect of the requirement. However, it lacks a comprehensive summary of the article, as it does not address the overall structure, broader function, or any clinical significance. Additionally, it includes a citation without context, which may be considered unnecessary detail in a lead. To better meet the requirement, the sentence should provide a broader overview of the article's main points, including any clinical implications."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of RPAP2 and its interaction with phosphorylated Ser7 on the CTD, which is important for the recruitment of the Integrator complex. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does emphasize the importance of this interaction for snRNA maturation, which could be notable enough to warrant inclusion. The score reflects that while the sentence may repeat information, it also highlights a significant aspect of the process."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "RPAP2 also exhibits phosphatase activity, targeting the Ser5 phosphorylation on the CTD, thereby influencing the transcription cycle and the expression of snRNA genes (Egloff2012Ser7).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it provides specific information about the activity of RPAP2. To meet the requirement, the sentence should introduce the main topic or focus of the article in a broader context, using appropriate naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RPAP2,\" which is the HUGO gene symbol. The requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt name for RPAP2, it's unclear if the sentence meets the requirement fully. If the UniProt name is short and not used, the sentence partially meets the requirement by using the gene symbol. More context is needed to determine if the UniProt name should have been used."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about RPAP2's phosphatase activity and its effect on the transcription cycle and snRNA gene expression. However, it does not summarize the article concisely or cover key aspects such as structure, broader function, or clinical significance. It focuses narrowly on a specific function without providing a comprehensive overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about RPAP2's phosphatase activity and its role in targeting Ser5 phosphorylation on the CTD, which influences the transcription cycle and snRNA gene expression. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does emphasize the specific function and impact of RPAP2, which could be notable enough to warrant inclusion. The score reflects that while there might be some repetition, the details provided could justify its presence if they are not sufficiently highlighted in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Beyond snRNA genes, RPAP2 is involved in the transcription regulation of protein-coding genes such as MYC and GAPDH.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions the involvement of RPAP2 in the transcription regulation of certain genes, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using specific identifiers or standardized names for proteins and genes. The sentence lacks context and does not provide a clear overview of the article's focus."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols \"MYC\" and \"GAPDH\" instead of the recommended UniProt protein names. While the requirement suggests using the UniProt protein name if it is relatively short, it does not specify what constitutes \"relatively short.\" The sentence partially meets the requirement by using gene symbols, but it does not clarify if the UniProt names were considered or if disambiguation was necessary. To fully meet the requirement, the sentence should either use the UniProt protein names or provide a rationale for using the gene symbols."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about RPAP2's involvement in transcription regulation of certain genes, but it does not summarize an article or cover key aspects like structure, function, and clinical significance comprehensively. It lacks context and broader information necessary for a lead summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence introduces new information about RPAP2's involvement in the transcription regulation of specific protein-coding genes (MYC and GAPDH), which may not be present in the infobox. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated. Assuming the infobox does not contain this specific detail, the sentence meets the requirement well. If the infobox already includes this information, the sentence could be seen as redundant unless the details are particularly notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "It is recruited to the coding and 3' regions of these genes, playing a role in the 3'-end formation of pre-mRNAs, which is vital for proper mRNA processing (Wani2014Human).",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It appears to be a specific detail about a biological process rather than an introductory sentence that outlines the article's scope. To meet the requirement, the sentence should provide a broader overview of the article's content and adhere to naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the sentence, it should include the specific protein or gene being discussed, using the appropriate naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about the role of a component in mRNA processing, focusing on its recruitment to certain gene regions and its function in 3'-end formation. However, it does not summarize the article concisely or cover key aspects like structure, function, and clinical significance comprehensively. It lacks context and broader information necessary for a summary, such as the overall topic of the article, the significance of the findings, or any clinical implications."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of a component in mRNA processing, which may not be detailed in an infobox. However, without knowing the content of the infobox, it's difficult to fully assess redundancy. The sentence seems to emphasize the importance of 3'-end formation, which could be notable. If this information is already in the infobox and not particularly notable, it might slightly repeat existing content, but overall, it seems to add value by explaining the function."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, RPAP2 is implicated in the nuclear import of Pol II, essential for the transcription of protein-coding genes.",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it provides specific information about RPAP2 and its role in the nuclear import of Pol II. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein names and identifiers. The sentence appears to be more of a detail within the article rather than an introductory sentence that sets the scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RPAP2,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt name, it's unclear if \"RPAP2\" is the best choice. The sentence partially meets the requirement by using a recognized symbol, but it doesn't fully comply without confirming the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about RPAP2's role in the nuclear import of Pol II, which is related to the transcription of protein-coding genes. However, it does not summarize the article concisely or cover key aspects such as structure, function, and clinical significance comprehensively. It lacks broader context and does not address the overall content or findings of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about RPAP2's role in the nuclear import of Pol II, which may not be common knowledge or present in a typical infobox. It seems to emphasize a particular function that could be notable. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this repetition. If this information is already in the infobox and not particularly notable, the score would be lower."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Its interaction with the Pol II subunit Rpb6 is significant for the assembly of Pol II, highlighting its role in maintaining the functionality of the transcription machinery within the cell (Wani2014Human).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it provides specific information about the interaction of a Pol II subunit, which is more detailed than a typical scope-defining sentence. To meet the requirement, the sentence should introduce the main topic or focus of the article in a broader context and adhere to naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Pol II\" and \"Rpb6\" to refer to proteins, but it does not specify whether these are the recommended UniProt protein names or HUGO gene symbols. Without this clarification, it is unclear if the requirement to use the recommended UniProt protein name or the HUGO gene symbol has been met. To improve the score, the sentence should explicitly use the recommended UniProt names if they are short, or the HUGO gene symbols with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the interaction between Pol II subunit Rpb6 and its role in the assembly of Pol II, which is relevant to the function of the transcription machinery. However, it does not summarize the article concisely or cover key aspects like structure and clinical significance. The sentence lacks a broader overview and context, focusing instead on a single interaction, which limits its effectiveness as a lead summarizing the entire article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interaction between the Pol II subunit Rpb6 and its role in the assembly and functionality of Pol II. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does emphasize the significance of this interaction, which could justify its inclusion. The score reflects that while the sentence may repeat information, it does so with a focus on its importance, which aligns with the requirement to avoid unnecessary repetition unless notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This multifaceted involvement of RPAP2 underscores its importance in both the regulation of gene expression and the stability of the transcription machinery in human cells.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions the role of RPAP2 in gene expression regulation and transcription machinery stability, which could hint at the article's focus. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the article's scope and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RPAP2,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt name length, it's unclear if the requirement is fully met. If the UniProt name is indeed short, the sentence should use that instead."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the involvement of RPAP2 in gene expression regulation and transcription machinery stability, which touches on its function. However, it lacks information on the structure and clinical significance of RPAP2, which are key aspects required by the prompt. Additionally, it does not provide a comprehensive summary of an article, as it only highlights one aspect of RPAP2's role without broader context or detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence effectively highlights the importance of RPAP2 in gene expression regulation and transcription machinery stability, which could be considered notable information. However, without knowing the specific content of the infobox, it's difficult to fully assess whether this information is repetitive. If the infobox already contains this information in detail, the sentence might slightly repeat it, but it does emphasize the significance, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Clinical Significance\nRPAP2, through its derivative circular RNA circRPAP2, plays a significant role in the pathogenesis of breast cancer (BC).",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence introduces the topic of RPAP2 and its role in breast cancer, which partially defines the scope of the article. However, it does not clearly follow the recommended UniProt naming conventions, nor does it explicitly define the full scope of the article. To improve, the sentence should more clearly outline the article's focus and adhere to specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RPAP2,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The sentence does not provide the UniProt protein name, so it partially meets the requirement by using the gene symbol but does not fully comply as it does not consider the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by mentioning the clinical significance of RPAP2 and its derivative circRPAP2 in breast cancer. However, it lacks information on the structure and function of RPAP2 or circRPAP2, which are key aspects needed for a comprehensive summary. Additionally, the sentence is quite brief and could provide more context or detail to better summarize the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 1.0,
+          "feedback": [
+            "The sentence does not repeat any information from an infobox, as no infobox content is provided for comparison. It introduces new information about the role of RPAP2 and circRPAP2 in breast cancer pathogenesis, which could be considered notable. Therefore, it meets the requirement effectively."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Research indicates that circRPAP2 is notably downregulated in BC tissues and cell lines compared to normal counterparts.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific finding related to circRPAP2 in breast cancer (BC) tissues and cell lines, but it does not define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein or gene names. To better meet the requirement, the sentence should clearly outline the main focus or objective of the article and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"circRPAP2,\" which appears to be a circular RNA related to the RPAP2 gene. The requirement specifies using the recommended UniProt protein name if short, or the HUGO gene symbol with disambiguation if necessary. The sentence does not clarify whether \"circRPAP2\" is the recommended UniProt protein name or the HUGO gene symbol, nor does it provide disambiguation. Therefore, it partially meets the requirement by mentioning a gene-related term but lacks clarity on the naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific finding about circRPAP2 being downregulated in BC tissues and cell lines, which is a key aspect of the research. However, it lacks information on the structure, function, and clinical significance of circRPAP2, which are necessary to meet the requirement of summarizing the article concisely. The sentence is too focused on a single detail and does not provide a comprehensive overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the downregulation of circRPAP2 in BC tissues and cell lines, which could be considered notable. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is already present there. If the infobox contains this information and it is not particularly notable or emphasized, the sentence might be redundant. The score reflects a slight deduction for potential redundancy, but acknowledges the possibility of the information being notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This downregulation correlates with more aggressive clinical features, including axillary lymph node metastasis and higher TNM stages, suggesting its potential as a biomarker for BC prognosis (Yu2022CircRPAP2).",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it discusses a specific finding related to downregulation and its correlation with clinical features, which is not suitable as an introductory sentence defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any protein name or gene symbol, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the score, the sentence should include the appropriate protein name or gene symbol as specified in the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides some clinical significance by mentioning the correlation with aggressive clinical features and its potential as a biomarker for BC prognosis. However, it lacks information on the structure and function, which are key aspects required for a complete summary. Additionally, it includes a citation that may not be necessary for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the correlation between downregulation and aggressive clinical features, which may not be present in the infobox. It suggests the potential of a biomarker for BC prognosis, which could be notable information. However, without knowing the content of the infobox, it's difficult to fully assess the necessity of this repetition. The sentence seems to emphasize the significance of the correlation, which might justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The tumor-suppressive function of circRPAP2 in BC is mediated by its interaction with the oncoprotein SRSF1.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence partially defines the scope of the article by mentioning the tumor-suppressive function of circRPAP2 in breast cancer (BC) and its interaction with the oncoprotein SRSF1. However, it lacks clarity and completeness in defining the full scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using specific protein names and identifiers. To improve, the sentence should clearly outline the main focus of the article and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"SRSF1,\" which is the HUGO gene symbol. However, it does not specify whether this is the recommended name according to UniProt or if disambiguation is necessary. To fully meet the requirement, the sentence should clarify if \"SRSF1\" is the recommended UniProt name or provide disambiguation if needed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the tumor-suppressive function of circRPAP2 in breast cancer (BC) and its interaction with the oncoprotein SRSF1. However, it lacks information on the structure of circRPAP2 and does not address the clinical significance of this interaction. To fully meet the requirement, the sentence should include these additional key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interaction between circRPAP2 and SRSF1 in the context of tumor suppression in BC (breast cancer). If this information is already present in the infobox, it might be considered repetitive. However, the sentence does emphasize the mechanism of action, which could be notable. The score reflects that while the sentence may repeat information, it does so with a focus on a specific interaction that could warrant emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This interaction disrupts the normal splicing activity of SRSF1 on the PTK2 pre-mRNA, a gene implicated in oncogenic pathways through its roles in cell proliferation and migration.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about an interaction affecting SRSF1 and PTK2 pre-mRNA, which are related to oncogenic pathways. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein and gene names. The sentence lacks a broader context or introduction to the main topic of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"SRSF1\" and \"PTK2,\" which are HUGO gene symbols. The requirement suggests using the recommended UniProt protein name if it is relatively short. The sentence does not provide the UniProt protein names, which might be more appropriate if they are short. However, it does use the HUGO gene symbols, which is acceptable if the UniProt names are not short or if disambiguation is necessary. The score reflects the partial fulfillment of the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the interaction between SRSF1 and PTK2 pre-mRNA, mentioning its disruption of normal splicing activity and its implication in oncogenic pathways. However, it lacks a comprehensive summary of the article, as it does not address the overall structure, function, or clinical significance in a concise manner. The sentence is too specific and does not provide a broad overview of the key aspects required."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interaction affecting SRSF1's splicing activity on PTK2 pre-mRNA, which is related to oncogenic pathways. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does emphasize the significance of the interaction in terms of cell proliferation and migration, which could be notable. The score reflects that while there might be some repetition, the emphasis on the gene's role in oncogenic pathways could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "By binding to SRSF1, circRPAP2 competitively inhibits the formation of PTK2 mRNA and protein, thereby hindering BC cell proliferation and migration.",
+      "title": "Introduction",
+      "score": 0.5,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about a molecular interaction and its biological effect, but it does not define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein and gene names. To better meet the requirement, the sentence should introduce the broader topic or focus of the article and ensure that all protein and gene names adhere to UniProt standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses gene symbols (SRSF1, PTK2) instead of the recommended UniProt protein names. While the gene symbols are correct, the requirement specifies using UniProt protein names if they are relatively short. The sentence partially meets the requirement by using gene symbols, but it does not fully comply with the preference for UniProt names."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of a specific mechanism involving circRPAP2, SRSF1, and PTK2 mRNA/protein, which affects BC cell proliferation and migration. However, it lacks broader context regarding the structure, overall function, and clinical significance of the findings. It focuses on a specific interaction without addressing the article's comprehensive scope or implications."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the mechanism by which circRPAP2 affects BC cell proliferation and migration. If this information is already present in the infobox, it may be considered repetitive. However, the sentence does emphasize the competitive inhibition mechanism, which could be notable. The score reflects that while the sentence may repeat information, it does so with a level of detail that could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This mechanism highlights the therapeutic potential of targeting circRPAP2-SRSF1 interactions in BC treatment strategies (Yu2022CircRPAP2).",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions a specific mechanism and its potential therapeutic application in breast cancer (BC) treatment strategies, which gives a hint about the article's focus. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein or gene names. To better meet the requirement, the sentence should explicitly state the article's scope and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"SRSF1,\" which is the HUGO gene symbol. However, it does not specify whether the UniProt protein name is relatively short or not, nor does it provide disambiguation for \"SRSF1\" if needed. The sentence partially meets the requirement by using the gene symbol, but it lacks clarity on whether this is the best choice according to the guideline."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a very narrow focus on the therapeutic potential of targeting circRPAP2-SRSF1 interactions in breast cancer (BC) treatment strategies. It lacks a summary of the article's key aspects such as the structure and function of circRPAP2-SRSF1, and it does not provide a broader context or clinical significance beyond the mention of therapeutic potential. The sentence is too specific and does not offer a comprehensive overview of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence introduces the therapeutic potential of targeting circRPAP2-SRSF1 interactions in BC treatment strategies, which may be notable information. However, without knowing the content of the infobox, it's difficult to determine if this information is repeated. Assuming the infobox contains similar details, the sentence could be seen as redundant unless it adds new insights or emphasis. The score reflects a slight deduction for potential repetition, but acknowledges the possibility of the information being notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Overall, the alterations in the expression and function of circRPAP2 derived from RPAP2 significantly contribute to the progression and severity of breast cancer, underscoring the clinical importance of this gene and its products in oncology.",
+      "title": "Introduction",
+      "score": 0.61,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides information about the role of circRPAP2 in breast cancer, which could suggest the article's focus on this gene's impact on cancer progression. However, it does not explicitly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should clearly state the article's scope and adhere to specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RPAP2\" which is the HUGO gene symbol, but it does not provide any disambiguation. It is unclear if \"RPAP2\" is the recommended UniProt protein name or if it should be disambiguated. The sentence partially meets the requirement by using a gene symbol, but it lacks clarity on whether this is the most appropriate name according to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.8,
+          "feedback": [
+            "The sentence effectively summarizes the article by highlighting the key aspects of the structure (circRPAP2 derived from RPAP2), function (alterations in expression and function), and clinical significance (contribution to breast cancer progression and severity) of the gene. However, it could be slightly more concise by avoiding repetition and focusing more directly on the main points without additional phrasing like \"underscoring the clinical importance,\" which is somewhat redundant given the context."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence effectively communicates the significance of circRPAP2 in breast cancer progression and severity, which could be considered notable information. However, without knowing the specific content of the infobox, it's difficult to fully assess whether the information is repeated unnecessarily. Assuming the infobox contains basic information about circRPAP2, the sentence does emphasize its clinical importance, which may justify its inclusion. Nonetheless, the score reflects a slight deduction due to the potential for repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Interactions\nRPAP2 interacts with various components of the transcription machinery, notably with RNA Polymerase II (Pol II) and the Integrator complex.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It begins with a section header \"# # Interactions\" and then describes interactions of RPAP2, which is more specific content rather than a scope-defining introduction. To meet the requirement, the sentence should clearly outline the overall focus or purpose of the article, using appropriate naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RPAP2,\" which is a gene symbol, but it is unclear if this is the recommended UniProt protein name or if it should be disambiguated. Additionally, \"RNA Polymerase II\" is used, which is a common name, but it is not clear if it aligns with the recommended UniProt name. The sentence partially meets the requirement by using recognizable names, but it lacks clarity on whether these are the recommended UniProt names or if disambiguation is needed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provided does not effectively summarize the article as required. It only mentions interactions of RPAP2 with components of the transcription machinery, specifically RNA Polymerase II and the Integrator complex. It lacks information on the structure, function, and clinical significance of RPAP2, which are key aspects needed for a comprehensive summary. Additionally, the sentence includes unnecessary detail about interactions without providing a broader context."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about RPAP2's interactions with RNA Polymerase II and the Integrator complex. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable or requires emphasis. However, the sentence does not excessively repeat information and focuses on key interactions, which could be considered notable. The score reflects that while the sentence is informative, it could be redundant if the infobox already contains this information without needing further emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "RPAP2 has been shown to strongly interact with Rpb1, the largest subunit of Pol II, indicating its role in transcriptionally active complexes.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions an interaction between RPAP2 and Rpb1, suggesting a role in transcriptionally active complexes, but it does not define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name and organism. The sentence lacks context and does not provide a clear overview of the article's focus."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RPAP2\" and \"Rpb1,\" which are likely gene symbols or protein names. However, it does not specify whether these are the recommended UniProt protein names or if they are HUGO gene symbols. Without this clarification, it is unclear if the requirement to use the recommended UniProt protein name or the HUGO gene symbol with disambiguation is met. To improve the score, the sentence should specify if \"RPAP2\" and \"Rpb1\" are the recommended names or provide the appropriate disambiguation if they are gene symbols."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the interaction between RPAP2 and Rpb1, which relates to the function of RPAP2 in transcriptionally active complexes. However, it does not summarize the article concisely or cover key aspects such as structure and clinical significance. The sentence lacks a broader context and does not provide a comprehensive overview of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about RPAP2's interaction with Rpb1 and its role in transcriptionally active complexes. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable. However, the sentence does emphasize the significance of the interaction, which could justify its inclusion. The score reflects that while the sentence may repeat infobox content, it adds value by highlighting the importance of the interaction."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "It also interacts with several subunits of the Integrator complex, including Int1, Int4, Int5, Int6, and Int7, which are involved in snRNA 3' end formation.",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it provides specific information about interactions with subunits of the Integrator complex. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein names and identifiers."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses gene symbols (Int1, Int4, Int5, Int6, and Int7) instead of the recommended UniProt protein names. If the UniProt names are relatively short, they should be used instead. The sentence partially meets the requirement by using gene symbols, but it does not specify if these are the best choices according to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific details about interactions with subunits of the Integrator complex and their role in snRNA 3' end formation. However, it does not summarize the article concisely or cover key aspects like structure, function, and clinical significance. It focuses on a specific detail rather than providing a broad overview, which is necessary for a lead sentence."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the interaction with subunits of the Integrator complex, which may be notable information. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repetitive. If the infobox already contains this detailed list, the sentence might be slightly redundant, but it could still be justified if the details are particularly notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "However, RPAP2 does not stably interact with the catalytic subunit of the Integrator complex, Int11, suggesting selective interactions within this complex (Egloff2012Ser7).",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it discusses a specific interaction within a protein complex, which is not related to setting the scope of an article. To meet the requirement, the sentence should provide an overview or introduction to the article's main topic or focus, using appropriate naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RPAP2\" and \"Int11,\" which are likely gene symbols or protein names. It is unclear if these are the recommended UniProt protein names or if they should be replaced with HUGO gene symbols. The sentence partially meets the requirement by using gene symbols, but without confirmation of the recommended UniProt names, it cannot be fully evaluated. To improve the score, verify and use the recommended UniProt protein names if they are relatively short, or provide the HUGO gene symbols with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provided does not effectively summarize the article as required. It focuses on a specific interaction between RPAP2 and Int11 within the Integrator complex, which is a very narrow aspect of the study. It lacks coverage of the overall structure, function, and clinical significance of the topic. Additionally, it includes a citation (Egloff2012Ser7) that is not explained, which does not contribute to a concise summary. To meet the requirement, the sentence should provide a broader overview of the article's main findings and implications."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interaction between RPAP2 and Int11, which may not be common knowledge or already present in an infobox. It suggests a selective interaction within the Integrator complex, which could be notable enough to warrant mention. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repetitive. The sentence seems to meet the requirement reasonably well by potentially offering unique insights."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Further studies have demonstrated that RPAP2 exists in at least two distinct complexes: a large complex containing Pol II subunits and a smaller complex devoid of Rpb1 but containing Integrator subunits and other proteins such as members of the chaperonin-containing TCP1 complex, XAB1, and GPN3.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about RPAP2 and its association with different complexes, but it does not define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein names and identifiers. The sentence lacks a broader context or introduction that would set the stage for the article's content."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence mentions several proteins and complexes, such as \"RPAP2,\" \"Pol II,\" \"Rpb1,\" \"Integrator,\" \"chaperonin-containing TCP1 complex,\" \"XAB1,\" and \"GPN3.\" However, it is unclear whether these names are the recommended UniProt protein names or HUGO gene symbols. The sentence does not provide disambiguation for any gene symbols, which may be necessary for clarity. To fully meet the requirement, the sentence should ensure that the names used are either the recommended UniProt names or the HUGO gene symbols with appropriate disambiguation."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific details about the existence of RPAP2 in two distinct complexes, mentioning the components of these complexes. However, it does not summarize the article concisely or cover key aspects such as structure, function, and clinical significance. It focuses on specific findings rather than providing a broad overview, which is necessary for a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the distinct complexes involving RPAP2, which may not be present in an infobox. It avoids unnecessary repetition and offers specific details that could be considered notable, such as the presence of Pol II subunits and Integrator subunits. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this detail, hence the score is not perfect."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The DUF408 domain of RPAP2, particularly its cysteine-rich motif, is essential for binding to both Pol II and the Integrator complex (Egloff2012Ser7).",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the DUF408 domain of RPAP2 and its role in binding to Pol II and the Integrator complex, but it does not define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein names and identifiers. The sentence lacks a broader context or introduction to the main topic of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RPAP2\" which is the HUGO gene symbol, but it does not provide any disambiguation. It is unclear if \"RPAP2\" is the recommended UniProt protein name or if it should be disambiguated. The sentence partially meets the requirement by using a gene symbol, but it lacks clarity on whether this is the best choice according to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the DUF408 domain of RPAP2 and its role in binding to Pol II and the Integrator complex, which touches on structure and function. However, it does not summarize the article concisely or cover key aspects like clinical significance. It lacks a broader context or overview of the article's main findings and importance, focusing instead on a specific detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the DUF408 domain of RPAP2 and its role in binding to Pol II and the Integrator complex. If this information is already present in the infobox, it may be considered repetitive unless it is particularly notable or requires emphasis. However, the sentence does highlight a specific aspect (the cysteine-rich motif), which could justify its inclusion. The score reflects a minor deduction for potential repetition, but acknowledges the specificity and potential emphasis of the information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, RPAP2 directly interacts with the RNA polymerase II subunit Rpb6 and has a significant role in the assembly of the Pol II complex and its nuclear import.",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about RPAP2 and its interactions with RNA polymerase II, but it does not define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein names and identifiers. To better meet the requirement, the sentence should introduce the main topic or focus of the article and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RPAP2\" and \"Rpb6,\" which appear to be gene symbols rather than UniProt protein names. The requirement suggests using the recommended UniProt protein name if it is relatively short, or the HUGO gene symbol with disambiguation if necessary. The sentence does not clarify whether these are the recommended names or provide disambiguation, which affects the score."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the function of RPAP2, specifically its interaction with RNA polymerase II and its role in assembly and nuclear import. However, it lacks coverage of the structure and clinical significance of RPAP2, which are key aspects mentioned in the requirement. Additionally, it does not summarize the article as a whole, focusing instead on a specific detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence may repeat information that could be present in an infobox, such as the interaction of RPAP2 with RNA polymerase II subunit Rpb6 and its role in Pol II complex assembly and nuclear import. Without knowing the content of the infobox, it's unclear if this information is notable enough to warrant repetition. The sentence partially meets the requirement by potentially emphasizing the significance of RPAP2's role, but it could be redundant if the infobox already covers these details comprehensively."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This interaction is facilitated by the C-terminus of RPAP2, which is crucial for binding to Rpb6 (Wani2014Human).",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it describes a specific interaction involving the C-terminus of RPAP2 and Rpb6. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein names and identifiers. To meet the requirement, the sentence should provide an overview of the article's focus and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RPAP2\" and \"Rpb6,\" which appear to be gene symbols rather than UniProt protein names. The requirement suggests using the recommended UniProt protein name if it is relatively short, or the HUGO gene symbol with disambiguation if necessary. The sentence does not clarify whether these are the recommended names or provide disambiguation, which affects the score."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provided does not effectively summarize the article as required. It focuses on a specific interaction involving the C-terminus of RPAP2 and Rpb6, which may relate to the structure and function aspects, but it lacks a comprehensive overview. It does not address the overall structure, broader function, or any clinical significance of the topic. Additionally, it includes a citation without context, which does not contribute to a summary. To improve, the sentence should encapsulate the main points of the article, including its key findings and implications, in a concise manner."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interaction facilitated by the C-terminus of RPAP2 and its importance in binding to Rpb6. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does emphasize the crucial nature of this interaction, which could justify its inclusion. The score reflects that while the sentence may repeat information, it does so with a focus on its significance."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "RPAP2 also exhibits phosphatase activity specific to the phosphorylated Ser5 in the C-terminal domain (CTD) of Pol II, crucial for the regulation of Pol II activity during transcription (Wani2014Human).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about the function of RPAP2, but it does not define the overall scope of the article. It lacks a broader context or introduction to the main topics or objectives of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein names and identifiers. To better meet the requirement, the sentence should introduce the main focus of the article and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"RPAP2,\" which is the HUGO gene symbol. However, it does not specify whether this is the recommended UniProt protein name or if disambiguation is necessary. To fully meet the requirement, the sentence should clarify if \"RPAP2\" is the recommended UniProt name or provide disambiguation if it is a gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the function of RPAP2, mentioning its phosphatase activity related to Pol II during transcription. However, it does not summarize the article concisely or cover key aspects like structure and clinical significance. It focuses narrowly on a single function without providing a broader overview or context, which is necessary for a comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about RPAP2's phosphatase activity and its role in regulating Pol II activity during transcription. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable. However, the sentence does emphasize the specificity of RPAP2's activity and its importance, which could justify its inclusion. The score reflects that while the sentence may repeat information, it does so with a focus on notable details."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # References\n\n\n[1.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow any naming conventions, including those recommended by UniProt. It appears to be an incomplete or incorrectly formatted section heading rather than a sentence that meets the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any information related to the use of UniProt protein names or HUGO gene symbols. It appears to be an incomplete or incorrectly formatted reference section, and thus does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a heading or a placeholder for references, and it does not summarize any article or cover key aspects like structure, function, or clinical significance. It lacks any content related to the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 1.0,
+          "feedback": [
+            "The sentence provided does not repeat any information from an infobox, as it is simply a heading for a references section. Therefore, it fully meets the requirement of avoiding repetition of infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Fianu2021Cryo-EM) Isaac Fianu, Christian Dienemann, Shintaro Aibara, Sandra Schilbach, and Patrick Cramer.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation or reference to authors and a publication, rather than an introductory sentence that outlines the article's scope. To meet the requirement, the sentence should clearly state the main topic or focus of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. It lists authors of a study without mentioning any protein names or gene symbols. To meet the requirement, the sentence should include a reference to a protein using the recommended UniProt protein name or the HUGO gene symbol, with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation of authors and does not summarize the article at all. It lacks any information about the article's content, such as structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes author names and publication details. If this information is already present in an infobox, repeating it in the main text may not be necessary unless it is particularly notable. However, without additional context, it's difficult to determine if this repetition is justified. The sentence mostly meets the requirement, but the score reflects the potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Cryo-em structure of mammalian rna polymerase ii in complex with human rpap2.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific focus on the cryo-EM structure of mammalian RNA polymerase II in complex with human RPAP2, which partially defines the scope of the article. However, it does not fully adhere to the recommended UniProt naming conventions, as it uses lowercase letters for \"cryo-em\" and \"rna polymerase ii,\" which should be capitalized as \"Cryo-EM\" and \"RNA polymerase II\" according to standard naming conventions. Additionally, the sentence lacks broader context or background that would more comprehensively define the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"rpap2,\" which appears to be a gene symbol rather than a UniProt protein name. The requirement suggests using the recommended UniProt protein name if it is relatively short, or the HUGO gene symbol with disambiguation if necessary. The sentence does not clarify whether \"rpap2\" is the gene symbol or provide disambiguation, which affects the score."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the subject of the article, namely the cryo-EM structure of mammalian RNA polymerase II in complex with human RPAP2. However, it does not summarize the article concisely or cover key aspects such as the function or clinical significance of the structure. It lacks context and broader information that would help a reader understand the importance or implications of the study."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the cryo-EM structure of mammalian RNA polymerase II in complex with human RPAP2. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable. However, the sentence does not appear to be overly redundant or unnecessary, so it largely meets the requirement. The score reflects that while the sentence is informative, it could be redundant if the infobox already contains this exact detail."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Communications Biology, May 2021.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Communications Biology, May 2021.\" does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It only provides the name of a publication and a date, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It does not mention any protein name or gene symbol, whether from UniProt or HUGO. The sentence only provides a journal name and a date, which are unrelated to the requirement of using specific protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Communications Biology, May 2021.\" does not meet the requirement at all. It does not summarize an article, nor does it cover any key aspects such as structure, function, or clinical significance. It merely provides a publication name and date, lacking any substantive content or detail relevant to the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence \"Communications Biology, May 2021\" is likely a reference to a publication or article date, which is common information found in an infobox. However, without additional context, it's unclear if this information is repeated from an infobox or if it requires emphasis. The sentence is concise and does not overtly repeat information unnecessarily, but the score reflects the potential for redundancy depending on the context."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1038/s42003-021-02088-z , doi:10.1038/s42003-021-02088-z.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It only provides a URL and a DOI, which are identifiers for accessing the article, but it does not define the scope of the article. Additionally, there is no use of UniProt naming conventions in the sentence."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI reference, with no mention of a UniProt protein name or a HUGO gene symbol. To meet the requirement, the sentence should include a reference to a protein or gene name, using the recommended UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary or information about the article's structure, function, or clinical significance. There is no content that addresses the key aspects mentioned in the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the inclusion of both the URL and DOI might be useful for clarity, which is why it does not score lower."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(15 citations) 10.1038/s42003-021-02088-z]( https://doi.org/10.1038/s42003-021-02088-z )\n\n[2.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation reference, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a sentence discussing proteins or genes."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It appears to be a citation reference rather than a summary. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of providing a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation with a DOI link, which is typically information that might be included in an infobox. However, without context on what is in the infobox, it's difficult to determine if this is a repetition. The sentence does not seem to emphasize or highlight any particularly notable information beyond the citation itself. The score reflects that it likely meets the requirement, assuming the infobox does not already contain this exact citation detail."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Egloff2012Ser7) Sylvain Egloff, Justyna Zaborowska, Cl\u00c3\u00a9lia Laitem, Tam\u00c3\u00a1s Kiss, and Shona Murphy.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly state the topic or focus of the article in accordance with UniProt guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not mention any proteins or genes, nor does it use any UniProt protein names or HUGO gene symbols. It appears to be a citation or reference to authors of a study, which does not relate to the requirement of using specific protein or gene nomenclature. Therefore, it does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation of authors and does not summarize an article. It lacks any information about the article's content, structure, function, or clinical significance. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes author names and publication details. Without additional context, it's unclear if this information is repeated from an infobox or if it is particularly notable. If this information is already present in an infobox and not emphasized for a specific reason, it may not fully meet the requirement to avoid repetition. However, if this is a standard citation format, some repetition might be expected."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Ser7 phosphorylation of the ctd recruits the rpap2 ser5 phosphatase to snrna genes.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not clearly define the scope of the article. It mentions a specific biochemical process involving Ser7 phosphorylation and recruitment of RPAP2 to snRNA genes, but it lacks context or a broader statement about the article's focus. Additionally, it does not follow the recommended UniProt naming conventions, as it uses lowercase for \"ctd\" and \"snrna,\" which should be capitalized as \"CTD\" and \"snRNA\" respectively."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"rpap2\" which appears to be a gene symbol, but it is not clear if it is the recommended UniProt protein name or if disambiguation is necessary. Additionally, \"ctd\" is not clarified, which could be a protein or domain that might need a specific name. The sentence partially meets the requirement by using gene symbols, but it lacks clarity on whether these are the recommended names or if disambiguation is needed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about a biochemical process involving Ser7 phosphorylation and the recruitment of rpap2 ser5 phosphatase to snRNA genes. However, it does not summarize an article concisely or cover key aspects such as structure, function, and clinical significance. It lacks context and broader information that would be necessary for a comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information, as it provides specific details about the role of Ser7 phosphorylation and the recruitment of the RPAP2 Ser5 phosphatase to snRNA genes. However, without the context of the infobox, it's difficult to fully assess whether this information is already present there. Assuming the sentence introduces new or emphasized information, it meets the requirement well. The score reflects a slight deduction due to the lack of context regarding the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Molecular Cell, 45(1):111\u00e2\u0080\u0093122, January 2012.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It also does not follow any naming conventions, including the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's focus and adhere to the specified naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not contain any protein names or gene symbols. Therefore, it cannot be evaluated against the requirement, which pertains to the use of UniProt protein names or HUGO gene symbols. The sentence does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's content, such as structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation in a standard format, which is typically necessary for referencing purposes. However, without context, it's unclear if this information is already present in an infobox. If the citation details are already included in an infobox, repeating them in the text might not be necessary unless they need emphasis. The score reflects the potential redundancy depending on the context."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1016/j.molcel.2011.11.006 , doi:10.1016/j.molcel.2011.11.006.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article at all. Instead, it lists a URL and a DOI, which are identifiers for accessing the article but do not provide any information about its content or scope. Additionally, there is no mention of UniProt naming conventions, which are not relevant to the sentence as it stands. To meet the requirement, the sentence should include a brief description of the article's focus or subject matter, using appropriate naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI reference, with no mention of a UniProt protein name or a HUGO gene symbol. To meet the requirement, the sentence should include a reference to a protein name or gene symbol, as specified."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary or information about the article's content, structure, function, or clinical significance. To meet the requirement, the sentence should provide a concise summary of the article's key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information twice, once as a URL and once as a DOI, which is unnecessary unless there is a specific reason to emphasize both formats. This repetition does not align well with the requirement to avoid repeating information unless notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(162 citations) 10.1016/j.molcel.2011.11.006]( https://doi.org/10.1016/j.molcel.2011.11.006 )\n\n[3.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation reference rather than a descriptive sentence about the article's content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a citation count and a DOI link, with no summary or information about the article's structure, function, or clinical significance. To meet the requirement, the sentence should concisely summarize the key aspects of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation count and a DOI link, which are common elements that might be included in an infobox. However, the citation count could be considered notable information that might warrant emphasis, depending on the context. The sentence generally meets the requirement, but without additional context, it's unclear if this repetition is necessary."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Yu2022CircRPAP2) Yunhe Yu and Lin Fang.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It appears to be a citation or reference to an article by authors Yunhe Yu and Lin Fang, rather than a sentence that introduces or defines the scope of the article itself."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not mention any protein name or gene symbol. It only includes a reference citation with author names and a year, which is unrelated to the requirement of using a UniProt protein name or HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a reference citation with author names and a year, without any summary of the article's content. It lacks any information on the structure, function, or clinical significance of the topic, and therefore does not fulfill the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence \"(Yu2022CircRPAP2) Yunhe Yu and Lin Fang.\" appears to be a citation or reference to a study or paper by Yunhe Yu and Lin Fang. If this information is already present in an infobox, repeating it in this manner may not be necessary unless it is particularly notable or requires emphasis. The sentence is concise and does not overly repeat information, but without context, it's unclear if the repetition is justified. Therefore, it mostly meets the requirement but could be improved by ensuring the repetition is necessary."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Circrpap2 regulates the alternative splicing of ptk2 by binding to srsf1 in breast cancer.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the role of Circrpap2 in breast cancer, which could be part of the article's scope. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein names and identifiers. To improve, the sentence should more broadly outline the article's focus and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses gene symbols \"Circrpap2,\" \"ptk2,\" and \"srsf1\" without checking if these are the recommended UniProt protein names or if they should be disambiguated using HUGO gene symbols. The sentence partially meets the requirement by using gene symbols, but it does not verify if these are the appropriate names according to UniProt or if disambiguation is necessary. To fully meet the requirement, the sentence should use the recommended UniProt protein names if they are short, or provide disambiguation for the gene symbols if needed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the regulation of alternative splicing by circrpap2 in breast cancer, mentioning the involvement of srsf1 and ptk2. However, it lacks a broader summary of the article's key aspects such as the overall structure, function, and clinical significance of the findings. It is too focused on a single detail without providing a comprehensive overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information unnecessarily, assuming the details about Circrpap2, ptk2, srsf1, and breast cancer are not already present in the infobox. However, without knowing the content of the infobox, it's difficult to fully assess compliance. If these details are already in the infobox and are not particularly notable, the sentence might not meet the requirement as well."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Cell Death Discovery, April 2022.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Cell Death Discovery, April 2022.\" does not define the scope of the article nor does it follow any naming conventions, including the recommended UniProt naming conventions. It merely provides a title and a date, lacking any descriptive or informative content about the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence only provides a journal name and date, which is unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is merely a citation of a journal and date, \"Cell Death Discovery, April 2022,\" and does not summarize an article. It lacks any information about structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence \"Cell Death Discovery, April 2022.\" is very brief and lacks context. Without additional information, it's unclear if this information is already present in an infobox or if it is notable enough to be emphasized. If this is a citation or reference that is already covered elsewhere, it may be redundant. However, if it is a key piece of information that needs emphasis, it could be justified. The score reflects this ambiguity."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1038/s41420-022-00965-y , doi:10.1038/s41420-022-00965-y.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it simply provides a URL and a DOI, which are identifiers for accessing the article but do not describe its content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI, with no mention of any protein names or gene symbols. To meet the requirement, the sentence should include a reference to a UniProt protein name or a HUGO gene symbol, depending on the length and context."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI, which are identifiers for accessing the article, but it does not summarize the article's content, structure, function, or clinical significance. There is no information provided about the article's key aspects or any summary of its content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information twice, once as a URL and once as a plain DOI, which may be unnecessary if this information is already present in an infobox. The repetition does not seem to add notable emphasis or additional context, thus partially failing to meet the requirement to avoid unnecessary repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(17 citations) 10.1038/s41420-022-00965-y]( https://doi.org/10.1038/s41420-022-00965-y )\n\n[4.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation reference, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It appears to be a citation or reference to an article, rather than a summary. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of providing a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation and a DOI link, which are often included in an infobox. However, without context, it's unclear if this information is repeated from an infobox. The sentence does not seem to emphasize or highlight any particularly notable information, but it does not overtly repeat content either. The score reflects a slight deduction due to potential redundancy, but overall, it meets the requirement reasonably well."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Wani2014Human) Shotaro Wani, Yutaka Hirose, and Yoshiaki Ohkuma.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement as it does not define the scope of the article. Instead, it appears to be a citation or reference to authors and a publication year. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve specific guidelines for naming proteins or genes."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. It lists authors' names and a citation, but it does not mention any protein names or gene symbols, nor does it use the UniProt protein name or HUGO gene symbol. To meet the requirement, the sentence should include a protein name or gene symbol and ensure it follows the specified guidelines."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only lists authors' names and a citation, without summarizing the article or covering any key aspects such as structure, function, or clinical significance. There is no content related to the article's subject matter or findings."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes author names and publication year. If this information is already present in an infobox, repeating it here may not be necessary unless it is particularly notable or requires emphasis. However, without additional context, it's difficult to determine if this repetition is justified. The sentence mostly meets the requirement but could be improved by ensuring it adds value beyond what is in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Human rna polymerase ii-associated protein 2 (rpap2) interacts directly with the rna polymerase ii subunit rpb6 and participates in pre-mrna 3 &amp; apos;-end formation.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides some information about the interaction and function of RPAP2 with RNA polymerase II, which could suggest the scope of the article. However, it does not clearly define the overall scope or purpose of the article. Additionally, the sentence does not fully adhere to UniProt naming conventions, as it uses lowercase for the protein names and does not provide a clear, structured definition or context for the article's focus."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"rpap2\" instead of the recommended UniProt protein name. If the UniProt name is relatively short, it should have been used. The sentence partially meets the requirement by using the gene symbol, but it does not clarify if the UniProt name was considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the interaction between RPAP2 and RNA polymerase II subunit RPB6, as well as its role in pre-mRNA 3'-end formation. However, it lacks a comprehensive summary of the article, as it does not address the structure, broader function, or clinical significance of RPAP2. The sentence is too focused on a specific interaction and does not provide a concise overview of the key aspects required."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interaction between RPAP2 and the RNA polymerase II subunit RPB6, as well as its role in pre-mRNA 3'-end formation. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does emphasize the interaction and function, which could be notable. The score reflects that while the sentence may repeat information, it does so with a focus on specific interactions and functions that might warrant emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Drug Discoveries &amp; Therapeutics, 8(6):255\u00e2\u0080\u0093261, 2014.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's focus and adhere to the specified naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not contain any protein names or gene symbols. Therefore, it cannot be evaluated against the requirement, which pertains to the use of UniProt protein names or HUGO gene symbols. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article. It lacks any information about the article's structure, function, or clinical significance. To meet the requirement, a concise summary of the article's key aspects is needed."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes specific details such as the journal name, volume, issue, page numbers, and year. If this information is already present in an infobox, repeating it in the text may not be necessary unless it is particularly notable. However, without context on what is in the infobox, it's difficult to determine if this repetition is justified. The sentence is concise and factual, which aligns with typical citation practices, but it could be redundant if the infobox already contains this exact information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.5582/ddt.2014.01044 , doi:10.5582/ddt.2014.01044.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it only provides a URL and a DOI, which are identifiers for accessing the article but do not give any information about its content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. The requirement is about using the recommended UniProt protein name or the HUGO gene symbol, but the sentence only contains a URL and a DOI reference, with no mention of any protein names or gene symbols."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, without any summary or information about the article's content. There is no mention of the article's structure, function, or clinical significance, nor is there any attempt to summarize the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in an infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the sentence does provide both a URL and a DOI, which could be seen as slightly different pieces of information, hence the score is not the lowest possible."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(12 citations) 10.5582/ddt.2014.01044]( https://doi.org/10.5582/ddt.2014.01044 )",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation reference rather than a descriptive sentence about the article's content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement of using the recommended UniProt protein name or the HUGO gene symbol. It appears to be a citation reference rather than a sentence discussing protein names or gene symbols. Therefore, it does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation or reference link rather than a summary of an article. It lacks any information about the article's structure, function, or clinical significance, and does not provide a concise summary of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation count and a DOI link, which are typically found in an infobox. However, the citation count might be notable information that could warrant emphasis, depending on the context. The sentence does not repeat unnecessary information beyond this, so it mostly meets the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    }
+  ]
+}

@@ -1,0 +1,1300 @@
+{
+  "LeadSection": [
+    {
+      "text": "# PRR30 # # Overview\nPRR30, or Proline Rich 30, is a gene located in the human genome that encodes the protein proline rich 30.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a basic definition of PRR30, mentioning that it is a gene encoding a protein, which partially defines the scope of the article. However, it does not fully adhere to the recommended UniProt naming conventions, which typically include more detailed information such as the organism, function, and any known aliases or identifiers. Additionally, the sentence structure could be clearer and more informative to better define the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"PRR30\" and provides a description of the gene and its encoded protein. However, it does not mention whether the UniProt protein name was considered or if it is relatively short. To fully meet the requirement, the sentence should either use the recommended UniProt protein name if it is short or clarify why the HUGO gene symbol is used."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a basic introduction to PRR30 by identifying it as a gene and mentioning the protein it encodes. However, it lacks information on the structure, function, and clinical significance of PRR30, which are key aspects required for a comprehensive summary. Additionally, the sentence includes unnecessary detail with the repetition of \"PRR30\" and \"proline rich 30.\""
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the information about PRR30 being a gene and encoding the protein proline rich 30, which is likely to be present in an infobox. The repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement to avoid unnecessary repetition. However, it does provide a basic overview, which might be useful if the infobox is not comprehensive."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This protein is part of the proline-rich protein family, characterized by their high proline content, which plays a crucial role in various cellular functions through interactions with other proteins.",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the protein being part of the proline-rich protein family and its role in cellular functions. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to specific naming guidelines provided by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not use either the recommended UniProt protein name or the HUGO gene symbol. It only refers to the protein as part of the \"proline-rich protein family\" without specifying a particular protein name or gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the protein's family and its role in cellular functions through interactions with other proteins, which touches on the function aspect. However, it lacks information on the structure and clinical significance of the protein, which are key aspects mentioned in the requirement. Additionally, the sentence does not summarize an article but rather describes a specific characteristic of the protein family. To better meet the requirement, the sentence should include a concise summary of the protein's structure, function, and clinical significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides a general description of the proline-rich protein family and their role, which may be information already present in an infobox. However, it does emphasize the importance of proline content and its role in cellular functions, which could be considered notable. The sentence could be more concise to better meet the requirement of avoiding repetition unless necessary."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Proline-rich domains within these proteins typically facilitate binding with SH3 or WW domain-containing proteins, influencing cellular processes such as growth, differentiation, and apoptosis.",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides some context about the role of proline-rich domains in proteins and their interaction with SH3 or WW domain-containing proteins, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve specific protein names or identifiers. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein names or gene symbols, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence is too general and lacks the specific details needed to evaluate it against the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the function of proline-rich domains in proteins, mentioning their role in binding with SH3 or WW domain-containing proteins and influencing cellular processes. However, it does not summarize an article or cover key aspects like structure, function, and clinical significance comprehensively. It lacks context and broader information that would be necessary for a concise summary of an article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of proline-rich domains in protein interactions and their influence on cellular processes. If this information is already present in the infobox, it may be somewhat redundant. However, the sentence does emphasize the functional significance of these domains, which could be considered notable. The score reflects that while there might be some repetition, the emphasis on the functional impact could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The PRR30 protein is particularly notable for its elevated expression in the testis, suggesting a specialized role in reproductive functions, although the precise mechanisms and pathways influenced by PRR30 in this and other tissues remain to be fully elucidated (Chen2021Novel).",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it provides a specific detail about the PRR30 protein's expression in the testis and its potential role in reproductive functions. To better meet the requirement, the sentence should introduce the broader topic or focus of the article and adhere to UniProt naming conventions, if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"PRR30\" which is the HUGO gene symbol, but it does not provide any disambiguation. It is unclear if \"PRR30\" is also the recommended UniProt protein name, which would be acceptable if it is relatively short. Without additional context, it is difficult to determine if the requirement is fully met. Providing the UniProt protein name or disambiguating the gene symbol would improve compliance with the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.4,
+          "feedback": [
+            "The sentence provides some information about the PRR30 protein, specifically its expression in the testis and a potential role in reproductive functions. However, it lacks a comprehensive summary of the article, as it does not address the structure, broader functions, or clinical significance of PRR30. Additionally, it mentions the need for further elucidation, which suggests that the article's findings are not fully summarized. To better meet the requirement, the sentence should include more details on the protein's structure, its functions in various tissues, and any clinical implications discussed in the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the PRR30 protein's expression in the testis and its potential role in reproductive functions, which could be considered particularly notable. However, if this information is already present in the infobox, it may not need to be repeated unless it is crucial for understanding the context. The sentence does emphasize the lack of full understanding of the mechanisms, which adds value, but it could be more concise if the infobox already covers the main points."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Further research is required to clarify the specific roles and interactions of the PRR30 protein at the molecular and cellular levels.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively define the scope of the article. It suggests a need for further research on the PRR30 protein but does not provide a clear overview of the article's focus or objectives. Additionally, it does not adhere to UniProt naming conventions, which typically involve specific formatting and nomenclature for proteins. The sentence lacks the necessary context and detail to meet the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"PRR30\" which is the HUGO gene symbol, but it does not provide any disambiguation. It is unclear if \"PRR30\" is the recommended UniProt protein name or if it should be disambiguated. The sentence partially meets the requirement by using a gene symbol, but it lacks clarity on whether this is the appropriate name or if disambiguation is needed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively summarize the article as required. It only mentions the need for further research on the PRR30 protein's roles and interactions, without addressing key aspects such as the protein's structure, function, or clinical significance. The sentence lacks the necessary detail to serve as a comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat specific information that would typically be found in an infobox, such as basic facts or data points. Instead, it provides a general statement about the need for further research, which could be considered notable or requiring emphasis. However, without knowing the exact content of the infobox, it's difficult to fully assess the level of repetition. The sentence is likely to meet the requirement well, assuming the infobox does not already emphasize the need for further research on PRR30."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Function\nPRR30, or Proline Rich 30, is a gene that encodes a protein belonging to the family of proline-rich proteins, which are known for their high proline content.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a basic definition of PRR30, mentioning that it is a gene encoding a proline-rich protein. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to specific naming guidelines, such as including the full name, abbreviation, and any relevant identifiers or classifications."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"PRR30\" and provides a description of the gene and its protein product. However, it does not mention whether the recommended UniProt protein name is available or relatively short. To fully meet the requirement, the sentence should either use the UniProt protein name if it is short or clarify why the HUGO gene symbol is used, possibly with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief introduction to the PRR30 gene and its function, mentioning that it encodes a proline-rich protein. However, it lacks information on the structure and clinical significance of the gene, which are key aspects required by the prompt. Additionally, the sentence includes unnecessary detail about the proline content without expanding on its relevance. To better meet the requirement, the sentence should concisely cover the gene's structure, function, and any known clinical significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise explanation of the PRR30 gene and its function, which may be notable enough to warrant emphasis outside of an infobox. However, if the infobox already contains this exact information, the sentence could be seen as somewhat redundant. The score reflects that while the sentence is informative, it may not fully meet the requirement to avoid repetition unless the information is particularly notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These proteins are typically involved in various cellular signaling pathways, serving as crucial interaction platforms for other proteins.",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a general idea about the role of certain proteins in cellular signaling pathways, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve specific protein names or identifiers. To better meet the requirement, the sentence should explicitly state the focus of the article and incorporate appropriate UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein names or gene symbols, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the score, the sentence should include specific protein names or gene symbols as per the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the function of proteins in cellular signaling pathways, which partially addresses the requirement. However, it lacks information on the structure and clinical significance of the proteins, which are key aspects mentioned in the requirement. Additionally, the sentence does not summarize an article but rather describes a specific function, making it less effective as a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a general description of the role of proteins in cellular signaling pathways, which is likely to be common knowledge or already present in an infobox. However, it does not repeat specific information and could be considered notable if the context of the infobox is not overly detailed. The sentence could be improved by ensuring it adds unique or emphasized information not covered elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Specifically, proline-rich domains are known to facilitate binding with SH3 (Src Homology 3) or WW domain-containing proteins.",
+      "title": "Introduction",
+      "score": 0.33,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about proline-rich domains and their interaction with certain proteins, but it does not define the scope of an article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein and gene names. To better meet the requirement, the sentence should introduce the main topic or focus of the article and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"SH3 (Src Homology 3)\" and \"WW domain-containing proteins\" without specifying whether these are UniProt protein names or HUGO gene symbols. The requirement suggests using the recommended UniProt protein name if short, or the HUGO gene symbol with disambiguation if necessary. The sentence does not clarify if these terms meet the requirement, leading to ambiguity. To improve, the sentence should specify the recommended naming convention for these proteins or domains."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about proline-rich domains and their interaction with certain proteins, which relates to structure and function. However, it does not summarize an article or cover broader key aspects such as clinical significance. It lacks the comprehensive overview expected in a lead and focuses on a narrow aspect without providing context or summarizing the article's main points."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides specific information about proline-rich domains and their interaction with SH3 or WW domain-containing proteins. If this information is already present in the infobox, the sentence may be redundant unless it is particularly notable or requires emphasis. Without knowing the content of the infobox, it's unclear if the repetition is justified, hence the score is moderate."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These interactions are significant in regulating cellular functions such as growth, differentiation, and apoptosis.",
+      "title": "Introduction",
+      "score": 0.34,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It mentions interactions and cellular functions, but it lacks specificity and context to establish the article's focus. To meet the requirement, the sentence should clearly outline the main topic or subject of the article and adhere to any specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific proteins or genes, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To fulfill the requirement, the sentence should include specific protein or gene names and ensure they are presented in the preferred format."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions the regulation of cellular functions like growth, differentiation, and apoptosis, which touches on the function aspect. However, it does not address the structure or clinical significance, nor does it provide a comprehensive summary of an article. It lacks the necessary breadth and detail to serve as a lead summarizing an article's key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of interactions in regulating cellular functions, which could be considered notable. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repetitive. If the infobox already contains this exact information, the sentence might not meet the requirement as well. If the infobox does not contain this level of detail, the sentence is justified. The score reflects this uncertainty."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In the context of tissue-specific expression, PRR30 is notably upregulated in the testis, suggesting a potential specialized role in this tissue.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides specific information about the expression of PRR30 in the testis, which is too narrow to serve as a scope-defining sentence for an article. To meet the requirement, the sentence should introduce the broader topic or focus of the article and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"PRR30\" instead of the recommended UniProt protein name. Without knowing the length or availability of the UniProt protein name, it's unclear if the requirement is fully met. If the UniProt name is short and available, it should be used instead. If not, the sentence should clarify that \"PRR30\" is the gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about the expression of PRR30 in the testis, which may relate to its function, but it does not summarize the article concisely. It lacks information on the structure, broader function, and clinical significance of PRR30, which are key aspects mentioned in the requirement. Additionally, it focuses on a specific detail rather than providing a comprehensive overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the upregulation of PRR30 in the testis, which could be considered notable or requiring emphasis if it highlights a specialized role. However, if this information is already present in the infobox and not particularly notable, it might be seen as repetitive. The score reflects that while the sentence may repeat information, it does so with a potential emphasis on the significance of the expression pattern."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The high expression of PRR30 in the testis implies its involvement in processes pertinent to reproductive functions, possibly related to the regulation of the cell cycle or oocyte meiosis, as these pathways are enriched in the testis (Chen2021Novel).",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the role of PRR30 in the testis and its potential involvement in reproductive functions, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using specific protein names and identifiers. To better meet the requirement, the sentence should explicitly state the main focus or objective of the article and adhere to the naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"PRR30,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name for PRR30, it's unclear if the sentence meets the requirement fully. If the UniProt name is indeed short and not used, the sentence does not fully comply with the requirement. If the UniProt name is long or not applicable, then using the HUGO gene symbol is appropriate. More context is needed to determine the exact score, but based on the information given, the sentence partially meets the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the expression of PRR30 in the testis and its potential involvement in reproductive functions, but it does not effectively summarize the article as a whole. It lacks information on the structure, broader function, and clinical significance of PRR30, and it focuses too narrowly on one aspect without providing a comprehensive overview. To better meet the requirement, the sentence should include a more balanced summary that covers these key aspects concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the expression of PRR30 in the testis and its potential roles, which may not be redundant unless the infobox already contains detailed information about PRR30's expression and functions. The sentence does not appear to repeat information unnecessarily, but without knowing the content of the infobox, it's difficult to fully assess redundancy. If the infobox contains similar details, the score might be lower. However, the sentence does emphasize the potential significance of PRR30, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "However, the specific molecular activities and cellular mechanisms of the PRR30 protein in these processes remain to be fully elucidated.",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it discusses the current state of knowledge regarding the PRR30 protein's molecular activities and cellular mechanisms. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve providing a clear and concise description of the protein's function or role."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"PRR30,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt name, it's unclear if \"PRR30\" is the best choice. The sentence partially meets the requirement by using a recognized symbol, but it doesn't confirm whether the UniProt name was considered."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively summarize an article as a lead. It mentions the PRR30 protein but only highlights that its molecular activities and cellular mechanisms are not fully understood. It lacks information on the structure, function, and clinical significance of the protein, which are key aspects required by the prompt. Additionally, it does not provide a concise overview of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information from an infobox, as it discusses the need for further elucidation of the PRR30 protein's activities and mechanisms. However, without the context of the infobox, it's difficult to determine if this information is already present there. Assuming the infobox contains basic information about the PRR30 protein, this sentence adds value by highlighting the gaps in current understanding, which could be considered notable. The score reflects a slight deduction due to the lack of context regarding the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Further research is required to determine the precise functional roles of PRR30 in healthy human cells and its implications in organismal biology.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence does not clearly define the scope of the article. It mentions the need for further research on PRR30, but it does not specify the focus or boundaries of the article's content. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name and its abbreviation. To better meet the requirement, the sentence should explicitly outline the article's scope and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"PRR30\" without disambiguation, which is appropriate if the UniProt protein name is long or not recommended. However, the requirement suggests using the UniProt protein name if it is relatively short. Without knowing the length or recommendation status of the UniProt protein name, it's unclear if the sentence fully meets the requirement. Therefore, the score is moderate."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the need for further research on PRR30's roles in healthy human cells and its implications in organismal biology, but it does not summarize the article concisely or cover key aspects like structure, function, and clinical significance. It lacks detail on these elements and does not provide a comprehensive overview of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not provide specific information about what is already present in the infobox, so it is difficult to determine if it repeats information. However, it does emphasize the need for further research, which could be notable if not already highlighted in the infobox. Without knowing the infobox content, the sentence seems to generally meet the requirement by focusing on the need for further research, which is a common and often necessary emphasis in scientific contexts."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Clinical Significance\nPRR30 (Proline Rich 30) has been identified as a gene that does not have specific and direct roles in spermatogenesis, suggesting its involvement in male infertility may be limited or indirect.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence does not clearly define the scope of the article. It provides information about the gene PRR30 and its potential role in male infertility, but it does not establish the overall focus or purpose of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve a more structured and standardized format for gene and protein names. The sentence could be improved by explicitly stating the article's main topic or objective and ensuring adherence to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"PRR30\" instead of the UniProt protein name. The requirement suggests using the UniProt protein name if it is relatively short, which is not addressed in the sentence. The score reflects the partial fulfillment of the requirement, as the HUGO gene symbol is used, but without checking if the UniProt name is short and preferable."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by addressing the clinical significance of the PRR30 gene, suggesting its limited or indirect involvement in male infertility. However, it lacks information on the gene's structure and function, which are also key aspects that should be summarized according to the requirement. Additionally, the sentence includes unnecessary detail by stating what the gene does not do, rather than focusing on what is known about it."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides information about the PRR30 gene and its potential role in male infertility. Without the context of the infobox, it's difficult to determine if this information is repeated. However, the sentence does not appear to emphasize or highlight any particularly notable aspect that would justify repetition. The score reflects a reasonable assumption that the sentence might be repeating information without notable emphasis, but without the infobox, this is speculative."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In studies focusing on various types of male infertility, including maturation arrest azoospermia (MArrest), oligospermia, and teratospermia, PRR30 was mentioned as one of the genes that are down-regulated, but without specific elaboration on its functions or mechanisms in these conditions (Razavi2017Comprehensive).",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the article's focus on male infertility and mentions specific conditions and a gene, PRR30. However, it does not clearly define the overall scope of the article or follow the recommended UniProt naming conventions. The sentence lacks a comprehensive overview of the article's content and purpose, which is necessary to fully meet the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"PRR30,\" which is the HUGO gene symbol, but it does not provide any disambiguation or context to clarify if this is the most appropriate term according to the requirement. The sentence does not mention the UniProt protein name, which should be used if it is relatively short. The score reflects the partial fulfillment of the requirement by using the gene symbol but lacking the necessary disambiguation or consideration of the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief mention of the gene PRR30 in the context of male infertility studies, noting its down-regulation. However, it lacks a comprehensive summary of the article's key aspects such as the structure, function, and clinical significance of PRR30. The sentence does not elaborate on these elements or provide a concise overview of the article's findings, which is necessary to meet the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the gene PRR30 being down-regulated in certain types of male infertility, which may not be particularly notable unless the infobox already contains this exact detail. However, the sentence does not repeat information unnecessarily and adds context by mentioning the study and the lack of elaboration on PRR30's functions. If the infobox already includes this information, the sentence could be seen as redundant, but it does not excessively repeat details."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This indicates that while PRR30 is expressed differently in certain types of male infertility, its exact role and the clinical significance of its mutations or expression alterations remain unclear in the context of these specific reproductive disorders.",
+      "title": "Introduction",
+      "score": 0.5,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides information about the expression and significance of PRR30 in male infertility but lacks a clear statement of the article's scope or purpose. Additionally, it does not adhere to any specific naming conventions that might be expected in a scientific context."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"PRR30,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name for PRR30, it's unclear if the sentence meets the requirement fully. If the UniProt name is indeed short and was not used, the sentence does not fully comply with the requirement. If the UniProt name is long or not applicable, then using the gene symbol is appropriate. More context is needed to determine the exact score, but based on the information given, the sentence partially meets the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by mentioning the expression of PRR30 in male infertility and the uncertainty of its role and clinical significance. However, it lacks information on the structure and function of PRR30, which are key aspects that should be included in a concise summary. Additionally, the sentence could be more concise by avoiding vague phrases like \"certain types\" and \"these specific reproductive disorders.\""
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a nuanced explanation about the expression of PRR30 in male infertility, highlighting the uncertainty of its role and clinical significance. If the infobox already contains detailed information about PRR30's expression and its unclear role, this sentence might be somewhat repetitive. However, the sentence does emphasize the uncertainty, which could be notable if not already stressed in the infobox. The score reflects that while the sentence may repeat some information, it adds value by emphasizing the lack of clarity regarding PRR30's role."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Further research is necessary to elucidate the potential impact of PRR30 on male reproductive health and to determine whether it could serve as a target for therapeutic interventions or as a biomarker in clinical settings.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence does not clearly define the scope of the article as required. While it mentions the need for further research on PRR30's impact on male reproductive health and its potential as a therapeutic target or biomarker, it lacks a clear statement of the article's overall focus or objectives. Additionally, it does not adhere to UniProt naming conventions, which typically involve specific guidelines for protein names and identifiers. To improve, the sentence should explicitly state the article's scope and ensure proper naming conventions are followed."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"PRR30,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name for PRR30, it's unclear if the sentence fully meets the requirement. If the UniProt name is indeed short and was not used, the sentence partially meets the requirement by using the gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence primarily focuses on the need for further research regarding PRR30's impact on male reproductive health and its potential as a therapeutic target or biomarker. However, it lacks a summary of the article's key aspects such as the structure and function of PRR30, and it does not provide a concise overview of the clinical significance. The sentence is more of a conclusion or future direction rather than a comprehensive summary of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence effectively communicates the need for further research on PRR30's impact on male reproductive health and its potential as a therapeutic target or biomarker. However, without knowing the content of the infobox, it's difficult to fully assess repetition. Assuming the infobox contains basic information about PRR30, the sentence seems to add value by emphasizing the need for further research and potential applications, which could be considered notable. The score reflects a slight deduction due to the uncertainty of overlap with the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Interactions\nPRR30 encodes a protein that is rich in proline, a feature that facilitates its interaction with other proteins, particularly through SH3 and WW domains.",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it provides specific information about the PRR30 protein and its interactions, which is not aligned with the requirement of setting the scope of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"PRR30\" instead of the recommended UniProt protein name. The requirement suggests using the UniProt protein name if it is relatively short, which is not addressed in the sentence. The score reflects the partial fulfillment of the requirement, as the gene symbol is used without checking if the UniProt name is short enough to be used instead."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a brief mention of the protein PRR30 and its interaction capabilities, which touches on the structure and function aspects. However, it lacks a comprehensive summary of the article, as it does not cover the clinical significance or provide a broader context. Additionally, it does not concisely summarize the article's key points, focusing instead on a specific detail about protein interactions."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the PRR30 protein's interaction capabilities, which may not be detailed in an infobox. However, if the infobox already contains this exact information, the sentence could be seen as repetitive. The score reflects that the sentence is likely adding value by emphasizing the interaction aspect, which could be notable, but without knowing the infobox content, it's difficult to fully assess redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These domains are known to recognize proline-rich motifs, which are prevalent in various signaling and structural proteins.",
+      "title": "Introduction",
+      "score": 0.34,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides a specific detail about domains recognizing proline-rich motifs, which is likely a part of the article's content but does not establish the overall scope or context. To meet the requirement, the sentence should introduce the main topic or focus of the article and adhere to any specific naming conventions outlined by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein names or gene symbols, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence should include a specific protein name or gene symbol and ensure it follows the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about domains recognizing proline-rich motifs, which relates to structure and function. However, it does not summarize an article or cover key aspects like clinical significance. It lacks the broader context and conciseness expected in a lead summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the recognition of proline-rich motifs by certain domains, which could be considered notable if it adds context or detail not present in the infobox. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repetitive. The sentence seems to offer a specific detail that might not be redundant, hence the relatively high score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The interactions involving PRR30 primarily contribute to signal transduction pathways, influencing cellular processes such as growth, differentiation, and migration.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the role of PRR30 in cellular processes, which could be part of the scope of an article. However, it does not clearly define the overall scope of the article, nor does it explicitly follow UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and ensure that any protein names or terms adhere to UniProt standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"PRR30,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The sentence does not specify whether the UniProt protein name is short or not, so it is unclear if the correct naming convention was followed. To fully meet the requirement, the sentence should either use the UniProt protein name if it is short or clarify why the gene symbol is used."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the function of PRR30 in signal transduction pathways and its influence on cellular processes. However, it lacks information on the structure and clinical significance of PRR30, which are key aspects mentioned in the requirement. Additionally, the sentence does not summarize an article but rather focuses on a specific aspect of PRR30's function, missing the broader context needed for a comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of PRR30 in signal transduction pathways and its influence on cellular processes. If this information is already present in the infobox, it may not be necessary to repeat it unless it is particularly notable or requires emphasis. However, the sentence does not appear to be overly redundant or unnecessary, so it scores relatively well. To fully meet the requirement, ensure that the information is either not present in the infobox or is emphasized for its importance."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, these interactions can affect the cellular localization and stability of the protein, thereby modulating its function and the pathways it influences.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it discusses the effects of interactions on protein localization and function. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve specific guidelines for protein names and descriptions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein or gene, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To fulfill the requirement, the sentence should specify a particular protein or gene using the appropriate naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provided does not effectively summarize an article, as it only touches on the interactions affecting protein localization and stability, which may relate to function. It lacks coverage of key aspects such as structure and clinical significance, and does not provide a comprehensive overview of the article's content. Additionally, it does not clearly indicate that it is a summary or lead of an article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information from an infobox, as it provides specific details about how interactions can affect a protein's cellular localization, stability, function, and the pathways it influences. However, without access to the infobox, it's difficult to fully assess whether this information is repeated. Assuming the sentence introduces new or emphasized information, it meets the requirement well. If the infobox already contains this information and it is not particularly notable, the score would be lower."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The specific proteins or complexes that PRR30 interacts with are not detailed in the provided context.",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it provides information about the lack of details on protein interactions, which is unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"PRR30,\" which is a gene symbol, but it does not specify whether this is the recommended UniProt protein name or if disambiguation is necessary. Without additional context, it's unclear if the requirement to use the recommended UniProt protein name or the HUGO gene symbol with disambiguation is fully met."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not meet the requirement of summarizing the article concisely. It only mentions a lack of detail about protein interactions and does not cover key aspects such as structure, function, or clinical significance. It lacks the comprehensive summary needed to fulfill the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not repeat information from an infobox, as it provides a specific detail about the lack of information regarding PRR30 interactions. However, without knowing the content of the infobox, it's difficult to fully assess if this information is already present there. Assuming the infobox does not contain this detail, the sentence meets the requirement well. If the infobox does contain this information, the sentence could be seen as unnecessary repetition unless it is particularly notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "However, given the general characteristics of proline-rich proteins, it is likely that PRR30 participates in multiprotein complexes that are crucial for transmitting signals from the cell surface to the nucleus or other cellular compartments.",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it speculates on the function of PRR30 based on the characteristics of proline-rich proteins. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve specific formatting and terminology for protein names and functions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"PRR30,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name for PRR30, it's unclear if the sentence fully meets the requirement. If the UniProt name is indeed short and was not used, the sentence does not fully comply with the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a speculative statement about the function of PRR30, suggesting its involvement in multiprotein complexes for signal transmission. However, it lacks information on the structure and clinical significance of PRR30, which are key aspects required by the prompt. Additionally, the sentence does not summarize an article but rather presents a single point, making it insufficient as a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a hypothesis about the role of PRR30 in multiprotein complexes and signal transmission, which may not be directly stated in an infobox. It avoids repeating specific factual information that would typically be found in an infobox, such as molecular weight or gene location. However, without knowing the exact content of the infobox, it's difficult to fully assess whether this information is redundant. The sentence is likely to meet the requirement unless the infobox already contains detailed information about PRR30's role in signal transmission."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These interactions may be either activating or inhibitory, depending on the nature of the signal and the cellular context.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It is a general statement about interactions and does not provide any specific context or scope for an article. To meet the requirement, the sentence should clearly outline the main topic or focus of the article and adhere to any specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein or gene names, so it cannot be evaluated against the requirement to use the recommended UniProt protein name or the HUGO gene symbol. The requirement is not applicable to the sentence as it stands."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provided does not meet the requirement of summarizing an article concisely, covering key aspects like structure, function, and clinical significance. It only mentions interactions being activating or inhibitory, which is a very narrow focus and lacks any mention of structure, function, or clinical significance. Additionally, it does not provide a summary of an article but rather a specific detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information unnecessarily, assuming the infobox does not already contain this specific detail about interactions being activating or inhibitory. However, without knowing the content of the infobox, it's difficult to fully assess the level of repetition. The sentence is informative and could be notable if this detail is not already covered elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The exact mechanisms through which PRR30 influences these pathways and the identity of its interaction partners remain areas for further investigation.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it mentions a specific research area related to PRR30, suggesting areas for further investigation. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"PRR30,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the length of the UniProt protein name for PRR30, it's unclear if the requirement is fully met. If the UniProt name is short, it should have been used instead."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively summarize the article as required. It only mentions that the mechanisms and interaction partners of PRR30 are not fully understood, which is a very narrow aspect. It lacks information on the structure, function, and clinical significance of PRR30, which are key aspects needed for a comprehensive summary. Additionally, it does not provide a concise overview of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not repeat specific information from an infobox, as it discusses the need for further investigation into the mechanisms and interaction partners of PRR30. However, without knowing the content of the infobox, it's difficult to fully assess the necessity of this information. The sentence is likely providing context or emphasis on the ongoing research, which could be notable. The score reflects a slight deduction due to the potential for overlap, but overall, it seems to meet the requirement well."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # References\n\n\n[1.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow any naming conventions, including those recommended by UniProt. It appears to be a heading or a placeholder for references, rather than a sentence that introduces or defines the scope of an article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any information related to the use of UniProt protein names or HUGO gene symbols. It appears to be an incomplete or incorrectly formatted reference section, and thus does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a heading or a fragment related to references, and it does not summarize any article or cover key aspects like structure, function, or clinical significance. It lacks any content relevant to the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 1.0,
+          "feedback": [
+            "The sentence provided does not repeat any information from an infobox, as it is simply a heading for a references section. Therefore, it fully meets the requirement of avoiding repetition of infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Razavi2017Comprehensive) Seyed Morteza Razavi, Marjan Sabbaghian, Mahdi Jalili, Adeleh Divsalar, Olaf Wolkenhauer, and Ali Salehzadeh-Yazdi.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation or reference to authors and does not define the scope of an article. It also does not follow any naming conventions, such as those recommended by UniProt. To meet the requirement, the sentence should clearly state the topic or focus of the article and adhere to any specific naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation or list of authors, which is unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation listing authors and does not summarize the article at all. It lacks any information about the article's structure, function, or clinical significance. To meet the requirement, the sentence should concisely describe the main points and findings of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, listing authors of a work. Without context, it's unclear if this information is repeated from an infobox or if it is particularly notable. If this list of authors is already present in an infobox and not emphasized for a specific reason, it may not meet the requirement to avoid repetition. However, if this is the only mention or if the authorship is notable, it could be justified. The score reflects this ambiguity."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Comprehensive functional enrichment analysis of male infertility.",
+      "title": "Introduction",
+      "score": 0.31,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general topic of the article, which is \"comprehensive functional enrichment analysis of male infertility,\" but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, as it lacks specific details or terminology that would align with those conventions. To improve, the sentence should include more specific information about the scope and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific proteins or genes, so it does not address the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence would need to include specific protein or gene names and ensure they are presented according to the guideline."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence is too vague and lacks detail to effectively summarize an article. It mentions \"comprehensive functional enrichment analysis\" and \"male infertility,\" but does not cover key aspects such as structure, function, or clinical significance. It also does not provide any context or findings from the article, making it insufficient as a summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence \"Comprehensive functional enrichment analysis of male infertility\" does not provide enough context to determine if it repeats information from an infobox. Without knowing the content of the infobox, it's unclear if the sentence meets the requirement to avoid repetition. If the infobox already contains this information and it is not particularly notable or emphasized, the sentence may not meet the requirement well. However, if the sentence introduces new or emphasized information, it could be more acceptable. The score reflects this uncertainty."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Scientific Reports, November 2017.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Scientific Reports, November 2017.\" does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It merely provides a publication name and date, lacking any information about the article's content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Scientific Reports, November 2017.\" does not address the requirement at all. It does not mention any protein names or gene symbols, nor does it use the UniProt protein name or the HUGO gene symbol. The sentence is simply a citation and does not relate to the requirement provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Scientific Reports, November 2017.\" does not meet the requirement as it does not summarize the article at all. It only provides a publication name and date, without any information on structure, function, or clinical significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence \"Scientific Reports, November 2017.\" is likely repeating information that could be present in an infobox, such as the publication name and date. Without additional context, it's unclear if this repetition is particularly notable or requires emphasis. The score reflects the potential redundancy, but acknowledges that the information might be necessary if it serves a specific purpose not evident from the sentence alone."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1038/s41598-017-16005-0 , doi:10.1038/s41598-017-16005-0.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it simply lists a URL and a DOI, which are identifiers for accessing the article but do not provide any information about its content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It contains a URL and a DOI reference, but it does not mention any UniProt protein name or HUGO gene symbol, nor does it relate to the use of these names or symbols. The requirement is about naming conventions for proteins or genes, which is not relevant to the content of the sentence provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary or information about the article's content, structure, function, or clinical significance. To meet the requirement, the sentence should provide a concise summary of the article's key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information twice, once as a URL and once as a plain DOI, which may already be present in an infobox. This repetition does not add notable emphasis or additional context, thus partially failing to meet the requirement to avoid unnecessary repetition. However, if the context requires both formats for clarity or specific emphasis, it might be justified."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(33 citations) 10.1038/s41598-017-16005-0]( https://doi.org/10.1038/s41598-017-16005-0 )\n\n[2.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation reference rather than a descriptive sentence about the article's content or scope. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It only includes a citation count and a DOI link, without any information about the article's structure, function, or clinical significance. To meet the requirement, the sentence should concisely summarize these key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation count and a DOI link, which are typically found in an infobox. However, the citation count might be considered notable information that could warrant emphasis. The sentence mostly meets the requirement, but it could be seen as redundant if this information is already present in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Chen2021Novel) Xianfeng Chen and Zhifu Sun.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. It appears to be a citation or reference to authors and a publication year, but it lacks any information about the content or scope of the article. Additionally, it does not follow any naming conventions, such as those recommended by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It mentions authors and a citation but does not include any protein name or gene symbol, nor does it attempt to use the UniProt protein name or HUGO gene symbol. To meet the requirement, the sentence should include a protein name or gene symbol as specified."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It only provides a citation and the names of the authors, without any summary of the article's content. It lacks any information on the structure, function, or clinical significance of the topic, and therefore does not fulfill the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence \"(Chen2021Novel) Xianfeng Chen and Zhifu Sun.\" appears to be a citation or reference to a work by Xianfeng Chen and Zhifu Sun. Without additional context, it's unclear if this information is already present in an infobox or if it is particularly notable. If this citation is already in the infobox and not emphasized for a specific reason, it may be redundant. The score reflects the potential redundancy, but the lack of context makes it difficult to fully assess its necessity."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Novel lincrna discovery and tissue-specific gene expression across 30 normal human tissues.",
+      "title": "Introduction",
+      "score": 0.31,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general idea of the article's scope by mentioning the discovery of novel lincRNAs and tissue-specific gene expression across 30 normal human tissues. However, it lacks specificity and does not clearly define the scope in detail. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized naming for proteins and genes. To improve the score, the sentence should be more explicit about the scope and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence would need to include specific protein or gene names and ensure they are presented according to the guideline."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a very brief summary of the article's topic, mentioning the discovery of novel lincRNAs and their expression in human tissues. However, it lacks details on the structure, function, and clinical significance of these lincRNAs, which are key aspects required by the prompt. The sentence is too vague and does not provide a comprehensive overview of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a summary or title that might be found in an infobox, as it succinctly describes a study or finding. Without additional context, it's unclear if this information is already present in the infobox or if it requires emphasis. If the infobox already contains this information, the sentence may be redundant unless the discovery is particularly notable. The score reflects this uncertainty and the potential for repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Genes, 12(5):614, April 2021.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It also does not follow any naming conventions, including the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's focus and adhere to the specified naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. It appears to be a citation or reference to a journal article, and it does not mention any protein names or gene symbols. The requirement is about using specific naming conventions for proteins or genes, which is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's content, such as structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation in a standard format, which is typically necessary for referencing purposes. However, if the information (journal name, volume, issue, page, and date) is already present in an infobox, repeating it in the text may not be necessary unless it is particularly notable or requires emphasis. The sentence meets the requirement fairly well, but could be improved by ensuring that such details are not redundant if they are already covered elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.3390/genes12050614 , doi:10.3390/genes12050614.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it simply lists a URL and a DOI, which do not provide any information about the content or scope of the article. To meet the requirement, the sentence should include a clear statement about the article's focus or subject matter, using appropriate UniProt terminology if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only provides a URL and a DOI, which are unrelated to the use of UniProt protein names or HUGO gene symbols. There is no mention of any protein name or gene symbol in the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI, which do not summarize the article or cover any key aspects such as structure, function, or clinical significance. There is no content related to the article's subject matter, making it impossible to evaluate its conciseness or relevance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information in two different formats (URL and plain DOI), which may not be necessary unless there is a specific reason to emphasize both. If this information is already present in an infobox, the repetition does not add notable value, thus partially meeting the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(7 citations) 10.3390/genes12050614]( https://doi.org/10.3390/genes12050614 )",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation reference rather than a descriptive sentence about the article's content. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any information about a protein name or a gene symbol, nor does it attempt to use either the recommended UniProt protein name or the HUGO gene symbol. It only includes a citation reference, which does not address the requirement. Therefore, it does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is not a summary of an article. It appears to be a citation or reference to an article, lacking any information about the article's content, structure, function, or clinical significance. To meet the requirement, the sentence should concisely summarize these key aspects of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation in the form of a DOI link, which is typically included in an infobox. However, it does not repeat any other information and is concise. The score reflects that while the citation might be redundant if already present in an infobox, it does not excessively repeat other content."
+          ]
+        }
+      ],
+      "color": "red"
+    }
+  ]
+}

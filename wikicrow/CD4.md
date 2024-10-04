@@ -1,0 +1,60 @@
+# CD4
+
+## Overview
+The CD4 gene encodes the CD4 protein, a type I transmembrane glycoprotein primarily expressed on the surface of immune cells such as T helper cells, monocytes, macrophages, and dendritic cells. The CD4 protein functions as a co-receptor in the immune system, playing a critical role in mediating the interaction between T cells and antigen-presenting cells through its binding to major histocompatibility complex class II (MHC class II) molecules. This interaction is essential for the activation of T cells, which are pivotal in orchestrating the body's immune response against pathogens. Structurally, the CD4 protein belongs to the immunoglobulin superfamily and features four extracellular immunoglobulin-like domains that contribute to its function in immune signaling and cell-cell interactions (Moebius1992Human; Harrison1993CD4:).
+
+## Structure
+The CD4 protein, a member of the immunoglobulin superfamily, is characterized by a linear array of four immunoglobulin-like extracellular domains, labeled D1 to D4. Each domain exhibits a distinct immunoglobulin (Ig) fold, contributing to the overall rod-like structure of the molecule. The D1 domain closely resembles variable Ig domains with specific structural features such as a pair of disulfide-bridged cysteines and a tryptophan, while D2 is described as a truncated IgV module with unique disulfide bond placement (Moebius1992Human; Harrison1993CD4:). 
+
+The CD4 protein undergoes various post-translational modifications, including glycosylation at two N-linked sites in domains D3 and D4, and phosphorylation, palmitoylation, and zinc binding in the cytoplasmic tail (Lynch2006Marked). These modifications play crucial roles in the protein's function and its interactions with other cellular components.
+
+In terms of quaternary structure, CD4 exists in different oligomeric states, including a 55 kDa monomer commonly expressed in T lymphocytes and non-stimulated monocytes, and a 110 kDa dimer form prevalent in PMA-stimulated monocytic cells and primary epidermal Langerhans cells (Lynch2006Marked). Additionally, a novel 59 kDa isoform (CD4mÂ²) is expressed in monocytic THP-1 cells, indicating the presence of cell-specific domain structures and possibly splice variant isoforms (Lynch2006Marked). These variations in oligomeric states and isoforms highlight the structural and functional diversity of the CD4 protein across different cell types.
+
+## Function
+The CD4 molecule, primarily expressed on T helper cells, is integral to the immune response by acting as a co-receptor that enhances the activity of the T cell receptor (TCR). CD4 facilitates the recognition and binding of antigens presented by major histocompatibility complex class II (MHC class II) molecules on antigen-presenting cells. This interaction is crucial for the activation of T cells, which play a central role in adaptive immunity (Artyomov2010CD4).
+
+One of the key functions of CD4 is to recruit the Src kinase Lck to the TCR complex, a step essential for initiating TCR signaling. This recruitment significantly enhances the phosphorylation of the TCR immunoreceptor tyrosine-based activation motifs (ITAMs), leading to the activation of downstream signaling pathways necessary for T cell activation and function (Artyomov2010CD4). 
+
+Despite its role in stabilizing TCR-pMHC interactions, CD4 does not enhance these interactions as effectively as CD8 does with class I MHC molecules. Instead, CD4's primary function lies in enhancing the sensitivity of T helper cells to antigens by facilitating Lck delivery, rather than by stabilizing the TCR-pMHC bond (Artyomov2010CD4). 
+
+Overall, the CD4 molecule is pivotal in modulating T cell responses, influencing both the sensitivity to antigens and the activation of the immune signaling cascades, thereby playing a critical role in the body's defense mechanisms against infections.
+
+## Clinical Significance
+Mutations in the CD4 gene or alterations in its expression and interactions can significantly impact immune system function and are associated with various diseases. In chronic lymphocytic leukemia (CLL), CD4 T cells exhibit altered gene expression, affecting their ability to differentiate and respond effectively to tumors. This alteration is induced by direct contact with CLL cells, highlighting the influence of the tumor microenvironment on CD4 T cell function (GÃ¶rgÃ¼n2005Chronic). Additionally, in cancer contexts, CD4 T cells play a dual role, contributing both to antitumor and pro-tumor activities. Their functionality can be compromised in the tumor microenvironment, where they may exhibit an exhausted phenotype, reducing their effectiveness in tumor suppression (Hadrup2012Effector; Ostroumov2017CD4).
+
+Furthermore, the interaction of CD4 T cells with MHC class II molecules is crucial for their role in tumor immunity. Variations in MHC class II expression on tumor cells can affect the efficacy of CD4 T cell responses, influencing tumor progression and the effectiveness of immunotherapies (Ostroumov2017CD4). These findings underscore the clinical significance of the CD4 gene in relation to immune surveillance and response in oncological and hematological contexts.
+
+## Interactions
+The CD4 molecule engages in several critical physical interactions that are essential for immune function. It primarily interacts with the major histocompatibility complex (MHC) class II molecules on antigen-presenting cells (APCs). This interaction occurs through the D1 domain of CD4, which binds to the non-polymorphic regions of the MHC class II molecule, specifically the Î±2 and Î²2 domains, facilitating a low-affinity but highly specific engagement crucial for T-cell activation (Li2013Structural; Yin2012Crystal).
+
+CD4 also plays a significant role in the formation of the TCR-pMHC-CD4 complex, where it does not directly contact the T-cell receptor (TCR) but enhances the interaction between TCR and MHC class II. This arrangement is vital for effective T-cell activation and involves the recruitment of the Src family tyrosine kinase Lck, which is associated with the cytoplasmic tail of CD4. Lck phosphorylates the immunoreceptor tyrosine-based activation motifs (ITAMs) on the CD3 subunits of the TCR complex, triggering downstream signaling events essential for T-cell activation (Li2013Structural; GlatzovÃ¡2019Dual).
+
+Additionally, CD4 is the primary receptor for HIV-1 entry into host cells, interacting with the HIV-1 envelope glycoprotein gp120. This interaction induces conformational changes in gp120, which are critical for virus entry into cells. The binding affinity and the structural dynamics of this interaction can be modulated by antibodies from the PGT121 family, which decrease CD4's binding affinity to gp120 through allosteric modulation (Julien2013Broadly). 
+
+These interactions underscore the multifaceted role of CD4 in immune response modulation and its importance in the pathogenesis of HIV.
+
+
+## References
+
+
+[1. (Hadrup2012Effector) Sine Hadrup, Marco Donia, and Per thor Straten. Effector cd4 and cd8 t cells and their role in the tumor microenvironment. Cancer Microenvironment, 6(2):123â133, December 2012. URL: http://dx.doi.org/10.1007/s12307-012-0127-6, doi:10.1007/s12307-012-0127-6. (390 citations) 10.1007/s12307-012-0127-6](https://doi.org/10.1007/s12307-012-0127-6)
+
+[2. (Artyomov2010CD4) Maxim N. Artyomov, Mieszko Lis, Srinivas Devadas, Mark M. Davis, and Arup K. Chakraborty. Cd4 and cd8 binding to mhc molecules primarily acts to enhance lck delivery. Proceedings of the National Academy of Sciences, 107(39):16916â16921, September 2010. URL: http://dx.doi.org/10.1073/pnas.1010568107, doi:10.1073/pnas.1010568107. (309 citations) 10.1073/pnas.1010568107](https://doi.org/10.1073/pnas.1010568107)
+
+[3. (GlatzovÃ¡2019Dual) Daniela GlatzovÃ¡ and Marek Cebecauer. Dual role of cd4 in peripheral t lymphocytes. Frontiers in Immunology, April 2019. URL: http://dx.doi.org/10.3389/fimmu.2019.00618, doi:10.3389/fimmu.2019.00618. (48 citations) 10.3389/fimmu.2019.00618](https://doi.org/10.3389/fimmu.2019.00618)
+
+[4. (Yin2012Crystal) Yiyuan Yin, Xin Xiang Wang, and Roy A. Mariuzza. Crystal structure of a complete ternary complex of t-cell receptor, peptideâmhc, and cd4. Proceedings of the National Academy of Sciences, 109(14):5405â5410, March 2012. URL: http://dx.doi.org/10.1073/pnas.1118801109, doi:10.1073/pnas.1118801109. (165 citations) 10.1073/pnas.1118801109](https://doi.org/10.1073/pnas.1118801109)
+
+[5. (Ostroumov2017CD4) Dmitrij Ostroumov, Nora Fekete-Drimusz, Michael Saborowski, Florian KÃ¼hnel, and Norman Woller. Cd4 and cd8 t lymphocyte interplay in controlling tumor growth. Cellular and Molecular Life Sciences, 75(4):689â713, October 2017. URL: http://dx.doi.org/10.1007/s00018-017-2686-7, doi:10.1007/s00018-017-2686-7. (480 citations) 10.1007/s00018-017-2686-7](https://doi.org/10.1007/s00018-017-2686-7)
+
+[6. (GÃ¶rgÃ¼n2005Chronic) GÃ¼llÃ¼ GÃ¶rgÃ¼n, Tobias A.W. Holderried, David Zahrieh, Donna Neuberg, and John G. Gribben. Chronic lymphocytic leukemia cells induce changes in gene expression of cd4 and cd8 t cells. Journal of Clinical Investigation, 115(7):1797â1805, July 2005. URL: http://dx.doi.org/10.1172/jci24176, doi:10.1172/jci24176. (366 citations) 10.1172/jci24176](https://doi.org/10.1172/jci24176)
+
+[7. (Li2013Structural) Yili Li, Yiyuan Yin, and Roy A. Mariuzza. Structural and biophysical insights into the role of cd4 and cd8 in t cell activation. Frontiers in Immunology, 2013. URL: http://dx.doi.org/10.3389/fimmu.2013.00206, doi:10.3389/fimmu.2013.00206. (125 citations) 10.3389/fimmu.2013.00206](https://doi.org/10.3389/fimmu.2013.00206)
+
+[8. (Harrison1993CD4:) Stephen C. Harrison. Cd4: structure and interactions of an immunoglobulin superfamily adhesion molecule. Accounts of Chemical Research, 26(8):449â453, August 1993. URL: http://dx.doi.org/10.1021/ar00032a009, doi:10.1021/ar00032a009. (27 citations) 10.1021/ar00032a009](https://doi.org/10.1021/ar00032a009)
+
+[9. (Julien2013Broadly) Jean-Philippe Julien, Devin Sok, Reza Khayat, Jeong Hyun Lee, Katie J. Doores, Laura M. Walker, Alejandra Ramos, Devan C. Diwanji, Robert Pejchal, Albert Cupo, Umesh Katpally, Rafael S. Depetris, Robyn L. Stanfield, Ryan McBride, Andre J. Marozsan, James C. Paulson, Rogier W. Sanders, John P. Moore, Dennis R. Burton, Pascal Poignard, Andrew B. Ward, and Ian A. Wilson. Broadly neutralizing antibody pgt121 allosterically modulates cd4 binding via recognition of the hiv-1 gp120 v3 base and multiple surrounding glycans. PLoS Pathogens, 9(5):e1003342, May 2013. URL: http://dx.doi.org/10.1371/journal.ppat.1003342, doi:10.1371/journal.ppat.1003342. (403 citations) 10.1371/journal.ppat.1003342](https://doi.org/10.1371/journal.ppat.1003342)
+
+[10. (Moebius1992Human) U Moebius, L K Clayton, S Abraham, A Diener, J J Yunis, S C Harrison, and E L Reinherz. Human immunodeficiency virus gp120 binding câc" ridge of cd4 domain 1 is also involved in interaction with class ii major histocompatibility complex molecules. Proceedings of the National Academy of Sciences, 89(24):12008â12012, December 1992. URL: http://dx.doi.org/10.1073/pnas.89.24.12008, doi:10.1073/pnas.89.24.12008. (53 citations) 10.1073/pnas.89.24.12008](https://doi.org/10.1073/pnas.89.24.12008)
+
+[11. (Lynch2006Marked) Garry W Lynch, Stuart Turville, Brooke Carter, Andrew J Sloane, Albert Chan, Nick Muljadi, Shan Li, Loretta Low, Patricia Armati, Robert Raison, Hans Zoellner, Peter Williamson, Anthony Cunningham, and W Bret Church. Marked differences in the structures and protein associations of lymphocyte and monocyte cd4: resolution of a novel cd4 isoform. Immunology &amp; Cell Biology, 84(2):154â165, February 2006. URL: http://dx.doi.org/10.1111/j.1440-1711.2005.01403.x, doi:10.1111/j.1440-1711.2005.01403.x. (23 citations) 10.1111/j.1440-1711.2005.01403.x](https://doi.org/10.1111/j.1440-1711.2005.01403.x)

@@ -1,0 +1,1480 @@
+{
+  "LeadSection": [
+    {
+      "text": "# TEDC2 # # Overview\nTEDC2, or Tubulin Epsilon and Delta Complex 2, is a gene that encodes the protein tubulin epsilon and delta complex 2, which plays a pivotal role in the structural and functional integrity of centrioles within human cells.",
+      "title": "Introduction",
+      "score": 0.64,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides a definition of TEDC2, mentioning its full name and its role in human cells, which helps define the scope of the article. However, it does not explicitly follow the recommended UniProt naming conventions, which typically include specific formatting or additional details such as organism, gene/protein identifiers, or functional annotations. To fully meet the requirement, the sentence should adhere more closely to these conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TEDC2\" and provides a description of the gene's function. However, it does not mention whether the UniProt protein name is available or if it is relatively short. To fully meet the requirement, the sentence should either use the recommended UniProt protein name if it is short or clarify why the HUGO gene symbol is used."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a basic overview of the TEDC2 gene, mentioning its role in encoding a protein important for centrioles' structural and functional integrity. However, it lacks details on the clinical significance of TEDC2, which is a key aspect of the requirement. Additionally, while it mentions structure and function, it could be more concise and focused on summarizing the article's main points."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence repeats the full name of TEDC2, which might already be present in an infobox. However, the sentence does provide additional context about the gene's function, which could be considered notable. To better meet the requirement, the sentence could focus more on the notable aspects of TEDC2's function without repeating its full name if it is already covered in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein is essential for the formation and stabilization of triplet microtubules in centrioles, crucial for maintaining the architecture of these cellular structures and ensuring proper cell division.",
+      "title": "Introduction",
+      "score": 0.46,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the role of a protein in cellular structures, which could be part of the scope of an article. However, it does not clearly define the overall scope of the article, nor does it follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, either from UniProt or HUGO. It only refers to \"The protein\" in a generic sense, which does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the score, the sentence should specify the protein using one of these naming conventions."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the protein's role in the formation and stabilization of microtubules in centrioles, which relates to structure and function. However, it lacks coverage of clinical significance, which is a key aspect mentioned in the requirement. Additionally, while it avoids unnecessary detail, it does not fully meet the requirement to summarize the article comprehensively."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the role of the protein in the formation and stabilization of triplet microtubules in centrioles, which is crucial for cell division. If this information is already present in the infobox, it may be somewhat repetitive. However, the sentence emphasizes the importance of the protein in maintaining cellular architecture, which could be considered notable. The score reflects that while there might be some repetition, the emphasis on the protein's role could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "TEDC2 is part of a protein complex that includes TEDC1, delta-tubulin (TUBD1), and epsilon-tubulin (TUBE1), which are necessary for the correct localization and function of these proteins at the centrosome, particularly at procentrioles and the proximal ends of parental centrioles.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides information about the role of TEDC2 in a protein complex and its function at the centrosome, but it does not clearly define the scope of an article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name followed by the gene name in parentheses. The sentence lacks a broader context or introduction that would set the scope for an article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols (TEDC2, TEDC1, TUBD1, TUBE1) instead of the recommended UniProt protein names. While the gene symbols are clear and commonly used, the requirement specifies using UniProt names if they are relatively short. The sentence partially meets the requirement by using disambiguation with gene symbols, but it does not fully comply with the preference for UniProt names."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the structure and function of a protein complex involving TEDC2, TEDC1, delta-tubulin, and epsilon-tubulin, specifically their role in centrosome localization and function. However, it lacks a comprehensive summary of the article, as it does not address the clinical significance or broader context. Additionally, it includes specific details about protein localization that may not be necessary for a concise lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the protein complex involving TEDC2, which may be notable if not fully covered in the infobox. However, if the infobox already contains this specific information about the protein complex and its role at the centrosome, the sentence could be seen as repetitive. The score reflects that while the sentence is informative, it may not fully meet the requirement to avoid repetition unless the details are particularly notable or require emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Disruptions in TEDC2 expression or function can lead to significant defects in centriole architecture, impacting cell division and stability, and have been implicated in various cancers due to its role in cell proliferation and the immune microenvironment (Fang2023TEDC2; Pudlowski2024A).",
+      "title": "Introduction",
+      "score": 0.61,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the role of TEDC2 in cell division, stability, and its implications in cancer, which could be part of the article's scope. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name followed by the gene name in parentheses. The sentence lacks clarity and specificity in defining the article's scope and does not adhere to the naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TEDC2\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used. The sentence partially meets the requirement by using a recognized gene symbol, but it does not specify whether the UniProt protein name was considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.8,
+          "feedback": [
+            "The sentence effectively summarizes the article by addressing the structure (centriole architecture), function (cell division and stability), and clinical significance (implications in various cancers) of TEDC2. It concisely highlights the key aspects without delving into unnecessary detail. However, the inclusion of specific references (Fang2023TEDC2; Pudlowski2024A) might be considered slightly extraneous for a lead summary, which slightly detracts from its conciseness."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the role of TEDC2 in cell division, stability, and its implications in cancer, which may already be present in an infobox. However, it does not appear to repeat information unnecessarily and includes specific references, which could be considered notable. The sentence could be improved by ensuring that only the most critical or unique aspects are highlighted if they are already covered in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Function\nTEDC2, or Tubulin Epsilon and Delta Complex 2, is a crucial component in the structural integrity and function of centrioles in human cells.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief description of TEDC2, mentioning its role in centrioles, which partially defines the scope of the article. However, it does not fully adhere to the UniProt naming conventions, which typically include the protein's full name, gene name, and organism. Additionally, the sentence does not clearly establish the overall scope or focus of the article beyond the function of TEDC2."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TEDC2\" and provides a descriptive name, \"Tubulin Epsilon and Delta Complex 2.\" However, it does not specify whether this is the recommended UniProt protein name or if the HUGO gene symbol is used due to the length of the UniProt name. To fully meet the requirement, the sentence should clarify if \"Tubulin Epsilon and Delta Complex 2\" is the UniProt name or if the HUGO symbol is used because the UniProt name is too long."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of TEDC2, mentioning its role in the structural integrity and function of centrioles. However, it lacks coverage of key aspects such as the clinical significance of TEDC2 and does not provide a comprehensive summary of an article. The sentence is too focused on a single aspect (function) and does not address structure or clinical significance adequately."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about TEDC2, which may be present in an infobox. However, it emphasizes the importance of TEDC2 in the structural integrity and function of centrioles, which could be considered notable. The sentence generally meets the requirement but could be more concise if the information is already covered in detail elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein encoded by the TEDC2 gene is integral to the formation and stabilization of triplet microtubules within centrioles, which are essential for maintaining the unique architecture of these cellular structures.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the function of the protein encoded by the TEDC2 gene, specifically its role in microtubule formation and stabilization within centrioles. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to UniProt's guidelines for naming and describing proteins."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TEDC2\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used according to the requirement. The sentence does not provide disambiguation for the gene symbol, which may be necessary if there are multiple proteins associated with the symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the function of the protein encoded by the TEDC2 gene, specifically its role in the formation and stabilization of microtubules within centrioles. However, it lacks information on the structure of the protein and any clinical significance, which are key aspects mentioned in the requirement. Additionally, the sentence does not cover the broader context or implications of this function, which would be necessary for a comprehensive lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the function of the protein encoded by the TEDC2 gene, which may not be present in an infobox. It emphasizes the role of the protein in the formation and stabilization of triplet microtubules within centrioles, which could be considered notable. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this repetition. The sentence is likely to meet the requirement well if this information is not already detailed in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "TEDC2 operates within a protein complex alongside TEDC1, delta-tubulin (TUBD1), and epsilon-tubulin (TUBE1), which is necessary for the proper localization and mutual function of these proteins at the centrosome, particularly at procentrioles and the proximal ends of parental centrioles (Pudlowski2024A).",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the function and interaction of certain proteins, which could be part of the article's scope. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name followed by the gene name in parentheses. The sentence lacks a broader context or introduction that would help define the article's scope more comprehensively."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses a mix of HUGO gene symbols (TEDC2, TEDC1, TUBD1, TUBE1) and descriptive names (delta-tubulin, epsilon-tubulin). It does not consistently use the recommended UniProt protein names or provide disambiguation for the gene symbols. To fully meet the requirement, the sentence should use the recommended UniProt names if they are short, or provide clear disambiguation for the gene symbols used."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the structure and function of a protein complex involving TEDC2, TEDC1, delta-tubulin, and epsilon-tubulin, specifically mentioning their role at the centrosome. However, it lacks a comprehensive summary of the article, as it does not address the clinical significance or provide a broader context. Additionally, it includes specific details about protein localization that may not be necessary for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the function and localization of TEDC2 within a protein complex, which may already be present in an infobox. However, it does emphasize the specific roles and interactions at the centrosome, which could be considered notable. The score reflects that while the sentence might repeat some information, it adds context and specificity that could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The loss of TEDC2 leads to significant defects in centriole architecture, including the formation of abnormal centrioles that lack the inner scaffold and triplet microtubules, resulting in a futile cycle of elongation and disintegration during cell division (Pudlowski2024A).",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the effects of TEDC2 loss on centriole architecture, which may be part of the article's scope. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein or gene names. The sentence lacks a broader context or introduction to the main topics or objectives of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TEDC2,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The sentence does not provide the UniProt protein name, so it partially meets the requirement by using the gene symbol. To fully meet the requirement, the sentence should include the UniProt protein name if it is short and well-known."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the article's findings regarding the structural impact of TEDC2 loss on centrioles. It mentions the defects in centriole architecture and the resulting issues during cell division. However, it lacks information on the function and clinical significance of these findings, which are key aspects required by the prompt. Additionally, the reference to \"Pudlowski2024A\" is unnecessary for a summary lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the effects of TEDC2 loss on centriole architecture, which may not be necessary if this information is already present in the infobox. However, if the details about the specific defects and the cycle of elongation and disintegration are particularly notable or require emphasis, then the repetition could be justified. The score reflects that while the sentence is informative, it may not fully meet the requirement to avoid repetition unless the details are deemed significant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This disruption not only affects the structural integrity of centrioles but also impacts their function during the cell cycle, highlighting the essential role of TEDC2 in cell division and stability (Pudlowski2024A).",
+      "title": "Introduction",
+      "score": 0.5,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides some context about the article's focus on the role of TEDC2 in cell division and stability, but it does not clearly define the scope of the entire article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve specific formatting and terminology for protein names. The sentence lacks a clear introduction to the article's overall content and purpose."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TEDC2,\" which appears to be a gene symbol. The requirement suggests using the UniProt protein name if it is relatively short, otherwise using the HUGO gene symbol with disambiguation if necessary. The sentence does not clarify whether \"TEDC2\" is the recommended UniProt protein name or if it is the HUGO gene symbol. Without this clarification or disambiguation, the sentence partially meets the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by addressing the structure and function of centrioles and the role of TEDC2 in cell division and stability. However, it lacks coverage of clinical significance and does not provide a comprehensive summary of the article. Additionally, it references a specific study (Pudlowski2024A) without explaining its relevance, which may be considered unnecessary detail in a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of TEDC2 in cell division and stability, which may not be redundant unless the infobox already contains detailed information about TEDC2's impact on centrioles and the cell cycle. If the infobox includes this level of detail, the sentence could be considered repetitive. However, if the infobox only contains basic information, this sentence adds valuable context and emphasis. The score reflects the potential for redundancy depending on the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Furthermore, TEDC2 is involved in recruiting inner scaffold proteins to the central core of the centriole, which is vital for restricting the length of the centriole's proximal end and maintaining its overall architecture through the cell cycle (Pudlowski2024A).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, which is the primary requirement. Instead, it provides specific information about the role of TEDC2 in centriole architecture. Additionally, it does not follow the recommended UniProt naming conventions, as it lacks a clear introduction or context for the article's focus. The sentence might be part of the article's content but does not serve as an introductory scope-defining sentence."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TEDC2,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name for TEDC2, it's unclear if the sentence meets the requirement fully. If the UniProt name is indeed short and not used, the sentence does not fully comply with the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the function of TEDC2 in centriole architecture but does not summarize the article concisely. It lacks information on the overall structure, broader function, and clinical significance of TEDC2, which are key aspects required by the prompt. Additionally, it includes a citation that may not be necessary for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of TEDC2 in centriole architecture, which may not be common knowledge or present in an infobox. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated. The sentence seems to emphasize the importance of TEDC2's function, which could justify its inclusion even if similar information is in the infobox. The score reflects a slight deduction due to the uncertainty of repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This activity underscores the importance of TEDC2 in the dynamic and structural regulation of centrioles, which are critical for proper cell division and functioning.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the importance of TEDC2 in centriole regulation, which hints at the article's focus on cell division and functioning. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To improve, the sentence should explicitly state the article's main topic and adhere to naming conventions, such as using the full protein name and any relevant identifiers."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TEDC2,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The sentence does not specify whether the UniProt protein name was considered or if it is indeed longer than the gene symbol. Therefore, the sentence partially meets the requirement by using the gene symbol but does not clarify if the UniProt name was an option."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the importance of TEDC2 in the regulation of centrioles, which relates to structure and function. However, it lacks a comprehensive summary of the article, as it does not cover clinical significance or provide a broader context. Additionally, it does not concisely summarize the article's key aspects, focusing instead on a specific detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence effectively highlights the role of TEDC2 in centriole regulation, which may be notable enough to warrant emphasis. However, without knowing the content of the infobox, it's difficult to fully assess whether the information is repetitive. If the infobox already contains detailed information about TEDC2's role, the sentence might be somewhat redundant, but it does emphasize the importance of the activity, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Clinical Significance\nTEDC2 (Tubulin epsilon and delta complex 2) has been implicated in various cancers, including lung adenocarcinoma (LUAD), kidney renal clear cell carcinoma (KIRC), and liver hepatocellular carcinoma (LIHC), where its expression levels are significantly upregulated compared to normal tissues.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence does not clearly define the scope of the article. It provides specific information about the involvement of TEDC2 in various cancers, which is more of a detailed finding rather than a broad scope. Additionally, it does not follow the recommended UniProt naming conventions, as it does not provide a clear definition or context for TEDC2 in the context of the article's overall focus. To better meet the requirement, the sentence should introduce the main topic or purpose of the article and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TEDC2\" instead of the recommended UniProt protein name. The requirement specifies using the UniProt protein name if it is relatively short, which is not addressed in the sentence. However, the sentence does provide the full name of the gene, \"Tubulin epsilon and delta complex 2,\" which partially meets the requirement for disambiguation. To fully meet the requirement, the sentence should use the UniProt protein name if it is concise."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence addresses the clinical significance of TEDC2 by mentioning its upregulation in various cancers, which is a key aspect. However, it lacks information on the structure and function of TEDC2, which are also required to meet the requirement fully. Additionally, the sentence includes specific cancer types, which may be considered unnecessary detail if the goal is to provide a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the upregulation of TEDC2 in various cancers, which could be considered notable. However, if this information is already present in the infobox, it might be somewhat redundant unless the emphasis on the upregulation is particularly important for the context. The sentence mostly meets the requirement but could be more concise if the information is not deemed notable enough to repeat."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In LUAD, high TEDC2 expression is associated with poor prognosis, including reduced overall survival, disease-specific survival, and progression-free survival (Fang2023TEDC2).",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the association between high TEDC2 expression and prognosis in LUAD, which is relevant to the scope of the article. However, it does not clearly define the overall scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the broader focus of the article and adhere to naming conventions, such as using full protein names and gene symbols as per UniProt guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TEDC2,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name for TEDC2, it's unclear if the sentence fully meets the requirement. If the UniProt name is short and was not used, the sentence partially meets the requirement. If the UniProt name is long or not applicable, the use of the HUGO gene symbol is appropriate. More context is needed to determine the exact score."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific finding related to high TEDC2 expression in LUAD and its association with poor prognosis. However, it does not summarize the article concisely or cover key aspects such as the structure, function, and broader clinical significance of TEDC2. It focuses narrowly on prognosis without addressing other important elements that would provide a comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the association between high TEDC2 expression and various survival metrics in LUAD, which could be considered notable information. However, if these details are already present in the infobox, the sentence may be somewhat redundant. The score reflects that while the information might be important, it could be repetitive if not adding new insights beyond what's in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Similarly, in KIRC and LIHC, TEDC2 expression correlates with advanced pathological stages and poor survival outcomes (Liu2024A).",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it provides specific information about the correlation between TEDC2 expression and pathological stages in KIRC and LIHC. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein or gene names."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TEDC2,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The sentence does not provide the UniProt protein name, so it only partially meets the requirement by using the gene symbol. To fully meet the requirement, the sentence should include the UniProt protein name if it is short and relevant."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific finding related to TEDC2 expression in KIRC and LIHC, mentioning its correlation with pathological stages and survival outcomes. However, it does not summarize the article concisely or cover key aspects such as structure, function, and clinical significance comprehensively. It lacks context and broader information that would be necessary for a complete summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the correlation of TEDC2 expression with pathological stages and survival outcomes in KIRC and LIHC. If this information is already present in the infobox, it might be considered repetitive. However, the details about the correlation and its implications could be notable, justifying its inclusion in the text. The score reflects that while the sentence may repeat infobox content, it likely adds value by emphasizing important findings."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Furthermore, TEDC2 expression influences the immune microenvironment in tumors.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions TEDC2 expression and its influence on the immune microenvironment in tumors, which could be part of the article's scope. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve specific formatting for protein names. The sentence lacks clarity and specificity needed to meet the requirement fully."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TEDC2\" without disambiguation, which may be appropriate if the UniProt protein name is long or not well-known. However, the requirement suggests using the UniProt protein name if it is relatively short. Without knowing the length or common usage of the UniProt name for TEDC2, it's unclear if the requirement is fully met. The score reflects this uncertainty."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a very narrow focus on TEDC2 expression and its influence on the immune microenvironment in tumors. It lacks a comprehensive summary of the article, as it does not address key aspects such as the structure, function, and clinical significance of TEDC2. Additionally, it does not provide a concise overview of the article's main points, making it insufficient as a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not provide enough context to determine if it repeats information from an infobox. However, it appears to introduce a specific point about TEDC2 expression and its influence on the immune microenvironment in tumors, which could be notable. Without additional context, it seems to meet the requirement of avoiding unnecessary repetition, but the score reflects the uncertainty due to lack of context."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In LUAD, high TEDC2 levels correlate with low infiltration of immune cells such as dendritic cells and B cells, contributing to an immunosuppressive tumor microenvironment (Fang2023TEDC2).",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the correlation between TEDC2 levels and immune cell infiltration in LUAD, which is a type of lung cancer. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein names and identifiers. To better meet the requirement, the sentence should introduce the broader topic or focus of the article and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TEDC2,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The sentence does not provide the UniProt protein name, so it partially meets the requirement by using the gene symbol but does not fully comply as it does not consider the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific finding from the article, mentioning the correlation between high TEDC2 levels and low immune cell infiltration in LUAD, which contributes to an immunosuppressive tumor microenvironment. However, it lacks a comprehensive summary of the article's key aspects such as the overall structure, function, and broader clinical significance of TEDC2. It focuses on a single detail rather than summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the correlation between TEDC2 levels and immune cell infiltration in LUAD, which may not be common knowledge or already present in an infobox. It seems to offer a detailed insight that could be considered notable, thus justifying its inclusion. However, without knowing the exact content of the infobox, it's difficult to fully assess whether this information is repetitive. If the infobox already contains this specific detail, the score might be lower."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This gene also plays a role in the progression of laryngeal squamous cell carcinoma (LSCC), where its increased expression is linked to enhanced cell proliferation and migration, suggesting a tumor-promoting role (Huang2022Identification).",
+      "title": "Introduction",
+      "score": 0.43,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article as required. Instead, it provides specific information about a gene's role in laryngeal squamous cell carcinoma. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein or gene names. The sentence lacks a broader context or introduction to the article's overall focus."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention either the UniProt protein name or the HUGO gene symbol, making it impossible to evaluate whether the correct naming convention was used. To meet the requirement, the sentence should include the recommended UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a specific detail about the gene's role in laryngeal squamous cell carcinoma (LSCC) and its association with cell proliferation and migration, which suggests its tumor-promoting role. However, it lacks a comprehensive summary of the article, as it does not address the gene's structure, broader function, or overall clinical significance. Additionally, it includes a citation that may not be necessary for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the gene's role in laryngeal squamous cell carcinoma, which may not be common knowledge or already present in an infobox. It includes details about increased expression and its effects, which could be considered notable. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this repetition. The sentence is likely to meet the requirement well, assuming the infobox does not already contain this detailed information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, genetic alterations in TEDC2, including mutations and copy number changes, have been observed across various cancers, although these alterations do not significantly impact overall survival, indicating a complex role in tumorigenesis (Liu2024A).",
+      "title": "Introduction",
+      "score": 0.5,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions genetic alterations in TEDC2 and their observation in various cancers, which could suggest a focus on the role of TEDC2 in cancer. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. The sentence lacks a clear statement of the article's main focus or objectives, which is necessary to meet the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TEDC2,\" which is the HUGO gene symbol. However, the requirement suggests using the UniProt protein name if it is relatively short. The sentence does not provide the UniProt protein name, so it partially meets the requirement by using the gene symbol but does not fully comply as it does not consider the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides some information about genetic alterations in TEDC2 and their observation in various cancers, which touches on the clinical significance aspect. However, it lacks details on the structure and function of TEDC2, which are key aspects mentioned in the requirement. Additionally, the sentence does not provide a comprehensive summary of the article, as it focuses mainly on the impact of these alterations on survival and their role in tumorigenesis. More information is needed to fully meet the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about genetic alterations in TEDC2 and their impact on cancer, which may not be redundant unless the infobox already contains this detailed information. The sentence does not appear to repeat information unnecessarily, assuming the infobox does not cover these details. However, without knowing the content of the infobox, it's difficult to fully assess redundancy, hence the score is not perfect."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Interactions\nTEDC2, along with TEDC1, forms a complex with delta-tubulin (TUBD1) and epsilon-tubulin (TUBE1), which is essential for the proper architecture and stability of centrioles.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article; instead, it describes a specific interaction involving TEDC2, TEDC1, delta-tubulin, and epsilon-tubulin. Additionally, it does not follow the recommended UniProt naming conventions, as it uses gene symbols (e.g., TEDC2, TUBD1) without specifying the full protein names or UniProt identifiers. To better meet the requirement, the sentence should provide a broader overview of the article's focus and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses HUGO gene symbols (TEDC2, TEDC1, TUBD1, TUBE1) instead of the recommended UniProt protein names. If the UniProt names are relatively short, they should be used instead. The sentence partially meets the requirement by using gene symbols, but it does not clarify if the UniProt names were considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the structure and function of a complex involving TEDC2, TEDC1, delta-tubulin, and epsilon-tubulin, which is related to centriole architecture and stability. However, it lacks a comprehensive summary of the article, as it does not address the clinical significance or provide a broader context. Additionally, it includes specific details that may not be necessary for a concise lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interaction between TEDC2, TEDC1, delta-tubulin, and epsilon-tubulin, which may not be common knowledge or already present in an infobox. It emphasizes the importance of this complex for centriole architecture and stability, which could be considered notable. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this repetition. The sentence seems to provide valuable context and detail, justifying its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This interaction is crucial for the localization and function of these proteins at centrosomes, particularly at the proximal ends of parental centrioles and newly formed procentrioles (Pudlowski2024A).",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it describes a specific interaction related to proteins at centrosomes. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein names and identifiers."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein names or gene symbols, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the score, the sentence should include specific protein names or gene symbols as per the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about the interaction and localization of proteins at centrosomes, but it does not summarize the article concisely or cover key aspects like structure, function, and clinical significance. It lacks a broader context and does not address the overall content or findings of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the localization and function of proteins at centrosomes, which may not be redundant unless this information is already extensively covered in the infobox. If the infobox contains similar details, the sentence could be seen as repetitive. However, the mention of specific locations like \"proximal ends of parental centrioles and newly formed procentrioles\" adds specificity that might not be in the infobox, thus justifying its inclusion. The score reflects a minor potential for redundancy, depending on the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "TEDC2 can physically interact with TEDC1 even in the absence of TUBD1 and TUBE1, suggesting a strong mutual dependency between TEDC1 and TEDC2 for their function (Pudlowski2024A).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it describes an interaction between proteins TEDC1 and TEDC2, which is more specific than a general scope statement. To meet the requirement, the sentence should provide an overview of the article's focus and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses gene symbols (TEDC1, TEDC2, TUBD1, TUBE1) instead of the recommended UniProt protein names. If the UniProt protein names are relatively short, they should be used instead. The sentence partially meets the requirement by using gene symbols, but it does not check if the UniProt names are short enough to be used."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the interaction between TEDC2 and TEDC1, but it does not summarize the article concisely or cover key aspects such as structure, function, and clinical significance. It focuses on a particular finding rather than providing a broad overview of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interaction between TEDC2 and TEDC1, which may not be common knowledge or already present in an infobox. It also suggests a notable point about their mutual dependency, which could warrant emphasis. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this repetition. If the infobox already contains this specific interaction detail, the sentence might slightly repeat information, but it still adds value by emphasizing the dependency aspect."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Structural predictions using AlphaFold-Multimer have supported these interaction patterns, showing high confidence in the interaction surfaces between TEDC1, TEDC2, and TUBD1 (Pudlowski2024A).",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it discusses structural predictions and interaction patterns involving specific proteins. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein names and identifiers."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses gene symbols (TEDC1, TEDC2, TUBD1) instead of the recommended UniProt protein names. If the UniProt names are relatively short, they should be used instead. The sentence partially meets the requirement by using gene symbols, but it does not clarify if these are the best choices based on the length of the UniProt names."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about structural predictions and interaction patterns involving TEDC1, TEDC2, and TUBD1, but it does not summarize the article concisely or cover key aspects like structure, function, and clinical significance. It lacks a broader context or overview of the article's main points and focuses on a specific finding instead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about structural predictions and interaction surfaces, which may not be detailed in an infobox. It avoids unnecessary repetition unless the infobox already contains this exact information. However, without knowing the content of the infobox, it's difficult to fully assess the necessity of the details provided. The score reflects a reasonable assumption that the sentence adds value beyond what might be in an infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Furthermore, TEDC2 is involved in a protein complex that influences centriole architecture, as evidenced by the loss of TEDC1 or TEDC2 resulting in phenotypes similar to the loss of TUBD1 or TUBE1, characterized by the absence of triplet microtubules and the disintegration of centrioles during mitosis (Pudlowski2024A).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it provides specific information about the involvement of TEDC2 in a protein complex and its effects on centriole architecture. To meet the requirement, the sentence should introduce the main topic or focus of the article in a broader context and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols (TEDC1, TEDC2, TUBD1, TUBE1) instead of the recommended UniProt protein names. While the requirement suggests using the UniProt name if it is relatively short, the sentence does not provide any UniProt names, nor does it offer disambiguation for the gene symbols. This results in a partial fulfillment of the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the involvement of TEDC2 in a protein complex affecting centriole architecture, but it does not concisely summarize the article's key aspects such as structure, function, and clinical significance. It focuses on a specific detail rather than providing a broad overview, and it lacks context about the overall findings or implications of the study."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the role of TEDC2 in centriole architecture and its interaction with other proteins, which may not be present in an infobox. However, without knowing the content of the infobox, it's difficult to fully assess redundancy. The sentence seems to offer specific insights that could be notable, thus it largely meets the requirement. If the infobox already contains this detailed information, the score might be lower."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These findings underscore the critical role of TEDC2 in centriole stability and function, contributing to the overall integrity of cell division and structure.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides information about the role of TEDC2 in centriole stability and cell division, which may relate to the scope of the article. However, it does not explicitly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should clearly state the article's focus and adhere to specific naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TEDC2,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the length or availability of the UniProt protein name, it's unclear if the requirement is fully met. The score reflects this uncertainty."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by addressing the role of TEDC2 in centriole stability and function, which relates to structure and function. However, it lacks coverage of clinical significance and does not provide a comprehensive summary of the article. Additionally, it does not mention any specific details about the broader context or implications of the findings, which are necessary for a complete summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides specific information about the role of TEDC2 in centriole stability and cell division, which may already be present in the infobox. Without knowing the content of the infobox, it's unclear if this information is particularly notable or requires emphasis. If the infobox already contains this information, the sentence may be somewhat redundant, hence the score reflects a partial alignment with the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # References\n\n\n[1.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow any naming conventions, including those recommended by UniProt. It appears to be an incomplete or incorrectly formatted section heading rather than a sentence that meets the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any information related to the use of UniProt protein names or HUGO gene symbols. It appears to be an incomplete or incorrectly formatted reference section, and thus does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a heading or a placeholder for references, and it does not summarize any article or cover key aspects like structure, function, or clinical significance. It lacks any content related to the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 1.0,
+          "feedback": [
+            "The sentence provided does not repeat any information from an infobox, as it is simply a heading for a references section. Therefore, it fully meets the requirement of avoiding repetition of information from the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Fang2023TEDC2) Likui Fang, Wenfeng Yu, Pengfei Zhu, Guocan Yu, and Bo Ye.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation of authors and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions, as it lacks any mention of the article's content or subject matter. To meet the requirement, the sentence should clearly outline the article's focus or topic."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not mention any protein name or gene symbol, nor does it attempt to use the UniProt protein name or HUGO gene symbol. It appears to be a citation or reference to authors of a study, which does not relate to the requirement of using protein names or gene symbols. Therefore, it does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It only lists the authors and the citation key, without any information about the article's content, structure, function, or clinical significance. To meet the requirement, the sentence should provide a concise summary of the article's key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, likely listing authors of a work. If this information is already present in an infobox, repeating it in the main text may not be necessary unless the authorship is particularly notable or requires emphasis. Without additional context, it's unclear if this repetition is justified, hence the score reflects partial compliance with the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Tedc2 correlated with prognosis and immune microenvironment in lung adenocarcinoma.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general idea of the article's focus by mentioning the correlation of Tedc2 with prognosis and immune microenvironment in lung adenocarcinoma. However, it lacks a clear definition of the article's scope and does not follow the recommended UniProt naming conventions, which typically involve using specific protein or gene names with proper formatting. To improve, the sentence should explicitly define the scope and adhere to UniProt conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Tedc2,\" which appears to be a gene symbol. The requirement specifies using the UniProt protein name if it is relatively short, or the HUGO gene symbol with disambiguation if necessary. The sentence does not clarify whether \"Tedc2\" is the recommended UniProt protein name or the HUGO gene symbol, nor does it provide disambiguation. To fully meet the requirement, the sentence should specify the correct naming convention and provide disambiguation if needed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a very brief summary of the article's focus, mentioning the correlation of Tedc2 with prognosis and immune microenvironment in lung adenocarcinoma. However, it lacks details on the structure, function, and clinical significance of Tedc2, which are key aspects required by the prompt. The sentence is too vague and does not provide a comprehensive overview of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence is concise and does not appear to repeat information unnecessarily. However, without the context of the infobox, it's difficult to determine if the information is already present there. Assuming the sentence is not redundant, it meets the requirement well. If the information is notable or requires emphasis, the sentence is justified."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Scientific Reports, March 2023.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Scientific Reports, March 2023.\" does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It merely provides a publication name and date, lacking any information about the article's content or adherence to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Scientific Reports, March 2023.\" does not address the requirement at all. It does not mention any protein names or gene symbols, nor does it use the UniProt protein name or HUGO gene symbol. The sentence is simply a citation and does not relate to the requirement provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Scientific Reports, March 2023.\" does not meet the requirement as it does not provide any summary of an article. It lacks any information on structure, function, or clinical significance, and does not offer any detail, necessary or unnecessary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence \"Scientific Reports, March 2023.\" is very brief and lacks context. Without knowing the content of the infobox, it's unclear if this information is already present there. If the infobox already contains this information and it is not particularly notable or emphasized, the sentence may be redundant. However, if this information is not in the infobox or requires emphasis, the sentence could be justified. The score reflects this ambiguity."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1038/s41598-023-32238-8 , doi:10.1038/s41598-023-32238-8.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It only contains a URL and a DOI, which are identifiers for accessing the article, but do not provide any information about its content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI reference, with no mention of any protein names or gene symbols. To meet the requirement, the sentence should include a UniProt protein name or a HUGO gene symbol, depending on the length and context."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, without any summary or information about the article's content, structure, function, or clinical significance. To meet the requirement, the sentence should provide a concise summary of the article's key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information twice, which is unnecessary unless there is a specific reason to emphasize it. This repetition does not align well with the requirement to avoid repeating information unless notable. The sentence could be improved by mentioning the DOI only once."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(1 citations) 10.1038/s41598-023-32238-8]( https://doi.org/10.1038/s41598-023-32238-8 )\n\n[2.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It appears to be a citation reference rather than a descriptive sentence about the article's content or scope. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a sentence discussing proteins or genes."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is not a summary of an article. It appears to be a citation or reference to a scientific article, including a DOI link, but it does not contain any information about the article's content, structure, function, or clinical significance. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation reference, which may already be present in an infobox. Without additional context, it's unclear if this information is particularly notable or requires emphasis. The score reflects the potential redundancy if the citation is already included elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Huang2022Identification) Chao Huang, Jun He, Yi Dong, Li Huang, Yichao Chen, Anquan Peng, and Hao Huang.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It lists authors and a reference, but does not include any information about the content or focus of the article. Additionally, it does not follow any naming conventions related to UniProt or otherwise. To meet the requirement, the sentence should clearly state the topic or main focus of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. It lists authors of a paper, but does not mention any protein names or gene symbols, nor does it use the UniProt protein name or HUGO gene symbol. The requirement is about naming conventions for proteins or genes, which is not relevant to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and list of authors, not a summary of an article. It does not cover any key aspects such as structure, function, or clinical significance, nor does it provide any detail about the content of the article. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, listing authors of a work. If this information is already present in an infobox, repeating it in this format may not be necessary unless the authorship is particularly notable or requires emphasis. However, without additional context, it's difficult to determine if the repetition is justified. The sentence mostly meets the requirement but could be improved by ensuring the repetition is necessary."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Identification of novel prognostic markers associated with laryngeal squamous cell carcinoma using comprehensive analysis.",
+      "title": "Introduction",
+      "score": 0.43,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by indicating the scope of the article, which is the identification of novel prognostic markers for laryngeal squamous cell carcinoma through comprehensive analysis. However, it does not explicitly follow the recommended UniProt naming conventions, which typically involve specific guidelines for naming proteins and genes. The sentence lacks clarity on whether it adheres to these conventions, thus only partially fulfilling the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific proteins or genes, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To fulfill the requirement, the sentence should include specific protein or gene names and ensure they are presented in the recommended format."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a general summary of the article by mentioning the identification of novel prognostic markers for laryngeal squamous cell carcinoma through comprehensive analysis. However, it lacks details on the structure, function, and clinical significance of these markers, which are key aspects required by the prompt. The sentence is concise but does not fully meet the requirement of covering these specific elements."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence does not provide enough context to determine if it repeats information from an infobox. Without knowing the content of the infobox, it's unclear if the sentence is redundant. However, the sentence is specific and could be notable if the identification of novel prognostic markers is a key point. More context is needed to accurately assess its compliance with the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Frontiers in Oncology, January 2022.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Frontiers in Oncology, January 2022.\" does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It only provides the name of a journal and a date, which is unrelated to the content or scope of an article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence only provides a journal name and date, which are unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is merely a citation and does not summarize the article at all. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence \"Frontiers in Oncology, January 2022\" may repeat information that is typically found in an infobox, such as the publication name and date. Without additional context, it's unclear if this repetition is necessary or notable. If this information is already present in an infobox and does not require emphasis, the sentence could be seen as redundant. However, if the context justifies its inclusion, the score could be higher."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.3389/fonc.2021.779153 , doi:10.3389/fonc.2021.779153.",
+      "title": "Introduction",
+      "score": 0.09,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It only contains a URL and a DOI, which do not provide any information about the article's content or scope. To meet the requirement, the sentence should include a clear statement about the article's focus or subject matter, using appropriate naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It contains a URL and a DOI reference, but it does not mention any protein names or gene symbols, nor does it use the recommended UniProt protein name or HUGO gene symbol. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary of the article's content. It lacks any information about the article's structure, function, or clinical significance, and therefore does not fulfill the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.3,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not add notable emphasis or additional context, thus not meeting the requirement to avoid unnecessary repetition. The score reflects the lack of adherence to the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(9 citations) 10.3389/fonc.2021.779153]( https://doi.org/10.3389/fonc.2021.779153 )\n\n[3.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation reference, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a sentence discussing proteins or genes."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It appears to be a citation or reference to an article, rather than a summary. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of providing a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation reference, which may already be present in an infobox. Without additional context, it's unclear if this information is notable or requires emphasis. The score reflects the potential redundancy, but acknowledges that the citation might be necessary for context or emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Pudlowski2024A) A delta-tubulin/epsilon-tubulin/Ted protein complex is required for centriole architecture (0 citations) 10.1101/2024.04.19.590208]( https://doi.org/10.1101/2024.04.19.590208 )\n\n[4.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific focus on the requirement of a delta-tubulin/epsilon-tubulin/Ted protein complex for centriole architecture, which partially defines the scope of the article. However, it does not fully adhere to the recommended UniProt naming conventions, as it uses a non-standard format for protein names (e.g., \"delta-tubulin\" and \"epsilon-tubulin\" should follow UniProt conventions). Additionally, the sentence lacks broader context or background information that would help define the overall scope of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the terms \"delta-tubulin\" and \"epsilon-tubulin,\" which are likely protein names. However, it is unclear if these are the recommended UniProt protein names or if they should be replaced with HUGO gene symbols. The sentence does not provide enough information to determine if the requirement to use the recommended UniProt protein name or the HUGO gene symbol is met. Additionally, \"Ted protein\" is mentioned without clarification, which may also need to be checked against UniProt or HUGO standards. The sentence partially meets the requirement by using specific protein names, but it lacks verification against the recommended naming conventions."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a basic summary of the article by mentioning the requirement of a delta-tubulin/epsilon-tubulin/Ted protein complex for centriole architecture. However, it lacks details on the structure, function, and clinical significance of the findings. Additionally, it includes unnecessary information such as the citation count and DOI link, which do not contribute to summarizing the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 1.0,
+          "feedback": [
+            "The sentence does not repeat any information that would typically be found in an infobox, such as author names, publication year, or DOI. It provides specific information about a protein complex and its role, which is not typically included in an infobox. Therefore, it meets the requirement well."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Liu2024A) Yang Liu, Jie Zhu, Jing Shen, Yuting Lu, Ke Pan, Chuan Tong, and Yao Wang.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation or list of authors and does not define the scope of an article. It also does not follow any naming conventions, such as those recommended by UniProt. To meet the requirement, the sentence should clearly state the topic or focus of the article and adhere to any specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any information about protein names or gene symbols, nor does it attempt to use the UniProt protein name or HUGO gene symbol. It appears to be a list of authors, which does not relate to the requirement given. Therefore, it does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation or reference entry listing authors and does not summarize an article. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, listing authors of a work. Without additional context, it's unclear if this information is repeated from an infobox or if it is particularly notable. If this list of authors is already present in an infobox and does not require emphasis, it may not meet the requirement well. However, if this is the only mention or if the authorship is notable, it could be justified. The score reflects this ambiguity."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "A pan-cancer analysis of the prognostic implication and oncogenic role of tubulin epsilon and delta complex 2 (tedc2) in human tumors.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by indicating the scope of the article, which is a pan-cancer analysis of TEDC2 in human tumors. However, it does not fully adhere to the recommended UniProt naming conventions, as it uses \"tubulin epsilon and delta complex 2 (tedc2)\" without specifying the correct UniProt format, which typically involves using the full protein name followed by the gene name in parentheses, both in uppercase. Additionally, the sentence does not explicitly define the scope in terms of specific objectives or methods, which would provide a clearer understanding of the article's focus."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"tubulin epsilon and delta complex 2 (tedc2)\" which appears to be a gene symbol rather than a UniProt protein name. The requirement suggests using the recommended UniProt protein name if it is relatively short, otherwise using the HUGO gene symbol with disambiguation if necessary. The sentence uses the HUGO gene symbol \"tedc2\" but does not provide disambiguation. Additionally, it is unclear if the UniProt protein name is shorter or more appropriate, as it is not provided in the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a general overview of the article's focus on a pan-cancer analysis of TEDC2, mentioning its prognostic implication and oncogenic role in human tumors. However, it lacks specific details about the structure, function, and clinical significance of TEDC2, which are key aspects required by the prompt. Additionally, it does not summarize the article's findings or conclusions, which would be necessary for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a title or summary of a study and does not seem to repeat information unnecessarily. However, without the context of the infobox, it's difficult to fully assess if the information is repeated. Assuming the sentence is standalone, it meets the requirement well, but the score is slightly reduced due to the lack of context."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Frontiers in Immunology, January 2024.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Frontiers in Immunology, January 2024.\" does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It merely provides a journal name and a date, which are unrelated to the content or scope of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence only provides a journal name and a date, which are unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is merely a citation or reference to a journal and date, \"Frontiers in Immunology, January 2024,\" and does not summarize an article. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence \"Frontiers in Immunology, January 2024\" is concise and does not appear to repeat information unnecessarily. However, without context, it's unclear if this information is already present in an infobox. Assuming it is, the sentence could be seen as redundant unless the date or journal name is particularly notable or requires emphasis. The score reflects a minor deduction for potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.3389/fimmu.2023.1272108 , doi:10.3389/fimmu.2023.1272108.",
+      "title": "Introduction",
+      "score": 0.09,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, which do not define the scope of the article or follow any naming conventions, let alone the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly state the topic or focus of the article and adhere to the specified naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It contains a URL and a DOI reference, but it does not mention any UniProt protein name or HUGO gene symbol, nor does it discuss the choice between them based on length or disambiguation."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It only contains a URL and a DOI reference, which do not provide any information about the article's content, structure, function, or clinical significance. To meet the requirement, the sentence should include a concise summary of the article's key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.3,
+          "feedback": [
+            "The sentence repeats the DOI information twice, which is unnecessary unless there is a specific reason to emphasize it. This repetition does not align well with the requirement to avoid repeating information unless notable or requiring emphasis. Reducing the redundancy would improve compliance with the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(0 citations) 10.3389/fimmu.2023.1272108]( https://doi.org/10.3389/fimmu.2023.1272108 )",
+      "title": "Introduction",
+      "score": 0.06,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It does not define the scope of the article, nor does it follow any naming conventions, including the recommended UniProt naming conventions. Instead, it appears to be a citation or a DOI link, which is unrelated to the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. It appears to be a citation or DOI link rather than a sentence discussing a protein name. There is no mention of a UniProt protein name or a HUGO gene symbol, so it cannot be evaluated against the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It appears to be a citation or a reference to a DOI link, rather than a summary. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of providing a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.2,
+          "feedback": [
+            "The sentence appears to be a citation or reference link, which typically would be included in an infobox or reference section. It does not provide any additional context or notable information beyond what would be expected in a citation list. Therefore, it does not meet the requirement to avoid repeating information unless it is particularly notable or requires emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+# KLRK1
+
+## Overview
+The KLRK1 gene encodes the protein killer cell lectin-like receptor K1 (KLRK1), which is a type II transmembrane receptor belonging to the C-type lectin superfamily. This protein, also known as NKG2D, plays a crucial role in the immune system by functioning as an activating receptor on various immune cells, including natural killer (NK) cells, CD8+ T cells, and certain Î³Î´ T cells. KLRK1/NKG2D recognizes stress-induced ligands that are typically not found on healthy cells, thereby contributing to immune surveillance against infected or transformed cells. The receptor operates by forming a homodimeric structure and interacts with adaptor proteins to transduce signals that activate immune responses, crucial for controlling infections and tumor surveillance (Lanier2015NKG2D; Zafirova2011Regulation). The gene and its encoded protein are significant in the context of disease resistance, immune regulation, and potential therapeutic targets in cancer and other diseases where immune system modulation is beneficial (Zhang2022KLRK1).
+
+## Structure
+The KLRK1 protein, also known as NKG2D, is a type II transmembrane protein characterized by a C-type lectin-like domain (CTLD) crucial for its function. This domain is a Ca2+-binding lectin-like structure, which plays a significant role in the protein's ability to recognize ligands on target cells (Gupta2012NKG2D). NKG2D exists as a homodimer, meaning its quaternary structure involves two identical subunits (Gupta2012NKG2D). 
+
+In terms of isoforms, alternative DNA splicing in mice generates two variants of NKG2D, differing in the length of their cytoplasmic domains: NKG2D-S (short) and NKG2D-L (long). These isoforms associate differentially with the signaling adaptor molecules DAP10 and DAP12, influencing their signaling capabilities (Lanier2015NKG2D; Gupta2012NKG2D). The cytoplasmic tail of DAP10, associated with NKG2D, carries a YxxM motif, which is important for recruiting signaling molecules like the p85 subunit of phosphatidylinositol-3 kinase and Grb2 (Gupta2012NKG2D).
+
+The interaction between NKG2D and its adapters involves charged residues within their transmembrane regions, which are crucial for the stability and function of the receptor complex (Lanier2015NKG2D). Each NKG2D homodimer pairs with two DAP10 homodimers to form a hexameric receptor complex, suggesting a complex signaling interaction potential (Gupta2012NKG2D).
+
+## Function
+The KLRK1 gene encodes the NKG2D receptor, a C-type lectin-like molecule that functions as an activating receptor on various immune cells, including natural killer (NK) cells, CD8+ T cells, and subsets of Î³Î´ T cells. This receptor plays a pivotal role in the immune surveillance of both infected and transformed cells by recognizing stress-induced ligands that are typically absent from healthy tissues (Lanier2015NKG2D; Zafirova2011Regulation).
+
+NKG2D functions by forming a homodimeric protein structure and is unique among the NKG2 family of receptors in that it lacks any inhibitory isoforms, allowing it to potentially override signals from inhibitory receptors (Zhang2022KLRK1; Antoun2012The). The receptor is involved in the activation of NK cells, leading to target cell killing and cytokine secretion, particularly interferon gamma (IFNG), which plays a role in immune response modulation and cellular signaling pathways (Abrahams2010Faculty).
+
+The interaction between NKG2D and its ligands triggers cell-mediated cytotoxicity and co-stimulates cytokine production through a DAP10-phosphoinositol 3-kinase dependent pathway, crucial for the elimination of tumor cells and cells infected with pathogens (von2020MICA). Additionally, single nucleotide polymorphisms (SNPs) in the KLRK1 gene can affect the sensitivity of the gene to microRNAs that regulate NKG2D expression, influencing the activity of NK cells and potentially impacting the prevalence of cancers originating from epithelial cells (von2020MICA).
+
+## Clinical Significance
+Mutations and polymorphisms in the KLRK1 gene, which encodes the NKG2D receptor, have significant implications for various diseases and conditions. In chronic myeloid leukemia (CML), polymorphisms such as those in the NKG2D gene are associated with differential responses to dasatinib treatment, suggesting a role in predicting treatment-free remission (Hara2017NKG2D). Similarly, specific KLRK1 polymorphisms are linked to disease susceptibility and severity in autoimmune diseases like rheumatoid arthritis (RA) and multiple sclerosis (MS), where they affect the responsiveness to TNF inhibitors and the pathogenesis of the disease (Wei2023The).
+
+In cancer, the expression level of KLRK1 is a critical factor in the immune system's ability to combat tumor cells. Downregulation of KLRK1 in tumor tissues, as observed in non-small cell lung cancer (NSCLC), correlates with poorer prognosis due to reduced cytotoxic activity of NK cells in the tumor microenvironment (Wang2021Carbon). Additionally, genetic variants of KLRK1 influence cancer risk and progression, with certain alleles linked to increased or decreased risk of various cancers (Siemaszko2021NKG2D).
+
+Furthermore, alterations in the interaction of NKG2D with its ligands, such as the shedding of soluble forms by tumors, contribute to immune evasion, impacting cancer prognosis and treatment outcomes (Groh2002Tumour-derived). These findings underscore the clinical significance of KLRK1 in the diagnosis, prognosis, and treatment of multiple diseases, highlighting its potential as a target for therapeutic intervention.
+
+## Interactions
+KLRK1, also known as NKG2D, is a receptor that forms a homodimeric structure and interacts with various adaptor molecules for signal transduction. In humans, KLRK1 associates with the hematopoietic cell signal transducer (HCST), also known as DAP10. This interaction is crucial for the cell surface expression of KLRK1 and mediates its signaling functions (Abrahams2010Faculty). The transmembrane region of KLRK1 contains a positively charged arginine residue that pairs with conserved aspartic acid residues in the transmembrane regions of DAP10, facilitating this association (Burgess2007The).
+
+Upon ligand binding, KLRK1 activates the DAP10 receptor complex, leading to tyrosine phosphorylation within the YxxM motif by src family tyrosine kinases. This phosphorylation enables the binding of the p85 subunit of PI3K and the Grb2 adaptor protein to phosphorylated DAP10, further activating the PI3K pathway and downstream signaling events involving proteins such as Akt, MEK, and ERK (Burgess2007The).
+
+KLRK1 also interacts with a variety of ligands, including MICA, MICB, ULBP1-6, and MULT1, which are stress-inducible proteins expressed on the cell surface in response to various forms of cellular stress like DNA damage, infection, and heat shock. These interactions are key to the immune response against cells under stress, potentially leading to the killing of these cells (Eagle2007Promiscuity).
+
+
+## References
+
+
+[1. (Abrahams2010Faculty) Vikki Abrahams. Faculty opinions recommendation of murine trophoblast cells induce nk cell interferon-gamma production through klrk1. September 2010. URL: http://dx.doi.org/10.3410/f.5373960.5325059, doi:10.3410/f.5373960.5325059. (31 citations) 10.3410/f.5373960.5325059](https://doi.org/10.3410/f.5373960.5325059)
+
+[2. (Gupta2012NKG2D) Rajesh K. Gupta and G. S. Gupta. NKG2D Activating Receptor, pages 667â691. Springer Vienna, 2012. URL: http://dx.doi.org/10.1007/978-3-7091-1065-2_31, doi:10.1007/978-3-7091-1065-2_31. (0 citations) 10.1007/978-3-7091-1065-2_31](https://doi.org/10.1007/978-3-7091-1065-2_31)
+
+[3. (Hara2017NKG2D) Ryujiro Hara, Makoto Onizuka, Erika Matsusita, Eri Kikkawa, Yoshihiko Nakamura, Hiromichi Matsushita, Daisuke Ohgiya, Hiromichi Murayama, Shinichiro Machida, Ken Ohmachi, Yukari Shirasugi, Yoshiaki Ogawa, Hiroshi Kawada, and Kiyoshi Ando. Nkg2d gene polymorphisms are associated with disease control of chronic myeloid leukemia by dasatinib. International Journal of Hematology, 106(5):666â674, August 2017. URL: http://dx.doi.org/10.1007/s12185-017-2294-1, doi:10.1007/s12185-017-2294-1. (30 citations) 10.1007/s12185-017-2294-1](https://doi.org/10.1007/s12185-017-2294-1)
+
+[4. (von2020MICA) Renate von Linsingen, PatrÃ­cia Pinho de FranÃ§a, Newton SÃ©rgio de Carvalho, and Maria da GraÃ§a Bicalho. Mica and klrk1 genes and their impact in cervical intraepithelial neoplasia development in the southern brazilian population. Human Immunology, 81(5):249â253, May 2020. URL: http://dx.doi.org/10.1016/j.humimm.2020.02.007, doi:10.1016/j.humimm.2020.02.007. (6 citations) 10.1016/j.humimm.2020.02.007](https://doi.org/10.1016/j.humimm.2020.02.007)
+
+[5. (Groh2002Tumour-derived) Veronika Groh, Jennifer Wu, Cassian Yee, and Thomas Spies. Tumour-derived soluble mic ligands impair expression of nkg2d and t-cell activation. Nature, 419(6908):734â738, October 2002. URL: http://dx.doi.org/10.1038/nature01112, doi:10.1038/nature01112. (1242 citations) 10.1038/nature01112](https://doi.org/10.1038/nature01112)
+
+[6. (Lanier2015NKG2D) Lewis L. Lanier. Nkg2d receptor and its ligands in host defense. Cancer Immunology Research, 3(6):575â582, June 2015. URL: http://dx.doi.org/10.1158/2326-6066.cir-15-0098, doi:10.1158/2326-6066.cir-15-0098. (585 citations) 10.1158/2326-6066.cir-15-0098](https://doi.org/10.1158/2326-6066.cir-15-0098)
+
+[7. (Wang2021Carbon) Jiangtao Wang, Ziying Dai, Yandong Miao, Ting Zhao, Jian Gan, Chengpeng Zhao, Juntao Ran, and Quanlin Guan. Carbon ion (12c6+) irradiation induces the expression of klrk1 in lung cancer and optimizes the tumor microenvironment based on the nkg2d/nkg2d-ls pathway. Cancer Letters, 521:178â195, November 2021. URL: http://dx.doi.org/10.1016/j.canlet.2021.09.003, doi:10.1016/j.canlet.2021.09.003. (11 citations) 10.1016/j.canlet.2021.09.003](https://doi.org/10.1016/j.canlet.2021.09.003)
+
+[8. (Zhang2022KLRK1) Yanan Zhang, Zeyang Chen, Aifang Jiang, and Guanqi Gao. Klrk1 as a prognostic biomarker for lung adenocarcinoma cancer. Scientific Reports, February 2022. URL: http://dx.doi.org/10.1038/s41598-022-05997-z, doi:10.1038/s41598-022-05997-z. (6 citations) 10.1038/s41598-022-05997-z](https://doi.org/10.1038/s41598-022-05997-z)
+
+[9. (Siemaszko2021NKG2D) Jagoda Siemaszko, Aleksandra Marzec-Przyszlak, and Katarzyna Bogunia-Kubik. Nkg2d natural killer cell receptorâa short description and potential clinical applications. Cells, 10(6):1420, June 2021. URL: http://dx.doi.org/10.3390/cells10061420, doi:10.3390/cells10061420. (33 citations) 10.3390/cells10061420](https://doi.org/10.3390/cells10061420)
+
+[10. (Burgess2007The) Steven J. Burgess, Kerima Maasho, Madhan Masilamani, Sriram Narayanan, Francisco Borrego, and John E. Coligan. The nkg2d receptor: immunobiology and clinical implications. Immunologic Research, 40(1):18â34, May 2007. URL: http://dx.doi.org/10.1007/s12026-007-0060-9, doi:10.1007/s12026-007-0060-9. (75 citations) 10.1007/s12026-007-0060-9](https://doi.org/10.1007/s12026-007-0060-9)
+
+[11. (Zafirova2011Regulation) Biljana Zafirova, Felix M. Wensveen, Maja Gulin, and Bojan PoliÄ. Regulation of immune cell function and differentiation by the nkg2d receptor. Cellular and Molecular Life Sciences, 68(21):3519â3529, September 2011. URL: http://dx.doi.org/10.1007/s00018-011-0797-0, doi:10.1007/s00018-011-0797-0. (167 citations) 10.1007/s00018-011-0797-0](https://doi.org/10.1007/s00018-011-0797-0)
+
+[12. (Eagle2007Promiscuity) Robert A. Eagle and John Trowsdale. Promiscuity and the single receptor: nkg2d. Nature Reviews Immunology, 7(9):737â744, August 2007. URL: http://dx.doi.org/10.1038/nri2144, doi:10.1038/nri2144. (284 citations) 10.1038/nri2144](https://doi.org/10.1038/nri2144)
+
+[13. (Antoun2012The) Ayman Antoun, Dhruti Vekaria, Rafik A. Salama, Guy Pratt, Shirley Jobson, Mark Cook, David Briggs, and Paul Moss. The genotype of <scp>raet1l</scp> (<scp>ulbp6</scp>), a ligand for human <scp>nkg2d</scp> (<scp>klrk1</scp>), markedly influences the clinical outcome of allogeneic stem cell transplantation. British Journal of Haematology, 159(5):589â598, October 2012. URL: http://dx.doi.org/10.1111/bjh.12072, doi:10.1111/bjh.12072. (26 citations) 10.1111/bjh.12072](https://doi.org/10.1111/bjh.12072)
+
+[14. (Wei2023The) Leiyan Wei, Zhiqing Xiang, and Yizhou Zou. The role of nkg2d and its ligands in autoimmune diseases: new targets for immunotherapy. International Journal of Molecular Sciences, 24(24):17545, December 2023. URL: http://dx.doi.org/10.3390/ijms242417545, doi:10.3390/ijms242417545. (2 citations) 10.3390/ijms242417545](https://doi.org/10.3390/ijms242417545)

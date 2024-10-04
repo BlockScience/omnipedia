@@ -1,0 +1,2380 @@
+{
+  "LeadSection": [
+    {
+      "text": "# KCNK2 # # Overview\nKCNK2 is a gene located in the human genome that encodes the protein known as potassium two pore domain channel subfamily K member 2 (TREK-1).",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by introducing KCNK2 and its encoded protein, TREK-1, which aligns with defining the scope of an article. However, it lacks adherence to the recommended UniProt naming conventions, which typically include specific formatting and terminology. Additionally, the sentence does not clearly establish the scope of the entire article, as it only provides a brief introduction to the gene and protein."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"KCNK2\" and provides the full name of the protein \"potassium two pore domain channel subfamily K member 2 (TREK-1).\" However, it does not specify whether this is the recommended UniProt protein name or if the HUGO gene symbol is used due to the length of the UniProt name. The sentence partially meets the requirement by including both the gene symbol and the protein name, but it lacks clarity on whether the UniProt name is being used as recommended."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a basic introduction to the KCNK2 gene and the protein it encodes, but it lacks a comprehensive summary of key aspects such as the structure, function, and clinical significance of the gene or protein. To meet the requirement, the lead should include these elements concisely without unnecessary detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise overview of the KCNK2 gene and its encoded protein, which is likely to be basic information included in an infobox. However, it does not excessively repeat information and focuses on a specific aspect of the gene, which may be notable enough to warrant mention outside the infobox. The score reflects that while the sentence could potentially repeat infobox content, it maintains relevance and clarity."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This protein is a member of the two-pore-domain potassium channel (K2P) family, characterized by its unique structure that includes four transmembrane segments and two pore-forming domains.",
+      "title": "Introduction",
+      "score": 0.46,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a description of a protein's characteristics, specifically mentioning its membership in the two-pore-domain potassium channel (K2P) family and its structural features. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus or purpose of the article and adhere to any specific naming guidelines provided by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not use either the recommended UniProt protein name or the HUGO gene symbol. It only describes the protein as a member of the two-pore-domain potassium channel (K2P) family without specifying a particular protein name or gene symbol. To meet the requirement, the sentence should include the specific UniProt protein name or the HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a concise summary of the protein's structure, mentioning its membership in the K2P family and its structural features. However, it lacks information on the protein's function and clinical significance, which are key aspects required by the prompt. To better meet the requirement, the sentence should include a brief mention of these additional aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the protein's structure, which may be notable or require emphasis beyond what is typically included in an infobox. However, if the infobox already contains this exact information, the sentence could be seen as somewhat redundant. The score reflects that while the sentence may repeat information, it does so in a way that could be considered important for understanding the protein's characteristics."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Unlike many other potassium channels, TREK-1 does not require voltage to activate, making it fundamentally important in setting the resting membrane potential and regulating cellular excitability.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the TREK-1 potassium channel, highlighting its unique characteristic of not requiring voltage to activate. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus or purpose of the article and ensure that the naming of the protein aligns with UniProt standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TREK-1,\" which is the HUGO gene symbol for the protein encoded by the KCNK2 gene. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The recommended UniProt name for TREK-1 is \"KCNK2\" or \"Potassium channel subfamily K member 2,\" which is not used here. The sentence partially meets the requirement by using a recognizable gene symbol, but it does not fully comply with the preference for the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the function of TREK-1, highlighting its unique activation mechanism and its role in cellular excitability. However, it lacks information on the structure and clinical significance of TREK-1, which are key aspects mentioned in the requirement. Additionally, the sentence does not summarize an article but rather presents a specific detail about TREK-1, which limits its effectiveness as a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about TREK-1's unique characteristic of not requiring voltage to activate, which may not be common knowledge and could be considered notable. However, if this information is already present in the infobox, it might be seen as repetitive. The score reflects that while the information could be notable, the requirement to avoid repetition is not fully met if the infobox already contains this detail."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein is sensitive to a variety of physical and chemical stimuli, which allows it to play a critical role in neuroprotection, pain perception, and cardiac function.",
+      "title": "Introduction",
+      "score": 0.46,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the protein's functions, mentioning its sensitivity to stimuli and roles in neuroprotection, pain perception, and cardiac function. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the protein's name and its specific functions or characteristics that will be discussed in the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the sentence, it should specify the protein by its UniProt name or gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a general overview of the protein's function and its role in neuroprotection, pain perception, and cardiac function, which touches on clinical significance. However, it lacks details about the protein's structure and does not fully summarize the article's key aspects. It is concise but misses some critical elements required by the prompt."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise summary of the protein's functions, which may be notable enough to warrant emphasis. However, without knowing the specific content of the infobox, it's difficult to determine if the information is unnecessarily repetitive. If the infobox already contains detailed information about the protein's sensitivity and roles, the sentence might be redundant. If not, it effectively highlights key aspects of the protein's function."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Due to its significant functions in various physiological processes and disease conditions, KCNK2 and its encoded protein TREK-1 are considered potential targets for therapeutic interventions in a range of disorders, including depression, epilepsy, and cardiac arrhythmias (Bockenhauer2001KCNK2:; Nasr2018Identification; Kim2005Physiology).",
+      "title": "Introduction",
+      "score": 0.64,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a broad overview of the article's scope by mentioning the physiological processes and disorders related to KCNK2 and TREK-1, suggesting a focus on therapeutic interventions. However, it does not explicitly define the scope in a structured manner or clearly follow the recommended UniProt naming conventions, which typically involve specific formatting and nomenclature guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"KCNK2\" and the encoded protein name \"TREK-1.\" However, it is unclear if \"TREK-1\" is the recommended UniProt protein name or if \"KCNK2\" is used correctly according to the requirement. The sentence partially meets the requirement by mentioning both the gene and protein, but without confirmation of the recommended UniProt name, it cannot be fully evaluated. More context or verification of the recommended UniProt name is needed for a higher score."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.7,
+          "feedback": [
+            "The sentence effectively summarizes the clinical significance of KCNK2 and its encoded protein TREK-1 by highlighting their roles in physiological processes and potential as therapeutic targets for various disorders. However, it lacks specific details about the structure and function of KCNK2 and TREK-1, which are key aspects mentioned in the requirement. Including a brief mention of these elements would provide a more comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the significance of KCNK2 and its encoded protein TREK-1 as potential therapeutic targets. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does emphasize the importance of these targets in various disorders, which could justify its inclusion. The score reflects that while the sentence may repeat information, it does so with a focus on notable aspects that might not be fully captured in an infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Structure\nThe human KCNK2 gene encodes the TREK-1 protein, which is part of the two-pore-domain potassium channel (K2P) family.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the KCNK2 gene and the TREK-1 protein, but it does not define the overall scope of the article. Additionally, it does not clearly follow the recommended UniProt naming conventions, which typically involve using the full protein name and gene name in a standardized format. The sentence lacks a broader context or introduction to the topic that would set the scope for the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TREK-1\" as the protein name, which is a common name for the protein encoded by the KCNK2 gene. However, the requirement specifies using the recommended UniProt protein name if it is relatively short. The UniProt recommended name for this protein is \"Potassium channel subfamily K member 2,\" which is longer than \"TREK-1.\" The sentence partially meets the requirement by using a common name, but it does not clarify if this is the recommended UniProt name or provide disambiguation using the HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a basic structural detail about the KCNK2 gene and the TREK-1 protein, mentioning its family association. However, it lacks information on the function and clinical significance, which are key aspects required for a comprehensive summary. Additionally, the sentence includes unnecessary detail with the \"# # Structure\" notation, which does not contribute to the summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the KCNK2 gene and the TREK-1 protein, which may be notable if not already detailed in the infobox. However, without knowing the content of the infobox, it's difficult to fully assess redundancy. If this information is already present in the infobox and not particularly notable, the sentence could be seen as repetitive. The score reflects a slight deduction for potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The TREK-1 protein is characterized by a 2P/4TM topology, consisting of four transmembrane segments and two pore-forming domains.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about the TREK-1 protein's structure but does not define the scope of the article. It also does not follow the recommended UniProt naming conventions, which typically involve using the full name of the protein and its gene symbol. To better meet the requirement, the sentence should introduce the broader topic or focus of the article and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TREK-1\" which is the HUGO gene symbol (KCNK2) rather than the recommended UniProt protein name, which is \"Potassium channel subfamily K member 2\". Since the requirement suggests using the UniProt name if it is relatively short, the sentence partially meets the requirement by using a recognizable gene symbol, but it does not fully comply as it does not use the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a concise description of the structure of the TREK-1 protein, mentioning its 2P/4TM topology, four transmembrane segments, and two pore-forming domains. However, it lacks information on the function and clinical significance of the protein, which are key aspects required by the prompt. Additionally, it does not summarize an article but rather focuses solely on structural details."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the TREK-1 protein's structure, which may be notable or require emphasis if not commonly known. However, if this information is already present in the infobox and not particularly notable, it could be seen as redundant. The sentence does not strongly violate the requirement, but it could be more concise if the information is not emphasized for a specific reason."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This structural configuration is distinct from the more typical voltage-gated potassium channels, which generally feature one pore domain and six transmembrane segments (Bockenhauer2001KCNK2:).",
+      "title": "Introduction",
+      "score": 0.34,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides a comparison between structural configurations of potassium channels but lacks any indication of the article's overall focus or adherence to specific naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not use either the recommended UniProt protein name or the HUGO gene symbol for the protein mentioned. Instead, it references a study (Bockenhauer2001KCNK2:) without providing the appropriate protein name or gene symbol. To meet the requirement, the sentence should include the correct UniProt protein name or the HUGO gene symbol for the potassium channel being discussed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about the structural configuration of a particular type of potassium channel, comparing it to the more typical voltage-gated potassium channels. However, it does not summarize the article concisely or cover key aspects like function and clinical significance. It lacks a broader context and does not provide an overview of the article's main points."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the structural configuration of voltage-gated potassium channels, which may be notable or require emphasis if it contrasts with the information in the infobox. However, without knowing the content of the infobox, it's difficult to fully assess the necessity of this repetition. If the infobox already contains this information and it is not particularly notable, the sentence could be seen as redundant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "A key feature of the KCNK2 protein is its sensitivity to phosphorylation at serine 348, a canonical site for protein kinase A (PKA).",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about the KCNK2 protein, particularly its sensitivity to phosphorylation at a specific site. However, it does not define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should introduce the broader topic or focus of the article and adhere to any specific naming guidelines provided by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"KCNK2\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should be used according to the requirement. The sentence partially meets the requirement by using a recognized gene symbol, but it does not fully comply as it does not use the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provided focuses on a specific feature of the KCNK2 protein, namely its sensitivity to phosphorylation at a particular site. It does not summarize the article concisely or cover key aspects such as the overall structure, function, and clinical significance of the protein. The sentence lacks breadth and context, which are necessary to meet the requirement of summarizing the article comprehensively."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the KCNK2 protein's sensitivity to phosphorylation at a particular site, which may not be common knowledge and could be considered notable. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated unnecessarily. If the infobox already contains this detail and it is not particularly notable, the sentence could be seen as redundant. The score reflects a slight deduction for potential redundancy, but acknowledges the possibility of the information being notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Phosphorylation at this site can reversibly switch the channel from a voltage-insensitive to a voltage-dependent state, significantly altering its functional phenotype (Bockenhauer2001KCNK2:; Goldstein2001Potassium).",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it describes a specific biochemical process involving phosphorylation and its effect on a channel's state. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein or gene names. The sentence lacks context about the broader topic or focus of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence references proteins using citations (Bockenhauer2001KCNK2; Goldstein2001Potassium) rather than using the recommended UniProt protein name or the HUGO gene symbol. It is unclear if the recommended UniProt protein name is short or if the HUGO gene symbol should be used, as the sentence does not provide this information. To fully meet the requirement, the sentence should explicitly use the recommended naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about phosphorylation affecting the channel's voltage sensitivity, which relates to function. However, it does not summarize the article concisely or cover key aspects like structure and clinical significance. It lacks a broader context and does not provide an overview of the article's main points, making it insufficient as a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the phosphorylation effect on the channel's state, which may not be detailed in an infobox. However, without knowing the content of the infobox, it's difficult to fully assess redundancy. The sentence seems to emphasize the functional change, which could be notable. The score reflects a slight deduction due to potential overlap with infobox content, but overall, it appears to meet the requirement well."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This post-translational modification underscores the dynamic regulatory mechanisms that influence the function of KCNK2 channels.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It mentions a specific post-translational modification and its effect on KCNK2 channels, but it lacks a broader context or definition of the article's scope. Additionally, it does not adhere to any specific naming conventions that might be recommended by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"KCNK2,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name for KCNK2, it's unclear if the sentence fully meets the requirement. If the UniProt name is indeed short, it should have been used instead."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions a post-translational modification and its influence on KCNK2 channels, which touches on the function aspect. However, it does not address the structure or clinical significance of KCNK2 channels, nor does it provide a comprehensive summary of an article. The sentence lacks the necessary breadth and detail to serve as a lead summarizing an article's key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not provide enough context to determine if it repeats information from an infobox. However, it appears to emphasize the importance of post-translational modification in regulating KCNK2 channels, which could be notable. Without knowing the content of the infobox, it's difficult to assess repetition, but the sentence seems to focus on a specific aspect that might warrant emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "However, the available sources do not provide detailed information on the primary, secondary, tertiary, or quaternary structures of the KCNK2 protein, nor do they mention specific domains, prominent folds, or splice variant isoforms.",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it discusses the lack of detailed information on the structures and features of the KCNK2 protein. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"KCNK2\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used according to the requirement. The sentence does not provide any disambiguation for the gene symbol, which might be necessary if there are multiple proteins associated with the symbol. Therefore, the sentence partially meets the requirement by using the gene symbol but does not fully comply with the preference for the UniProt name or provide disambiguation."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence primarily focuses on the lack of detailed information about the KCNK2 protein's structure, mentioning specific structural aspects that are not covered. It does not summarize the article concisely or cover key aspects like function and clinical significance. The sentence provides unnecessary detail about what is missing rather than summarizing the available content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence effectively avoids repeating information that might be present in an infobox by focusing on what is not available about the KCNK2 protein. It highlights the lack of detailed structural information and specific features, which could be notable if the infobox does not cover these aspects. However, if the infobox already emphasizes the absence of this information, the sentence might be slightly redundant. Overall, it meets the requirement well by providing context that may not be explicitly covered in an infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Therefore, a comprehensive description of these aspects of the KCNK2 protein structure cannot be provided based on the current context.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it discusses the limitations in describing aspects of the KCNK2 protein structure, which is unrelated to setting the scope or adhering to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"KCNK2\" instead of the recommended UniProt protein name. Without additional context, it's unclear if the UniProt name is relatively short and should have been used. If the UniProt name is indeed short, the sentence does not meet the requirement. If the UniProt name is long, using the gene symbol is appropriate, but disambiguation might be necessary. More context is needed to fully assess compliance."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively summarize the article as required. It only mentions the inability to provide a comprehensive description of the KCNK2 protein structure, without addressing its function or clinical significance. Additionally, it lacks any summary of key aspects and instead focuses on a limitation, which does not meet the requirement of a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 1.0,
+          "feedback": [
+            "The sentence does not repeat any information that might be present in an infobox. It provides a unique statement about the limitations of describing the KCNK2 protein structure based on the current context. Therefore, it fully meets the requirement of avoiding unnecessary repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Function\nKCNK2, also known as TREK-1, encodes a two-pore domain potassium channel that is crucial in setting the resting membrane potential and regulating cell excitability.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a brief description of the KCNK2 gene and its function, which is relevant to defining the scope of an article about this gene. However, it does not explicitly define the scope of the entire article, nor does it clearly follow the recommended UniProt naming conventions. To improve, the sentence should more explicitly state the focus of the article and ensure adherence to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"KCNK2\" and provides an alternative name \"TREK-1.\" However, it does not specify whether \"TREK-1\" is the recommended UniProt protein name or if it is relatively short. Without this clarification, it is unclear if the requirement to use the recommended UniProt protein name is met. To fully meet the requirement, the sentence should explicitly state if \"TREK-1\" is the recommended UniProt name or use the HUGO gene symbol with necessary disambiguation."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the function of KCNK2 (TREK-1) by mentioning its role in setting the resting membrane potential and regulating cell excitability. However, it lacks information on the structure and clinical significance of KCNK2, which are key aspects required for a comprehensive summary. Additionally, the sentence includes unnecessary detail with the \"# # Function\" text, which does not contribute to the summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the function of KCNK2, which may be present in an infobox. However, the details about its role in setting the resting membrane potential and regulating cell excitability could be considered notable and relevant for emphasis. The sentence largely meets the requirement, but without knowing the exact content of the infobox, it's difficult to fully assess the necessity of the repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This channel is activated by various physical and chemical stimuli, including lipids, volatile anesthetics, heat, oxygen, protons, and membrane tension (Kim2005Physiology).",
+      "title": "Introduction",
+      "score": 0.34,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides information about the activation of a channel by various stimuli, but it does not define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should clearly outline the main focus or purpose of the article and adhere to any specific naming guidelines provided by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the score, the sentence should specify the protein or gene being referred to, using the appropriate naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a list of stimuli that activate a channel, which is a specific detail rather than a summary. It does not address the structure, function, or clinical significance of the channel, nor does it provide a concise overview of the article. To meet the requirement, the sentence should encapsulate the main points of the article, including its broader implications and relevance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the activation of a channel by various stimuli. If this information is already present in the infobox, it may be somewhat redundant. However, the sentence does not excessively repeat information and includes a citation, which could be notable. The score reflects that while there is some repetition, the detail and citation may justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "TREK-1, a specific protein encoded by KCNK2, is sensitive to mechanical stimuli such as membrane stretch, intracellular pH changes, and temperature, which allows it to respond adaptively to a range of physiological conditions (Kim2005Physiology).",
+      "title": "Introduction",
+      "score": 0.5,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides information about TREK-1, a protein encoded by KCNK2, and its sensitivity to various stimuli. However, it does not clearly define the scope of the article, nor does it follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus or main topic of the article and ensure that protein names and gene symbols adhere to UniProt standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TREK-1\" as the name for the protein encoded by KCNK2. While \"TREK-1\" is a commonly used name, the requirement specifies using the recommended UniProt protein name if it is relatively short. The sentence does not clarify whether \"TREK-1\" is the recommended UniProt name or if it should have used the HUGO gene symbol with disambiguation. Without this information, the sentence partially meets the requirement but lacks clarity on adherence to the naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.4,
+          "feedback": [
+            "The sentence provides a concise summary of the function of TREK-1, mentioning its sensitivity to mechanical stimuli and its adaptive response to physiological conditions. However, it lacks information on the structure and clinical significance of TREK-1, which are key aspects required by the prompt. Additionally, the citation style \"(Kim2005Physiology)\" is not standard and may be considered unnecessary detail in this context."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the sensitivity of the TREK-1 protein to various stimuli, which may not be common knowledge and could be considered notable. However, without knowing the specific content of the infobox, it's difficult to fully assess whether this information is repetitive. If the infobox already contains this detailed information, the sentence might not meet the requirement as well. The score reflects a balance between the potential notability of the information and the possibility of redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In healthy human cells, KCNK2 plays a significant role in neuroprotection and the modulation of cardiac action potentials.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the role of KCNK2 in neuroprotection and cardiac action potentials, which suggests a focus on its biological functions. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions, which typically include the full protein name and species. To better meet the requirement, the sentence should explicitly state the article's focus and adhere to UniProt conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"KCNK2,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt name, it's unclear if the sentence meets the requirement fully. If the UniProt name is short and commonly used, it should be used instead of the gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a brief overview of the function of KCNK2 in healthy human cells, mentioning its role in neuroprotection and cardiac action potential modulation. However, it lacks information on the structure and clinical significance of KCNK2, which are key aspects required for a comprehensive summary. Additionally, the sentence does not provide a clear context or connection to an article, making it less effective as a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides information about the role of KCNK2 in neuroprotection and cardiac action potentials. Without knowing the content of the infobox, it's unclear if this information is repeated. If the infobox already contains this information and it is not particularly notable or emphasized, the sentence may not meet the requirement well. However, if the information is not in the infobox or requires emphasis, the sentence could be justified. The score reflects this uncertainty."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "It contributes to maintaining cellular membrane resting potentials, which is essential for the normal function of neurons and cardiac myocytes (Nasr2018Identification).",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides a specific detail about cellular membrane resting potentials and their importance for neurons and cardiac myocytes, but it does not introduce or outline the broader topic or focus of the article. Additionally, there is no indication of adherence to UniProt naming conventions in the sentence."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein or gene, so it cannot be evaluated against the requirement to use the recommended UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence should include a specific protein or gene name and ensure it follows the naming convention specified."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about the function of maintaining cellular membrane resting potentials and its importance for neurons and cardiac myocytes. However, it does not summarize the article concisely or cover key aspects like structure and clinical significance. It lacks a broader context and does not provide an overview of the article's main points."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of maintaining cellular membrane resting potentials in neurons and cardiac myocytes, which may not be common knowledge and could be considered notable. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated unnecessarily. If the infobox already contains this exact information, the sentence might slightly violate the requirement, but it does emphasize the importance of the function, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The channel's activity can be modulated by G protein-coupled receptors through phosphorylation processes, indicating its involvement in neurotransmitter and peptide hormone-mediated signal transduction (Kim2005Physiology).",
+      "title": "Introduction",
+      "score": 0.4,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the channel's activity and its modulation by G protein-coupled receptors, which suggests a focus on signal transduction involving neurotransmitters and peptide hormones. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the main focus or objective of the article and adhere to specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, so it cannot be evaluated against the requirement to use the recommended UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence should include a specific protein or gene name and ensure it follows the specified naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief insight into the function of the channel and its involvement in signal transduction, which partially addresses the requirement. However, it lacks information on the structure and clinical significance of the channel, and it does not summarize the article as a whole. To better meet the requirement, the sentence should include a more comprehensive overview that covers all key aspects mentioned."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the modulation of the channel's activity by G protein-coupled receptors and its role in signal transduction, which may not be common knowledge or explicitly detailed in an infobox. However, if this information is already present in the infobox, it could be considered repetitive unless it is particularly notable or requires emphasis. The score reflects that while the sentence may repeat infobox content, it adds context and detail that could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Overall, KCNK2's function in cellular and organismal physiology includes modulation of pain perception, protection against ischemia, and regulation of mood, highlighting its potential as a target for therapeutic interventions in conditions like depression, pain, epilepsy, stroke, and cardiac arrhythmias (Nasr2018Identification).",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a broad overview of the functions and potential therapeutic implications of KCNK2, which could be part of defining the scope of an article. However, it does not explicitly define the scope of the article in a clear and structured manner, nor does it follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should clearly state the focus of the article and adhere to specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"KCNK2\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should be used instead. The sentence partially meets the requirement by using a recognized gene symbol, but it does not fully comply with the preference for the UniProt name if it is short."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.7,
+          "feedback": [
+            "The sentence effectively summarizes the clinical significance of KCNK2 by mentioning its role in pain perception, ischemia protection, and mood regulation, and its potential as a therapeutic target for various conditions. However, it lacks details on the structure of KCNK2, which is a key aspect mentioned in the requirement. Additionally, the sentence could be more concise by avoiding the list of specific conditions, which adds unnecessary detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a comprehensive overview of KCNK2's functions and potential therapeutic applications, which may be notable information. However, without knowing the specific content of the infobox, it's difficult to fully assess whether this information is repetitive. If the infobox already contains detailed information about KCNK2's roles and therapeutic potential, the sentence might be somewhat redundant. Nonetheless, the sentence does emphasize the significance of KCNK2 as a therapeutic target, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Clinical Significance\nKCNK2, also known as TREK-1, has been implicated in a variety of diseases and conditions due to mutations or alterations in its expression.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence does not clearly define the scope of the article. While it mentions the clinical significance of KCNK2 (TREK-1) and its involvement in diseases, it lacks a comprehensive overview of the article's focus. Additionally, it does not explicitly follow the recommended UniProt naming conventions, which typically include a more structured introduction to the protein's role and relevance."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"KCNK2,\" which is the HUGO gene symbol, but it also provides the alternative name \"TREK-1.\" However, it does not specify whether \"TREK-1\" is the recommended UniProt protein name. If \"TREK-1\" is indeed the recommended UniProt name and is relatively short, it should be used primarily. The sentence partially meets the requirement by providing both names, but it lacks clarity on which is the preferred name according to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the clinical significance of KCNK2 (TREK-1) by stating its involvement in various diseases and conditions due to mutations or alterations in expression. However, it lacks information on the structure and function of KCNK2, which are key aspects required for a comprehensive summary. Additionally, the sentence does not provide a concise overview of the article as a whole, focusing only on clinical significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides information about KCNK2 (TREK-1) being implicated in diseases due to mutations or expression changes. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does not overly emphasize or repeat details, and it is concise, which suggests it might still be relevant for emphasis. The score reflects that it mostly meets the requirement but could be improved by ensuring it adds new or emphasized information not covered in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In the cardiovascular system, changes in KCNK2 expression are linked to serious conditions such as atrial fibrillation, which can occur following cardiac remodeling with decreased KCNK2 expression, and pathological ventricular hypertrophy associated with increased expression (Nasr2018Identification).",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the role of KCNK2 expression in the cardiovascular system, mentioning conditions like atrial fibrillation and ventricular hypertrophy. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein names and identifiers. To better meet the requirement, the sentence should more broadly outline the article's focus and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"KCNK2\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should be used instead. The sentence partially meets the requirement by using a recognized gene symbol, but it does not fully comply with the preference for the UniProt protein name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides some information about the clinical significance of KCNK2 expression in the cardiovascular system, mentioning its link to conditions like atrial fibrillation and ventricular hypertrophy. However, it lacks a concise summary of the article's key aspects, such as the structure and function of KCNK2, and includes unnecessary detail about specific conditions without a broader context. To better meet the requirement, the sentence should offer a more balanced overview of the article's main points."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the role of KCNK2 expression in the cardiovascular system, specifically linking it to atrial fibrillation and ventricular hypertrophy. If this information is already present in the infobox, the sentence may be somewhat redundant. However, the sentence does emphasize the connection between KCNK2 expression levels and specific cardiac conditions, which could be considered notable. The score reflects that while the sentence may repeat information, it does so with a level of detail that could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, mutations affecting KCNK2 and its regulatory genes, like POPDC1, can lead to atrio-ventricular block, underscoring its critical role in cardiac electrophysiology (Nasr2018Identification).",
+      "title": "Introduction",
+      "score": 0.5,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides specific information about mutations affecting KCNK2 and POPDC1 and their impact on cardiac electrophysiology, but it does not introduce the broader context or purpose of the article. To meet the requirement, the sentence should clearly outline the main focus or objective of the article and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols \"KCNK2\" and \"POPDC1\" instead of the recommended UniProt protein names. If the UniProt protein names are relatively short, they should be used instead. The sentence partially meets the requirement by using gene symbols, but it does not check if the UniProt names are short and appropriate for use."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by mentioning the clinical significance of KCNK2 and its regulatory genes in cardiac electrophysiology. However, it lacks information on the structure and function of KCNK2, which are key aspects that should be included in a concise summary of the article. Additionally, the sentence includes a specific detail (the mention of POPDC1) that may not be necessary for a high-level summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of KCNK2 and its regulatory genes in cardiac electrophysiology, which may not be common knowledge or already present in an infobox. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this repetition. The sentence seems to emphasize the critical role of these genes, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In the central nervous system, KCNK2 has been associated with neurological and psychiatric disorders.",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the association of KCNK2 with neurological and psychiatric disorders in the central nervous system, which could suggest a focus on these topics. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the article's scope and adhere to specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"KCNK2\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used. The sentence partially meets the requirement by using a recognized gene symbol, but it does not specify whether the UniProt name was considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the association of KCNK2 with neurological and psychiatric disorders, which touches on clinical significance. However, it lacks information on the structure and function of KCNK2, and it does not provide a comprehensive summary of the article. The sentence is too brief and lacks detail to effectively summarize key aspects as required."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides information about KCNK2's association with neurological and psychiatric disorders. Without knowing the content of the infobox, it's unclear if this information is repeated. If the infobox already contains this information and it is not particularly notable or emphasized, the sentence may not meet the requirement well. However, if the information is new or requires emphasis, it could be justified. The score reflects this uncertainty."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "For instance, knockout mice lacking functional KCNK2 exhibit resistance to depression and increased sensitivity to epilepsy and stroke (Nasr2018Identification).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides a specific example related to knockout mice and KCNK2, but it lacks a broader context or introduction to the article's overall focus. To meet the requirement, the sentence should clearly outline the main topic or objective of the article and adhere to any specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"KCNK2,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The sentence does not provide the UniProt protein name, so it partially meets the requirement by using the gene symbol but does not fully comply as it does not consider the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific example related to knockout mice and the KCNK2 gene, mentioning their resistance to depression and sensitivity to epilepsy and stroke. However, it does not summarize the article concisely or cover key aspects like structure, function, and clinical significance comprehensively. It lacks context and broader information that would be necessary for a complete summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about knockout mice lacking functional KCNK2 and their resistance to depression and increased sensitivity to epilepsy and stroke. If this information is already present in the infobox, it may be redundant unless it is particularly notable or requires emphasis. The sentence does not explicitly indicate that the information is notable or emphasized, but it does provide detailed scientific findings, which could justify its inclusion. However, without knowing the content of the infobox, it's difficult to fully assess redundancy, hence the score reflects a minor deduction for potential repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Moreover, KCNK2 has been identified as a pharmacological target for depression, with inhibitors like Spadin showing therapeutic effects in mouse models (Nasr2018Identification).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it provides specific information about KCNK2 as a pharmacological target for depression and mentions a study involving Spadin. To better meet the requirement, the sentence should introduce the broader topic or focus of the article and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"KCNK2\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used instead. However, the sentence does not provide disambiguation for the gene symbol, which may be necessary if there are multiple genes with similar symbols. The score reflects the partial fulfillment of the requirement by using the gene symbol but not considering the UniProt name or disambiguation."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about KCNK2 being a pharmacological target for depression and mentions Spadin as an inhibitor with therapeutic effects in mouse models. However, it does not summarize the article concisely or cover key aspects such as the structure and function of KCNK2, nor does it provide a broader context of its clinical significance. The sentence lacks a comprehensive overview and focuses on a single point, which does not fulfill the requirement of summarizing the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about KCNK2 being a pharmacological target for depression and mentions a particular inhibitor, Spadin, along with its effects in mouse models. If this information is already present in the infobox, it might be considered repetitive. However, the mention of a specific study and the therapeutic effects in mouse models could be notable details that justify its inclusion in the text. The score reflects that while there is some potential repetition, the details provided may warrant emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "KCNK2's role extends to cancer biology, where its expression levels vary significantly across different types.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions KCNK2's role in cancer biology and its varying expression levels, which suggests a focus on its involvement in cancer. However, it does not clearly define the overall scope of the article or follow the recommended UniProt naming conventions. To improve, the sentence should explicitly state the article's focus and adhere to naming conventions, such as using the full protein name and gene symbol."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"KCNK2\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should be used instead. The sentence partially meets the requirement by using the gene symbol, but it does not clarify if the UniProt name was considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions KCNK2's role in cancer biology and its varying expression levels, which touches on clinical significance. However, it lacks information on the structure and function of KCNK2, and does not provide a comprehensive summary of the article. The sentence is too focused on one aspect (expression levels in cancer) and does not cover the key aspects required."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about KCNK2's role in cancer biology, which may not be detailed in an infobox. However, without knowing the content of the infobox, it's difficult to determine if this information is repetitive. The sentence does not seem to emphasize or highlight particularly notable aspects, but it does introduce a specific context (cancer biology) that could warrant mention outside of an infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "It is underexpressed in hepatocellular carcinoma, correlating with poor overall survival, and overexpressed in prostate and epithelial ovarian cancer (Li2019KCNK).",
+      "title": "Introduction",
+      "score": 0.31,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides specific information about gene expression in certain cancers but lacks a broader context or introduction to the article's overall focus."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any protein name or gene symbol, making it impossible to evaluate whether the recommended UniProt protein name or the HUGO gene symbol was used. To meet the requirement, the sentence should include either the UniProt protein name or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some clinical significance by mentioning the expression levels of a gene in different cancers and their correlation with survival outcomes. However, it lacks information on the structure and function of the gene, which are key aspects required by the prompt. Additionally, the sentence does not summarize the article concisely, as it only presents specific findings without a broader context or overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the expression of a gene in different types of cancer, which may not be redundant if the infobox does not contain these details. However, if the infobox already includes this information, the sentence could be seen as repetitive unless the correlation with survival or the contrast between different cancers is particularly notable. The score reflects that the sentence likely adds value unless the infobox is comprehensive on these points."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In papillary thyroid carcinoma, KCNK2 expression is negatively associated with the infiltration of certain immune cells, suggesting a role in the tumor microenvironment and potential impact on tumor immunity and progression (Lin2020The).",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the study's focus on papillary thyroid carcinoma and the role of KCNK2 expression in the tumor microenvironment. However, it does not clearly define the overall scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the main objective or scope of the article and adhere to any specific naming conventions outlined by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"KCNK2,\" which is the HUGO gene symbol. The requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name for KCNK2, it's unclear if the sentence fully meets the requirement. If the UniProt name is short and commonly used, it should be used instead of the gene symbol. However, if the UniProt name is long or not commonly used, the use of the gene symbol may be appropriate. The sentence partially meets the requirement by using a recognized gene symbol, but it does not clarify if the UniProt name was considered."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the article's findings regarding KCNK2 expression in papillary thyroid carcinoma and its association with immune cell infiltration. However, it lacks details on the structure and function of KCNK2, as well as a more explicit mention of its clinical significance. To fully meet the requirement, the sentence should include these aspects without adding unnecessary detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the association between KCNK2 expression and immune cell infiltration in papillary thyroid carcinoma, which may not be common knowledge or already present in an infobox. It introduces a nuanced aspect of tumor biology that could be notable or require emphasis. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this detail. The score reflects a reasonable assumption that the information is sufficiently specific to warrant inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Interactions\nKCNK2, also known as TREK-1, is involved in various physical interactions with other proteins and nucleic acids, which are crucial for its function and regulation.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions KCNK2 (TREK-1) and its interactions, which could be part of the article's scope, but it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically include the full protein name, gene name, and species. The sentence lacks clarity and completeness in setting the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"KCNK2\" and \"TREK-1,\" which are gene symbols and alternative names, respectively. The requirement suggests using the recommended UniProt protein name if it is relatively short. The sentence does not specify whether \"TREK-1\" is the recommended UniProt name or if \"KCNK2\" is used for disambiguation. To fully meet the requirement, the sentence should clarify the use of the recommended UniProt name or provide proper disambiguation for the gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief mention of KCNK2 (TREK-1) and its interactions, which touches on the aspect of function. However, it lacks information on the structure and clinical significance of KCNK2, which are key aspects required by the prompt. Additionally, the sentence does not summarize an article but rather presents a specific detail, failing to provide a comprehensive overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides information about KCNK2 (TREK-1) and its interactions, which may be present in an infobox. However, it emphasizes the importance of these interactions for the protein's function and regulation, which could be considered notable. The sentence could be more concise if the information is already detailed in the infobox, but it does highlight the significance of the interactions, justifying some repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein interacts with riluzole, which can activate or inhibit KCNK2 through direct interaction or mediated by PKA phosphorylation (Nasr2018Identification).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively define the scope of the article. It mentions a specific interaction between a protein and riluzole, but it lacks a broader context or overview of the article's focus. Additionally, it does not follow the recommended UniProt naming conventions, as it does not specify the protein name or gene symbol according to those standards. The sentence is more of a specific finding rather than a scope-defining statement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"KCNK2,\" which is the HUGO gene symbol. However, it does not specify whether this is the recommended UniProt protein name or if disambiguation is necessary. To fully meet the requirement, the sentence should clarify if \"KCNK2\" is the appropriate term or provide the recommended UniProt protein name if it is relatively short."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the interaction between a protein and riluzole, mentioning the potential activation or inhibition of KCNK2 and the involvement of PKA phosphorylation. However, it does not summarize the article concisely or cover key aspects such as structure, function, and clinical significance. It focuses on a specific interaction without providing a broader overview or context, which is necessary to meet the requirement of summarizing the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the interaction between the protein and riluzole, including the mechanisms of activation or inhibition of KCNK2. If this information is already present in the infobox, it may be considered repetitive unless the details about the mechanisms or the reference to PKA phosphorylation are particularly notable or require emphasis. The sentence is informative and specific, which may justify its inclusion outside the infobox, but without knowing the infobox content, it's difficult to fully assess redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, KCNK2's expression is regulated by POPEYE domain proteins in cardiac tissues, which impacts cardiac function and conditions like atrio-ventricular block (Nasr2018Identification).",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the regulation of KCNK2 expression by POPEYE domain proteins in cardiac tissues and its impact on cardiac function, which could be part of the article's scope. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, as it uses \"KCNK2\" without specifying the full protein name or its function. To better meet the requirement, the sentence should provide a broader overview of the article's focus and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"KCNK2\" instead of the recommended UniProt protein name. While the gene symbol is used, the requirement suggests using the UniProt protein name if it is relatively short. The sentence partially meets the requirement by using a recognized symbol, but it does not fully comply as it does not check if the UniProt name is short and preferable."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides some information about the regulation of KCNK2 expression by POPEYE domain proteins and its impact on cardiac function, which touches on structure and function. However, it lacks a comprehensive summary of the article, as it does not cover all key aspects such as the overall structure of KCNK2, detailed function, or broader clinical significance beyond atrio-ventricular block. Additionally, it includes a citation that may not be necessary for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the regulation of KCNK2's expression by POPEYE domain proteins and its impact on cardiac function, which may not be common knowledge and could be considered notable. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated. Assuming the infobox contains basic information about KCNK2, this sentence likely adds valuable context and detail, thus mostly meeting the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In the context of thyroid carcinoma, KCNK2 is part of a protein-protein interaction network that includes interactions with other potassium channels from the KCNN and KCNQ families and protein kinase CAMP-activated catalytic units (PRKACA, PRKACB, PRKACG) (Lin2020The).",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the role of KCNK2 in thyroid carcinoma and its interactions with other proteins. However, it does not define the overall scope of the article. Additionally, it does not clearly follow the recommended UniProt naming conventions, as it uses gene symbols (e.g., KCNK2, PRKACA) without specifying the full protein names or UniProt identifiers. To better meet the requirement, the sentence should introduce the broader topic or focus of the article and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses HUGO gene symbols (KCNK2, KCNN, KCNQ, PRKACA, PRKACB, PRKACG) instead of the recommended UniProt protein names. While the gene symbols are clear and commonly used, the requirement specifies using UniProt names if they are relatively short. The sentence partially meets the requirement by using gene symbols, but it does not attempt to use UniProt names where applicable."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about KCNK2's involvement in a protein-protein interaction network related to thyroid carcinoma, mentioning its interactions with other potassium channels and protein kinase units. However, it does not concisely summarize the article's key aspects such as structure, function, and clinical significance. It focuses on a specific detail rather than providing a broad overview, which is necessary for a lead sentence."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of KCNK2 in a protein-protein interaction network related to thyroid carcinoma, which may not be common knowledge or already present in an infobox. It includes details about interactions with specific protein families and kinase units, which could be considered notable. However, without knowing the exact content of the infobox, it's difficult to fully assess redundancy. The sentence seems to offer detailed context that might not be redundant, thus it scores relatively high."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Furthermore, KCNK2 has been shown to interact with various kinase targets, miRNA-targets, and transcription factor-target interactions in thyroid carcinoma, which includes PDGFRB, MIR-221, MIR-222, MIR-144, MIR-500, and MIR-34B, as well as transcription factors like CAGNYGKNAAA_UNKNOWN and YGTCCTTGR_UNKNOWN (Lin2020The).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article as required. Instead, it provides specific details about interactions involving KCNK2 in thyroid carcinoma. Additionally, it does not follow the recommended UniProt naming conventions, as it mentions gene names and miRNAs without adhering to any specific naming guidelines. The sentence lacks a clear introductory statement that outlines the overall focus or purpose of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"KCNK2\" instead of the recommended UniProt protein name. The requirement suggests using the UniProt protein name if it is relatively short, but the sentence does not provide this information. Additionally, the sentence does not clarify if \"KCNK2\" is the best choice based on the length or if disambiguation is necessary. The sentence partially meets the requirement by using a gene symbol, but it lacks the evaluation of whether the UniProt name would be more appropriate."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific details about interactions involving KCNK2 in thyroid carcinoma, mentioning kinase targets, miRNA-targets, and transcription factors. However, it lacks a concise summary of the article's key aspects such as the overall structure, function, and clinical significance of KCNK2. The sentence is overly detailed and does not effectively summarize the article as a whole."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the interactions of KCNK2 in thyroid carcinoma, which may be notable if not already covered in the infobox. However, without knowing the content of the infobox, it's difficult to determine if this information is repetitive. The sentence does not appear to emphasize any particular point, which could be improved if the information is indeed notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These interactions suggest that KCNK2 is involved in complex regulatory networks that influence its role in cellular excitability and response to physiological stimuli, highlighting its potential as a target for therapeutic intervention in various diseases.",
+      "title": "Introduction",
+      "score": 0.5,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article as required. Instead, it discusses the role of KCNK2 in regulatory networks and its potential as a therapeutic target. Additionally, it does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's focus and adhere to specific naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"KCNK2\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used instead. The sentence partially meets the requirement by using a recognized gene symbol, but it does not fully comply with the preference for the UniProt protein name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by mentioning the involvement of KCNK2 in regulatory networks and its potential as a therapeutic target, which touches on function and clinical significance. However, it lacks specific details about the structure of KCNK2 and does not provide a comprehensive summary of the article. The sentence is somewhat vague and does not fully encapsulate the key aspects required for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a detailed explanation of KCNK2's involvement in regulatory networks and its potential as a therapeutic target, which may not be explicitly covered in an infobox. However, if the infobox already contains similar information about KCNK2's role and therapeutic potential, the sentence could be seen as somewhat repetitive. The score reflects that while the sentence is informative, it could be more concise if the infobox already covers these points."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # References\n\n\n[1.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a heading or a placeholder for references, rather than a sentence that introduces or defines the scope of an article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any information related to the use of UniProt protein names or HUGO gene symbols. It appears to be an incomplete or incorrectly formatted reference section, and thus does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a fragment or a placeholder for a references section, rather than a lead summarizing an article. It does not cover any key aspects such as structure, function, or clinical significance, nor does it provide any summary or detail about the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 1.0,
+          "feedback": [
+            "The sentence provided does not repeat any information from an infobox, as it is simply a heading for a references section. Therefore, it fully meets the requirement of avoiding repetition of infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Goldstein2001Potassium) Steve A. N. Goldstein, Detlef Bockenhauer, Ita O\u00e2\u0080\u0099Kelly, and Noam Zilberberg.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation or reference to a work by several authors. To meet the requirement, the sentence should clearly state the topic or focus of the article and adhere to any specific naming conventions outlined by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not mention any protein name or gene symbol, let alone using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation or reference to a publication, which is unrelated to the requirement provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's content, such as structure, function, or clinical significance. To meet the requirement, the sentence should concisely summarize these key aspects of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes information such as author names and publication details. If this information is already present in an infobox, repeating it in the main text may not be necessary unless it is particularly notable. However, without additional context, it's difficult to determine if this repetition is justified. The sentence mostly meets the requirement, but the score reflects the potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Potassium leak channels and the kcnk family of two-p-domain subunits.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions \"Potassium leak channels and the kcnk family of two-p-domain subunits,\" which suggests a topic but does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using specific protein names and identifiers. The sentence lacks clarity and specificity needed to set the scope effectively."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence mentions \"Potassium leak channels\" and \"kcnk family,\" which are related to proteins and genes. However, it does not specify whether the recommended UniProt protein name or the HUGO gene symbol is used. The use of \"kcnk\" suggests a gene symbol, but it lacks disambiguation and clarity on whether it aligns with the recommended naming conventions. To fully meet the requirement, the sentence should explicitly use the recommended UniProt protein name if short, or provide a clear HUGO gene symbol with necessary disambiguation."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions \"potassium leak channels\" and \"the kcnk family of two-p-domain subunits,\" which suggests a topic related to ion channels. However, it does not provide a summary of the article's key aspects such as structure, function, or clinical significance. It lacks detail and context, making it insufficient as a lead that summarizes the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information, but without the context of the infobox, it's difficult to fully assess compliance with the requirement. Assuming the infobox contains basic information about potassium leak channels and the kcnk family, the sentence might be acceptable if it adds new or notable details. However, if the infobox already covers this information comprehensively, the sentence could be seen as redundant. The score reflects this uncertainty."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Nature Reviews Neuroscience, 2(3):175\u00e2\u0080\u0093184, March 2001.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of an article. It also does not follow any naming conventions, including those recommended by UniProt. To meet the requirement, the sentence should clearly outline the article's scope and adhere to the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not contain any protein names or gene symbols. Therefore, it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's content, such as structure, function, or clinical significance. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation for a journal article, which is typically concise and does not repeat information unnecessarily. However, without context from the infobox, it's unclear if any of this information is repeated. Assuming the infobox contains similar citation details, the sentence could be seen as redundant, but it is also possible that this citation is notable or requires emphasis. The score reflects this ambiguity."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1038/35058574 , doi:10.1038/35058574.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It only provides a URL and a DOI, which are identifiers for accessing the article, but it does not define the scope of the article. Additionally, there is no mention of UniProt naming conventions, which are necessary to meet the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI reference, with no mention of a UniProt protein name or a HUGO gene symbol. The requirement is about choosing between a UniProt protein name and a HUGO gene symbol, which is not relevant to the content of the sentence provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, without any summary or information about the article's structure, function, or clinical significance. There is no content that addresses the key aspects mentioned in the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the inclusion of both the URL and DOI could be justified if they serve different purposes, but this is not clear from the sentence alone."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(823 citations) 10.1038/35058574]( https://doi.org/10.1038/35058574 )\n\n[2.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow any naming conventions, including those recommended by UniProt. Instead, it appears to be a citation reference with a DOI link, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any mention of a protein name or a gene symbol, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference and does not address the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It only includes a citation count and a DOI link, without any information about the article's structure, function, or clinical significance. To meet the requirement, the sentence should concisely summarize these key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation count and a DOI link, which are common elements that might be found in an infobox. However, the citation count could be considered notable information that might warrant emphasis, especially if it highlights the impact or importance of the work. The sentence does not excessively repeat information, but it could be more concise if the infobox already contains this data."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Bockenhauer2001KCNK2:) Detlef Bockenhauer, Noam Zilberberg, and S. A. N. Goldstein.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it appears to be a citation or reference to authors of a work, which does not follow the recommended UniProt naming conventions or provide any information about the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not mention any protein name or gene symbol. It only lists authors' names and a reference identifier, which is unrelated to the requirement of using a UniProt protein name or HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only lists authors' names and a reference identifier, without summarizing the article's content or covering any key aspects such as structure, function, or clinical significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes author names and publication details. If this information is already present in an infobox, repeating it here may not be necessary unless it is particularly notable. However, without additional context, it's difficult to determine if the repetition is justified. The sentence mostly meets the requirement but could be improved by ensuring it adds value beyond what is in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Kcnk2: reversible conversion of a hippocampal potassium leak into a voltage-dependent channel.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific focus on the topic of the article, which is the conversion of a potassium leak into a voltage-dependent channel in the hippocampus. However, it does not clearly define the overall scope of the article or follow the recommended UniProt naming conventions. To improve, the sentence should include a broader context or purpose of the study and adhere to naming conventions, such as using the full protein name or gene symbol as per UniProt standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Kcnk2,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the length of the UniProt protein name, it's unclear if \"Kcnk2\" is the best choice. The sentence partially meets the requirement by using a gene symbol, but it does not clarify if the UniProt name was considered."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief description of a specific scientific finding related to Kcnk2, mentioning the conversion of a potassium leak into a voltage-dependent channel. However, it lacks a comprehensive summary of the article's key aspects such as structure, function, and clinical significance. It also does not provide context or detail necessary to understand the broader implications or importance of the finding."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to provide specific information about the Kcnk2 channel, which may not be redundant if the infobox does not already contain this detail. However, without knowing the content of the infobox, it's difficult to fully assess the necessity of this information. If the infobox already includes this detail and it is not particularly notable, the sentence could be seen as repetitive. The score reflects a reasonable assumption that the sentence might be adding value by emphasizing a specific function of Kcnk2."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Nature Neuroscience, 4(5):486\u00e2\u0080\u0093491, May 2001.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions, as it does not mention any specific proteins or biological terms. To meet the requirement, the sentence should introduce the topic and scope of the article while adhering to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not contain any protein names or gene symbols. Therefore, it does not address the requirement of using the recommended UniProt protein name or the HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's content, structure, function, or clinical significance. To meet the requirement, a concise summary of the article's key aspects is needed."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes specific details such as the journal name, volume, issue, page numbers, and date. If this information is already present in an infobox, repeating it in the main text might not be necessary unless it is particularly notable. However, without context on what is in the infobox, it's difficult to determine if this repetition is justified. The sentence is concise and factual, which aligns with typical citation practices, but it could be redundant if the infobox already contains this exact information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1038/87434 , doi:10.1038/87434.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it simply lists a URL and a DOI, which are identifiers for accessing the article but do not provide any information about its content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI reference, with no mention of a UniProt protein name or a HUGO gene symbol. The requirement is about using specific naming conventions for proteins or genes, which is not relevant to the content of the sentence provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary of the article's content. It lacks any information about the article's structure, function, or clinical significance, and therefore does not fulfill the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the inclusion of both the URL and DOI might be useful for clarity, which prevents a lower score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(197 citations) 10.1038/87434]( https://doi.org/10.1038/87434 )\n\n[3.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation reference rather than a descriptive sentence about the article's content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference and does not address the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a citation and a DOI link, with no summary or information about the article's structure, function, or clinical significance. There is no content to evaluate against the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation count and a DOI link, which are likely to be found in an infobox. However, the citation count might be considered notable information that could warrant emphasis. The sentence is concise and does not overly repeat information, but it could be more integrated into a narrative or context to avoid redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Li2019KCNK) Wen-Chao Li, Zhi-Yong Xiong, Pin-Zhu Huang, Yang-Jing Liao, Quan-Xi Li, Zhi-Cheng Yao, Ya-Di Liao, Shi-Lei Xu, Hui Zhou, Qing-Liang Wang, He Huang, Peng Zhang, Ji-Zong Lin, Bo Liu, Jie Ren, and Kun-Peng Hu.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not define the scope of an article. It also does not follow the recommended UniProt naming conventions, as it does not mention any proteins, genes, or related biological terms. To meet the requirement, the sentence should introduce the topic or focus of the article in accordance with UniProt standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not mention any protein names or gene symbols. It does not address the requirement of using the recommended UniProt protein name or the HUGO gene symbol. Therefore, it cannot be evaluated against the given requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not summarize the article at all. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, listing multiple authors for a work identified as \"Li2019KCNK.\" If this information is already present in an infobox, repeating the entire list of authors may not be necessary unless the authorship is particularly notable or requires emphasis. The sentence partially meets the requirement by providing detailed information, but it may not be necessary to repeat all the names if they are already listed elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Kcnk levels are prognostic and diagnostic markers for hepatocellular carcinoma.",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions \"Kcnk levels\" as prognostic and diagnostic markers for hepatocellular carcinoma, which suggests a focus on the role of Kcnk in this type of cancer. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. For a higher score, the sentence should explicitly state the article's scope and use the correct UniProt format for gene or protein names."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Kcnk,\" which appears to be a gene symbol. However, it is not clear if this is the recommended UniProt protein name or the HUGO gene symbol. The requirement specifies using the UniProt protein name if it is relatively short, otherwise using the HUGO gene symbol with disambiguation if necessary. Without additional context, it's unclear if \"Kcnk\" is the correct choice according to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions that Kcnk levels are prognostic and diagnostic markers for hepatocellular carcinoma, which touches on the clinical significance aspect. However, it lacks information on the structure and function of Kcnk, and it does not provide a comprehensive summary of the article. The sentence is too brief and lacks detail to fully meet the requirement of summarizing key aspects concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats information that might already be present in an infobox, specifically about Kcnk levels being markers for hepatocellular carcinoma. Without knowing the content of the infobox, it's unclear if this repetition is necessary or notable. If the information is not particularly notable or requires emphasis, the sentence could be seen as redundant, thus partially meeting the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Aging, 11(19):8169\u00e2\u0080\u00938182, October 2019.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation reference, indicating the journal name, volume, issue, page numbers, and publication date. It does not define the scope of the article or follow any naming conventions, such as those recommended by UniProt. To meet the requirement, the sentence should clearly outline the article's focus or subject matter."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not mention any proteins or genes, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation or reference to a journal article, which is unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's content, structure, function, or clinical significance. To meet the requirement, a concise summary of the article's key aspects is needed."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes information such as the journal name, volume, issue, page numbers, and date. If this information is already present in an infobox, repeating it in the text may not be necessary unless it is particularly notable or requires emphasis. However, without additional context, it's difficult to determine if this repetition is justified. The sentence mostly meets the requirement, but the score reflects the potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.18632/aging.102311 , doi:10.18632/aging.102311.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article at all. Instead, it only provides a URL and a DOI, which are identifiers for accessing the article. There is no information about the content, topic, or scope of the article, nor does it follow any naming conventions, such as those recommended by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It contains a URL and a DOI reference, but it does not mention any protein names or gene symbols, nor does it attempt to use the recommended UniProt protein name or the HUGO gene symbol. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary of the article's content. It lacks any information about the article's structure, function, or clinical significance, and therefore does not provide a concise summary as required."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the sentence does provide both a URL and a DOI, which could be seen as slightly different pieces of information, justifying a score above 0.0."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(27 citations) 10.18632/aging.102311]( https://doi.org/10.18632/aging.102311 )\n\n[4.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation or reference link rather than a descriptive sentence about the article's content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a sentence discussing proteins or genes."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation or reference link rather than a summary of an article. It lacks any information about the article's structure, function, or clinical significance, and does not provide a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation and a DOI link, which are likely to be present in an infobox. However, it does not repeat any additional information that would typically be found in an infobox, such as the title, authors, or publication date. The sentence is concise and does not emphasize any repeated information, thus largely meeting the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Lin2020The) Xu Lin, Jing-Fang Wu, Dong-Mei Wang, Jing Zhang, Wen-Jing Zhang, and Gang Xue.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation or a list of authors, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It lists authors of a study but does not mention any protein names or gene symbols, nor does it use UniProt protein names or HUGO gene symbols. To meet the requirement, the sentence should include a protein name or gene symbol and ensure it follows the specified guidelines."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not summarize the article at all. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, listing authors of a work. Without additional context, it's unclear if this information is repeated from an infobox or if it is particularly notable. If this list of authors is already present in an infobox and not emphasized for a specific reason, it may not meet the requirement to avoid repetition. However, if this is the only mention or if the authorship is notable, it could be justified. The score reflects this ambiguity."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The correlation and role analysis of kcnk2/4/5/15 in human papillary thyroid carcinoma microenvironment.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general idea of the article's focus, which is the analysis of certain genes (kcnk2/4/5/15) in the context of human papillary thyroid carcinoma. However, it does not clearly define the scope of the article in detail, nor does it follow the recommended UniProt naming conventions, which typically involve using the full gene or protein names and proper formatting. To improve, the sentence should explicitly state the scope and use the correct UniProt names."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols \"kcnk2/4/5/15\" without disambiguation, which partially meets the requirement. However, it does not use the recommended UniProt protein names, which might be relatively short and preferred. To fully meet the requirement, the sentence should either use the UniProt protein names if they are short or provide disambiguation for the gene symbols if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general topic of the article, focusing on the correlation and role analysis of specific genes (kcnk2/4/5/15) in a particular cancer type (human papillary thyroid carcinoma). However, it lacks a concise summary of the article's key aspects such as structure, function, and clinical significance. It also does not provide any context or findings, making it insufficient as a lead that summarizes the article comprehensively."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a title or heading, which typically summarizes key information. Without the context of the infobox, it's difficult to determine if the information is repeated unnecessarily. However, the sentence is concise and specific, suggesting it likely highlights notable aspects of the study. If the infobox contains similar details, the sentence might still be justified if it serves as a clear and focused introduction to the topic."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Journal of Cancer, 11(17):5162\u00e2\u0080\u00935176, 2020.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of an article. It also does not follow any naming conventions, including the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly state the focus or scope of the article and adhere to the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not contain any protein names or gene symbols. Therefore, it cannot be evaluated against the requirement, which pertains to the use of UniProt protein names or HUGO gene symbols. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article's content. It lacks any information about the structure, function, or clinical significance of the article, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes specific details such as the journal name, volume, issue, page numbers, and year. If this information is already present in an infobox, repeating it in the text may not be necessary unless it is particularly notable. However, without context on what is in the infobox, it's difficult to determine if this repetition is justified. The sentence is concise and factual, which aligns with typical citation practices, but it could be redundant if the infobox already contains this exact information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.7150/jca.45604 , doi:10.7150/jca.45604.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It provides a URL and DOI, which are identifiers for accessing the article, but it does not define the scope of the article or follow any naming conventions, such as those recommended by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. The requirement is about using the recommended UniProt protein name or the HUGO gene symbol, but the sentence only contains a URL and a DOI, which are unrelated to protein names or gene symbols. There is no mention of any protein or gene in the sentence, so it does not meet the requirement in any way."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and DOI reference, with no summary of the article's content. It lacks any information about the article's structure, function, or clinical significance, and therefore does not fulfill the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the sentence does provide both the URL and DOI format, which could be useful in some contexts, hence a score of 0.5."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(12 citations) 10.7150/jca.45604]( https://doi.org/10.7150/jca.45604 )\n\n[5.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation or reference rather than a descriptive sentence about the article's content. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a sentence discussing proteins or genes."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It appears to be a citation or reference link rather than a summary. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically does not contain repeated information from an infobox. However, without context on what is in the infobox, it's difficult to fully assess repetition. The score reflects that the sentence likely meets the requirement, assuming the citation is not repeated unnecessarily."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Nasr2018Identification) Nathalie Nasr, Ad\u00c3\u00a8le Faucherre, Marc Borsotto, Catherine Heurteaux, Jean Mazella, Chris Jopling, and Hamid Moha ou Maati.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly state the focus or main topic of the article, using appropriate scientific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not mention any protein names or gene symbols, nor does it attempt to use the recommended UniProt protein name or HUGO gene symbol. It appears to be a citation or list of authors, which does not relate to the requirement of using specific protein or gene nomenclature. Therefore, it does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not summarize the article at all. It does not cover any key aspects such as structure, function, or clinical significance, nor does it provide any detail about the content of the article. To meet the requirement, the sentence should concisely summarize the main points and findings of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, listing authors of a work. It does not seem to repeat information from an infobox, as it is likely intended to provide attribution for a source. However, without context on what the infobox contains, it's difficult to fully assess repetition. Assuming the infobox contains similar author information, the sentence could be seen as redundant unless the authorship is particularly notable. The score reflects a minor potential for redundancy, but overall, it seems to serve a specific purpose."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Identification and characterization of two zebrafish twik related potassium channels, kcnk2a and kcnk2b.",
+      "title": "Introduction",
+      "score": 0.5,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by indicating the scope of the article, which involves the identification and characterization of two zebrafish potassium channels, kcnk2a and kcnk2b. However, it does not fully adhere to the recommended UniProt naming conventions, as it does not provide the full protein names or any additional context that might be expected in a first sentence to clearly define the scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols \"kcnk2a\" and \"kcnk2b\" for the zebrafish potassium channels. However, it does not mention whether the recommended UniProt protein names were considered or if they are relatively short. Without this information, it's unclear if the requirement to use the UniProt name when appropriate is met."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a basic identification of the subject matter, which involves two zebrafish potassium channels, kcnk2a and kcnk2b. However, it lacks a summary of key aspects such as the structure, function, and clinical significance of these channels. The sentence is too brief and does not offer a comprehensive overview of the article's content, which is necessary to meet the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the identification and characterization of two zebrafish potassium channels, kcnk2a and kcnk2b. Without knowing the content of the infobox, it's difficult to determine if this information is repeated. However, the sentence seems to focus on a specific scientific finding, which could be considered notable. The score reflects a slight deduction due to the potential for repetition, but overall, the sentence likely emphasizes important details."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Scientific Reports, October 2018.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Scientific Reports, October 2018.\" does not define the scope of the article nor does it follow any naming conventions, including the recommended UniProt naming conventions. It merely provides a publication name and date, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Scientific Reports, October 2018.\" does not address the requirement at all. It does not mention any protein names, UniProt names, or HUGO gene symbols, nor does it provide any context related to proteins or genes. Therefore, it cannot be evaluated against the requirement of using the recommended UniProt protein name or HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Scientific Reports, October 2018.\" does not meet the requirement as it does not provide any summary of an article. It lacks any information on structure, function, or clinical significance, and does not offer any detail, necessary or otherwise."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence \"Scientific Reports, October 2018\" may repeat information that could be present in an infobox, such as the publication name and date. Without context, it's unclear if this repetition is notable or requires emphasis. If this information is already in the infobox and not particularly notable, the sentence does not fully meet the requirement to avoid repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1038/s41598-018-33664-9 , doi:10.1038/s41598-018-33664-9.",
+      "title": "Introduction",
+      "score": 0.09,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it simply lists a URL and a DOI, which are identifiers for accessing the article but do not provide any information about its content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI, with no mention of a UniProt protein name or a HUGO gene symbol. To meet the requirement, the sentence should include a reference to a protein or gene using the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary or information about the article's structure, function, or clinical significance. There is no content that addresses the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.3,
+          "feedback": [
+            "The sentence repeats the DOI information twice, once as a URL and once as a plain DOI, which is unnecessary if this information is already present in an infobox. The repetition does not add notable emphasis or additional context, thus not meeting the requirement to avoid redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(8 citations) 10.1038/s41598-018-33664-9]( https://doi.org/10.1038/s41598-018-33664-9 )\n\n[6.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It appears to be a citation reference rather than a descriptive sentence about the article's content or scope. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a sentence discussing proteins or genes."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation reference rather than a summary of an article. It lacks any information about the article's structure, function, or clinical significance, and does not provide a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation and a DOI link, which are typically included in an infobox. However, it does not repeat any other specific information that would be found in an infobox, such as author names or publication details. The inclusion of the DOI link might be considered notable for direct access, which slightly justifies its presence. Overall, the sentence mostly meets the requirement of avoiding unnecessary repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Kim2005Physiology) Donghee Kim.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions. The sentence appears to be a citation or reference to an author and publication year, which is unrelated to defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not mention any protein name or gene symbol. It only includes a reference citation and a person's name, which does not address the requirement of using a UniProt protein name or a HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation or reference entry rather than a summary of an article. It lacks any information about the article's structure, function, or clinical significance, and does not provide a concise summary of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence \"(Kim2005Physiology) Donghee Kim.\" appears to be a citation or reference to a work by Donghee Kim from 2005. If this information is already present in the infobox, repeating it in this manner may not be necessary unless it is particularly notable or requires emphasis. The sentence is concise and does not overly repeat information, but without context, it's unclear if the repetition is justified. Therefore, it mostly meets the requirement but could be improved by ensuring the repetition is necessary."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Physiology and pharmacology of two-pore domain potassium channels.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a general topic of the article, mentioning \"physiology and pharmacology of two-pore domain potassium channels,\" but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, as it lacks specific details or context that would align with those standards. To improve the score, the sentence should explicitly define the scope and incorporate appropriate naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence mentions \"two-pore domain potassium channels,\" which is a general description rather than a specific protein name. It does not use a specific UniProt protein name or a HUGO gene symbol, which would be necessary to fully meet the requirement. However, it does refer to a class of proteins, which is somewhat relevant. To improve the score, the sentence should include a specific UniProt protein name or the appropriate HUGO gene symbol with disambiguation if needed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provided is a title rather than a lead or summary. It does not concisely summarize the article or cover key aspects such as structure, function, and clinical significance. It merely indicates the general topic of the article, which is the physiology and pharmacology of two-pore domain potassium channels, without providing any specific details or insights."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a title or heading, which typically summarizes the content rather than repeating detailed information. Without context on what is in the infobox, it's difficult to determine if it repeats information. However, as a standalone sentence, it does not inherently suggest repetition. If the infobox contains detailed information about the physiology and pharmacology of two-pore domain potassium channels, this title might be seen as a necessary emphasis rather than unnecessary repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Current Pharmaceutical Design, 11(21):2717\u00e2\u0080\u00932736, August 2005.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of an article. It also does not follow any naming conventions, including the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's scope and adhere to the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's content, such as structure, function, or clinical significance. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation for a journal article, which is typically included in an infobox. However, without the context of the infobox, it's unclear if this information is repeated. If the citation is already present in the infobox, it might not need to be repeated unless it is particularly notable. The sentence is concise and specific, which is generally acceptable, but the score reflects the potential redundancy depending on the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.2174/1381612054546824 , doi:10.2174/1381612054546824.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It merely provides a URL and a DOI, which are identifiers for accessing the article, but do not give any information about the content or scope of the article itself."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI, with no mention of a UniProt protein name or a HUGO gene symbol. The requirement is about using specific naming conventions for proteins or genes, which is not relevant to the content of the sentence provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary of the article's content. There is no mention of the article's structure, function, or clinical significance, nor any attempt to summarize the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in an infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the sentence does provide both the URL and DOI, which could be seen as slightly different pieces of information, hence not a complete failure."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(123 citations) 10.2174/1381612054546824]( https://doi.org/10.2174/1381612054546824 )",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation reference with a DOI link, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It does not mention any protein names or gene symbols, nor does it use the UniProt protein name or HUGO gene symbol. The sentence appears to be a citation reference and does not relate to the requirement provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It only contains a citation count and a DOI link, with no information about the article's content, structure, function, or clinical significance. To meet the requirement, the sentence should concisely summarize these key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation count and a DOI link, which are likely to be present in an infobox. However, the citation count could be considered notable information that might warrant emphasis outside of the infobox. The sentence mostly meets the requirement but could be seen as slightly redundant if the infobox already contains this information."
+          ]
+        }
+      ],
+      "color": "red"
+    }
+  ]
+}

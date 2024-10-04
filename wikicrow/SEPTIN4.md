@@ -1,0 +1,48 @@
+# SEPTIN4
+
+## Overview
+SEPTIN4, also known as septin 4, is a gene that encodes the protein septin 4, which is a member of the septin family of GTP-binding proteins. These proteins are crucial for various cellular processes, including cytokinesis, apoptosis, and cellular morphogenesis. Septin 4 plays a significant role in the division of cells, the programmed cell death process, and the structural organization of the cytoskeleton, impacting cell shape and movement. It is also involved in the formation of cellular barriers that are essential for maintaining proper cellular function and architecture. The protein encoded by SEPTIN4 is characterized by its ability to form oligomers and interact with other proteins, influencing various signaling pathways and cellular dynamics (Hall2011Mammalian; Liu2011SEPT4).
+
+## Structure
+SEPTIN4, also known as septin 4, is a protein encoded by the SEPT4 gene, characterized by a complex molecular structure that includes several distinct domains. The protein is divided into three main domains: an N-terminal domain (SEPT4-N), a central GTPase domain (SEPT4-G), and a C-terminal domain (SEPT4-C). The N-terminal domain is noted for its lack of regular secondary structure, suggesting it may be intrinsically unstructured (Garcia2006Dissection). The GTPase domain exhibits a mixed alpha/beta structure and contains essential motifs for GTP binding and hydrolysis, including the P-loop motif (Garcia2006Dissection; Garcia2007An). This domain is catalytically active and capable of forming stable homodimers (Garcia2006Dissection). The C-terminal domain includes regions consistent with a coiled-coil structure, indicative of its role in protein-protein interactions (Garcia2006Dissection).
+
+SEPT4 is known to form amyloid-like aggregates during thermal unfolding of its GTPase domain, which are rich in Î²-sheet structures (Garcia2007An). The protein's quaternary structure involves the formation of oligomers or aggregates, with SEPT4 existing in an oligomeric form in solution (Garcia2006Dissection). No specific details on prominent folds, post-translational modifications, or splice variant isoforms are provided in the available literature.
+
+## Function
+SEPTIN4, also known as septin 4, is a member of the septin family of GTP-binding proteins that play a significant role in various cellular processes. This protein is involved in cytokinesis, the division of a cell at the end of mitosis, by helping to compartmentalize different regions of the cell and restrict the movement of cellular factors, which is crucial for the proper distribution of cellular components during cell division (Hall2011Mammalian). SEPTIN4 is also implicated in the regulation of apoptosis, a process of programmed cell death important for maintaining cellular health and function. It can induce apoptosis through the activation of caspases such as caspase 3 and caspase 9, which are enzymes that play essential roles in the execution-phase of cell apoptosis (Liu2011SEPT4).
+
+In addition to its role in cell division and apoptosis, SEPTIN4 is involved in cellular morphogenesis and compartmentalization. It helps in defining the architecture of the cytoskeleton, impacting cell shape and movement, and is crucial for the formation of cellular barriers that influence the architecture and function of the cytoskeleton (Hall2011Mammalian). SEPTIN4's localization to the mitochondria and its ability to translocate to the nucleus upon proapoptotic stimuli further underscore its dynamic role in cellular signaling and structural organization (Liu2011SEPT4).
+
+## Clinical Significance
+SEPTIN4, also known as septin 4, plays a significant role in various diseases due to mutations, altered expression levels, or disruptions in its normal interactions. In colorectal cancer (CRC), decreased expression of SEPTIN4 correlates with higher grades of the disease and poorer prognostic outcomes. SEPTIN4 functions as a tumor suppressor by promoting apoptosis in colon cancer cells through interactions with the pro-apoptotic protein BAX and antagonizing XIAP, a protein that inhibits apoptosis. Reduced SEPTIN4 expression leads to resistance to apoptosis and increased tumor growth, highlighting its potential as a target for CRC treatment (Zhao2020Septin4).
+
+In neurodegenerative diseases like Parkinson's disease (PD), SEPTIN4 interacts with Î±-synuclein, a protein implicated in PD pathology. SEPTIN4 suppresses the pathological modifications of Î±-synuclein, such as self-aggregation and phosphorylation, which are central to neurodegeneration in PD. Loss of SEPTIN4 exacerbates these neurotoxic modifications and is associated with reduced dopaminergic neurotransmission, contributing to the disease's progression (Ihara2007Sept4).
+
+Furthermore, SEPTIN4 is involved in other conditions such as acute lymphoblastic leukemia, where its deficiency is notably present in all studied patients, suggesting a broader implication in tumorigenesis and hematopoietic diseases (Zhao2020Septin4).
+
+## Interactions
+SEPTIN4 interacts with various proteins, playing a significant role in cellular processes such as apoptosis and vesicle transport. In the context of human colon cancer, SEPTIN4 promotes apoptosis through its interaction with BAX, a pro-apoptotic protein. This interaction enhances the mitochondrial apoptosis pathway by regulating mitochondrial outer membrane permeability (MOMP), crucial for apoptosis activation (Zhao2020Septin4). Additionally, SEPTIN4 antagonizes XIAP (X-linked inhibitor of apoptosis), promoting caspase activation and further facilitating apoptosis (Zhao2020Septin4).
+
+In neuronal systems, SEPTIN4 forms a complex with Septin 14 (Sept14), which is essential for cortical neuronal migration. This interaction is crucial for the proper positioning of neurons during the development of the cerebral cortex (Shinoda2010Septin). SEPTIN4 also interacts with Syntaxin1A and the Transferrin receptor, both involved in vesicle transport, suggesting a role in intracellular trafficking (Neubauer2017The).
+
+These interactions highlight SEPTIN4's involvement in both promoting apoptosis in cancer cells and supporting neuronal development, underscoring its multifunctional nature in cellular dynamics.
+
+
+## References
+
+
+[1. (Neubauer2017The) Katharina Neubauer and Barbara Zieger. The mammalian septin interactome. Frontiers in Cell and Developmental Biology, February 2017. URL: http://dx.doi.org/10.3389/fcell.2017.00003, doi:10.3389/fcell.2017.00003. (111 citations) 10.3389/fcell.2017.00003](https://doi.org/10.3389/fcell.2017.00003)
+
+[2. (Hall2011Mammalian) Peter A Hall and SE Hilary Russell. Mammalian septins: dynamic heteromers with roles in cellular morphogenesis and compartmentalization. The Journal of Pathology, 226(2):287â299, November 2011. URL: http://dx.doi.org/10.1002/path.3024, doi:10.1002/path.3024. (69 citations) 10.1002/path.3024](https://doi.org/10.1002/path.3024)
+
+[3. (Garcia2007An) Wanius Garcia, Ana Paula Ulian de AraÃºjo, FlÃ¡vio Lara, Debora Foguel, Manami Tanaka, Tomoo Tanaka, and Richard Charles Garratt. An intermediate structure in the thermal unfolding of the gtpase domain of human septin 4 (sept4/bradeion-Î²) forms amyloid-like filaments in vitro. Biochemistry, 46(39):11101â11109, September 2007. URL: http://dx.doi.org/10.1021/bi700702w, doi:10.1021/bi700702w. (42 citations) 10.1021/bi700702w](https://doi.org/10.1021/bi700702w)
+
+[4. (Liu2011SEPT4) Wenbin Liu. Sept4 is regulated by the notch signaling pathway. Molecular Biology Reports, 39(4):4401â4409, September 2011. URL: http://dx.doi.org/10.1007/s11033-011-1228-x, doi:10.1007/s11033-011-1228-x. (11 citations) 10.1007/s11033-011-1228-x](https://doi.org/10.1007/s11033-011-1228-x)
+
+[5. (Garcia2006Dissection) Wanius Garcia, Ana Paula Ulian de AraÃºjo, Mario de Oliveira Neto, Michel R. M. Ballestero, Igor Polikarpov, Manami Tanaka, Tomoo Tanaka, and Richard Charles Garratt. Dissection of a human septin: definition and characterization of distinct domains within human sept4. Biochemistry, 45(46):13918â13931, October 2006. URL: http://dx.doi.org/10.1021/bi061549z, doi:10.1021/bi061549z. (28 citations) 10.1021/bi061549z](https://doi.org/10.1021/bi061549z)
+
+[6. (Shinoda2010Septin) Tomoyasu Shinoda, Hidenori Ito, Kaori Sudo, Ikuko Iwamoto, Rika Morishita, and Koh-ichi Nagata. Septin 14 is involved in cortical neuronal migration via interaction with septin 4. Molecular Biology of the Cell, 21(8):1324â1334, April 2010. URL: http://dx.doi.org/10.1091/mbc.e09-10-0869, doi:10.1091/mbc.e09-10-0869. (80 citations) 10.1091/mbc.e09-10-0869](https://doi.org/10.1091/mbc.e09-10-0869)
+
+[7. (Ihara2007Sept4) Masafumi Ihara, Nobuyuki Yamasaki, Akari Hagiwara, Ai Tanigaki, Ayumi Kitano, Rie Hikawa, Hidekazu Tomimoto, Makoto Noda, Masashi Takanashi, Hideo Mori, Nobutaka Hattori, Tsuyoshi Miyakawa, and Makoto Kinoshita. Sept4, a component of presynaptic scaffold and lewy bodies, is required for the suppression of Î±-synuclein neurotoxicity. Neuron, 53(4):519â533, February 2007. URL: http://dx.doi.org/10.1016/j.neuron.2007.01.019, doi:10.1016/j.neuron.2007.01.019. (133 citations) 10.1016/j.neuron.2007.01.019](https://doi.org/10.1016/j.neuron.2007.01.019)
+
+[8. (Zhao2020Septin4) Xin Zhao, Hao Feng, Yang Wang, Yanmei Wu, Qiqiang Guo, Yanling Feng, Mengtao Ma, Wendong Guo, Xiaoyu Song, Ying Zhang, Shuai Han, and Liu Cao. Septin4 promotes cell death in human colon cancer cells by interacting with bax. International Journal of Biological Sciences, 16(11):1917â1928, 2020. URL: http://dx.doi.org/10.7150/ijbs.44429, doi:10.7150/ijbs.44429. (8 citations) 10.7150/ijbs.44429](https://doi.org/10.7150/ijbs.44429)

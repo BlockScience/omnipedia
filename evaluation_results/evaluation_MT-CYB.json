@@ -1,0 +1,2812 @@
+{
+  "LeadSection": [
+    {
+      "text": "# MT-CYB # # Overview\nThe MT-CYB gene, located within mitochondrial DNA, encodes the mitochondrially encoded cytochrome b protein, a vital component of the mitochondrial respiratory chain complex III.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a brief overview of the MT-CYB gene and its function, which partially defines the scope of the article. However, it does not fully adhere to the recommended UniProt naming conventions, as it lacks specific details about the naming conventions and does not clearly establish the scope of the entire article. To improve, the sentence should explicitly define the scope and follow UniProt's naming guidelines more closely."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"MT-CYB\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should be used according to the requirement. The sentence partially meets the requirement by providing the gene symbol, but it does not clarify whether the UniProt name was considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the MT-CYB gene's location and function, mentioning its role in encoding a protein crucial for the mitochondrial respiratory chain. However, it lacks information on the gene's structure and clinical significance, which are key aspects mentioned in the requirement. Additionally, the sentence includes unnecessary detail, such as the repetition of \"MT-CYB\" and \"Overview,\" which do not contribute to the summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise overview of the MT-CYB gene and its function, which is likely to be notable information. However, without the context of the infobox, it's difficult to determine if the information is repeated unnecessarily. Assuming the infobox contains basic gene information, the sentence does emphasize the importance of the cytochrome b protein in the mitochondrial respiratory chain, which could justify its inclusion. The score reflects a slight deduction due to potential repetition, but the emphasis on the gene's role is notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This protein plays a crucial role in cellular energy production through its involvement in oxidative phosphorylation.",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific function of a protein related to cellular energy production and oxidative phosphorylation, but it does not define the overall scope of an article. Additionally, it does not follow the recommended UniProt naming conventions, as it does not specify the protein's name or any identifiers. To better meet the requirement, the sentence should introduce the protein by name and outline the broader context or focus of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not specify the protein by name, either using the recommended UniProt protein name or the HUGO gene symbol. It only describes the protein's function in cellular energy production, which does not meet the requirement of naming the protein."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the protein's function in cellular energy production through oxidative phosphorylation, which is relevant to the requirement. However, it lacks information on the protein's structure and clinical significance, which are key aspects mentioned in the requirement. Additionally, it does not summarize an article but rather focuses on a single aspect of the protein's role. To better meet the requirement, the sentence should include a concise summary that covers structure, function, and clinical significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides specific information about the protein's role in cellular energy production and oxidative phosphorylation, which could be notable or require emphasis. However, without knowing the content of the infobox, it's difficult to determine if this information is repetitive. If the infobox already contains this detail, the sentence may not fully meet the requirement to avoid repetition unless the information is particularly notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Cytochrome b is specifically important for the oxidation-reduction reactions in the electron transport chain, facilitating the transfer of electrons from ubiquinol to cytochrome c and contributing to the proton gradient across the mitochondrial membrane.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific function of cytochrome b within the electron transport chain, but it does not define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically include the full name and organism source of the protein. To better meet the requirement, the sentence should introduce the broader topic of the article and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Cytochrome b,\" which is a common name for a protein complex component. However, it does not specify whether this is the recommended UniProt protein name or the HUGO gene symbol. To fully meet the requirement, the sentence should clarify the naming convention used, such as providing the UniProt name if it is short or using the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the function of cytochrome b in the electron transport chain, focusing on its role in electron transfer and proton gradient formation. However, it does not address the structure or clinical significance of cytochrome b, which are key aspects mentioned in the requirement. Additionally, the sentence lacks a broader summary of the article and instead focuses narrowly on a specific function, which does not fulfill the requirement for a concise summary covering multiple aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a detailed explanation of the role of cytochrome b in the electron transport chain, which may already be covered in an infobox. However, it emphasizes the specific function of cytochrome b in electron transfer and proton gradient formation, which could be considered notable. The sentence largely meets the requirement by focusing on specific details that might not be redundant if the infobox contains only basic information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein itself is characterized by its transmembrane nature, consisting of multiple hydrophobic helices that allow it to integrate into the inner mitochondrial membrane.",
+      "title": "Introduction",
+      "score": 0.34,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a description of a protein's characteristics, specifically its transmembrane nature and integration into the mitochondrial membrane. However, it does not define the scope of an article or follow UniProt naming conventions. To meet the requirement, the sentence should introduce the topic and scope of the article, possibly mentioning the specific protein name and its relevance, in line with UniProt standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not use either the recommended UniProt protein name or the HUGO gene symbol. It only describes the protein's characteristics without specifying its name or symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief description of the protein's structure, specifically its transmembrane nature and hydrophobic helices. However, it does not address the function or clinical significance of the protein, which are key aspects required for a comprehensive summary. Additionally, the sentence focuses on structural details without providing a broader context or summary of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides specific details about the protein's transmembrane nature and its integration into the mitochondrial membrane, which could be notable information. However, if these details are already present in the infobox and are not particularly notable or emphasized, the sentence may be somewhat redundant. The score reflects that while the information might be important, it could potentially repeat what's in the infobox without additional emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Mutations in the MT-CYB gene can lead to various mitochondrial disorders, underscoring its essential function in bioenergetics and cellular metabolism (Iommarini2017Mild; Song2016Human).",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides information about the MT-CYB gene and its role in mitochondrial disorders, which could be part of the article's scope. However, it does not clearly define the overall scope of the article. Additionally, it does not explicitly follow the recommended UniProt naming conventions, which typically involve specific formatting and terminology. To better meet the requirement, the sentence should more explicitly outline the article's focus and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"MT-CYB\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used according to the requirement. The sentence partially meets the requirement by using a recognized gene symbol, but it does not fully comply with the preference for the UniProt protein name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.7,
+          "feedback": [
+            "The sentence effectively highlights the clinical significance of the MT-CYB gene by mentioning its role in mitochondrial disorders and its essential function in bioenergetics and cellular metabolism. However, it lacks specific details about the gene's structure and does not provide a comprehensive summary of the article. Including more information on the gene's structure and a broader overview of the article's content would improve the score."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the MT-CYB gene and its role in mitochondrial disorders, which may be notable or require emphasis. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repetitive. If the infobox already contains detailed information about the MT-CYB gene's role in disorders, the sentence might be somewhat redundant. The score reflects a slight deduction for potential repetition, but acknowledges that the information could be significant enough to warrant inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Structure\nThe molecular structure of the MT-CYB protein, encoded by the mitochondrially encoded cytochrome b gene, is crucial for its function within the mitochondrial electron transport chain.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the MT-CYB protein and its role in the mitochondrial electron transport chain, but it does not clearly define the scope of the article. Additionally, it does not explicitly follow the recommended UniProt naming conventions, which typically involve using the full name of the protein and gene in a standardized format. To better meet the requirement, the sentence should clearly outline the main focus or purpose of the article and adhere to the specific naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MT-CYB\" to refer to the protein, which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The UniProt recommended name for this protein is \"Cytochrome b,\" which is relatively short and should have been used instead. The sentence partially meets the requirement by using a recognized symbol, but it does not fully comply with the preference for the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by addressing the structure and function of the MT-CYB protein. However, it lacks coverage of the clinical significance, which is a key aspect mentioned in the requirement. Additionally, the sentence includes unnecessary detail about the gene encoding the protein, which is not essential for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the molecular structure of the MT-CYB protein and its role in the mitochondrial electron transport chain. If this information is already present in the infobox, it might be considered repetitive. However, the sentence emphasizes the importance of the structure for the protein's function, which could be notable enough to warrant inclusion. The score reflects that while there is some repetition, the emphasis on the structure's importance may justify it."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The primary structure of MT-CYB consists of approximately 380 amino acids, which fold into a series of eight transmembrane helices forming its secondary structure (Song2016Human; Zarrouk2021Dilated).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about the primary and secondary structure of MT-CYB, but it does not define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name and its corresponding gene name. To better meet the requirement, the sentence should introduce the broader topic or focus of the article and adhere to the naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MT-CYB,\" which is the HUGO gene symbol for the mitochondrial cytochrome b protein. However, it does not specify whether this is the recommended UniProt protein name or if disambiguation is necessary. To fully meet the requirement, the sentence should clarify if \"MT-CYB\" is the recommended UniProt name or provide the UniProt name if it is relatively short."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the primary and secondary structure of MT-CYB, mentioning the number of amino acids and the transmembrane helices. However, it does not summarize the article concisely or cover key aspects such as function and clinical significance. The sentence focuses narrowly on structural details without addressing broader topics that would be necessary for a comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the primary and secondary structure of MT-CYB, which may be notable information. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated unnecessarily. If the infobox already contains this detailed structural information, the sentence might not be needed unless it adds context or emphasis. The score reflects a slight deduction for potential redundancy, but acknowledges that the information could be significant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These helices are predominantly hydrophobic and are essential for the protein's function in electron transfer and proton gradient generation across the mitochondrial membrane (Song2016Human).",
+      "title": "Introduction",
+      "score": 0.31,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it describes specific characteristics of helices related to protein function. To meet the requirement, the sentence should provide an overview of the article's focus and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the sentence, it should include the appropriate protein name or gene symbol as specified in the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the structure and function of the helices in the protein, mentioning their hydrophobic nature and role in electron transfer and proton gradient generation. However, it lacks a comprehensive summary of the article, as it does not cover the clinical significance or provide a broader context. Additionally, it references a study (Song2016Human) without explaining its relevance or findings, which limits its effectiveness as a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the helices being hydrophobic and their role in electron transfer and proton gradient generation, which may not be common knowledge or present in an infobox. However, without knowing the content of the infobox, it's difficult to fully assess the necessity of this information. The sentence seems to emphasize the importance of these helices, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The tertiary structure of MT-CYB includes specific domains such as the ef loop, which is involved in crucial interactions within the mitochondrial complex III.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about the tertiary structure of MT-CYB and its role in mitochondrial complex III, but it does not define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name and its corresponding gene name. To better meet the requirement, the sentence should introduce the broader topic or focus of the article and adhere to the naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MT-CYB,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The UniProt recommended name for MT-CYB is \"Cytochrome b,\" which is relatively short and should have been used instead. The sentence partially meets the requirement by using a recognized gene symbol, but it does not fully comply with the preference for the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the structure of MT-CYB, mentioning the ef loop and its role in mitochondrial complex III interactions. However, it does not summarize the article concisely or cover key aspects such as the overall structure, function, and clinical significance of MT-CYB. It focuses on a specific structural detail without addressing the broader context or other important elements required by the lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the tertiary structure of MT-CYB and mentions the \"ef loop\" and its role in mitochondrial complex III. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does emphasize the importance of the \"ef loop\" in interactions, which could justify its inclusion. The score reflects that while the sentence may repeat some information, it adds value by highlighting the significance of the \"ef loop.\""
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Mutations in this region can significantly affect the protein's conformation and function, as seen with the D254N mutation that alters the flexibility and conformation of the ef loop (Purhonen2020A).",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides specific information about a mutation and its effects, which is more detailed than a typical scope-defining sentence. To meet the requirement, the sentence should introduce the broader topic or focus of the article and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any protein name or gene symbol, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the sentence, the specific protein or gene related to the mutation should be identified using the appropriate naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about a mutation (D254N) affecting protein conformation and function, which partially addresses the structure and function aspects of the requirement. However, it lacks a comprehensive summary of the article, does not cover clinical significance, and includes unnecessary detail about a specific mutation without broader context. To better meet the requirement, the sentence should provide a more general overview of the article's key points, including any clinical implications."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the D254N mutation and its effects on the protein's conformation and function, which may not be redundant unless this exact detail is already present in the infobox. If the infobox contains this specific mutation and its effects, the sentence could be considered repetitive. However, if this detail is not in the infobox, the sentence is informative and relevant, thus meeting the requirement well. The score reflects the assumption that the information is not redundant unless explicitly stated otherwise."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "MT-CYB functions as part of a larger protein complex, contributing to its quaternary structure.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions MT-CYB and its role in a protein complex, which could be part of defining the scope of an article. However, it does not clearly define the scope or context of the article as a whole. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full name of the protein or gene and providing a clear context or focus for the article. The sentence lacks specificity and context needed to set the scope effectively."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MT-CYB,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The UniProt recommended name for MT-CYB is \"Cytochrome b,\" which is relatively short and should have been used instead. The sentence partially meets the requirement by using a recognized symbol, but it does not fully comply by using the preferred UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the function of MT-CYB as part of a larger protein complex and its contribution to quaternary structure, which partially addresses the structure and function aspects. However, it does not summarize the article concisely or cover key aspects like clinical significance. Additionally, it lacks context and detail necessary for a comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about MT-CYB's role in a protein complex and its contribution to quaternary structure, which may not be detailed in an infobox. However, without knowing the exact content of the infobox, it's difficult to fully assess redundancy. The sentence seems to emphasize the functional aspect, which could be notable, but if this information is already present in the infobox, it might be slightly repetitive."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "It is the only subunit within complex III that is encoded by mitochondrial DNA and interacts with other polypeptides to form a functional dimer, each monomer consisting of 10 or 11 subunits (Song2016Human).",
+      "title": "Introduction",
+      "score": 0.34,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about a subunit within complex III, mentioning its encoding by mitochondrial DNA and its interaction to form a dimer. However, it does not define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should clearly outline the article's focus and adhere to naming conventions, if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, so it cannot be evaluated against the requirement to use the recommended UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence should include a specific protein or gene name and ensure it follows the naming convention specified."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about a subunit within complex III, mentioning its encoding by mitochondrial DNA and its interaction to form a dimer. However, it does not summarize the article concisely or cover key aspects like structure, function, and clinical significance comprehensively. It lacks a broader context and does not address the overall content or findings of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the subunit's unique encoding by mitochondrial DNA and its role in forming a functional dimer, which may not be common knowledge or emphasized in an infobox. However, without knowing the content of the infobox, it's difficult to fully assess the necessity of this detail. The sentence seems to offer potentially notable information, but if the infobox already contains this level of detail, the sentence might be somewhat redundant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Details on common post-translational modifications, prominent folds beyond the transmembrane helices, or splice variant isoforms of MT-CYB are not specified in the provided excerpts.",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it mentions specific details that are not included in the provided excerpts, which does not align with the requirement of setting the scope of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"MT-CYB\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used according to the requirement. The sentence partially meets the requirement by using the gene symbol, but it does not clarify if the UniProt name was considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively summarize the article as required. It focuses on what is not included in the excerpts rather than providing a concise summary of the key aspects such as structure, function, and clinical significance of MT-CYB. It lacks information on these critical points and instead highlights missing details, which does not fulfill the requirement of summarizing the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence effectively avoids repeating specific information that might be present in an infobox, as it mentions the absence of details on certain aspects of MT-CYB. However, without knowing the exact content of the infobox, it's difficult to fully assess whether the sentence is emphasizing notable information. The sentence does well in indicating what is not covered, which could be considered notable, but the score reflects the uncertainty about the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Function\nThe MT-CYB gene encodes cytochrome b, a core component of Complex III in the mitochondrial respiratory chain, essential for cellular energy production through oxidative phosphorylation.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief description of the MT-CYB gene and its function, which is relevant to the scope of an article about this gene. However, it does not clearly define the overall scope of the article, nor does it follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to the specific naming conventions used by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"MT-CYB\" instead of the recommended UniProt protein name. If the UniProt protein name for cytochrome b is relatively short, it should be used instead. The sentence partially meets the requirement by providing the gene symbol, but it does not clarify if the UniProt name was considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the function of the MT-CYB gene, specifically its role in encoding cytochrome b and its importance in the mitochondrial respiratory chain. However, it lacks information on the gene's structure and clinical significance, which are key aspects mentioned in the requirement. To fully meet the requirement, the sentence should also address these elements."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise explanation of the function of the MT-CYB gene, which may be information already present in an infobox. However, it emphasizes the importance of cytochrome b in cellular energy production, which could be considered notable. The sentence largely meets the requirement by not overly repeating information unless it is significant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Cytochrome b is integral to the catalytic core of Complex III, where it participates in the oxidation of ubiquinol at the Qo site.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the role of cytochrome b in Complex III, but it does not define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein names and identifiers. To better meet the requirement, the sentence should introduce the broader topic of the article and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Cytochrome b,\" which is a common name for the protein. However, the requirement specifies using the recommended UniProt protein name if it is relatively short, or the HUGO gene symbol with disambiguation if necessary. The sentence does not specify whether \"Cytochrome b\" is the recommended UniProt name or the HUGO gene symbol, leading to ambiguity. To fully meet the requirement, the sentence should clarify which naming convention is being used and ensure it aligns with the specified guidelines."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the function of cytochrome b within Complex III, mentioning its role in the oxidation of ubiquinol at the Qo site. However, it does not address the structure or clinical significance of cytochrome b, nor does it provide a comprehensive summary of an article. It lacks the breadth needed to cover all key aspects as required."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of cytochrome b in Complex III, which may not be detailed in an infobox. If the infobox already contains this information, the sentence could be seen as repetitive. However, the sentence emphasizes the specific function and location (Qo site) of cytochrome b, which could be considered notable. The score reflects that while there might be some repetition, the detail provided could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This process is crucial for the mitochondrial Q-cycle, involving the oxidation of ubiquinol (QH2) and the reduction of cytochrome c, which contributes to the generation of the mitochondrial proton motive force by pumping protons into the intermembrane space (Iommarini2017Mild; Song2016Human).",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively define the scope of the article as required. It provides a specific detail about the mitochondrial Q-cycle and its biochemical processes, but it does not give an overview or context that would define the broader scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein and gene names. To better meet the requirement, the sentence should introduce the main topic or focus of the article in a more general way and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein names or gene symbols, so it cannot be evaluated against the requirement to use the recommended UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence should include specific protein names or gene symbols where applicable."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the mitochondrial Q-cycle, focusing on the biochemical process involving ubiquinol and cytochrome c. However, it does not summarize the article concisely or cover key aspects like structure, function, and clinical significance comprehensively. It lacks a broader context or overview of the article's main points and includes specific details that may be considered unnecessary for a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the mitochondrial Q-cycle, which may already be present in an infobox. However, it does not appear to be overly repetitive or redundant, as it includes specific details about the process, such as the oxidation of ubiquinol and reduction of cytochrome c, and the generation of the proton motive force. If these details are not particularly notable or emphasized in the infobox, the sentence could be seen as adding value. The score reflects that while the sentence is informative, it should be checked against the infobox to ensure it is not unnecessarily repetitive."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein's function is vital in maintaining energy homeostasis, particularly under conditions that stress the mitochondrial respiratory chain, such as metabolic stress in a galactose medium.",
+      "title": "Introduction",
+      "score": 0.31,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the protein's function, specifically its role in energy homeostasis and its importance under certain stress conditions. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to naming conventions, such as specifying the protein name and its organism source if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the score, the sentence should specify the protein by its UniProt name or gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence focuses on the function of a protein in maintaining energy homeostasis under specific conditions, which partially addresses the requirement to summarize the function. However, it lacks information on the protein's structure and clinical significance, which are key aspects mentioned in the requirement. Additionally, the sentence includes unnecessary detail about the specific condition (metabolic stress in a galactose medium) without providing a broader context or summary of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides specific information about the protein's function in maintaining energy homeostasis under stress conditions, which could be notable. However, without knowing the content of the infobox, it's unclear if this information is already present there. If the infobox contains similar details, the sentence may be redundant unless the context or emphasis is particularly important. The score reflects this uncertainty and the potential for repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Under such conditions, cells with mutations in MT-CYB show reduced viability and ATP production, highlighting the gene's role in energy production and organismal survival (Iommarini2017Mild).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides specific information about the effects of mutations in MT-CYB on cell viability and ATP production, which may be part of the article's content but does not establish the overall scope. Additionally, it lacks context or a broader statement that would typically be expected in a scope-defining sentence."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"MT-CYB\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used to better meet the requirement. However, the sentence does correctly use the gene symbol with disambiguation, which partially satisfies the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific finding related to the MT-CYB gene, mentioning its role in energy production and organismal survival. However, it does not summarize the article concisely or cover key aspects such as structure, function, and clinical significance comprehensively. It lacks context and broader information that would be necessary for a complete summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the effects of mutations in the MT-CYB gene, which may not be redundant unless the infobox already contains detailed information about reduced viability, ATP production, and the gene's role in energy production. If the infobox includes this information, the sentence might be somewhat repetitive, but it could still be notable if it emphasizes the findings of a specific study (Iommarini2017Mild). The score reflects that the sentence is likely to be relevant and not overly repetitive unless the infobox is very detailed."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Moreover, the presence of properly assembled supercomplexes, which include Complex III, appears to mitigate the detrimental effects of mutations in MT-CYB, suggesting that the structural integrity of these supercomplexes is crucial for maintaining normal mitochondrial function (Iommarini2017Mild).",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it discusses the role of supercomplexes in mitigating the effects of mutations in MT-CYB. Additionally, it does not follow the recommended UniProt naming conventions. The sentence appears to be more of a specific finding or conclusion rather than an introductory sentence that sets the scope of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MT-CYB,\" which is the HUGO gene symbol for the mitochondrial cytochrome b gene. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The UniProt recommended name for the protein encoded by MT-CYB is \"Cytochrome b,\" which is indeed short. Therefore, the sentence partially meets the requirement by using a recognized gene symbol, but it could better meet the requirement by using the UniProt protein name \"Cytochrome b.\""
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the role of supercomplexes and their impact on mitochondrial function, which touches on structure and function. However, it lacks a comprehensive summary of the article, as it does not cover clinical significance or provide a broader context. Additionally, it references a specific study without explaining its findings or implications, making it insufficient as a lead summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of supercomplexes and Complex III in mitigating the effects of MT-CYB mutations, which may not be common knowledge or explicitly detailed in an infobox. It emphasizes the importance of structural integrity for mitochondrial function, which could be considered notable. However, without knowing the exact content of the infobox, it's difficult to fully assess redundancy. The sentence seems to add value by explaining the relationship between supercomplexes and mitochondrial function, thus largely meeting the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Clinical Significance\nMutations in the MT-CYB gene, which encodes the cytochrome b protein, are associated with a range of mitochondrial disorders, prominently featuring exercise intolerance and complex III deficiency in muscle tissues.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides information about the clinical significance of mutations in the MT-CYB gene, but it does not clearly define the scope of the article. Additionally, it does not explicitly follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should clearly outline the main focus or scope of the article and adhere to specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"cytochrome b protein,\" which is a common name for the protein encoded by the MT-CYB gene. However, it does not specify whether this is the recommended UniProt protein name or if the HUGO gene symbol should be used with disambiguation. To fully meet the requirement, the sentence should clarify if \"cytochrome b\" is the recommended UniProt name or use the HUGO gene symbol with appropriate disambiguation."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.7,
+          "feedback": [
+            "The sentence effectively addresses the clinical significance of the MT-CYB gene by mentioning its association with mitochondrial disorders and specific symptoms like exercise intolerance and complex III deficiency. However, it lacks information on the gene's structure and function, which are also key aspects required for a comprehensive summary. Including these elements would provide a more complete overview as per the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the MT-CYB gene and its association with mitochondrial disorders, which may not be common knowledge and could be considered notable. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated unnecessarily. If the infobox already contains this information, the sentence could be seen as redundant unless the details are particularly emphasized or expanded upon."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These mutations can manifest as severe exercise intolerance, mitochondrial myopathy with ragged-red fibers, and isolated complex III deficiency, as evidenced by reduced activity of the respiratory-chain complex III (Andreu1999Exercise).",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it describes specific manifestations of mutations related to mitochondrial myopathy. To meet the requirement, the sentence should provide a clear overview of the article's focus and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein names or gene symbols, so it cannot be evaluated against the requirement to use the recommended UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence should include a specific protein or gene name and ensure it follows the guideline for naming."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the clinical significance of the mutations, mentioning conditions like exercise intolerance and mitochondrial myopathy. However, it lacks a comprehensive summary of the article, as it does not address the structure or function aspects, nor does it provide a broader context or key findings. The sentence is also too detailed for a lead, focusing on specific manifestations and evidence rather than summarizing the article's main points."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the manifestations of certain mutations, which may be relevant and notable if not already covered in the infobox. However, without knowing the content of the infobox, it's difficult to fully assess the necessity of this repetition. The sentence does not appear to overly repeat information, but it could be more concise if the details are already present elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Specific mutations, such as the 15699 GfiC transversion, lead to severe symptoms including muscle weakness, episodes of pigmenturia, and lactic acidosis, with biochemical studies revealing significant decreases in the activities of respiratory chain complexes I and III (Blakely2005A).",
+      "title": "Introduction",
+      "score": 0.43,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively define the scope of the article. It provides specific information about a mutation and its effects, but it does not give a broad overview or context that would define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein or gene names. The sentence is more focused on specific findings rather than setting the stage for the article's content."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein names or gene symbols, so it cannot be evaluated against the requirement to use the recommended UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence should include a protein or gene name and ensure it follows the specified naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides specific details about a mutation and its clinical effects, which partially addresses the requirement of summarizing clinical significance. However, it lacks information on the structure and function aspects of the article. Additionally, it includes specific details (e.g., \"15699 GfiC transversion\") that may be considered unnecessary for a concise summary. To better meet the requirement, the sentence should more broadly cover the article's key aspects without focusing too much on specific details."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about a specific mutation and its effects, which may be notable or require emphasis. However, without knowing the content of the infobox, it's difficult to fully assess whether the information is repeated unnecessarily. If the infobox already contains this detailed information, the sentence might not meet the requirement as well. The score reflects a reasonable assumption that the details could be notable enough to warrant repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, MT-CYB mutations are linked to multisystem disorders like mitochondrial encephalopathy, cardiomyopathy, and Leber hereditary optic neuropathy.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions specific disorders associated with MT-CYB mutations, which could be part of the article's scope. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein or gene names. The sentence lacks a clear introductory context that would set the scope for the entire article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MT-CYB,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The UniProt recommended name for MT-CYB is \"Cytochrome b,\" which is relatively short and could have been used instead. Therefore, the sentence partially meets the requirement by using a recognized gene symbol but does not fully comply by not using the UniProt name when it is short."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the clinical significance of MT-CYB mutations by linking them to specific disorders, which partially addresses the requirement. However, it does not cover the structure or function of MT-CYB, nor does it provide a comprehensive summary of an article. It lacks the breadth needed to concisely summarize key aspects as required."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about MT-CYB mutations and their link to certain disorders. If this information is already present in the infobox, it may be somewhat redundant. However, the sentence does emphasize the connection to notable disorders, which could justify its inclusion. The score reflects that while the sentence may repeat information, it does so with a focus on notable details."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The clinical presentations of these mutations are diverse, ranging from neurological deficits to heart and vision problems, often exacerbated by physical exertion (Blakely2005A; Mori2015Complex).",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides information about the clinical presentations of certain mutations, but it does not define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should clearly outline the main focus or scope of the article and adhere to the specific naming conventions mentioned."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence should include specific protein or gene names and ensure they are presented according to the guideline."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the clinical presentations associated with certain mutations, mentioning neurological, heart, and vision problems. However, it lacks information on the structure and function aspects, which are key components of the requirement. Additionally, it does not summarize the article as a whole, focusing only on clinical presentations without providing a broader context or significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a detailed description of the clinical presentations associated with certain mutations, which may already be included in an infobox. However, it includes specific references (Blakely2005A; Mori2015Complex) that might not be present in the infobox, adding value by citing sources. The sentence could be considered notable if these references are important for the context. If the infobox already contains this detailed information, the sentence might be somewhat redundant, but the inclusion of references justifies its presence to some extent."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The detection of these mutations typically requires testing of muscle mitochondrial DNA, as they may not be detectable in other tissues like blood or skin fibroblasts, indicating a muscle-specific expression pattern (De1999A).",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it discusses the detection of mutations in muscle mitochondrial DNA and does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's focus and adhere to the specified naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein or gene, so it does not address the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence would need to include a reference to a specific protein or gene and use the appropriate naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provided does not effectively summarize an article. It focuses narrowly on the detection of mutations in muscle mitochondrial DNA and mentions a muscle-specific expression pattern, but it lacks coverage of key aspects such as structure, function, and clinical significance. Additionally, it includes a citation (De1999A) that is not explained, and it does not provide a comprehensive overview of the article's content. The sentence is too specific and does not meet the requirement of a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the detection of mutations in muscle mitochondrial DNA, which may not be detectable in other tissues. This detail could be considered notable if it is not already covered in the infobox. However, without knowing the content of the infobox, it's difficult to fully assess the necessity of this repetition. The sentence is informative and specific, which suggests it may be emphasizing an important point, but it could potentially repeat information if the infobox already covers this detail comprehensively."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Interactions\nMT-CYB, encoded by mitochondrial DNA, is a core component of the mitochondrial respiratory chain complex III (cIII), where it plays a pivotal role in electron transfer and proton translocation.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about MT-CYB by mentioning its role in the mitochondrial respiratory chain complex III. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to the naming conventions specified by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MT-CYB,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The UniProt recommended name for MT-CYB is \"Cytochrome b,\" which is relatively short and should have been used instead. The sentence partially meets the requirement by using a recognized gene symbol, but it does not fully comply with the preference for the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the function of MT-CYB, mentioning its role in the mitochondrial respiratory chain complex III. However, it lacks information on the structure and clinical significance of MT-CYB, which are key aspects required for a comprehensive summary. Additionally, the sentence does not serve as a lead summarizing an entire article, as it focuses solely on the function without broader context or coverage of other important elements."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the role of MT-CYB in the mitochondrial respiratory chain complex III, which may already be present in an infobox. However, it emphasizes the specific functions of electron transfer and proton translocation, which could be considered notable details. The sentence mostly meets the requirement by focusing on the importance of MT-CYB's role, but it could be more concise if this information is already covered elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "It is integral to the dimeric structure of cIII, which consists of ten different subunits and is involved in the formation of respiratory supercomplexes (SCs) that facilitate the biogenesis and functional integration of the mitochondrial respiratory chain (Protasoni2020Respiratory).",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively define the scope of the article. It provides specific information about the dimeric structure of cIII and its role in respiratory supercomplexes, but it lacks a broader context or overview that would define the article's scope. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve clear and standardized naming of proteins and complexes."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence uses \"cIII\" to refer to a protein complex, which does not follow the requirement to use the recommended UniProt protein name or the HUGO gene symbol. The sentence should be revised to include the appropriate UniProt name or HUGO gene symbol for clarity and to meet the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the structure and function of cIII, mentioning its dimeric structure and role in respiratory supercomplexes. However, it lacks a comprehensive summary of the article, as it does not cover clinical significance or provide a broader context. Additionally, it includes specific details (e.g., \"ten different subunits\") that may be considered unnecessary for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the dimeric structure of cIII and its role in the formation of respiratory supercomplexes. If this information is already present in the infobox, the sentence may be somewhat redundant. However, it does offer specific details about the subunits and the functional integration of the mitochondrial respiratory chain, which could be considered notable. The score reflects that while the sentence may repeat some information, it also provides additional context that could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "MT-CYB physically interacts with complexes I and IV within these supercomplex structures, known as respirasomes, which are critical for the assembly and stability of the mitochondrial respiratory chain (Protasoni2020Respiratory).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively define the scope of the article. It provides specific information about MT-CYB's interactions within mitochondrial supercomplexes but does not give a broader overview of the article's focus or objectives. Additionally, it does not clearly follow the recommended UniProt naming conventions, as it lacks context or explanation of terms like \"MT-CYB\" and \"respirasomes\" for readers unfamiliar with them. To better meet the requirement, the sentence should introduce the main topic or purpose of the article in a more general and informative manner."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MT-CYB,\" which is the HUGO gene symbol for the mitochondrial cytochrome b protein. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The UniProt recommended name for MT-CYB is \"Cytochrome b,\" which is indeed short and could have been used instead. Therefore, the sentence partially meets the requirement by using a recognized symbol, but it does not fully comply by opting for the shorter UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the structure and function of MT-CYB within mitochondrial supercomplexes, mentioning its interaction with complexes I and IV and its role in the respiratory chain. However, it lacks a comprehensive summary of the article, as it does not address the clinical significance or provide a broader context. Additionally, it includes a citation that may not be necessary for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interaction of MT-CYB with complexes I and IV within respirasomes, which may not be common knowledge or explicitly detailed in an infobox. It emphasizes the importance of these interactions for the assembly and stability of the mitochondrial respiratory chain, which could be considered notable. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this repetition. The score reflects a reasonable assumption that the information is sufficiently notable to warrant inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In the assembly of mitochondrial complex III (cIII2), MT-CYB interacts with several structural subunits and an assembly factor.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the interaction of MT-CYB in the assembly of mitochondrial complex III, but it does not define the overall scope of the article. Additionally, it does not clearly follow the recommended UniProt naming conventions, which typically involve using full protein names and identifiers. To better meet the requirement, the sentence should introduce the broader topic or focus of the article and ensure proper naming conventions are used."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MT-CYB,\" which is the HUGO gene symbol for the mitochondrial cytochrome b protein. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The UniProt recommended name for MT-CYB is \"Cytochrome b,\" which is relatively short and should have been used instead. Therefore, the sentence partially meets the requirement by using a recognized gene symbol but does not fully comply by not using the preferred UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the interaction of MT-CYB with structural subunits and an assembly factor in mitochondrial complex III. However, it does not summarize the article concisely or cover key aspects such as the overall structure, function, and clinical significance of the topic. It lacks a broader context and focuses on a single aspect, which limits its effectiveness as a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interaction of MT-CYB with structural subunits and an assembly factor in mitochondrial complex III. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does not overly emphasize or repeat the information unnecessarily, and it could be notable if the interaction details are not explicitly covered in the infobox. The score reflects that while the sentence may repeat information, it does so in a way that could be justified if the details are not fully captured elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Peptides corresponding to six structural cIII2 subunits (UQCRC1, MT-CYB, UQCRH, UQCRB, UQCRQ, UQCR11) and the assembly factor UQCC2 were found only in wild-type mitochondria, indicating their absence and disrupted interactions in MT-CYB deficient cells.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about peptides and their presence in wild-type mitochondria versus MT-CYB deficient cells, which suggests a focus on mitochondrial protein interactions. However, it does not clearly define the overall scope of the article. Additionally, while it uses UniProt naming conventions for the proteins, it does not explicitly state that it is following these conventions. To better meet the requirement, the sentence should more explicitly outline the article's broader focus and clearly mention adherence to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses HUGO gene symbols (e.g., UQCRC1, MT-CYB) instead of the recommended UniProt protein names. While the requirement suggests using UniProt names if they are relatively short, the sentence does not provide these names, which affects the score. However, the use of gene symbols is consistent, and disambiguation is not necessary in this context, which is why the score is not lower. To fully meet the requirement, the sentence should use the UniProt protein names where applicable."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific details about peptides and their presence in wild-type mitochondria versus MT-CYB deficient cells, which touches on structural aspects. However, it lacks a broader summary of the article's key aspects such as overall structure, function, and clinical significance. The sentence is too focused on specific details rather than providing a concise summary of the article as a whole."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the peptides and their presence in wild-type mitochondria, which may not be present in an infobox. It emphasizes the absence and disrupted interactions in MT-CYB deficient cells, which could be notable information. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this repetition. The sentence seems to provide detailed context that might not be redundant, hence the relatively high score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "UQCC2 binds to nascent MT-CYB during the early stages of cIII2 assembly, suggesting a direct interaction crucial for the proper assembly of this complex (Protasoni2020Respiratory).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about a protein interaction (UQCC2 and MT-CYB) and its role in the assembly of a complex, which is a detail likely discussed in the article. However, it does not define the overall scope of the article. Additionally, it does not clearly follow the recommended UniProt naming conventions, as it uses abbreviations without explanation. The sentence lacks a broader context or introduction to the main topic of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"UQCC2\" and \"MT-CYB,\" which are HUGO gene symbols. The requirement suggests using the recommended UniProt protein name if it is relatively short. The sentence does not provide the UniProt protein names, which might be relatively short and preferred according to the requirement. Therefore, the sentence partially meets the requirement by using gene symbols but does not fully comply by not considering the UniProt names."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the interaction between UQCC2 and MT-CYB during cIII2 assembly, which is a structural and functional aspect. However, it does not summarize the article concisely or cover other key aspects such as the overall structure, broader function, or clinical significance of the study. It lacks a comprehensive overview and focuses on a single point, which limits its effectiveness as a lead summarizing the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interaction between UQCC2 and MT-CYB during the assembly of cIII2, which may not be common knowledge or explicitly detailed in an infobox. It suggests a notable interaction that could be important for understanding the assembly process. However, without knowing the exact content of the infobox, it's difficult to fully assess whether this information is repetitive. The sentence seems to emphasize a specific interaction, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # References\n\n\n[1.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a heading or a placeholder for references, rather than a sentence that introduces or defines the scope of an article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any information related to a UniProt protein name or a HUGO gene symbol. It appears to be an incomplete or incorrectly formatted reference section, and thus does not meet the requirement of using the recommended UniProt protein name or HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a heading or a placeholder for references, and it does not summarize any article or cover any key aspects like structure, function, or clinical significance. It lacks content and detail necessary for a summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provided does not contain enough information to determine if it repeats content from an infobox. It appears to be an incomplete or improperly formatted reference section, which makes it difficult to assess its adherence to the requirement. However, since it does not explicitly repeat any information, it partially meets the requirement by default."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Protasoni2020Respiratory) Margherita Protasoni, Rafael P\u00c3\u00a9rez\u00e2\u0080\u0090P\u00c3\u00a9rez, Teresa Lobo\u00e2\u0080\u0090Jarne, Michael E Harbour, Shujing Ding, Ana Pe\u00c3\u00b1as, Francisca Diaz, Carlos T Moraes, Ian M Fearnley, Massimo Zeviani, Cristina Ugalde, and Erika Fern\u00c3\u00a1ndez\u00e2\u0080\u0090Vizarra.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions, which typically involve standardized protein or gene names. To meet the requirement, the sentence should clearly state the main topic or focus of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not mention any proteins or genes, nor does it use any UniProt protein names or HUGO gene symbols. It appears to be a list of authors from a scientific paper, which does not relate to the requirement of using recommended UniProt protein names or HUGO gene symbols. Therefore, it does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not summarize the article at all. It does not cover any key aspects such as structure, function, or clinical significance, nor does it provide any detail about the content of the article. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference list of authors, which may already be present in an infobox. If the infobox contains this information, repeating it in the main text may not be necessary unless the authorship is particularly notable or requires emphasis. The sentence does not provide context or explanation, which could help determine its necessity. Therefore, it partially meets the requirement by potentially repeating information without clear justification."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Respiratory supercomplexes act as a platform for complex <scp>iii</scp> \u00e2\u0080\u0090mediated maturation of human mitochondrial complexes i and <scp>iv</scp> .",
+      "title": "Introduction",
+      "score": 0.4,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence partially defines the scope of the article by mentioning the role of respiratory supercomplexes in the maturation of mitochondrial complexes I and IV. However, it does not clearly follow the recommended UniProt naming conventions, as it uses \"<scp>iii</scp>\" and \"<scp>iv</scp>\" instead of the standard UniProt format. Additionally, the sentence could be more explicit in outlining the broader context or focus of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not use any UniProt protein names or HUGO gene symbols for the mitochondrial complexes mentioned (complexes I, III, and IV). Instead, it uses generic terms (\"complex iii\", \"complex i\", and \"complex iv\") without specifying the recommended protein names or gene symbols. To meet the requirement, the sentence should use the specific UniProt names or HUGO gene symbols for these complexes."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the role of respiratory supercomplexes in the maturation of mitochondrial complexes I and IV, focusing on complex III. However, it lacks a comprehensive summary of the article's key aspects such as structure, function, and clinical significance. It also includes unnecessary technical detail without broader context, which limits its effectiveness as a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information unnecessarily, assuming the infobox contains standard details about respiratory supercomplexes. However, without knowing the specific content of the infobox, it's difficult to fully assess the repetition. The sentence seems to provide specific information about the role of supercomplexes in the maturation of mitochondrial complexes, which could be notable. The score reflects a generally good adherence to the requirement, with a slight deduction due to the lack of context regarding the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The EMBO Journal, January 2020.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article or follow the recommended UniProt naming conventions. It merely provides a publication name and date, without any information about the article's content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any protein name or gene symbol, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence only provides a journal name and date, which is unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is merely a citation of a journal and date, and does not summarize an article. It lacks any information on structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence \"The EMBO Journal, January 2020\" is concise and does not appear to repeat information unnecessarily. However, without context from the infobox, it's unclear if this information is already present there. Assuming the infobox contains similar details, the sentence could be seen as redundant unless the date or journal name is particularly notable or requires emphasis. The score reflects a minor deduction for potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.15252/embj.2019102817 , doi:10.15252/embj.2019102817.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article or follow the recommended UniProt naming conventions. Instead, it provides a URL and DOI, which are identifiers for accessing the article but do not describe its content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only provides a URL and a DOI, without any mention of a UniProt protein name or a HUGO gene symbol. To meet the requirement, the sentence should include a reference to a protein name or gene symbol, using the recommended UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary of the article's content. It lacks any information about the structure, function, or clinical significance of the article, and therefore does not fulfill the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the sentence does provide both the URL and DOI format, which could be useful in some contexts, hence not scoring a complete zero."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(132 citations) 10.15252/embj.2019102817]( https://doi.org/10.15252/embj.2019102817 )\n\n[2.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation or reference to a DOI link, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a sentence discussing proteins or genes."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation or reference link rather than a summary of an article. It lacks any information about the article's structure, function, or clinical significance, and does not provide a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which may already be present in an infobox. Without additional context, it's unclear if this information is particularly notable or requires emphasis. The score reflects the potential redundancy if this information is already included elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Zarrouk2021Dilated) Sinda Zarrouk, Josef Finsterer, Sounira Mehri, Fatma Ourda, Saida Ben Arab, and Raafik Boussada.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation of authors and does not define the scope of the article. It also does not follow any naming conventions, such as those recommended by UniProt. To meet the requirement, the sentence should clearly state the topic or focus of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. It lists authors of a paper, but does not mention any protein names or gene symbols, nor does it attempt to use the UniProt protein name or HUGO gene symbol. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It only lists the authors and does not cover any key aspects such as structure, function, or clinical significance. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, listing authors of a work. If this information is already present in an infobox, repeating it in the main text may not be necessary unless the authorship is particularly notable or requires emphasis. The sentence meets the requirement fairly well, but without context, it's unclear if the repetition is justified."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Dilated cardiomyopathy due to the novel mt-cyb missense mutation m.14757t &gt; c. Journal of Medical Cases, 12(11):455\u00e2\u0080\u0093459, November 2021.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific focus on a medical case involving dilated cardiomyopathy and a novel mt-cyb missense mutation, which partially defines the scope of the article. However, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein or gene names. Additionally, the sentence is more of a title than a full sentence that clearly defines the scope of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"mt-cyb\" to refer to a gene or protein, which is not the recommended UniProt protein name or the HUGO gene symbol. The requirement specifies using the UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary. The sentence partially meets the requirement by mentioning a gene/protein, but it does not follow the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provided is more of a citation than a summary. It mentions the topic of the article (dilated cardiomyopathy due to a specific mutation) but does not concisely summarize the article's content, structure, function, or clinical significance. It lacks detail on the findings, implications, or conclusions of the study, which are necessary for a comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation of a journal article, which typically includes specific details such as the title, journal name, volume, issue, page numbers, and publication date. If this information is already present in an infobox, repeating it in the main text may not be necessary unless it is particularly notable or requires emphasis. However, without knowing the content of the infobox, it's difficult to determine if this repetition is justified. The sentence is concise and specific, which is why it scores relatively high, but it could potentially be redundant if the infobox contains the same details."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.14740/jmc3787 , doi:10.14740/jmc3787.",
+      "title": "Introduction",
+      "score": 0.09,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it simply provides a URL and a DOI, which are identifiers for accessing the article but do not describe its content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI reference, with no mention of a UniProt protein name or a HUGO gene symbol. The requirement is about using specific naming conventions for proteins or genes, which is not relevant to the content of the sentence provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary of the article's content. It lacks any information about the article's structure, function, or clinical significance, and therefore does not fulfill the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.3,
+          "feedback": [
+            "The sentence repeats the DOI information twice, which is unnecessary unless there is a specific reason to emphasize it. This repetition does not meet the requirement to avoid repeating information unless it is particularly notable or requires emphasis. The sentence could be improved by mentioning the DOI only once."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(0 citations) 10.14740/jmc3787]( https://doi.org/10.14740/jmc3787 )\n\n[3.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It does not define the scope of the article, nor does it follow any naming conventions, let alone the recommended UniProt naming conventions. Instead, it appears to be a citation or reference link, which is unrelated to the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation or reference link, which is unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be an incomplete or improperly formatted citation rather than a summary of an article. It lacks any information about the article's structure, function, or clinical significance, and does not provide a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information from an infobox, as it seems to be a citation or reference link. However, the sentence is not complete or clear in its current form, which slightly affects its ability to fully meet the requirement. If the infobox already contains this citation, it would be redundant, but without context, it is difficult to determine."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(De1999A) I. F. M. De Coo, W. O. Renier, W. Ruitenbeek, H. J. Ter Laak, M. Bakker, H. Sch\u00ef\u00bf\u00bdgger, B.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation or reference to authors and does not define the scope of an article. It also does not follow any naming conventions related to UniProt. To meet the requirement, the sentence should clearly outline the scope of the article and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not mention any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation or reference to authors and does not relate to the requirement given."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation of authors and does not summarize an article. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes author names and publication details. Without context, it's unclear if this information is repeated from an infobox. If the infobox already contains this citation and it is not particularly notable or emphasized, then the sentence may not meet the requirement well. However, if this citation is crucial for understanding the content, it might be justified. The score reflects this ambiguity."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "A.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"A.\" does not meet the requirement as it does not define the scope of the article nor does it follow any naming conventions, including those recommended by UniProt. The sentence is incomplete and lacks any meaningful content to evaluate against the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"A.\" does not provide any information about the use of a UniProt protein name or a HUGO gene symbol. It is too vague and lacks the necessary context to evaluate whether it meets the requirement. More information is needed to assess compliance with the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"A.\" does not meet the requirement at all. It is not a complete sentence and does not provide any summary or information about the article's structure, function, or clinical significance. It lacks any detail, necessary or unnecessary, and therefore cannot be evaluated as a lead summarizing an article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence \"A.\" is too vague to determine if it repeats information from an infobox. Without additional context or content, it's unclear whether it meets the requirement of avoiding repetition. The score reflects this uncertainty."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Van Oost, and H. J. M. Smeets.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Van Oost, and H. J. M. Smeets.\" does not meet the requirement as it does not define the scope of the article nor does it follow any naming conventions. It appears to be a fragment, possibly listing authors, and lacks any context or information about the article's content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a fragment, likely part of a citation or author list, and does not address the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a partial citation or author list and does not summarize an article. It lacks any information about the article's structure, function, or clinical significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence \"Van Oost, and H. J. M. Smeets.\" appears to be a citation or reference to authors, which might already be present in an infobox. Without additional context, it's unclear if this repetition is necessary or notable. However, if these names are not particularly notable or emphasized in the main text, repeating them might not be needed. The sentence mostly meets the requirement, but the score reflects the potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "A 4-base pair deletion in the mitochondrial cytochromeb gene associated with parkinsonism/melas overlap syndrome.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions a specific genetic mutation and its association with a medical condition, which could suggest the scope of the article. However, it does not clearly define the scope or purpose of the article. Additionally, it does not follow the recommended UniProt naming conventions, as it should use the correct format for gene and protein names (e.g., italicizing gene names and using the correct case for protein names). The sentence lacks clarity and completeness in defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"cytochromeb\" to refer to a gene, which appears to be a misspelling or incorrect formatting of \"cytochrome b.\" The requirement specifies using the recommended UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary. The sentence does not clearly follow this guideline, as it neither uses the correct UniProt protein name nor the HUGO gene symbol with disambiguation. Correcting the gene name to either the UniProt name or the HUGO symbol would improve compliance with the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence identifies a genetic mutation (a 4-base pair deletion) in the mitochondrial cytochrome b gene and its association with a specific syndrome (parkinsonism/melas overlap syndrome). However, it lacks details on the structure, function, and broader clinical significance of the gene or the mutation. It provides a specific finding but does not summarize the article's key aspects comprehensively."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about a genetic mutation and its association with a particular syndrome. If this information is already present in the infobox, it might be considered repetitive. However, the sentence is concise and focuses on a notable detail, which could justify its inclusion outside the infobox. The score reflects that while it may repeat infobox content, it does so with potentially notable emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Annals of Neurology, 45(1):130\u00e2\u0080\u0093133, January 1999.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's focus or subject matter and adhere to any specific naming guidelines set by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not contain any protein names or gene symbols. Therefore, it cannot be evaluated against the requirement, which pertains to the use of UniProt protein names or HUGO gene symbols. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article. It lacks any information about the article's structure, function, or clinical significance. To meet the requirement, a concise summary of the article's key aspects is needed."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation for a journal article, which is typically included in an infobox. However, without knowing the specific contents of the infobox, it's difficult to determine if this information is repeated unnecessarily. If the infobox already contains this citation, the sentence may not be needed unless the citation is particularly notable. The score reflects a slight deduction for potential redundancy, but overall, the sentence is concise and relevant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1002/1531-8249(199901)45:1 <130::aid-art21>3.0.co;2-z, doi:10.1002/1531-8249(199901)45:1<130::aid-art21>3.0.co;2-z.",
+      "title": "Introduction",
+      "score": 0.06,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It contains a URL and DOI information, which are identifiers for accessing the article, but it does not define the scope of the article. Additionally, there is no indication that it follows the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly state the scope of the article and adhere to the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. It contains a URL and a DOI reference, which are unrelated to the use of UniProt protein names or HUGO gene symbols. There is no mention of any protein names or gene symbols in the sentence, so it cannot be evaluated against the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is not a summary of an article but rather a citation or reference to a DOI (Digital Object Identifier) link. It does not cover any key aspects such as structure, function, or clinical significance of the article. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.2,
+          "feedback": [
+            "The sentence repeats the DOI information twice, which is unnecessary and does not meet the requirement to avoid repeating information unless it is particularly notable or requires emphasis. The repetition does not add any notable emphasis or value, thus the sentence scores low in meeting the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(113 citations) 10.1002/1531-8249(199901)45:1<130::aid-art21>3.0.co;2-z]( https://doi.org/10.1002/1531-8249(199901)45:1) [4.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation or DOI reference, which is unrelated to the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any mention of a protein name or a gene symbol, nor does it attempt to use a UniProt protein name or a HUGO gene symbol. It appears to be a citation or DOI reference, which is unrelated to the requirement of using specific naming conventions for proteins or genes. Therefore, it does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation or DOI reference rather than a summary of an article. It does not cover any key aspects such as structure, function, or clinical significance, nor does it provide any concise summary of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes information such as the DOI and citation count. If this information is already present in an infobox, repeating it in the main text may not be necessary unless it is particularly notable. However, without context on the infobox content, it's difficult to fully assess redundancy. The sentence does not seem to emphasize or highlight any notable aspect of the information, which could have justified its repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Song2016Human) Zehua Song, Ana\u00c3\u00afs Laleve, Cindy Valli\u00c3\u00a8res, John E. McGeehan, Rhiannon E. Lloyd, and Brigitte Meunier.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation of authors and does not define the scope of an article. It also does not follow any naming conventions, such as those recommended by UniProt. To meet the requirement, the sentence should clearly state the scope or focus of the article in accordance with UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not mention any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation or list of authors, which is unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize an article. It lists authors' names and a publication year, but it does not cover any key aspects such as structure, function, or clinical significance. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, likely listing authors of a study or paper. Without context, it's unclear if this information is repeated from an infobox. If the infobox already contains this citation, the sentence may not meet the requirement to avoid repetition unless the authorship is particularly notable. The score reflects this uncertainty and the potential for redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Human mitochondrial cytochrome b variants studied in yeast: not all are silent polymorphisms.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general idea of the study's focus, which involves human mitochondrial cytochrome b variants studied in yeast. However, it does not clearly define the scope of the article in detail, nor does it explicitly follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should more explicitly outline the scope and objectives of the article and ensure that any protein names or variants are presented according to UniProt standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"cytochrome b,\" which is a common name for the protein. However, it does not specify whether this is the recommended UniProt protein name or the HUGO gene symbol. To fully meet the requirement, the sentence should clarify if \"cytochrome b\" is the recommended UniProt name or use the HUGO gene symbol with disambiguation if necessary. Without this clarification, it partially meets the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a very brief overview of the article's topic, indicating that it involves the study of human mitochondrial cytochrome b variants in yeast and that not all variants are silent polymorphisms. However, it lacks details on the structure, function, and clinical significance of these variants, which are key aspects required for a concise summary. The sentence is too vague and does not provide enough information to meet the requirement effectively."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information, as it presents a specific finding about human mitochondrial cytochrome b variants studied in yeast. However, without the context of the infobox, it's difficult to fully assess whether this information is already present there. Assuming the sentence provides a unique insight or notable detail, it meets the requirement well. If the infobox already contains this information and it is not particularly notable, the score would be lower."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Human Mutation, 37(9):933\u00e2\u0080\u0093941, June 2016.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's focus and adhere to the naming conventions specified by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not mention any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article. It lacks any information about the article's structure, function, or clinical significance. To meet the requirement, a concise summary of the article's key aspects is needed."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes specific details such as the journal name, volume, issue, page numbers, and date. If this information is already present in an infobox, repeating it in this format might not be necessary unless it is particularly notable or requires emphasis. However, without context on what is in the infobox, it's difficult to determine if this repetition is justified. The sentence is concise and specific, which is appropriate for a citation, but it could be redundant if the infobox already contains this exact information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1002/humu.23024 , doi:10.1002/humu.23024.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It only provides a URL and a DOI, which are identifiers for accessing the article, but it does not define the scope of the article or follow any naming conventions, such as those recommended by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only provides a URL and a DOI, without any mention of a UniProt protein name or a HUGO gene symbol. The requirement is about using specific naming conventions for proteins or genes, which is not relevant to the content of the sentence provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, without any summary of the article's content. There is no information about the structure, function, or clinical significance of the article, nor is there any attempt to summarize it concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the sentence does provide both the URL and DOI format, which could be useful in some contexts, hence a middle score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(26 citations) 10.1002/humu.23024]( https://doi.org/10.1002/humu.23024 )\n\n[5.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation reference rather than a descriptive sentence about the article's content or scope. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation reference rather than a summary of an article. It lacks any information about the article's structure, function, or clinical significance, and does not provide a concise summary of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation and a DOI link, which are typically found in an infobox. However, without context, it's unclear if this information is repeated from the infobox or if it is particularly notable. The sentence could potentially be redundant, but it might also be emphasizing the citation count, which could be notable. The score reflects a slight deduction due to potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Purhonen2020A) Janne Purhonen, Vladislav Grigorjev, Robert Ekiert, Noora Aho, Jayasimman Rajendran, Rafa\u00c5\u0082 Pietras, Katarina Truv\u00c3\u00a9, M\u00c3\u00a5rten Wikstr\u00c3\u00b6m, Vivek Sharma, Artur Osyczka, Vineta Fellman, and Jukka Kallij\u00c3\u00a4rvi.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly state the topic or focus of the article in accordance with UniProt guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not mention any proteins or genes. Therefore, it does not address the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The requirement is not applicable to the content of the sentence, resulting in a score of 0.0."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors from a citation and does not summarize the article at all. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference list of authors, which may already be present in an infobox. If the infobox contains this information, repeating it in the main text may not be necessary unless the authorship is particularly notable or requires emphasis. The sentence does not provide context or explanation for why the authorship is emphasized, which affects its alignment with the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "A spontaneous mitonuclear epistasis converging on rieske fe-s protein exacerbates complex iii deficiency in mice.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence introduces a specific scientific finding related to \"mitonuclear epistasis\" and \"complex III deficiency in mice,\" which suggests a focus on a particular biological mechanism. However, it does not clearly define the overall scope of the article. Additionally, it does not adhere to the recommended UniProt naming conventions, as it uses \"rieske fe-s protein\" instead of the standardized UniProt name. To improve, the sentence should provide a broader context or aim of the study and use proper naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"rieske fe-s protein,\" which is a common name for a component of the mitochondrial electron transport chain. However, it does not specify whether this is the recommended UniProt protein name or the HUGO gene symbol. To fully meet the requirement, the sentence should use the recommended UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary. The score reflects the lack of clarity on whether the correct naming convention was followed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the article's focus on mitonuclear epistasis and its impact on complex III deficiency in mice, which touches on structure and function. However, it lacks details on the clinical significance and does not fully cover all key aspects required by the prompt. Additionally, it uses technical terms that may not be accessible to all readers, which could be considered unnecessary detail for a general summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence does not provide enough context to determine if it repeats information from an infobox. Without knowing the content of the infobox, it's unclear if the sentence is redundant. However, the sentence does not emphasize any particularly notable information, which might be necessary to justify repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Nature Communications, January 2020.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Nature Communications, January 2020.\" does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It merely provides a publication name and date, lacking any information about the article's content or adherence to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all, as it does not mention any protein names or gene symbols. It only provides a publication name and date, which are unrelated to the requirement of using UniProt protein names or HUGO gene symbols."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Nature Communications, January 2020.\" does not meet the requirement as it does not provide any summary of an article. It lacks any information on structure, function, or clinical significance, and does not offer any details, necessary or otherwise. It merely states a publication name and date, which is insufficient for the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence \"Nature Communications, January 2020\" is concise and does not appear to repeat information unnecessarily. However, without context from the infobox, it's unclear if this information is already present there. Assuming it is, the sentence could be seen as redundant unless the publication date or source is particularly notable or requires emphasis. The score reflects a minor deduction for potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1038/s41467-019-14201-2 , doi:10.1038/s41467-019-14201-2.",
+      "title": "Introduction",
+      "score": 0.09,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, which do not define the scope of the article or follow any naming conventions, let alone the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly state the topic or focus of the article in accordance with UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It contains a URL and a DOI reference, but it does not mention any protein names or gene symbols, nor does it attempt to use the recommended UniProt protein name or the HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary or information about the article's structure, function, or clinical significance. There is no content that addresses the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.3,
+          "feedback": [
+            "The sentence repeats the DOI information twice, once as a URL and once as a DOI, which is unnecessary if this information is already present in an infobox. The repetition does not add notable emphasis or additional value, thus not meeting the requirement to avoid redundant information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(19 citations) 10.1038/s41467-019-14201-2]( https://doi.org/10.1038/s41467-019-14201-2 )\n\n[6.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation reference with a DOI link, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It appears to be a citation or reference to an article, but it lacks any information about the article's content, structure, function, or clinical significance. To meet the requirement, the sentence should provide a concise summary of the article's key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation reference, which may already be present in an infobox. Without additional context, it's unclear if this information is notable or requires emphasis. The score reflects the potential redundancy, but acknowledges that the citation might be necessary for emphasis or clarity."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Andreu1999Exercise) Antoni L. Andreu, Michael G. Hanna, Heinz Reichmann, Claudio Bruno, Audrey S. Penn, Kurenai Tanji, Francesco Pallotti, So Iwata, Eduardo Bonilla, Boleslaw Lach, John Morgan-Hughes, Sara Shanske, Carolyn M. Sue, Teeratorn Pulkes, Asra Siddiqui, John B. Clark, John Land, Momi Iwata, Jochen Schaefer, and Salvatore DiMauro.",
+      "title": "Introduction",
+      "score": 0.06,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly state the topic or focus of the article and adhere to any specific naming guidelines set by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not mention any proteins or genes. Therefore, it does not address the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The requirement is not applicable to the content of the sentence, resulting in a score of 0.0."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not summarize the article at all. It lacks any information about the structure, function, or clinical significance of the article's content. To meet the requirement, the sentence should concisely summarize the key aspects of the article rather than listing the authors."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.2,
+          "feedback": [
+            "The sentence appears to be a list of authors or contributors, likely already present in an infobox. It does not provide any additional context or notable information that would justify its repetition outside of the infobox. Therefore, it does not meet the requirement to avoid repeating information unless it is particularly notable or requires emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Exercise intolerance due to mutations in the cytochromebgene of mitochondrial dna.",
+      "title": "Introduction",
+      "score": 0.31,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions a specific condition, \"exercise intolerance,\" and its cause, \"mutations in the cytochrome b gene of mitochondrial DNA,\" which suggests a potential scope for the article. However, it does not clearly define the scope of the article in a comprehensive manner. Additionally, it does not follow the recommended UniProt naming conventions, as \"cytochromebgene\" should be formatted correctly with appropriate spacing and capitalization, such as \"cytochrome b gene.\" The sentence lacks clarity and completeness in defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence uses \"cytochromebgene\" which appears to be a misspelling or incorrect usage. It does not use the recommended UniProt protein name or the HUGO gene symbol with disambiguation. The correct UniProt name or HUGO gene symbol should be used to meet the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions a specific condition (exercise intolerance) and its cause (mutations in the cytochrome b gene of mitochondrial DNA), which touches on the structure and function aspects. However, it lacks a comprehensive summary of the article, as it does not address the clinical significance or provide a broader context. Additionally, it is too brief and lacks detail to be considered a complete summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence does not provide enough context to determine if it repeats information from an infobox. Without knowing the content of the infobox, it's unclear if the information about \"exercise intolerance due to mutations in the cytochrome b gene of mitochondrial DNA\" is already present there. If this information is not particularly notable or requires emphasis, it may not meet the requirement. However, if it is notable, the sentence could be justified. More context is needed to accurately score this."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "New England Journal of Medicine, 341(14):1037\u00e2\u0080\u00931044, September 1999.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of an article. It also does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly state the scope of the article and adhere to the naming conventions specified by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation from a journal and does not contain any protein names or gene symbols. Therefore, it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article's content. It lacks any information about the article's structure, function, or clinical significance, which are necessary to meet the requirement of a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes information such as the journal name, volume, issue, page numbers, and date. If this information is already present in an infobox, repeating it in the main text may not be necessary unless it is particularly notable or requires emphasis. Without context, it's unclear if this repetition is justified, hence the score reflects partial compliance with the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1056/nejm199909303411404 , doi:10.1056/nejm199909303411404.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of an article nor does it follow the recommended UniProt naming conventions. Instead, it simply lists a URL and a DOI, which are identifiers for accessing a document but do not provide any information about the content or scope of the article. To meet the requirement, the sentence should include a clear statement about the article's focus or subject matter, using appropriate naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. The requirement is about using the recommended UniProt protein name or the HUGO gene symbol, but the sentence only contains a URL and a DOI, which are unrelated to protein names or gene symbols."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary or information about the article's content, structure, function, or clinical significance. To meet the requirement, the sentence should include a concise summary of the article's key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the sentence does provide both the URL and DOI format, which could be useful in some contexts, hence the score is not the lowest."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(342 citations) 10.1056/nejm199909303411404]( https://doi.org/10.1056/nejm199909303411404 )\n\n[7.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow any naming conventions, including those recommended by UniProt. Instead, it appears to be a citation reference with a DOI link, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It appears to be a citation or reference link rather than a summary. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of providing a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation reference, which may already be present in an infobox. Without additional context, it's unclear if this information is notable or requires emphasis. The score reflects the potential redundancy if this citation is already included elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Mori2015Complex) Mari Mori, Jennifer Goldstein, Sarah P. Young, Edward H. Bossen, John Shoffner, and Dwight D. Koeberl.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not define the scope of the article. Additionally, it does not follow any naming conventions, such as those recommended by UniProt. To meet the requirement, the sentence should clearly state the topic or focus of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a list of authors, which is unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation of authors and does not summarize the article at all. It lacks any information about the article's content, structure, function, or clinical significance. To meet the requirement, the sentence should concisely summarize these key aspects of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, listing authors of a work. Without additional context, it's unclear if this information is repeated from an infobox or if it is particularly notable. If this list of authors is already present in an infobox and not emphasized for a specific reason, it may not meet the requirement to avoid repetition. However, if the context justifies its repetition, the score could be higher."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Complex iii deficiency due to an in-frame mt-cyb deletion presenting as ketotic hypoglycemia and lactic acidosis.",
+      "title": "Introduction",
+      "score": 0.56,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific medical condition and its symptoms, which could be part of the scope of an article. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein or gene names. The sentence lacks clarity on the broader context or focus of the article and does not adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"mt-cyb,\" which is the HUGO gene symbol for the mitochondrial cytochrome b gene. However, it does not use the recommended UniProt protein name, which is \"Cytochrome b.\" Since the requirement suggests using the UniProt protein name if it is relatively short, the sentence partially meets the requirement by using the gene symbol but could be improved by using the UniProt name instead."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.6,
+          "feedback": [
+            "The sentence provides a concise summary of the article by mentioning the key aspects of the condition: \"Complex iii deficiency,\" the cause \"in-frame mt-cyb deletion,\" and the clinical presentation \"ketotic hypoglycemia and lactic acidosis.\" However, it lacks details on the structure and function of Complex III, which are important for a comprehensive summary. Additionally, it could provide more context on the clinical significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about a medical condition, which may be notable or require emphasis if not already detailed in the infobox. However, without knowing the content of the infobox, it's difficult to fully assess redundancy. Assuming the infobox contains basic information about the condition, the sentence seems to add specific details about the genetic cause and symptoms, which could justify its inclusion. The score reflects a slight deduction due to potential overlap with infobox content, but overall, it likely adds value by emphasizing specific aspects of the condition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Molecular Genetics and Metabolism Reports, 4:39\u00e2\u0080\u009341, September 2015.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of an article. It also does not follow any naming conventions, including the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's scope and adhere to the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation or reference, which is unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's content, structure, function, or clinical significance. To meet the requirement, the sentence should concisely convey the main points and findings of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference, which typically includes information such as the journal name, volume, page numbers, and date. If this information is already present in an infobox, repeating it in the text may not be necessary unless it is particularly notable. However, without context on what is in the infobox, it's difficult to determine if this repetition is justified. The sentence is concise and specific, which is why it scores relatively high, but it could be redundant if the infobox already contains this exact information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1016/j.ymgmr.2015.06.001 , doi:10.1016/j.ymgmr.2015.06.001.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It contains a URL and a DOI, which are identifiers for accessing the article, but it does not define the scope of the article. Additionally, there is no use of UniProt naming conventions, which are typically related to protein names and identifiers. The sentence lacks any content that would describe the article's scope or subject matter."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. The requirement is about using the recommended UniProt protein name or the HUGO gene symbol, but the sentence only contains a URL and a DOI reference, which are unrelated to protein names or gene symbols."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary or information about the article's content. It lacks any mention of structure, function, or clinical significance, which are key aspects that should be covered in the lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in an infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the sentence does provide both a URL and a DOI, which could be useful in some contexts, hence not scoring a 0.0."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(13 citations) 10.1016/j.ymgmr.2015.06.001]( https://doi.org/10.1016/j.ymgmr.2015.06.001 )\n\n[8.",
+      "title": "Introduction",
+      "score": 0.06,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation reference rather than a descriptive sentence about the article's content or scope. To meet the requirement, the sentence should clearly outline the article's focus and adhere to any specific naming conventions set by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference, which is unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It appears to be a citation or reference to an article, rather than a summary. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.2,
+          "feedback": [
+            "The sentence appears to be a citation reference, which is typically included in an infobox. It does not provide any additional context or notable information that would justify its repetition outside of the infobox. Therefore, it does not meet the requirement of avoiding repetition unless necessary."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Iommarini2017Mild) Luisa Iommarini, Anna Ghelli, Giulia Leone, Concetta Valentina Tropeano, Ivana Kurelac, Laura Benedetta Amato, Giuseppe Gasparre, and Anna Maria Porcelli.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation of authors and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions, as it lacks any mention of proteins, genes, or biological context. To meet the requirement, the sentence should introduce the topic or focus of the article in a way that aligns with UniProt standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. It lists authors of a study, but does not mention any protein names or gene symbols, nor does it attempt to use the UniProt protein name or HUGO gene symbol. To meet the requirement, the sentence should include a protein name or gene symbol and ensure it follows the specified guidelines."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation of authors and does not summarize the article at all. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, listing authors of a work. If this information is already present in an infobox, repeating it in the main text may not be necessary unless the authorship is particularly notable or requires emphasis. The sentence does not provide additional context or emphasis, so it partially meets the requirement by potentially being redundant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Mild phenotypes and proper supercomplex assembly in human cells carrying the homoplasmic m.15557g &gt; a mutation in cytochromebgene.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the study's focus, mentioning \"mild phenotypes\" and \"proper supercomplex assembly\" in human cells with a specific mutation. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. The gene name \"cytochromebgene\" is not formatted according to UniProt standards, which typically require specific formatting and nomenclature. Additionally, the sentence lacks context and detail that would help define the article's scope more comprehensively."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"cytochromebgene,\" which appears to be a reference to a gene or protein. However, it does not clearly use the recommended UniProt protein name or the HUGO gene symbol with disambiguation. The term \"cytochromebgene\" is not formatted correctly, as it should be \"cytochrome b gene\" or use the appropriate UniProt or HUGO designation. The sentence partially meets the requirement by mentioning the gene, but it lacks clarity and proper naming conventions."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the article by mentioning the mild phenotypes and proper supercomplex assembly in human cells with a specific mutation. However, it lacks details on the structure, function, and clinical significance of the mutation, which are key aspects required by the prompt. The sentence could be improved by including these elements to provide a more comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a concise summary of a specific scientific finding, which is likely to be notable. However, without the context of the infobox, it's difficult to determine if the information is repeated unnecessarily. Assuming the infobox contains detailed data about the mutation and its effects, the sentence might be slightly redundant. Nonetheless, it seems to emphasize the mild phenotypes and proper supercomplex assembly, which could be significant points worth highlighting."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Human Mutation, 39(1):92\u00e2\u0080\u0093102, October 2017.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation reference and does not define the scope of the article. It also does not follow any naming conventions, including those recommended by UniProt. To meet the requirement, the sentence should clearly outline the article's focus and adhere to the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not mention any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's content, such as structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes specific details such as journal name, volume, issue, page numbers, and date. If this information is already present in an infobox, repeating it in the main text might not be necessary unless it is particularly notable. However, since this is a standard format for citations, it is generally acceptable to include it for clarity and reference purposes. The score reflects that while the sentence may repeat information, it serves a specific function in academic writing."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1002/humu.23350 , doi:10.1002/humu.23350.",
+      "title": "Introduction",
+      "score": 0.06,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It only contains a URL and a DOI, which do not provide any information about the content or scope of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only provides a URL and a DOI, without any mention of a UniProt protein name or a HUGO gene symbol. To meet the requirement, the sentence should include either the recommended UniProt protein name or the HUGO gene symbol, depending on the length and context."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, without any summary or information about the article's structure, function, or clinical significance. There is no content that addresses the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.2,
+          "feedback": [
+            "The sentence repeats the DOI information twice, once as a URL and once as a DOI, which is unnecessary and does not meet the requirement to avoid repeating information unless it is particularly notable or requires emphasis. The repetition does not add value or emphasis, thus the sentence scores low on meeting the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(6 citations) 10.1002/humu.23350]( https://doi.org/10.1002/humu.23350 )\n\n[9.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation reference rather than a descriptive sentence about the article's content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation or reference rather than a summary of an article. It lacks any information about the article's structure, function, or clinical significance, and does not provide a concise summary of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically does not contain repeated information from an infobox. However, without context on what is in the infobox, it's difficult to fully assess if repetition is occurring. The score reflects that the sentence likely meets the requirement, assuming the citation is not repeated unnecessarily."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Blakely2005A) Emma L. Blakely, Anna L. Mitchell, Nicholas Fisher, Brigitte Meunier, Leo G. Nijtmans, Andrew M. Schaefer, Margaret J. Jackson, Douglass M. Turnbull, and Robert W. Taylor.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly state the topic or focus of the article in accordance with UniProt guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not contain any protein names or gene symbols. Therefore, it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The requirement is not applicable to the content of the sentence, which is a list of authors from a publication."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation listing authors of a study, not a summary of an article. It does not address any key aspects such as structure, function, or clinical significance, nor does it provide any detail about the content of the article. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, listing authors of a work. If this information is already present in an infobox, repeating it in this format may not be necessary unless the authorship is particularly notable or requires emphasis. The sentence partially meets the requirement by providing detailed author information, but it may not be necessary if the infobox already contains this data."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "A mitochondrial cytochrome b mutation causing severe respiratory chain enzyme deficiency in humans and yeast.",
+      "title": "Introduction",
+      "score": 0.46,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions a specific mutation and its effects, which could be part of the scope of an article. However, it does not clearly define the overall scope or purpose of the article. Additionally, it does not follow the recommended UniProt naming conventions, as it lacks specific protein or gene names and identifiers that are typically used in such conventions. To improve, the sentence should clearly state the main focus or objective of the article and include proper naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not use the recommended UniProt protein name or the HUGO gene symbol for \"mitochondrial cytochrome b.\" It simply refers to it as \"mitochondrial cytochrome b mutation,\" which does not meet the requirement of using the specific UniProt name or the HUGO gene symbol. To improve the score, the sentence should include the appropriate protein name or gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence identifies a key aspect of the article by mentioning a mitochondrial cytochrome b mutation and its effect on respiratory chain enzyme deficiency. However, it lacks details on the structure, function, and clinical significance of the mutation. The sentence is concise but does not fully summarize the article's key aspects as required."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence is concise and does not appear to repeat information unnecessarily. However, without the context of the infobox, it's difficult to determine if the information is already present there. Assuming the sentence is not redundant with the infobox, it meets the requirement well. If the mutation's impact is particularly notable, it justifies its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The FEBS Journal, 272(14):3583\u00e2\u0080\u00933592, July 2005.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly state the focus or subject of the article and adhere to the naming conventions specified by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not contain any protein names or gene symbols. Therefore, it cannot be evaluated against the requirement, which pertains to the use of UniProt protein names or HUGO gene symbols. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's content, such as structure, function, or clinical significance. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation for a journal article, which is typically concise and does not repeat information unnecessarily. However, without context on what is in the infobox, it's difficult to fully assess if any information is repeated. Assuming the infobox contains similar citation details, the sentence could be seen as redundant, but it is generally acceptable to include full citations in text for clarity and reference purposes."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1111/j.1742-4658.2005.04779.x , doi:10.1111/j.1742-4658.2005.04779.x.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it only provides a URL and a DOI, which are identifiers for accessing the article but do not describe its content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI, with no mention of a UniProt protein name or a HUGO gene symbol. To meet the requirement, the sentence should include a reference to a protein name or gene symbol, using the recommended UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary of the article's content. There is no information about the article's structure, function, or clinical significance, nor any attempt to summarize the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information twice, which is unnecessary unless there is a specific reason to emphasize it. This repetition does not align well with the requirement to avoid repeating information unless notable. The sentence could be improved by mentioning the DOI only once."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(76 citations) 10.1111/j.1742-4658.2005.04779.x]( https://doi.org/10.1111/j.1742-4658.2005.04779.x )",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation reference rather than a descriptive sentence about the article's content. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It does not mention any protein name or gene symbol, whether from UniProt or HUGO. Instead, it appears to be a citation reference with a DOI link, which is unrelated to the requirement of using specific protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a citation and a DOI link, without any summary or information about the article's structure, function, or clinical significance. There is no content to evaluate against the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats information that is likely to be found in an infobox, such as the number of citations and the DOI link. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement. However, without context on the infobox content, it's unclear if this repetition is entirely redundant, hence the mid-range score."
+          ]
+        }
+      ],
+      "color": "red"
+    }
+  ]
+}

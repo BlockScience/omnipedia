@@ -1,0 +1,62 @@
+# RPGR
+
+## Overview
+The RPGR gene encodes the retinitis pigmentosa GTPase regulator protein, which plays a critical role in the function and maintenance of photoreceptor cells in the retina. This protein is involved in ciliary trafficking and protein localization, essential for photoreceptor cell health. RPGR is characterized by its RCC1-like domain (RLD) and interacts with small GTPases such as RAB8A, suggesting a potential role as a guanine nucleotide exchange factor (GEF). The gene is known for its involvement in X-linked retinitis pigmentosa (XLRP), a severe neurodegenerative disease leading to progressive vision loss. Mutations in RPGR, particularly in its alternatively spliced isoforms and post-translationally modified regions, are linked to various retinal dystrophies and systemic conditions (Rao2016Loss; Khanna2018More).
+
+## Structure
+The RPGR (Retinitis Pigmentosa GTPase Regulator) protein exhibits a complex molecular structure characterized by several distinct domains and features relevant to its function. The protein includes an N-terminal RCC1-like domain (RLD), which is structurally modeled based on the RCC1 protein. This domain is composed of a propeller-like structure with seven blades consisting of four-stranded anti-parallel beta-sheets, although the RPGR RLD lacks complete homology in blades B1 and B7 (Patil2011Structural). The RLD is crucial for interactions with other proteins, including RPGRIP1a and potentially with GTPases (Patil2011Structural).
+
+RPGR also contains multiple isoforms resulting from alternative splicing, with significant variants including RPGR 1-19 and RPGR ORF15. The RPGR ORF15 isoform is particularly notable for its C-terminal domain, which is highly acidic and rich in glutamic acid and glycine residues, making it a hotspot for mutations (Tee2016RPGR-associated). This isoform is predominantly expressed in the retina and is crucial for photoreceptor function (Rachel2012Photoreceptor).
+
+Post-translational modifications of RPGR, such as phosphorylation and prenylation, are essential for its localization and function. The protein contains a conserved isoprenylation sequence, the CAAX box, at its carboxyl-terminal, which targets it to the Golgi apparatus (Anand2012Ciliary). These modifications and the structural diversity of its isoforms underline RPGR's multifaceted role in retinal health and disease.
+
+## Function
+The RPGR (retinitis pigmentosa GTPase regulator) gene encodes a protein that is crucial for the function and maintenance of photoreceptor cells in the retina, particularly through its role in ciliary trafficking and protein localization. RPGR exhibits homology to RCC1, a guanine nucleotide exchange factor (GEF), and interacts with the GDP-bound form of the small GTPase RAB8A, facilitating the conversion of RAB8A-GDP to RAB8A-GTP. This activity suggests that RPGR may function as a GEF, although its full GEF activity requires additional regions outside the RCC1-like domain (RLD) (Khanna2018More).
+
+RPGR is also involved in the localization of RAB8A at the cilia, interacting with other ciliary proteins such as CEP290 and PCM1, which regulate ciliary localization. The loss of RPGR results in reduced retention of RAB8A at the cilia and shortening of cilia length, indicating its role in cilia maintenance (Khanna2018More). Furthermore, RPGR forms multiprotein complexes with various ciliary proteins, highlighting its broader role in regulating ciliary function essential for photoreceptor cell health (Khanna2018More).
+
+Mutations in RPGR are a common cause of X-linked retinitis pigmentosa (XLRP), a severe neurodegenerative disease that leads to progressive vision loss, primarily affecting the rod photoreceptors initially and subsequently the cone photoreceptors (Rao2016Loss). This underscores the critical role of RPGR in maintaining the structural and functional integrity of photoreceptors.
+
+## Clinical Significance
+Mutations in the RPGR gene are primarily linked to X-linked retinitis pigmentosa (XLRP), a severe form of retinitis pigmentosa characterized by early onset and rapid progression towards blindness. These mutations are often found in exon ORF15, which is particularly prone to alterations such as large deletions, point mutations, and small insertions or deletions, leading to premature termination of translation (Zhang2019Novel; Vervoort2002Mutations). Beyond XLRP, RPGR mutations are also associated with other retinal dystrophies including cone-rod dystrophy and cone dystrophy, as well as systemic conditions like ciliary dyskinesia, which manifests with symptoms such as recurrent respiratory infections and hearing loss (Shu2007RPGRmutation).
+
+The phenotypic expression of RPGR mutations can vary significantly. Mutations in exons 2-14 generally result in a more severe form of XLRP, whereas mutations in exon ORF15 are linked to both severe and milder forms such as X-linked cone-rod dystrophy and X-linked atrophic macular degeneration (Shu2007RPGRmutation). Additionally, the location and type of mutation within RPGR can influence the severity and progression of the disease, with some mutations leading to distinct phenotypes like pathological myopia and preferential loss of cone function (Zhang2019Novel). 
+
+Female carriers of RPGR mutations can exhibit a wide range of phenotypes, from asymptomatic to severe, highlighting the variable expressivity and incomplete penetrance of X-linked retinal dystrophies associated with this gene (Yang2021GenotypeâPhenotype).
+
+## Interactions
+The RPGR protein interacts with several key proteins, crucial for its function in the retina and potentially other tissues. One of the primary interactions is with the delta subunit of rod cyclic GMP phosphodiesterase (PDEÎ´), which has been demonstrated using yeast two-hybrid analysis, pull-down assays, and surface plasmon resonance, showing a high binding affinity of approximately 90 nM (Linari1999The). This interaction is significant for RPGR's role in intracellular processes related to protein localization and transport.
+
+RPGR also forms complexes with proteins such as RPGRIP1L and INPP5E, which are essential for the localization and functioning of RPGR within the ciliary structures of cells. The RPGR ex1-19 isoform, in particular, interacts with these proteins, influencing its function and localization within cells (VÃ¶ssing2021The; Zhang2019Disruption). Mutations in RPGR, such as missense variations, can disrupt these interactions, leading to diseases like X-linked retinitis pigmentosa (XLRP) and stationary night blindness (CSNB) (Zhang2019Disruption).
+
+Furthermore, RPGR interacts with other proteins involved in ciliary function and photoreceptor cell viability, including PDE6D, which binds to the prenylated C-terminal part of RPGR (VÃ¶ssing2021The; Zhang2019Disruption). These interactions are crucial for maintaining the structure and function of photoreceptors in the retina, highlighting RPGR's role in microtubule organization and actin stability.
+
+
+## References
+
+
+[1. (Shu2007RPGRmutation) Xinhua Shu, Graeme C. Black, Jacqueline M. Rice, Niki Hart-Holden, Alison Jones, Anna OâGrady, Simon Ramsden, and Alan F. Wright. Rpgrmutation analysis and disease: an update. Human Mutation, 28(4):322â328, April 2007. URL: http://dx.doi.org/10.1002/humu.20461, doi:10.1002/humu.20461. (150 citations) 10.1002/humu.20461](https://doi.org/10.1002/humu.20461)
+
+[2. (Yang2021GenotypeâPhenotype) Junxing Yang, Lin Zhou, Jiamin Ouyang, Xueshan Xiao, Wenmin Sun, Shiqiang Li, and Qingjiong Zhang. Genotypeâphenotype analysis of rpgr variations: reporting of 62 chinese families and a literature review. Frontiers in Genetics, June 2021. URL: http://dx.doi.org/10.3389/fgene.2021.600210, doi:10.3389/fgene.2021.600210. (11 citations) 10.3389/fgene.2021.600210](https://doi.org/10.3389/fgene.2021.600210)
+
+[3. (Tee2016RPGR-associated) James J L Tee, Alexander J Smith, Alison J Hardcastle, and Michel Michaelides. Rpgr-associated retinopathy: clinical features, molecular genetics, animal models and therapeutic options. British Journal of Ophthalmology, 100(8):1022â1027, February 2016. URL: http://dx.doi.org/10.1136/bjophthalmol-2015-307698, doi:10.1136/bjophthalmol-2015-307698. (83 citations) 10.1136/bjophthalmol-2015-307698](https://doi.org/10.1136/bjophthalmol-2015-307698)
+
+[4. (Patil2011Structural) Hemangi Patil, Mallikarjuna R. Guruju, Kyoung-in Cho, Haiqing Yi, Andrew Orry, Hyesung Kim, and Paulo A. Ferreira. Structural and functional plasticity of subcellular tethering, targeting and processing of rpgrip1 by rpgr isoforms. Biology Open, 1(2):140â160, December 2011. URL: http://dx.doi.org/10.1242/bio.2011489, doi:10.1242/bio.2011489. (20 citations) 10.1242/bio.2011489](https://doi.org/10.1242/bio.2011489)
+
+[5. (Rao2016Loss) Kollu N. Rao, Linjing Li, Wei Zhang, Richard S. Brush, Raju V.S. Rajala, and Hemant Khanna. Loss of human disease protein retinitis pigmentosa gtpase regulator (rpgr) differentially affects rod or cone-enriched retina. Human Molecular Genetics, 25(7):1345â1356, January 2016. URL: http://dx.doi.org/10.1093/hmg/ddw017, doi:10.1093/hmg/ddw017. (21 citations) 10.1093/hmg/ddw017](https://doi.org/10.1093/hmg/ddw017)
+
+[6. (VÃ¶ssing2021The) Christine VÃ¶ssing, Paul Atigbire, Jannis Eilers, Fenja Markus, Knut Stieger, Fei Song, and John Neidhardt. The major ciliary isoforms of rpgr build different interaction complexes with inpp5e and rpgrip1l. International Journal of Molecular Sciences, 22(7):3583, March 2021. URL: http://dx.doi.org/10.3390/ijms22073583, doi:10.3390/ijms22073583. (10 citations) 10.3390/ijms22073583](https://doi.org/10.3390/ijms22073583)
+
+[7. (Anand2012Ciliary) Manisha Anand and Hemant Khanna. Ciliary transition zone (tz) proteins rpgr and cep290: role in photoreceptor cilia and degenerative diseases. Expert Opinion on Therapeutic Targets, 16(6):541â551, May 2012. URL: http://dx.doi.org/10.1517/14728222.2012.680956, doi:10.1517/14728222.2012.680956. (53 citations) 10.1517/14728222.2012.680956](https://doi.org/10.1517/14728222.2012.680956)
+
+[8. (Zhang2019Disruption) Qihong Zhang, Joseph C. Giacalone, Charles Searby, Edwin M. Stone, Budd A. Tucker, and Val C. Sheffield. Disruption of rpgr protein interaction network is the common feature of rpgr missense variations that cause xlrp. Proceedings of the National Academy of Sciences, 116(4):1353â1360, January 2019. URL: http://dx.doi.org/10.1073/pnas.1817639116, doi:10.1073/pnas.1817639116. (32 citations) 10.1073/pnas.1817639116](https://doi.org/10.1073/pnas.1817639116)
+
+[9. (Zhang2019Novel) Zhimeng Zhang, Hehua Dai, Lei Wang, Tianchang Tao, Jing Xu, Xiaowei Sun, Liping Yang, and Genlin Li. Novel mutations of rpgr in chinese families with x-linked retinitis pigmentosa. BMC Ophthalmology, November 2019. URL: http://dx.doi.org/10.1186/s12886-019-1250-7, doi:10.1186/s12886-019-1250-7. (3 citations) 10.1186/s12886-019-1250-7](https://doi.org/10.1186/s12886-019-1250-7)
+
+[10. (Khanna2018More) Hemant Khanna. More Than Meets the Eye: Current Understanding of RPGR Function, pages 521â538. Springer International Publishing, 2018. URL: http://dx.doi.org/10.1007/978-3-319-75402-4_64, doi:10.1007/978-3-319-75402-4_64. (22 citations) 10.1007/978-3-319-75402-4_64](https://doi.org/10.1007/978-3-319-75402-4_64)
+
+[11. (Rachel2012Photoreceptor) Rivka A Rachel, Tiansen Li, and Anand Swaroop. Photoreceptor sensory cilia and ciliopathies: focus on cep290, rpgr and their interacting proteins. Cilia, December 2012. URL: http://dx.doi.org/10.1186/2046-2530-1-22, doi:10.1186/2046-2530-1-22. (147 citations) 10.1186/2046-2530-1-22](https://doi.org/10.1186/2046-2530-1-22)
+
+[12. (Linari1999The) Marco Linari, Marius Ueffing, Forbes Manson, Alan Wright, Thomas Meitinger, and JÃ¶rg Becker. The retinitis pigmentosa gtpase regulator, rpgr, interacts with the delta subunit of rod cyclic gmp phosphodiesterase. Proceedings of the National Academy of Sciences, 96(4):1315â1320, February 1999. URL: http://dx.doi.org/10.1073/pnas.96.4.1315, doi:10.1073/pnas.96.4.1315. (148 citations) 10.1073/pnas.96.4.1315](https://doi.org/10.1073/pnas.96.4.1315)
+
+[13. (Vervoort2002Mutations) Raf Vervoort and Alan F. Wright. Mutations ofrpgr in x-linked retinitis pigmentosa (rp3). Human Mutation, 19(5):486â500, April 2002. URL: http://dx.doi.org/10.1002/humu.10057, doi:10.1002/humu.10057. (106 citations) 10.1002/humu.10057](https://doi.org/10.1002/humu.10057)

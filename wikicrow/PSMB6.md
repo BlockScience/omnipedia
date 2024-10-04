@@ -1,0 +1,33 @@
+# PSMB6
+
+## Overview
+PSMB6 is a gene that encodes the proteasome subunit beta type-6, which is an integral part of the 20S core proteasome complex involved in the ubiquitin-proteasome system (UPS). This system is crucial for protein degradation, regulating the concentration of specific proteins to maintain homeostasis within the cell. The proteasome subunit beta type-6 is one of the catalytic subunits in the proteasome and is essential for the proteolytic activity of the proteasome, particularly in cleaving peptides after acidic residues. The protein plays a significant role in various cellular processes including cell cycle control, signal transduction, and immune responses. The gene and its protein product are also implicated in several clinical conditions, highlighting their importance in both health and disease (shi2020proteasome; Guo2022Bioinformatic).
+
+## Function
+PSMB6 encodes the Î²1 subunit of the proteasome, a component of the 20S core proteasome essential in the ubiquitin-proteasome system (UPS) for protein degradation. This system plays a pivotal role in maintaining cellular protein homeostasis by degrading misfolded, damaged, or short-lived proteins. The Î²1 subunit, along with Î²2 and Î²5, is responsible for the proteolytic activity of the proteasome, specifically hydrolyzing peptide bonds after acidic residues. This activity is crucial for the degradation of proteins, which is central to various cellular processes including cell cycle regulation, signal transduction, and immune responses (Guo2022Bioinformatic).
+
+In healthy human cells, PSMB6 is significantly expressed in proximal tubular cells of the kidney, suggesting its importance in the normal function of these cells. The consistent expression of PSMB6 in both normal and cancerous kidney tissues indicates its fundamental role in cellular processes irrespective of disease state (Guo2022Bioinformatic).
+
+Moreover, the regulation of PSMB6 is influenced by IFN-Î³, indicating its involvement in immune responses. This interaction suggests that PSMB6 could play a role in immunosuppression mechanisms when altered, potentially influencing tumor growth and other disease processes (Guo2022Bioinformatic).
+
+## Clinical Significance
+Mutations and alterations in the expression of the PSMB6 gene, which encodes the beta 6 subunit of the 20S proteasome, have significant clinical implications, particularly in the context of multiple myeloma (MM). Research has shown that depletion of PSMB6 using CRISPR technology results in a lethal phenotype in MM cell lines, underscoring its essential role in cell viability. This dependency suggests that PSMB6 is a critical structural component of the proteasome necessary for the survival of these cells (shi2020proteasome). Additionally, the interaction between PSMB6 and mutations in other proteasome subunits like PSMB5 has been linked to altered sensitivity to proteasome inhibitors such as Bortezomib, a common therapeutic agent in MM treatment. Specifically, MM cells harboring a PSMB5 mutation showed restored sensitivity to Bortezomib when expressing functionally deficient PSMB6, indicating a complex interplay that could influence treatment outcomes (shi2020proteasome).
+
+Moreover, the expression levels of PSMB6, along with other proteasome subunits, are modulated in response to Bortezomib treatment, suggesting a mechanism of acquired drug resistance. Increased expression of these subunits, including PSMB6, has been observed in some patients following treatment, which may contribute to the reduced efficacy of the drug over time (shi2020proteasome). These findings highlight the importance of PSMB6 not only in the pathology of MM but also in the therapeutic strategies aimed at targeting proteasome activity in cancer treatment.
+
+## Interactions
+PSMB6, a component of the 20S core particle of the proteasome, does not physically interact with the matrix protein of vesicular stomatitis virus (VSV M). This was determined through yeast two-hybrid assays and coimmunoprecipitation experiments where cDNAs encoding the precursor and mature forms of PSMB6 were tested against VSV M constructs, showing no interaction (Beilstein2015Characterization). Further experiments confirmed that myc-tagged versions of PSMB6 did not co-precipitate with VSV M in mammalian cells, unlike myc-tagged LMP2, which did interact with VSV M (Beilstein2015Characterization).
+
+In another study, PSMB6 was identified as potentially involved in the development of resistance to the insecticide deltamethrin in mosquitoes. This involvement is suggested through the elevation of PSMB6 expression in deltamethrin-resistant mosquito cells, indicating a role in the ubiquitin-proteasome pathway which is crucial for various cellular processes including protein degradation (Sun2013Identification). Proteasome inhibitors like MG-132 and bortezomib increased susceptibility in these resistant cells, further implicating the proteasome pathway in resistance mechanisms (Sun2013Identification).
+
+
+## References
+
+
+[1. (shi2020proteasome) Shi, Chang-Xin, et al. "Proteasome subunits differentially control myeloma cell viability and proteasome inhibitor sensitivity." Molecular Cancer Research 18.10 (2020): 1453-1464. (17 citations) 10/1453/90141](https://doi.org/10/1453/90141)
+
+[2. (Sun2013Identification) Linchun Sun, Yuting Ye, Haibo Sun, Jing Yu, Li Zhang, Yan Sun, Donghui Zhang, Lei Ma, Bo Shen, and Changliang Zhu. Identification of proteasome subunit beta type 6 (psmb6) associated with deltamethrin resistance in mosquitoes by proteomic and bioassay analyses. PLoS ONE, 8(6):e65859, June 2013. URL: http://dx.doi.org/10.1371/journal.pone.0065859, doi:10.1371/journal.pone.0065859. (17 citations) 10.1371/journal.pone.0065859](https://doi.org/10.1371/journal.pone.0065859)
+
+[3. (Guo2022Bioinformatic) Jing-Yi Guo, Zuo-qian Jing, Xue-jie Li, and Li-yuan Liu. Bioinformatic analysis identifying psmb 1/2/3/4/6/8/9/10 as prognostic indicators in clear cell renal cell carcinoma. International Journal of Medical Sciences, 19(5):796â812, 2022. URL: http://dx.doi.org/10.7150/ijms.71152, doi:10.7150/ijms.71152. (5 citations) 10.7150/ijms.71152](https://doi.org/10.7150/ijms.71152)
+
+[4. (Beilstein2015Characterization) Frauke Beilstein, Linda Obiang, HÃ©lÃ¨ne Raux, and Yves Gaudin. Characterization of the interaction between the matrix protein of vesicular stomatitis virus and the immunoproteasome subunit lmp2. Journal of Virology, 89(21):11019â11029, November 2015. URL: http://dx.doi.org/10.1128/jvi.01753-15, doi:10.1128/jvi.01753-15. (13 citations) 10.1128/jvi.01753-15](https://doi.org/10.1128/jvi.01753-15)

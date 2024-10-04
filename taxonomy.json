@@ -1,0 +1,327 @@
+{
+  "ArticleComponents": {
+    "LeadSection": {
+      "Requirements": {
+        "DefineScope": {
+          "Description": "The first sentence should define the scope of the article, following the recommended UniProt naming conventions.",
+          "Category": "Content Quality",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "ALDOA is a protein that in humans is encoded by the ALDOA gene.",
+            "NonCompliant": "ALDOA is an important protein involved in many processes."
+          }
+        },
+        "UseUniProtName": {
+          "Description": "Use the recommended UniProt protein name if it is relatively short, otherwise use the HUGO gene symbol with disambiguation if necessary.",
+          "Category": "Naming Conventions",
+          "Applicability": "Conditional",
+          "Condition": "If UniProt name is short",
+          "Examples": {
+            "Compliant": "ALDOA is a protein...",
+            "NonCompliant": "Aldo-keto reductase family 1 member A is a protein..."
+          }
+        },
+        "SummaryConciseness": {
+          "Description": "The lead must summarize the article concisely, covering key aspects like structure, function, and clinical significance without unnecessary detail.",
+          "Category": "Content Quality",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "ALDOA is a protein that in humans is encoded by the ALDOA gene. It plays a critical role in glycolysis and is involved in various cellular processes.",
+            "NonCompliant": "This article discusses ALDOA, which is a protein encoded by the ALDOA gene. Various studies have shown its importance in glycolysis..."
+          }
+        },
+        "AvoidRedundancy": {
+          "Description": "Avoid repeating information that is already present in the infobox unless it is particularly notable or requires emphasis.",
+          "Category": "Structural Consistency",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "ALDOA plays a critical role in glycolysis and various cellular processes.",
+            "NonCompliant": "ALDOA is a protein that in humans is encoded by the ALDOA gene. (Repeated from infobox)"
+          }
+        }
+      }
+    },
+    "GeneSection": {
+      "Requirements": {
+        "GeneInformation": {
+          "Description": "Include specific information about the gene, such as its location on the human chromosome, its regulation, and any known splice variants.",
+          "Category": "Content Quality",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "The ALDOA gene is located on chromosome 16 and is regulated by various transcription factors.",
+            "NonCompliant": "ALDOA is a gene involved in metabolism."
+          }
+        },
+        "AvoidRedundancy": {
+          "Description": "Do not unnecessarily repeat information already contained in the infobox unless it is especially notable.",
+          "Category": "Structural Consistency",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "The ALDOA gene is located on chromosome 16.",
+            "NonCompliant": "The ALDOA gene is located on chromosome 16. (Repeated from infobox)"
+          }
+        }
+      }
+    },
+    "ProteinSection": {
+      "Requirements": {
+        "ProteinDetails": {
+          "Description": "Include specific information about the protein, such as splice variants, post-translational modifications, and any known structural features.",
+          "Category": "Content Quality",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "ALDOA has two splice variants and undergoes phosphorylation at serine residues.",
+            "NonCompliant": "ALDOA is involved in glycolysis and is important for metabolism."
+          }
+        },
+        "NeutralTone": {
+          "Description": "Maintain a neutral tone without promoting studies, researchers, or institutions.",
+          "Category": "Neutral Tone",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "Studies have shown that ALDOA plays a role in glycolysis.",
+            "NonCompliant": "Dr. Smith's groundbreaking research proves ALDOA is the key to metabolism."
+          }
+        }
+      }
+    },
+    "SpeciesTissueSubcellularDistributionSection": {
+      "Requirements": {
+        "SpeciesExpression": {
+          "Description": "Describe the species in which the gene is expressed, including specific mentions if it has a wide distribution.",
+          "Category": "Content Quality",
+          "Applicability": "Optional",
+          "Examples": {
+            "Compliant": "ALDOA is expressed in mammals, bacteria, and fungi.",
+            "NonCompliant": "ALDOA is found in many organisms."
+          }
+        },
+        "TissueExpression": {
+          "Description": "Describe the tissues where the protein is expressed, specifying primary and secondary locations if applicable.",
+          "Category": "Content Quality",
+          "Applicability": "Optional",
+          "Examples": {
+            "Compliant": "ALDOA is primarily expressed in liver and muscle tissues.",
+            "NonCompliant": "ALDOA is found in various tissues."
+          }
+        },
+        "SubcellularLocalization": {
+          "Description": "Describe the subcellular compartments or organelles where the protein is located, specifying exact locations where possible.",
+          "Category": "Content Quality",
+          "Applicability": "Optional",
+          "Examples": {
+            "Compliant": "ALDOA is localized in the cytoplasm and nucleus.",
+            "NonCompliant": "ALDOA is found in the cell."
+          }
+        }
+      }
+    },
+    "FunctionSection": {
+      "Requirements": {
+        "FunctionDescription": {
+          "Description": "Describe the function of the transcribed protein, detailing its role in specific biochemical pathways or cellular processes.",
+          "Category": "Content Quality",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "ALDOA catalyzes the reversible aldolase reaction in glycolysis.",
+            "NonCompliant": "ALDOA is important for energy production."
+          }
+        }
+      }
+    },
+    "InteractionsSection": {
+      "Requirements": {
+        "ProteinInteractions": {
+          "Description": "List proteins that the subject protein interacts with, specifying the nature of these interactions if known.",
+          "Category": "Content Quality",
+          "Applicability": "Optional",
+          "Examples": {
+            "Compliant": "ALDOA interacts with GAPDH and PGK1.",
+            "NonCompliant": "ALDOA interacts with other proteins."
+          }
+        }
+      }
+    },
+    "ClinicalSignificanceSection": {
+      "Requirements": {
+        "DiseaseAssociations": {
+          "Description": "List diseases or conditions resulting from mutations in the gene or imbalances in protein levels, providing specific details where possible.",
+          "Category": "Content Quality",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "Mutations in ALDOA can lead to glycolytic enzyme deficiencies, resulting in muscle weakness and hemolytic anemia.",
+            "NonCompliant": "ALDOA is linked to various diseases."
+          }
+        }
+      }
+    },
+    "HistoryDiscoverySection": {
+      "Requirements": {
+        "NotableContributions": {
+          "Description": "Mention key discoveries and the contributors who made them without referencing their institutions or promoting them.",
+          "Category": "Content Quality",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "ALDOA was first cloned by Dr. Jane Doe in 1995, identifying its role in glycolysis.",
+            "NonCompliant": "Research from Harvard University discovered the function of ALDOA."
+          }
+        }
+      }
+    },
+    "Infoboxes": {
+      "Requirements": {
+        "IncludeAppropriateInfobox": {
+          "Description": "Include one or more appropriate infoboxes based on gene/protein attributes, ensuring relevance and accuracy.",
+          "Category": "Formatting",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "Includes {{Infobox GNF protein}} and {{Infobox enzyme}} for ALDOA.",
+            "NonCompliant": "Does not include any infobox."
+          }
+        },
+        "InfoboxTypeAccuracy": {
+          "Description": "Use the correct infobox type (e.g., {{Infobox GNF protein}}, {{Infobox Enzyme}}) based on gene/protein attributes and available data.",
+          "Category": "Structural Consistency",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "Uses {{Infobox enzyme}} for an enzyme with EC number.",
+            "NonCompliant": "Uses {{Infobox protein}} for a non-enzymatic protein."
+          }
+        },
+        "LimitInfoboxQuantity": {
+          "Description": "Avoid excessive infoboxes; place less useful ones in a section at the end if necessary to maintain article readability.",
+          "Category": "Structural Consistency",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "Includes only relevant infoboxes at the top; extra infoboxes are placed in an end section.",
+            "NonCompliant": "Includes numerous infoboxes cluttering the top of the article."
+          }
+        }
+      }
+    },
+    "References": {
+      "Requirements": {
+        "InlineCitations": {
+          "Description": "Use inline citations with <ref> tags or parenthetical citations to reference specific statements.",
+          "Category": "Citation Standards",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "ALDOA is involved in glycolysis.<ref>Reference</ref>",
+            "NonCompliant": "ALDOA is involved in glycolysis. References: Reference."
+          }
+        },
+        "ReliableSources": {
+          "Description": "All statements must have reliable sources, preferably peer-reviewed journals or reputable databases.",
+          "Category": "Citation Standards",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "ALDOA plays a role in glycolysis.<ref>Reliable Source</ref>",
+            "NonCompliant": "ALDOA plays a role in glycolysis."
+          }
+        },
+        "ConsistentCitationFormat": {
+          "Description": "Citation format must be consistent within the article, either using manual formatting or citation templates uniformly.",
+          "Category": "Formatting",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "All citations use {{Cite journal}} templates.",
+            "NonCompliant": "Mix of manual citations and templates."
+          }
+        },
+        "AvoidGeneralReferences": {
+          "Description": "Do not use non-specific or general references without linking them to specific statements to ensure verifiability.",
+          "Category": "Citation Standards",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "Each statement has its own reference.",
+            "NonCompliant": "Multiple statements refer to a general reference at the end."
+          }
+        },
+        "HyperlinksInCitations": {
+          "Description": "Supply hyperlinks for PubMed abstracts, DOIs, and freely available full texts where applicable to enhance accessibility.",
+          "Category": "Citation Standards",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "{{Cite journal | doi=10.1002/... | url=http://...}}",
+            "NonCompliant": "{{Cite journal | title=...}}"
+          }
+        },
+        "NoRetrievedDatesForConvenienceLinks": {
+          "Description": "Do not add 'Retrieved on' dates for convenience links to online paper journals; they are unnecessary and clutter citations.",
+          "Category": "Formatting",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "{{Cite journal | url=...}}",
+            "NonCompliant": "{{Cite journal | url=... | retrieved=2024-01-01}}"
+          }
+        },
+        "UseCitationTemplates": {
+          "Description": "Prefer using citation templates like {{Cite journal}}, {{Cite book}}, etc., to ensure uniformity and ease of formatting.",
+          "Category": "Citation Standards",
+          "Applicability": "Recommended",
+          "Examples": {
+            "Compliant": "{{Cite journal | author=Smith J | title=Study on ALDOA | journal=Bioinformatics | year=2020 | doi=10.1002/...}}",
+            "NonCompliant": "Smith J (2020). Study on ALDOA. Bioinformatics."
+          }
+        }
+      }
+    },
+    "NavigationBox": {
+      "Requirements": {
+        "IncludeRelevantNavboxes": {
+          "Description": "Include one or more navigation boxes relevant to related proteins or categories to facilitate navigation between related articles.",
+          "Category": "Formatting",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "Includes {{Cytoskeletal Proteins}} and {{Ion channels}} navboxes.",
+            "NonCompliant": "Does not include any navigation boxes."
+          }
+        }
+      }
+    },
+    "CategoriesSection": {
+      "Requirements": {
+        "AtLeastOneCategory": {
+          "Description": "Add the article to at least one relevant category to ensure it is discoverable within Wikipedia's category system.",
+          "Category": "Categorization",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "[[:Category:Proteins]]",
+            "NonCompliant": "No categories added."
+          }
+        },
+        "AppropriateSubcategories": {
+          "Description": "Use categories or subcategories appropriate to gene and protein articles, avoiding overly broad or unrelated categories.",
+          "Category": "Categorization",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "[[:Category:Enzymes by function]]",
+            "NonCompliant": "[[:Category:Biology]]"
+          }
+        },
+        "UseSpecificCategories": {
+          "Description": "Whenever possible, use more specific categories to enhance article specificity and discoverability.",
+          "Category": "Categorization",
+          "Applicability": "Recommended",
+          "Examples": {
+            "Compliant": "[[:Category:Glycolysis enzymes]]",
+            "NonCompliant": "[[:Category:Metabolic processes]]"
+          }
+        }
+      }
+    },
+    "WikidataItem": {
+      "Requirements": {
+        "LinkToCorrectWikidataItem": {
+          "Description": "Link the article to the Wikidata item corresponding to the first entity mentioned in the lead section, ensuring it reflects the correct scope (e.g., protein vs. gene).",
+          "Category": "Linking",
+          "Applicability": "Mandatory",
+          "Examples": {
+            "Compliant": "Links to steroid 21-hydroxylase protein Wikidata item.",
+            "NonCompliant": "Links to the gene Wikidata item instead."
+          }
+        }
+      }
+    }
+  }
+}

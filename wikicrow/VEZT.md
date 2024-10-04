@@ -1,0 +1,37 @@
+# VEZT
+
+## Overview
+VEZT is a gene that encodes the protein vezatin, a transmembrane protein integral to the maintenance of adherens junctions, which are critical for cellular adhesion and tissue integrity. Vezatin is characterized by a short extracellular domain, a single transmembrane domain, and a long intracellular domain, which interacts with various cytoskeletal components. This protein is essential in linking the actin cytoskeleton to the cadherin-catenin complex at adherens junctions, thereby playing a pivotal role in cell adhesion and the mechanical stability of tissues. Vezatin is involved in several key processes including signal transduction, cellular morphology, and migration, particularly in epithelial cells and neurons. Its significance extends to clinical implications, where alterations in its expression or function are associated with conditions such as cancer and endometriosis (Miao2013VEZT; Bahloul2009Vezatin).
+
+## Function
+VEZT, or vezatin, is a transmembrane protein encoded by the VEZT gene, which is crucial for the maintenance of adherens junctions in epithelial cells. These junctions are essential for the structural integrity and function of cellular adhesion, playing a significant role in tissue architecture and intercellular communication. The protein has a short extracellular domain, a transmembrane domain, and a long intracellular domain, which is known to bind to myosin VIIA. This interaction suggests a role in linking cell adhesion structures to the cytoskeleton, potentially influencing cell shape, stability, and communication (Guo2011Down-regulation).
+
+VEZT is involved in connecting myosin VIIa and the E-cadherin catenin/actin complex through its intracellular and extracellular domains, which are vital for maintaining the structural integrity and function of cellular adhesion junctions (Xie2017Up-regulation). Additionally, VEZT is highly expressed in the brain, particularly in dendritic spines of mouse hippocampal neurons, where it regulates spine morphology and is essential for the morpho-functional maturation of excitatory postsynaptic elements, indicating its role in neural development and function (Miao2013VEZT).
+
+## Clinical Significance
+VEZT, identified as a putative tumor suppressor, is significantly implicated in the pathology of gastric cancer. Its expression is frequently silenced or downregulated in gastric cancer due to promoter methylation, which is often induced by Helicobacter pylori infection. This downregulation is associated with increased tumor progression, invasion, and metastasis. Studies have shown that restoring VEZT expression in gastric cancer cell lines significantly reduces their invasive and migratory capabilities, and inhibits tumor growth and tumorigenicity both in vitro and in vivo (Miao2013VEZT). 
+
+Additionally, VEZT has been studied in the context of endometriosis, a complex gynecological disorder. Variants in the VEZT gene, particularly at the 12q22 locus, have been associated with an increased risk of developing endometriosis. The risk allele of a specific single nucleotide polymorphism (SNP) is linked to higher VEZT expression in endometrial tissues, suggesting a role in the etiology of the disease (Holdsworth-Carson2016Endometrial).
+
+These findings underscore the clinical significance of VEZT in gastric cancer and endometriosis, highlighting its potential as a biomarker for these conditions and as a target for therapeutic intervention.
+
+## Interactions
+VEZT, or vezatin, is involved in several crucial protein-protein interactions that contribute to its function in adherens junctions, particularly in cochlear hair cells. Vezatin directly interacts with the C-terminal FERM domain of myosin VIIa and with radixin, a member of the ezrin-radixin-moesin (ERM) family. These interactions are essential for linking vezatin to the actin cytoskeleton, thereby supporting cell-cell adhesion and the mechanical stability of cell structures under stress, such as sound-induced vibrations in the cochlea (Bahloul2009Vezatin).
+
+Additionally, vezatin is associated with both dynamic and stable pools of actin at mature adherens junctions. It plays a role in the stability of these junctions and is suggested to help stabilize homo-E-cadherin through its association with the stable pool of actin. The interaction between vezatin and radixin is facilitated by the membrane phosphatidylinositol 4,5-bisphosphate (PIP2), which is locally produced due to the homophilic interaction between E-cadherin monomers (Bahloul2009Vezatin).
+
+Experimental studies have further demonstrated vezatin's interactions at the molecular level. Co-immunoprecipitation experiments and interactions with glutathione beads coupled to GST fusion proteins have been used to analyze these interactions, confirming vezatin's role within cellular structures and its interaction with other molecular entities (Bahloul2009Vezatin).
+
+
+## References
+
+
+[1. (Xie2017Up-regulation) Detian Xie, Liang Shang, Lipan Peng, and Leping Li. Up-regulation of vezt by small activating rna inhibits the proliferation, invasion and migration of gastric cancer cells. Biochemical and Biophysical Research Communications, 482(4):542â548, January 2017. URL: http://dx.doi.org/10.1016/j.bbrc.2016.11.071, doi:10.1016/j.bbrc.2016.11.071. (12 citations) 10.1016/j.bbrc.2016.11.071](https://doi.org/10.1016/j.bbrc.2016.11.071)
+
+[2. (Holdsworth-Carson2016Endometrial) Sarah J. Holdsworth-Carson, Jenny N. Fung, Hien T.T. Luong, Yadav Sapkota, Lisa M. Bowdler, Leanne Wallace, Wan Tinn Teh, Joseph E. Powell, Jane E. Girling, Martin Healey, Grant W. Montgomery, and Peter A.W. Rogers. Endometrial vezatin and its association with endometriosis risk. Human Reproduction, 31(5):999â1013, March 2016. URL: http://dx.doi.org/10.1093/humrep/dew047, doi:10.1093/humrep/dew047. (36 citations) 10.1093/humrep/dew047](https://doi.org/10.1093/humrep/dew047)
+
+[3. (Miao2013VEZT) Ruizhen Miao, Xiaobo Guo, Qiaoming Zhi, Yulong Shi, Leping Li, Xuehui Mao, Li Zhang, and Chensheng Li. Vezt, a novel putative tumor suppressor, suppresses the growth and tumorigenicity of gastric cancer. PLoS ONE, 8(9):e74409, September 2013. URL: http://dx.doi.org/10.1371/journal.pone.0074409, doi:10.1371/journal.pone.0074409. (40 citations) 10.1371/journal.pone.0074409](https://doi.org/10.1371/journal.pone.0074409)
+
+[4. (Bahloul2009Vezatin) Amel Bahloul, MarieâChristine Simmler, Vincent Michel, Michel Leibovici, Isabelle Perfettini, Isabelle Roux, Dominique Weil, Sylvie Nouaille, Jian Zuo, Cristina Zadro, Danilo Licastro, Paolo Gasparini, Paul Avan, JeanâPierre Hardelin, and Christine Petit. Vezatin, an integral membrane protein of adherens junctions, is required for the sound resilience of cochlear hair cells. EMBO Molecular Medicine, 1(2):125â138, May 2009. URL: http://dx.doi.org/10.1002/emmm.200900015, doi:10.1002/emmm.200900015. (52 citations) 10.1002/emmm.200900015](https://doi.org/10.1002/emmm.200900015)
+
+[5. (Guo2011Down-regulation) Xiaobo Guo, Changqing Jing, Leping Li, Li Zhang, Yulong Shi, Jinshen Wang, Jinglei Liu, and Chensheng Li. Down-regulation of vezt gene expression in human gastric cancer involves promoter methylation and mir-43c. Biochemical and Biophysical Research Communications, 404(2):622â627, January 2011. URL: http://dx.doi.org/10.1016/j.bbrc.2010.12.026, doi:10.1016/j.bbrc.2010.12.026. (50 citations) 10.1016/j.bbrc.2010.12.026](https://doi.org/10.1016/j.bbrc.2010.12.026)

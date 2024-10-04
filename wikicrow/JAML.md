@@ -1,0 +1,42 @@
+# JAML
+
+## Overview
+Junctional Adhesion Molecule-Like (JAML) is a gene that encodes a type I transmembrane glycoprotein involved in various biological processes including immunity, inflammation, and cellular adhesion. The protein encoded by JAML, also referred to as JAML, is characterized by its two immunoglobulin-like (Ig) domains which facilitate its role in cell signaling and interaction with other proteins such as the Coxsackie and adenovirus receptor (CAR). This interaction is crucial for the activation of epithelial Î³Î´ T cells, which play a significant role in immune responses and tissue repair mechanisms. JAML's involvement in these processes makes it a potential target for therapeutic interventions in conditions like diabetic kidney disease and other inflammatory diseases (Verdino2010The).
+
+## Structure
+JAML (Junctional Adhesion Molecule-Like) is a protein that exhibits a compact and rigid assembly of its immunoglobulin (Ig) domains, which are crucial for its function. The protein structure includes two V-set Ig domains, D1 and D2, which form a stable configuration constrained by an interdomain parallel Î²-sheet interaction, numerous hydrogen bonds, a salt bridge, hydrophobic packing, and a short interdomain linker. This arrangement allows JAML to act as a single rigid unit, which is atypical compared to the elongated structures of other tandem Ig-domain receptors (Verdino2010The).
+
+The D1 domain is membrane-distal, while the D2 domain is membrane-proximal, with the D1 and D2 domains comprising 9 Î²-strands arranged into two antiparallel Î²-sheets linked by canonical disulfide bridges. This structural organization supports the protein's role in cellular signaling and adhesion (Verdino2010The).
+
+Post-translational modifications of JAML include N-linked glycosylation at specific asparagine residues, which are crucial for the protein's stability and function. These glycosylation sites are not conserved across species, suggesting a role in protein stabilization rather than direct functional interactions (Verdino2010The).
+
+The interaction of JAML with other proteins, such as the CAR ligand and the HL4E10 Fab antibody, involves distinct binding kinetics and affinities, facilitated by the structural features of the D1 and D2 domains. These interactions are characterized by hydrophobic and van der Waals interactions, indicating a versatile binding capability that can influence signaling pathways (Verdino2011Molecular).
+
+## Function
+Junctional Adhesion Molecule-Like (JAML) is a type I transmembrane glycoprotein that plays a crucial role in immunity, inflammation, and tissue homeostasis. Structurally, JAML features a globular ectodomain composed of two immunoglobulin (Ig) domains, which facilitate its interaction with the Coxsackie and adenovirus receptor (CAR) on epithelial Î³Î´ T cells. This interaction is essential for leukocyte migration and the activation of epithelial Î³Î´ T cells, which are pivotal in processes such as wound repair and the inflammatory response (Verdino2010The).
+
+The binding of CAR to JAML on these T cells triggers a cascade of cellular responses including the production of cytokines and growth factors, activation of the MAP kinase pathway, and cell proliferation. These activities underscore the role of JAML, in conjunction with CAR, in forming a vital cell signaling complex within the immune system (Verdino2010The).
+
+Moreover, JAML's structure includes multiple Ig domains that provide a compact and rigid assembly for ligand binding. Its extended stalk offers flexibility, which is crucial for its interaction with CAR across opposing cell surfaces, highlighting its role in rapid kinetics and high ligand specificity during cell-cell interactions (Verdino2010The).
+
+## Clinical Significance
+JAML (Junctional Adhesion Molecule-Like) has been identified as a significant factor in the pathogenesis of diabetic kidney disease (DKD) and other proteinuric kidney diseases such as Focal Segmental Glomerulosclerosis (FSGS) and Membranous Nephropathy (MN). Elevated expression of JAML in podocytes, cells crucial for kidney function, correlates with increased severity of DKD and is associated with lipid accumulation in these cells, which is a key feature of the disease. This suggests that JAML could serve as a potential biomarker for DKD and related conditions (Fu2020Elevation).
+
+Research indicates that JAML contributes to podocyte injury by regulating lipid metabolism through the SREBP1 transcription factor, and its interaction with SIRT1 further links it to critical metabolic pathways in podocytes. These interactions are crucial for maintaining lipid homeostasis, and disruptions can lead to kidney dysfunction (Fu2020Elevation). Moreover, podocyte-specific Jaml knockout mice have shown reduced renal injury in diabetic conditions, highlighting JAML's role in the progression of kidney diseases and suggesting that targeting JAML could be a therapeutic strategy for managing such conditions (Fu2020Elevation).
+
+## Interactions
+The Junctional Adhesion Molecule-Like protein (JAML) interacts with the Coxsackie and adenovirus receptor (CAR) through a detailed and specific interface involving the ectodomains of both proteins, which are type I transmembrane glycoproteins. This interaction is mediated by their respective Immunoglobulin (Ig) domains, forming a handshake-like configuration and is characterized by a combination of electrostatic and hydrophobic interactions. The interface includes 110 protein-protein interactions, comprising 13 salt links, 6 hydrogen bonds, and 91 van der Waals' contacts, and buries a surface area of 1460 Ã2. Key residues involved in the interaction include Asp35, Glu37, Asp49, Lys102, and Lys104 from CAR, and Asp36, Arg37, Asp39, Glu100, Arg102, and Lys111 from JAML. This interaction is crucial for the biological functions of JAML, including leukocyte migration and activation of Î³Î´ T cell responses, important for immune system signaling and response (Verdino2010The).
+
+In the context of inflammation, JAML released from polymorphonuclear leukocytes (PMN) during activation binds to CAR expressed on epithelial cells, impacting epithelial barrier function and wound healing. This binding inhibits epithelial barrier function, demonstrated by decreased transepithelial resistance and increased permeability in epithelial monolayers. The interaction is specifically inhibited by monoclonal antibody DW100, which binds to the D1 domain of JAML, blocking its interaction with CAR and reversing the negative effects on epithelial barrier function (Weber2014Neutrophil-derived).
+
+
+## References
+
+
+[1. (Verdino2010The) Petra Verdino, Deborah A. Witherden, Wendy L. Havran, and Ian A. Wilson. The molecular interaction of car and jaml recruits the central cell signal transducer pi3k. Science, 329(5996):1210â1214, September 2010. URL: http://dx.doi.org/10.1126/science.1187996, doi:10.1126/science.1187996. (149 citations) 10.1126/science.1187996](https://doi.org/10.1126/science.1187996)
+
+[2. (Fu2020Elevation) Yi Fu, Yu Sun, Mei Wang, Yunfeng Hou, Wei Huang, Di Zhou, Ziying Wang, Shuting Yang, Wei Tang, Junhui Zhen, Yujia Li, Xiaojie Wang, Min Liu, Yan Zhang, Baobao Wang, Guangyi Liu, Xiao Yu, Jinpeng Sun, Chun Zhang, and Fan Yi. Elevation of jaml promotes diabetic kidney disease by modulating podocyte lipid metabolism. Cell Metabolism, 32(6):1052-1062.e8, December 2020. URL: http://dx.doi.org/10.1016/j.cmet.2020.10.019, doi:10.1016/j.cmet.2020.10.019. (98 citations) 10.1016/j.cmet.2020.10.019](https://doi.org/10.1016/j.cmet.2020.10.019)
+
+[3. (Weber2014Neutrophil-derived) D A Weber, R Sumagin, I C McCall, G Leoni, P A Neumann, R Andargachew, J C Brazil, O Medina-Contreras, T L Denning, A Nusrat, and C A Parkos. Neutrophil-derived jaml inhibits repair of intestinal epithelial injury during acute inflammation. Mucosal Immunology, 7(5):1221â1232, September 2014. URL: http://dx.doi.org/10.1038/mi.2014.12, doi:10.1038/mi.2014.12. (57 citations) 10.1038/mi.2014.12](https://doi.org/10.1038/mi.2014.12)
+
+[4. (Verdino2011Molecular) Petra Verdino, Deborah A. Witherden, M. Sharon Ferguson, Adam L. Corper, AndrÃ© Schiefner, Wendy L. Havran, and Ian A. Wilson. Molecular insights into Î³Î´ t cell costimulation by an anti-jaml antibody. Structure, 19(1):80â89, January 2011. URL: http://dx.doi.org/10.1016/j.str.2010.10.007, doi:10.1016/j.str.2010.10.007. (14 citations) 10.1016/j.str.2010.10.007](https://doi.org/10.1016/j.str.2010.10.007)

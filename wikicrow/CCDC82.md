@@ -1,0 +1,24 @@
+# CCDC82
+
+## Overview
+CCDC82, or coiled-coil domain containing 82, is a gene located in humans that encodes the protein also known as coiled-coil domain containing 82. This protein, although not extensively characterized, is part of the broader family of CCDC proteins which are known to play roles in various cellular processes through the assembly of protein complexes and facilitation of protein interactions. The specific functions and interactions of the CCDC82 protein, as well as its precise cellular localization, remain to be fully elucidated. However, mutations in the CCDC82 gene have been linked to autosomal recessive intellectual disability (ARID), suggesting its importance in neurodevelopment and cognitive function (Riazuddin2016Exome). Further research is necessary to uncover the detailed roles and mechanisms of CCDC82 in both health and disease.
+
+## Function
+The specific function of the CCDC82 gene or its encoded protein in healthy human cells is not detailed in the available literature. The excerpts reviewed do not provide information on the molecular processes, cellular roles, or organismal outcomes associated with CCDC82. While CCDC proteins, in general, are involved in a variety of structural and functional roles within cells, including the assembly of protein complexes and facilitation of protein interactions, the particular activities and cellular locations of CCDC82 remain unmentioned in the provided context (Priyanka2021Coiled-Coil). Further research is necessary to elucidate the specific roles and mechanisms of CCDC82 in cell biology and human health.
+
+## Clinical Significance
+CCDC82 has been implicated in various neurogenetic disorders, particularly autosomal recessive intellectual disability (ARID). Mutations in CCDC82 have been identified in multiple consanguineous families, suggesting a significant role in the development of intellectual disabilities. A specific frameshift mutation (c.373delG) leading to a premature stop codon (p.(Asp125Ilefs*6)) has been associated with intellectual disability in Pakistani consanguineous families, indicating its potential impact on cognitive function (Riazuddin2016Exome). Additionally, the gene is co-expressed with other candidate genes in various regions of the human brain, such as the frontal cortex and sub-cortical areas, from early developmental stages to late childhood, which supports its involvement in brain development and function (Riazuddin2016Exome).
+
+Furthermore, the presence of mutations in CCDC82 across different studies highlights its potential as a critical factor in the genetic heterogeneity observed in ARID. The gene's role is further supported by its identification in studies using advanced genetic testing techniques like homozygosity mapping and whole exome sequencing in large consanguineous families (Mir2019Advances; Harripaul2016Mapping). However, the specific diseases or conditions linked to alterations in CCDC82 expression beyond ARID are not well detailed in the available literature.
+
+
+## References
+
+
+[1. (Mir2019Advances) Yaser Rafiq Mir and Raja Amir Hassan Kuchay. Advances in identification of genes involved in autosomal recessive intellectual disability: a brief review. Journal of Medical Genetics, 56(9):567â573, March 2019. URL: http://dx.doi.org/10.1136/jmedgenet-2018-105821, doi:10.1136/jmedgenet-2018-105821. (19 citations) 10.1136/jmedgenet-2018-105821](https://doi.org/10.1136/jmedgenet-2018-105821)
+
+[2. (Harripaul2016Mapping) Mapping Autosomal Recessive Intellectual Disability: Combined Microarray and Exome Sequencing Identifies 26 Novel Candidate Genes in 192 Consanguineous Families (1 citations) 10.1101/092346](https://doi.org/10.1101/092346)
+
+[3. (Priyanka2021Coiled-Coil) Patra Priyadarshini Priyanka and Suresh Yenugu. Coiled-coil domain-containing (ccdc) proteins: functional roles in general and male reproductive physiology. Reproductive Sciences, 28(10):2725â2734, May 2021. URL: http://dx.doi.org/10.1007/s43032-021-00595-2, doi:10.1007/s43032-021-00595-2. (46 citations) 10.1007/s43032-021-00595-2](https://doi.org/10.1007/s43032-021-00595-2)
+
+[4. (Riazuddin2016Exome) S Riazuddin, M Hussain, A Razzaq, Z Iqbal, M Shahzad, D L Polla, Y Song, E van Beusekom, A A Khan, L Tomas-Roca, M Rashid, M Y Zahoor, W M Wissink-Lindhout, M A R Basra, M Ansar, Z Agha, K van Heeswijk, F Rasheed, M Van de Vorst, J A Veltman, C Gilissen, J Akram, T Kleefstra, M Z Assir, D Grozeva, K Carss, F L Raymond, T D OâConnor, S A Riazuddin, S N Khan, Z M Ahmed, A P M de Brouwer, H van Bokhoven, and S Riazuddin. Exome sequencing of pakistani consanguineous families identifies 30 novel candidate genes for recessive intellectual disability. Molecular Psychiatry, 22(11):1604â1614, July 2016. URL: http://dx.doi.org/10.1038/mp.2016.109, doi:10.1038/mp.2016.109. (94 citations) 10.1038/mp.2016.109](https://doi.org/10.1038/mp.2016.109)

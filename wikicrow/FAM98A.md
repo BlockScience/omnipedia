@@ -1,0 +1,44 @@
+# FAM98A
+
+## Overview
+FAM98A, or Family with Sequence Similarity 98 Member A, is a gene in humans that encodes a protein involved in multiple cellular processes, including stress response, mRNA regulation, and cellular architecture. The FAM98A protein is part of a larger family of proteins characterized by their involvement in protein-protein interactions and cellular signaling pathways. Notably, FAM98A has been implicated in the formation and function of stress granules, structures that protect cellular components under stress conditions. The protein's structure includes a calponin homology-like domain and coiled-coil regions, which facilitate its interactions with other proteins and contribute to its role in cellular dynamics and architecture (Li2019FAM98A; Zheng2018FAM98A). Additionally, FAM98A's involvement in various cancers highlights its potential as a therapeutic target, underscoring its importance in both health and disease (Akter2017FAM98A; Liu2021MicroRNAâ26a).
+
+## Structure
+The molecular structure of the FAM98A protein is characterized by several distinct features. The N-terminal region of FAM98A includes a divergent calponin homology (CH)-like domain, which is typically involved in interactions with actin and other cytoskeletal elements, suggesting a role in cellular architecture or motility (Li2019FAM98A; Zheng2018FAM98A). Additionally, the C-terminal region contains heptad repeats that form a coiled-coil structure, facilitating protein-protein interactions, which are crucial for the formation of protein complexes or signaling cascades (Li2019FAM98A).
+
+FAM98A is also subject to post-translational modifications; it is arginine-methylated by protein arginine methyltransferase 1 (PRMT1), which is a significant modification affecting its function and interactions (Zheng2018FAM98A). This methylation is crucial for its role in cellular processes such as lysosome positioning and secretion, mediated through interactions with proteins like NDEL1 and PLEKHM1 within a molecular complex that includes DEF8 and RAB7 (Li2019FAM98A; Zheng2018FAM98A).
+
+However, detailed information on the tertiary or quaternary structures of FAM98A, or specific folds and splice variant isoforms, is not provided in the available literature. Thus, while the primary and secondary structural elements are somewhat characterized, further studies are needed to elucidate the complete structural biology of FAM98A.
+
+## Function
+FAM98A, or Family with Sequence Similarity 98 Member A, is a protein encoded by the FAM98A gene in humans, which plays a significant role in various cellular processes. This protein is involved in the formation and localization of stress granules, cytoplasmic aggregates of proteins and RNAs that form in response to environmental stresses such as heat, osmotic shock, and oxidative stress. FAM98A specifically localizes to these granules, aiding in the sequestration and protection of mRNAs and proteins involved in survival pathways under stress conditions (Ozeki2018FAM98A).
+
+Additionally, FAM98A interacts with several other proteins localized to stress granules, such as DDX1, ATXN2, ATXN2L, and NUFIP2, suggesting a role in the organization and function of these granules (Li2019FAM98A; Ozeki2018FAM98A). The protein also forms a complex with DDX1 and C14orf166, which is crucial for the expression of PRMT1, a protein arginine methyltransferase involved in various cellular processes including signal transduction, gene transcription, DNA repair, and mRNA splicing (Akter2017FAM98A).
+
+In summary, FAM98A is active in several cellular compartments, including the cytoplasm and nucleus, and is involved in both nuclear and cytoplasmic functions, influencing the stability and translation of mRNA as well as the dynamics of actin filaments. This multifunctional role underscores its importance in cellular organization, stress response mechanisms, and broader cellular processes essential for the maintenance and survival of body tissues.
+
+## Clinical Significance
+FAM98A has been implicated in the progression and prognosis of several cancers. In breast cancer, miR-26a targets FAM98A, and its decreased expression is associated with increased cell proliferation and metastasis, suggesting a tumor suppressive role for miR-26a via its regulation of FAM98A (Liu2021MicroRNAâ26a). Similarly, in colorectal cancer, FAM98A is overexpressed and its knockdown results in reduced cell proliferation and colony formation, indicating its role as a tumor promoter (Akter2017FAM98A). FAM98A is also highly expressed in ovarian and lung cancer, where it contributes to poor prognosis and enhanced cancer cell capabilities (Liu2021MicroRNAâ26a).
+
+In endometrial carcinoma, FAM98A expression is significantly higher in cancerous tissues compared to non-tumor controls, and its high levels are associated with poor patient outcomes. Silencing FAM98A in endometrial carcinoma cell lines leads to decreased cell viability and increased apoptosis, highlighting its potential as a therapeutic target (Li2019FAM98A).
+
+These findings underscore the clinical significance of FAM98A in various cancers, suggesting that it could serve as a potential biomarker and therapeutic target across multiple cancer types.
+
+## Interactions
+FAM98A, a protein encoded by the human gene Family with Sequence Similarity 98 Member A, is involved in various protein-protein interactions that are crucial for cellular functions and disease progression. It forms a complex with FAM98B, DDX1, and C14orf166, which is essential for the expression of PRMT1, a protein arginine methyltransferase significantly involved in cancer progression. This complex plays a critical role in PRMT1-mediated arginine methylation, affecting cancer cell proliferation, migration, and invasion (Akter2017FAM98A). Additionally, FAM98A is part of a novel complex identified in colorectal cancer samples, where it interacts with PRMT1, and this interaction is crucial for maintaining PRMT1 levels and function (Akter2017FAM98A).
+
+FAM98A also localizes to stress granules under stress conditions and interacts with several stress granule-localized proteins, including DDX1, ATXN2, ATXN2L, and NUFIP2. These interactions suggest a role for FAM98A in the organization and possibly the function of stress granules, which are involved in mRNA regulation during cellular stress (Ozeki2018FAM98A). The C-terminal region of FAM98A, rich in low complexity sequences, is crucial for its accumulation in stress granules, indicating a specific domain necessary for its localization and function in these structures (Ozeki2018FAM98A).
+
+
+## References
+
+
+[1. (Liu2021MicroRNAâ26a) Tan Liu, Ziming Wang, Menghao Dong, Jingjing Wei, and Yueyin Pan. Micrornaâ26a inhibits cell proliferation and invasion by targeting fam98a in breast cancer. Oncology Letters, March 2021. URL: http://dx.doi.org/10.3892/ol.2021.12628, doi:10.3892/ol.2021.12628. (13 citations) 10.3892/ol.2021.12628](https://doi.org/10.3892/ol.2021.12628)
+
+[2. (Li2019FAM98A) Zenghui Li, Ning Li, Xiaomei Sun, and Jing Wang. Fam98a promotes cancer progression in endometrial carcinoma. Molecular and Cellular Biochemistry, 459(1â2):131â139, May 2019. URL: http://dx.doi.org/10.1007/s11010-019-03556-1, doi:10.1007/s11010-019-03556-1. (11 citations) 10.1007/s11010-019-03556-1](https://doi.org/10.1007/s11010-019-03556-1)
+
+[3. (Ozeki2018FAM98A) Kanako Ozeki, Mai Sugiyama, Khondker Ayesha Akter, Kimitoshi Nishiwaki, Eri Asano-Inami, and Takeshi Senga. Fam98a is localized to stress granules and associates with multiple stress granule-localized proteins. Molecular and Cellular Biochemistry, 451(1â2):107â115, July 2018. URL: http://dx.doi.org/10.1007/s11010-018-3397-6, doi:10.1007/s11010-018-3397-6. (11 citations) 10.1007/s11010-018-3397-6](https://doi.org/10.1007/s11010-018-3397-6)
+
+[4. (Akter2017FAM98A) Khondker Ayesha Akter, Mohammed A. Mansour, Toshinori Hyodo, and Takeshi Senga. Fam98a associates with ddx1-c14orf166-fam98b in a novel complex involved in colorectal cancer progression. The International Journal of Biochemistry &amp; Cell Biology, 84:1â13, March 2017. URL: http://dx.doi.org/10.1016/j.biocel.2016.12.013, doi:10.1016/j.biocel.2016.12.013. (35 citations) 10.1016/j.biocel.2016.12.013](https://doi.org/10.1016/j.biocel.2016.12.013)
+
+[5. (Zheng2018FAM98A) Rui Zheng, Quanbo Liu, Tianxu Wang, Lili Wang, and Yong Zhang. Fam98a promotes proliferation of non-small cell lung cancer cells via the p38-atf2 signaling pathway. Cancer Management and Research, Volume 10:2269â2278, July 2018. URL: http://dx.doi.org/10.2147/CMAR.S163323, doi:10.2147/cmar.s163323. (13 citations) 10.2147/CMAR.S163323](https://doi.org/10.2147/CMAR.S163323)

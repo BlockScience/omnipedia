@@ -1,0 +1,1624 @@
+{
+  "LeadSection": [
+    {
+      "text": "# MYOM2 # # Overview\nMYOM2 is a gene that encodes the protein myomesin 2, a structural component of the M-band in sarcomeres, which are the fundamental units of muscle fibers in both skeletal and cardiac muscles.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a definition of MYOM2 and its role, which partially sets the scope of the article. However, it does not fully adhere to the recommended UniProt naming conventions, as it lacks specific details such as the organism or the UniProt identifier. Additionally, the sentence could be more explicit in defining the overall scope of the article beyond just the gene and protein function."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"MYOM2\" to refer to the gene, which is appropriate if the UniProt protein name is long. However, the requirement suggests using the UniProt protein name if it is relatively short. The sentence does not provide the UniProt protein name, so it is unclear if it meets the requirement fully. To improve the score, the sentence should include the UniProt protein name if it is indeed short."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the gene MYOM2, mentioning its role in encoding the protein myomesin 2 and its structural function in muscle fibers. However, it lacks information on the clinical significance of MYOM2, which is a key aspect required by the prompt. Additionally, the sentence includes some unnecessary detail, such as the specific mention of \"M-band in sarcomeres,\" which could be simplified to focus on the broader context."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise overview of the MYOM2 gene and its function, which is likely to be notable information. However, without seeing the infobox, it's difficult to determine if the information is repeated unnecessarily. Assuming the infobox contains similar details, the sentence could be seen as slightly redundant, but it does emphasize the gene's role in muscle fibers, which may warrant repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Myomesin 2 plays a pivotal role in the structural integrity and biomechanical function of muscle tissues by anchoring and cross-linking thick filaments of myosin and interacting with other sarcomeric proteins such as titin and MYH7.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a detailed description of the function of Myomesin 2, which is useful information, but it does not clearly define the scope of the article. Additionally, it does not explicitly follow the recommended UniProt naming conventions, which typically involve using the official protein name and gene symbol. To better meet the requirement, the sentence should clearly state the focus of the article and adhere to the naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Myomesin 2,\" which is the recommended UniProt protein name, meeting the requirement for using the UniProt name if it is relatively short. However, the sentence also mentions \"MYH7,\" which is a HUGO gene symbol. The requirement suggests using the HUGO gene symbol with disambiguation if necessary, but it is unclear if disambiguation is needed here. The sentence partially meets the requirement by using the UniProt name for Myomesin 2 but lacks clarity on whether the use of \"MYH7\" is appropriate without disambiguation."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the structure and function of Myomesin 2, highlighting its role in muscle tissues and interactions with other proteins. However, it lacks coverage of the clinical significance, which is a key aspect mentioned in the requirement. Additionally, while it avoids unnecessary detail, it could be more comprehensive in addressing all specified elements."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the role of Myomesin 2 in muscle tissues, which may already be present in an infobox. However, it emphasizes the specific interactions with sarcomeric proteins like titin and MYH7, which could be considered notable. The sentence mostly meets the requirement by focusing on the functional aspects, but it could be more concise if the information is not particularly notable or requires emphasis beyond what is in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This interaction is crucial for maintaining the alignment and stability of the thick filaments during muscle contraction and relaxation cycles.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It describes a specific interaction related to muscle contraction and relaxation but does not provide an overview or context for the article's content."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the score, the sentence should include a specific protein name or gene symbol related to the interaction being described."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provided focuses on a specific aspect of muscle function, namely the interaction that maintains alignment and stability of thick filaments during contraction and relaxation. However, it does not summarize the article concisely or cover key aspects such as structure, function, and clinical significance. It lacks a broader context and does not provide a comprehensive overview, which is necessary to meet the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of the interaction in muscle contraction and relaxation cycles, which may not be detailed in an infobox. However, without knowing the content of the infobox, it's difficult to fully assess the necessity of this repetition. If the infobox already contains this information, the sentence might be slightly redundant unless the detail is particularly notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein is predominantly expressed in the adult heart and fast skeletal muscle fibers, where it contributes to the contractile performance and structural organization of the sarcomere.",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about the expression and function of a protein, but it does not define the overall scope of an article. Additionally, it does not follow the recommended UniProt naming conventions, which typically include the protein name and its gene name. To better meet the requirement, the sentence should introduce the protein by name and outline the broader context or focus of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention the UniProt protein name or the HUGO gene symbol, which is required by the guideline. It only describes the protein's expression and function without identifying it by name or symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the protein's expression and its role in contractile performance and structural organization, which touches on function and structure. However, it lacks a summary of the article's key aspects, particularly clinical significance, and does not concisely cover the broader context or findings of the article. It also includes unnecessary detail about specific muscle types without addressing the overall significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the expression and function of the protein, which may not be detailed in an infobox. However, if the infobox already contains this exact information, the sentence could be seen as repetitive. The score reflects that while the sentence is informative, it may not be necessary if the infobox covers these details comprehensively."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Despite its critical role in muscle function, the detailed molecular structure of myomesin 2 remains less understood, highlighting the need for further research to elucidate its structural and functional mechanisms in muscle and cardiac tissues (Auxerre-Planti\u00c3\u00a92020Identification; Lamber2022The).",
+      "title": "Introduction",
+      "score": 0.46,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the topic of the article, which is the molecular structure of myomesin 2 and its role in muscle and cardiac tissues. However, it does not clearly define the scope of the article in a comprehensive manner. Additionally, it does not follow the recommended UniProt naming conventions, as it does not specify the protein name according to those standards. The sentence could be improved by explicitly stating the focus of the article and ensuring the protein name adheres to UniProt conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it uses \"myomesin 2\" without specifying whether this is the recommended UniProt protein name or the HUGO gene symbol. The requirement explicitly asks for the use of the recommended UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary. The sentence fails to clarify which naming convention is being used, thus not adhering to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by mentioning the need for further research into the molecular structure and function of myomesin 2, which is relevant to muscle and cardiac tissues. However, it lacks a concise summary of the article's key aspects, such as specific findings or clinical significance. Additionally, the sentence includes unnecessary detail by citing references, which is not needed in a lead summary. To improve, the sentence should provide a clearer overview of the article's main points, including any significant discoveries or implications for clinical practice."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the molecular structure of myomesin 2 and its role in muscle and cardiac tissues, which may not be redundant unless the infobox already contains detailed information about these aspects. The references to specific studies (Auxerre-Planti\u00e9 2020 and Lamber 2022) suggest that the information might be notable or require emphasis. However, without knowing the content of the infobox, it's difficult to fully assess redundancy. The sentence is likely to meet the requirement well unless the infobox already covers these details extensively."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Structure\nThe MYOM2 protein, encoded by the MYOM2 gene, is characterized by a complex domain structure that includes immunoglobulin-like (Ig) and fibronectin type III (FN3) domains.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides some information about the MYOM2 protein and its gene, but it does not clearly define the scope of the article. It lacks a broader context or purpose that would indicate the article's focus. Additionally, it does not explicitly follow the recommended UniProt naming conventions, which typically involve a more structured introduction to the protein's function, organism, or relevance."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"MYOM2\" to refer to the protein, which is acceptable if the UniProt protein name is not relatively short. However, the sentence does not specify whether the UniProt protein name was considered or if disambiguation was necessary. To fully meet the requirement, the sentence should either use the recommended UniProt protein name if it is short or clarify why the HUGO gene symbol was used."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the structure of the MYOM2 protein, mentioning its domain composition. However, it lacks information on the function and clinical significance of the protein, which are key aspects required for a comprehensive summary. Additionally, the sentence includes unnecessary detail about the specific domains without addressing the broader context or implications."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the MYOM2 protein's domain structure, which may be notable or require emphasis if not already detailed in the infobox. However, without knowing the content of the infobox, it's difficult to fully assess the necessity of this repetition. If the infobox already contains this information and it is not particularly notable, the sentence could be seen as redundant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These domains are crucial for the protein's function as a cross-linker in the sarcomere's M-band, facilitating interactions with neighboring thick filaments of myosin and other sarcomere proteins such as titin (TTN) and MYH7 (Auxerre-Planti\u00c3\u00a92020Identification).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it provides specific information about the function of protein domains in the sarcomere's M-band. To meet the requirement, the sentence should introduce the main topic or focus of the article and adhere to UniProt naming conventions, which typically involve standardized protein and gene names."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols \"TTN\" and \"MYH7\" for titin and myosin heavy chain 7, respectively. However, it does not specify whether these are the recommended UniProt protein names or if the HUGO gene symbols were chosen due to length considerations. The sentence could be improved by clarifying the choice of names based on the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the function of certain protein domains in the sarcomere's M-band, specifically their role as a cross-linker and interactions with other proteins. However, it lacks a comprehensive summary of the article, as it does not address the structure or clinical significance of the protein. Additionally, it includes a citation in an unclear format, which may be considered unnecessary detail. Overall, the sentence does not effectively summarize the article's key aspects as required."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the protein's function and interactions within the sarcomere's M-band. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable. However, the sentence does not appear to be overly redundant or repetitive, so it largely meets the requirement. The score reflects that while the sentence is informative, it could be more concise if the details are already covered elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The C-terminal part of MYOM2 comprises five Ig domains, which likely form Ig-helix patterns similar to those found in myomesin-1, although MYOM2 does not exhibit dimerization at domain Mp13, suggesting a unique aspect of the C-terminus that might be involved in unknown interactions (Lamber2022The).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively define the scope of the article. It provides specific information about the C-terminal part of MYOM2 and its structural characteristics, but it does not give an overview or context of the article's broader focus. Additionally, it does not follow the recommended UniProt naming conventions, as it lacks clarity on the protein's full name and relevant identifiers. To better meet the requirement, the sentence should introduce the main topic or research question of the article and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MYOM2,\" which is the HUGO gene symbol. However, it does not provide any disambiguation or context to clarify that it is referring to the protein encoded by this gene. If the recommended UniProt protein name is relatively short, it should have been used instead. The sentence partially meets the requirement by using the gene symbol, but it lacks clarity or adherence to the preferred naming convention if the UniProt name is short."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the structure of MYOM2, mentioning its C-terminal part and Ig domains, but it does not effectively summarize the article as a whole. It lacks information on the function and clinical significance of MYOM2, which are key aspects required by the prompt. Additionally, the sentence includes unnecessary detail about domain Mp13 and potential interactions, which does not contribute to a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the C-terminal part of MYOM2, including the presence of five Ig domains and a comparison to myomesin-1. It also notes the lack of dimerization at domain Mp13, suggesting unique interactions. If this information is already present in the infobox, it might be considered repetitive unless these details are particularly notable or require emphasis. The sentence does a good job of providing specific insights, which could justify its inclusion beyond the infobox content. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Despite the detailed description of domain interactions, specific information on the primary, secondary, tertiary, and quaternary structures of MYOM2 is not provided in the available literature.",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it comments on the lack of specific structural information about MYOM2 in the literature. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MYOM2,\" which is the HUGO gene symbol. However, it does not provide any disambiguation or context to clarify what MYOM2 refers to. If the recommended UniProt protein name is relatively short, it should have been used instead. The sentence partially meets the requirement by using the gene symbol, but it lacks the necessary disambiguation or consideration of the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the lack of specific structural information about MYOM2, which partially addresses the requirement to cover structure. However, it does not summarize the article concisely or cover other key aspects such as function and clinical significance. Additionally, it focuses on what is not provided rather than summarizing the available content, which does not align well with the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the lack of structural details on MYOM2, which may not be present in an infobox. It avoids unnecessary repetition and highlights a gap in the literature, which could be considered notable. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, the texts do not detail common post-translational modifications or splice variant isoforms of MYOM2, indicating gaps in the current understanding of the molecular structure of this protein.",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it discusses a specific aspect of the protein MYOM2, mentioning gaps in understanding related to post-translational modifications and splice variant isoforms. Additionally, there is no indication that UniProt naming conventions are being followed in this sentence. To meet the requirement, the sentence should clearly outline the article's scope and adhere to the recommended naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"MYOM2\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used according to the requirement. The sentence partially meets the requirement by using a recognized symbol, but it does not fully comply with the preference for the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively summarize an article. It focuses narrowly on the lack of information about post-translational modifications and splice variants of MYOM2, which may be a small part of the article's content. It does not address the overall structure, function, or clinical significance of MYOM2, nor does it provide a comprehensive summary. The sentence lacks the breadth and conciseness needed to meet the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information that would typically be found in an infobox, such as basic facts or statistics. Instead, it highlights a gap in the current understanding of MYOM2, which could be considered notable. However, without context on what the infobox contains, it's difficult to fully assess the necessity of this emphasis. The sentence seems to meet the requirement well, assuming the infobox does not already cover these specific gaps in detail."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This lack of detailed structural information underscores the need for further research to fully elucidate the molecular architecture and functional mechanisms of MYOM2 in muscle and cardiac tissues.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It mentions the need for further research on MYOM2 in muscle and cardiac tissues, which could be part of the article's scope, but it lacks clarity and specificity. To better meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MYOM2,\" which is the HUGO gene symbol. However, the requirement suggests using the UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name for MYOM2, it's unclear if the sentence fully meets the requirement. If the UniProt name is indeed short, it should have been used instead."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence highlights the need for further research on MYOM2's molecular architecture and functional mechanisms, which touches on structure and function. However, it lacks a summary of the article's key aspects, such as specific findings or clinical significance, and does not provide a concise overview. It focuses more on the need for research rather than summarizing existing content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence effectively emphasizes the need for further research on MYOM2, which could be considered notable. However, if the infobox already contains detailed information about the lack of structural information and the need for further research, this sentence might be somewhat repetitive. The score reflects that while the sentence may repeat some information, it does so in a way that highlights the importance of the topic, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Function\nMYOM2 encodes the myomesin 2 protein, which is a crucial component of the M-band in sarcomeres, the basic units of muscle fibers in both skeletal and cardiac muscles.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a brief introduction to the MYOM2 gene and its function, which partially defines the scope of the article. However, it does not fully adhere to the recommended UniProt naming conventions, which typically include the full name of the protein, its gene symbol, and a brief description of its function and significance. The sentence could be improved by explicitly stating the full name of the protein and its gene symbol according to UniProt standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"MYOM2\" to refer to the protein, which is acceptable if the UniProt protein name is long or complex. However, the requirement suggests using the UniProt protein name if it is relatively short. Without knowing the length of the UniProt name, it's unclear if the sentence fully meets the requirement. If the UniProt name is indeed short, it should be used instead of the gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the MYOM2 gene and its role in encoding the myomesin 2 protein, highlighting its structural function in muscle fibers. However, it lacks coverage of the clinical significance of MYOM2, which is a key aspect of the requirement. Additionally, the sentence does not provide a comprehensive summary of the article, as it only touches on the structural aspect without addressing other potential key points."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the MYOM2 gene and its role in encoding the myomesin 2 protein, which is a crucial component of the M-band in sarcomeres. If this information is already present in the infobox, it may be considered repetitive. However, the sentence does emphasize the importance of the protein in muscle fibers, which could be notable. The score reflects that while there is some repetition, the emphasis on the protein's role could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This protein plays a significant role in anchoring the thick (myosin) and thin (actin) filaments within the sarcomere, influencing the contractile performance of the heart and skeletal muscle (Auxerre-Planti\u00c3\u00a92020Identification).",
+      "title": "Introduction",
+      "score": 0.43,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the role of a protein in muscle contraction, which could be part of the scope of an article. However, it does not clearly define the overall scope of the article, nor does it follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and use proper UniProt terminology to name the protein."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not use either the recommended UniProt protein name or the HUGO gene symbol. It refers to \"this protein\" without specifying which protein it is, thus failing to meet the requirement of using a specific and recognized name or symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.4,
+          "feedback": [
+            "The sentence provides a brief overview of the protein's role in anchoring filaments within the sarcomere and its influence on muscle contractile performance. However, it lacks details on the protein's structure and clinical significance, which are key aspects mentioned in the requirement. Additionally, the citation is not properly formatted, which detracts from the clarity and professionalism of the summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of a protein in muscle contraction, which may not be redundant if the infobox does not contain detailed information about the protein's function. However, if the infobox already includes this level of detail, the sentence could be considered repetitive. The score reflects the potential for redundancy, but also acknowledges that the information might be notable or require emphasis if not fully covered in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Myomesin 2 is specifically expressed in the adult heart and fast fibers, where it acts as a cross-linker for neighboring thick filaments of myosin and interacts with titin, contributing to the structural organization of the sarcomere (Auxerre-Planti\u00c3\u00a92020Identification).",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about Myomesin 2, including its expression and function, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically include the protein name, gene name, and species. The sentence also lacks context about the broader topic or focus of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Myomesin 2,\" which is a common name for the protein encoded by the MYOM2 gene. However, it is unclear whether \"Myomesin 2\" is the recommended UniProt protein name or if the HUGO gene symbol (MYOM2) should have been used. The sentence partially meets the requirement by using a recognizable name, but it does not clarify if it aligns with the specific naming convention requested. More context or verification of the recommended UniProt name is needed for a higher score."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of Myomesin 2, mentioning its expression in the adult heart and fast fibers, its role as a cross-linker, and its interaction with titin. However, it lacks a comprehensive summary of the article, as it does not cover the clinical significance or provide a broader context of the research findings. Additionally, the citation is incomplete and not properly formatted, which detracts from clarity. Overall, the sentence is too focused on specific details without addressing the broader aspects required for a lead summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about Myomesin 2, including its specific expression in the adult heart and fast fibers, its role as a cross-linker, and its interaction with titin. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable. However, the sentence does not appear to be overly redundant or unnecessary, so it largely meets the requirement. The score reflects that while the sentence is informative, it could be more concise if the details are already covered elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This interaction is essential for maintaining the alignment and stability of the thick filaments, which is crucial for the biomechanical properties of muscle tissue during contraction and relaxation cycles.",
+      "title": "Introduction",
+      "score": 0.31,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it describes a specific interaction related to muscle tissue biomechanics without providing an overview or context for the article's content."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein or gene name, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the score, the sentence should include a specific protein or gene name relevant to the context."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence focuses on the interaction's role in maintaining alignment and stability of thick filaments, which relates to the structure and function of muscle tissue. However, it lacks a comprehensive summary of the article, as it does not address the overall structure, broader function, or any clinical significance. Additionally, it includes specific details about biomechanical properties that may not be necessary for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of thick filaments in muscle tissue, which may not be detailed in an infobox. However, without knowing the content of the infobox, it's difficult to determine if the information is repeated. The sentence does emphasize the importance of the interaction for biomechanical properties, which could justify its inclusion. The score reflects a reasonable assumption that the sentence adds value beyond what might be in an infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The expression of MYOM2 varies, being weaker in the embryonic human heart compared to skeletal muscle, and it is not expressed in smooth muscle.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about the expression of MYOM2 in different types of muscle tissue, but it does not define the scope of an article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name and its gene symbol. The sentence lacks a broader context or introduction that would set the stage for the article's content."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"MYOM2\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should be used instead. The sentence partially meets the requirement by using a gene symbol, but it does not clarify if the UniProt name was considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the expression pattern of MYOM2, specifically its presence in the embryonic human heart and skeletal muscle, and absence in smooth muscle. However, it does not address key aspects such as the structure, function, or clinical significance of MYOM2, which are necessary for a comprehensive summary. Additionally, the sentence lacks context and does not concisely summarize an article, as required."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the expression of MYOM2 in different types of muscle tissue, which may not be redundant if the infobox does not contain this level of detail. However, if the infobox already includes this information, the sentence could be seen as repetitive. The score reflects that the sentence might still be valuable if it adds nuance or emphasis not captured in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In cardiomyocytes derived from induced pluripotent stem cells, MYOM2 is expressed during cardiac differentiation, suggesting its involvement in the developmental processes of the heart (Auxerre-Planti\u00c3\u00a92020Identification).",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the research focus, specifically mentioning the expression of MYOM2 in cardiomyocytes derived from induced pluripotent stem cells and its potential role in cardiac differentiation. However, it does not clearly define the overall scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the main objective or scope of the article and ensure that protein names and other relevant terms adhere to UniProt conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MYOM2,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The sentence does not provide the UniProt protein name, so it only partially meets the requirement. To fully meet the requirement, the sentence should include the UniProt protein name if it is short and relevant."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the expression of MYOM2 in cardiomyocytes derived from induced pluripotent stem cells and its potential role in cardiac differentiation. However, it does not summarize the article concisely or cover key aspects such as structure, function, and clinical significance comprehensively. The sentence lacks a broader context or overview of the article's main findings and significance, focusing instead on a single point."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the expression of MYOM2 in cardiomyocytes derived from induced pluripotent stem cells and its role in cardiac differentiation. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable. However, the sentence does not appear to be overly redundant or unnecessary, so it scores relatively well. The score could be higher if the sentence clearly emphasized why this information is notable or required emphasis beyond what is in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, MYOM2 interacts with other sarcomere proteins such as MYH7, which is known to be involved in hypertrophic cardiomyopathy and other congenital heart diseases, underscoring its critical role in cardiac structural integrity and function (Auxerre-Planti\u00c3\u00a92020Identification).",
+      "title": "Introduction",
+      "score": 0.3,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it discusses the interaction of MYOM2 with other proteins and its role in cardiac function. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using specific identifiers and standardized names for proteins. The sentence appears to be more of a detail within the article rather than an introductory scope-defining statement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols \"MYOM2\" and \"MYH7\" instead of the recommended UniProt protein names. While the use of gene symbols is acceptable, the requirement specifies using the UniProt protein name if it is relatively short. The sentence partially meets the requirement by using gene symbols, but it does not attempt to use the UniProt names, which could have been more appropriate if they are short."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the interaction of MYOM2 with other proteins and its role in cardiac function, which touches on structure and function. However, it lacks a comprehensive summary of the article, as it does not cover all key aspects such as the overall structure, detailed function, or broader clinical significance. Additionally, it includes a citation that is not properly formatted, which could be considered unnecessary detail. The sentence does not effectively summarize the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides specific information about the interaction between MYOM2 and MYH7, highlighting its role in cardiac structural integrity and function. However, without knowing the content of the infobox, it's unclear if this information is already present there. If the infobox contains similar details, the sentence may be redundant unless the interaction is particularly notable or requires emphasis. The score reflects this uncertainty and the potential for repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Clinical Significance\nMYOM2 mutations have been identified as significant contributors to hypertrophic cardiomyopathy (HCM) and Tetralogy of Fallot (TOF), two serious heart conditions.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence does not clearly define the scope of the article. While it mentions MYOM2 mutations and their association with specific heart conditions, it does not provide a comprehensive overview of the article's focus or objectives. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein or gene names. To improve, the sentence should explicitly state the article's scope and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MYOM2,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The sentence does not provide the UniProt protein name, so it partially meets the requirement by using the gene symbol. To fully meet the requirement, the sentence should include the UniProt protein name if it is concise."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence addresses the clinical significance of MYOM2 mutations by linking them to specific heart conditions, which is a key aspect. However, it lacks information on the structure and function of MYOM2, which are also required to fully meet the requirement. Additionally, the sentence does not provide a comprehensive summary of an article, as it focuses solely on clinical significance without covering other necessary aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about MYOM2 mutations and their link to hypertrophic cardiomyopathy (HCM) and Tetralogy of Fallot (TOF). If this information is already present in the infobox, it might be considered repetitive. However, the sentence does emphasize the clinical significance of these mutations, which could justify its inclusion. The score reflects that while the sentence may repeat information, it does so with a focus on emphasizing the importance of the mutations, which aligns with the requirement to avoid unnecessary repetition unless notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In HCM, characterized by left ventricular hypertrophy, mutations in MYOM2 are particularly notable in patients who do not have mutations in the most commonly associated HCM genes.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about hypertrophic cardiomyopathy (HCM) and mentions mutations in MYOM2, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve specific formatting and nomenclature for gene and protein names. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to the naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"MYOM2\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should be used instead of the gene symbol. The sentence partially meets the requirement by using a gene symbol, but it does not specify whether the UniProt protein name was considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about mutations in MYOM2 related to HCM but does not effectively summarize an article's key aspects such as structure, function, and clinical significance. It lacks a broader context or overview that would be expected in a lead, focusing instead on a particular detail without covering the overall topic comprehensively."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides specific information about the role of MYOM2 mutations in HCM, which may not be commonly known or emphasized in an infobox. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this repetition. If the infobox already contains detailed information about MYOM2 mutations, the sentence might be somewhat redundant, but if it does not, this detail could be considered notable. The score reflects a balance between potential redundancy and the importance of the information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These mutations can lead to severe arrhythmias and sudden cardiac death (Auxerre-Planti\u00c3\u00a92020Identification).",
+      "title": "Introduction",
+      "score": 0.34,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions the potential consequences of certain mutations, which could be part of the article's scope, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, as it lacks specific protein or gene names and identifiers. The citation format is also incorrect, which further detracts from meeting the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein or gene, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence should include a specific protein or gene name and use the appropriate naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions a potential outcome of mutations, which could relate to the clinical significance aspect of the article. However, it lacks information on structure and function, and it does not provide a comprehensive summary of the article. Additionally, the citation is not properly formatted, which detracts from clarity. Overall, the sentence is too narrow in scope to serve as a summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the consequences of mutations, which may not be present in the infobox. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated. The sentence does not appear to emphasize or highlight particularly notable information, so it generally meets the requirement to avoid unnecessary repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In the context of TOF, a congenital heart defect involving four cardiac malformations, approximately 31% of a studied cohort of isolated TOF patients exhibited MYOM2 mutations.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context by mentioning TOF (Tetralogy of Fallot) and a specific finding related to MYOM2 mutations. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, as it does not specify the full name of the gene or protein associated with MYOM2. To better meet the requirement, the sentence should clearly outline the main focus or objective of the article and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"MYOM2\" without disambiguation, which may be appropriate if the UniProt protein name is not relatively short. However, the requirement suggests using the UniProt protein name if it is short enough, and the sentence does not provide this information. Without knowing the length of the UniProt protein name, it's unclear if the requirement is fully met. Therefore, the score reflects partial compliance with the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about a study on TOF (Tetralogy of Fallot) and mentions MYOM2 mutations in a cohort of patients. However, it does not summarize an article or cover key aspects like structure, function, and clinical significance comprehensively. It focuses narrowly on a specific finding without providing a broader context or overview of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the percentage of isolated TOF patients with MYOM2 mutations, which could be considered notable. However, if the infobox already contains this exact statistic, the sentence might be seen as repetitive. The score reflects that while the information could be important, it may not be necessary to repeat it unless it adds significant value or context beyond what is in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These mutations were associated with disturbances in gene expression networks and up-regulated MYOM2 mRNA levels, suggesting a disruption in normal cardiac developmental processes (Auxerre-Planti\u00c3\u00a92020Identification).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, which is the primary requirement. Instead, it provides specific information about mutations and their effects on gene expression and cardiac development. Additionally, it does not follow the recommended UniProt naming conventions, as it lacks clarity on the specific proteins or genes involved. The sentence might be part of the article's content but does not serve as an introductory scope-defining sentence."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MYOM2,\" which is the HUGO gene symbol for the gene encoding the protein myomesin-2. The requirement suggests using the recommended UniProt protein name if it is relatively short. \"Myomesin-2\" is a relatively short name and could have been used instead of the gene symbol. Therefore, the sentence partially meets the requirement by using the gene symbol but does not fully comply by not using the UniProt protein name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the article's findings, specifically mentioning mutations, gene expression networks, and MYOM2 mRNA levels. However, it lacks a comprehensive summary of the article's key aspects such as structure, function, and clinical significance. It also includes a citation in an unclear format, which does not contribute to summarizing the article. The sentence is too focused on specific details rather than providing a broad overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the mutations and their effects on gene expression and cardiac development, which may not be redundant unless this information is already extensively covered in the infobox. If the infobox contains similar details, the sentence could be seen as repetitive. However, the sentence does not appear to emphasize or repeat information unnecessarily, so it generally meets the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The clinical impact of MYOM2 mutations extends to various cardiac phenotypes, ranging from dilated to restrictive cardiomyopathy, similar to effects observed with mutations in other sarcomere-related genes like MYH7.",
+      "title": "Introduction",
+      "score": 0.56,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general overview of the clinical impact of MYOM2 mutations on cardiac phenotypes, which partially defines the scope of the article. However, it does not explicitly follow the recommended UniProt naming conventions, nor does it clearly establish the full scope of the article. To better meet the requirement, the sentence should more explicitly define the scope and adhere to specific naming conventions as outlined by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols \"MYOM2\" and \"MYH7\" instead of the recommended UniProt protein names. If the UniProt protein names are relatively short, they should be used instead. The sentence partially meets the requirement by using gene symbols, but it does not specify if the UniProt names were considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.6,
+          "feedback": [
+            "The sentence provides a concise summary of the clinical significance of MYOM2 mutations, mentioning their impact on cardiac phenotypes and drawing a comparison to other sarcomere-related genes like MYH7. However, it lacks details on the structure and function of MYOM2, which are key aspects mentioned in the requirement. To fully meet the requirement, the sentence should include a brief mention of these elements."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the clinical impact of MYOM2 mutations and their similarity to mutations in other sarcomere-related genes like MYH7. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable or requires emphasis. However, the sentence does offer a detailed comparison that could be considered notable, which is why it scores relatively high. To fully meet the requirement, ensure that the information is not redundant with the infobox content unless it adds significant value or emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This indicates a broad spectrum of potential cardiac dysfunctions arising from MYOM2 mutations (Auxerre-Planti\u00c3\u00a92020Identification).",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions a broad spectrum of potential cardiac dysfunctions related to MYOM2 mutations, which could hint at the scope of the article. However, it does not clearly define the scope or follow the recommended UniProt naming conventions. The sentence lacks context and specificity needed to meet the requirement fully."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"MYOM2\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used. However, if the UniProt name is long or not easily recognizable, using the HUGO gene symbol with disambiguation is acceptable. The sentence does not provide disambiguation for \"MYOM2,\" which affects the score."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a very limited summary of the article. It mentions potential cardiac dysfunctions related to MYOM2 mutations, which touches on clinical significance, but it lacks information on structure and function. Additionally, it does not provide a concise overview of the article's key aspects and includes a citation in an unclear format, which could be considered unnecessary detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information, but without access to the infobox, it's difficult to fully assess compliance with the requirement. Assuming the sentence is not redundant with the infobox, it meets the requirement well. However, if the infobox already contains this information and it is not particularly notable or emphasized, the score would be lower."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Moreover, these genetic alterations have been linked to an increased arrhythmic burden in adult TOF patients, highlighting the long-term effects of MYOM2 mutations on heart function (Auxerre-Planti\u00c3\u00a92020Identification).",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It discusses genetic alterations and their effects on heart function in a specific patient group, but it does not provide an overview or scope of the article's content. Additionally, it does not adhere to any specific naming conventions related to UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MYOM2\" which is the HUGO gene symbol for the gene encoding the protein myomesin-2. The requirement suggests using the UniProt protein name if it is relatively short. \"Myomesin-2\" is a relatively short name and could have been used instead of the gene symbol. However, the use of the gene symbol is not incorrect, just not fully aligned with the preference stated in the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about genetic alterations and their link to arrhythmic burden in TOF patients, which may be part of the article's findings. However, it does not summarize the article concisely or cover key aspects like structure, function, and clinical significance comprehensively. It lacks context and broader information that would help in understanding the overall content and significance of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about genetic alterations and their link to arrhythmic burden in adult TOF patients, which may not be common knowledge or already present in an infobox. It highlights the long-term effects of MYOM2 mutations, which could be considered notable. However, without knowing the exact content of the infobox, it's difficult to fully assess redundancy. The sentence seems to provide detailed and specific information that might not be redundant, thus it scores relatively high."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Interactions\nMYOM2 interacts with a variety of proteins within the sarcomere, particularly in the M-band, which is crucial for muscle contraction and stability.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about MYOM2's interactions within the sarcomere, specifically in the M-band, which is relevant to muscle contraction and stability. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to naming conventions, such as using the full protein name and any relevant identifiers."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MYOM2,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt name for MYOM2, it's unclear if the sentence fully meets the requirement. If the UniProt name is indeed short and was not used, the sentence partially meets the requirement. If the UniProt name is long or not commonly used, then using the gene symbol is appropriate. More context is needed to determine the exact score."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief mention of MYOM2's interactions within the sarcomere, specifically the M-band, and its role in muscle contraction and stability. However, it lacks a comprehensive summary of the article, as it does not address the structure, function, or clinical significance of MYOM2 in detail. The sentence is too focused on interactions and does not provide a well-rounded overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about MYOM2's interactions within the sarcomere, particularly in the M-band, which may not be detailed in an infobox. However, if the infobox already contains this exact information, the sentence could be seen as repetitive. The score reflects that the sentence likely adds value by emphasizing the importance of these interactions, but without knowing the infobox content, it's difficult to fully assess redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "It forms interactions with titin (TTN) and myosin, which are essential for the structural integrity of the sarcomere.",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it describes interactions with titin and myosin related to the structural integrity of the sarcomere. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve specifying the protein name and its function or role."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"titin\" and \"myosin\" without specifying whether these are the recommended UniProt protein names or the HUGO gene symbols. \"Titin\" is a commonly used name, but it is not clear if it is the recommended UniProt name. \"Myosin\" is a general term that could refer to various myosin proteins, so it lacks specificity. The sentence partially meets the requirement by using recognizable names, but it does not clarify if these are the recommended UniProt names or provide disambiguation for the gene symbols."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the function of interactions with titin and myosin, which are related to the structural integrity of the sarcomere. However, it lacks coverage of the overall structure, broader function, and clinical significance, which are key aspects required for a comprehensive summary. Additionally, it does not provide a concise overview of the entire article, focusing instead on a specific detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides specific information about interactions with titin (TTN) and myosin, which may be notable if these interactions are crucial for understanding the function or importance of the subject. However, if this information is already present in the infobox and not particularly notable or requiring emphasis, it could be seen as redundant. The score reflects that while the sentence may add value, it could potentially repeat existing information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "MYOM2's interaction with titin is noted, although the specific domains involved are not fully confirmed, suggesting a complex interaction that may vary across different studies (Lamber2022The).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions MYOM2's interaction with titin and hints at the complexity of this interaction, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name followed by the gene name in parentheses. The sentence lacks clarity and specificity regarding the article's focus and does not establish a clear scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MYOM2,\" which is the HUGO gene symbol. The requirement suggests using the UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name for MYOM2, it's unclear if the sentence meets the requirement. If the UniProt name is short and was not used, the sentence partially meets the requirement. If the UniProt name is long or not preferred, the use of the gene symbol is appropriate. More context is needed to fully assess compliance."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief mention of MYOM2's interaction with titin, which touches on the structural aspect. However, it lacks information on the function and clinical significance of MYOM2, which are key aspects required for a comprehensive summary. Additionally, the sentence does not provide a clear summary of the article as a whole, focusing instead on a specific detail without broader context."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about MYOM2's interaction with titin, noting the uncertainty about the specific domains involved. If this information is already present in the infobox, it might be considered repetitive. However, the mention of the complexity and variability across studies adds a layer of detail that could be notable or require emphasis, which aligns with the requirement. The score reflects that while there is some repetition, the additional context provided may justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, MYOM2 interacts with the muscle isoform of creatine kinase and the light meromyosin part of the beta-myosin heavy chain, which are critical for muscle function and energy processes (Auxerre-Planti\u00c3\u00a92020Identification).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides specific information about MYOM2 interactions but lacks a broader context or introduction to the article's overall focus. To meet the requirement, the sentence should introduce the main topic or purpose of the article and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MYOM2,\" which is the HUGO gene symbol, but it does not provide any disambiguation or context to clarify what MYOM2 refers to. Additionally, the sentence does not specify whether \"creatine kinase\" and \"beta-myosin heavy chain\" are the recommended UniProt protein names or if they should be replaced with gene symbols. The sentence partially meets the requirement by using gene symbols, but it lacks clarity and disambiguation."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the interaction of MYOM2 with other proteins, which relates to muscle function and energy processes. However, it does not effectively summarize the article's key aspects such as structure, function, and clinical significance. It lacks a comprehensive overview and includes unnecessary detail, such as the specific protein interactions, without broader context."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about MYOM2's interactions with other proteins, which may not be present in the infobox. It does not appear to repeat information unnecessarily, suggesting it is notable or requires emphasis. However, without access to the infobox, it's difficult to fully assess the extent of repetition, hence the score is not a perfect 1.0."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "MYOM2 also plays a role in cardiac muscle function through its interaction with the ryanodine receptors RYR1 and potentially RYR2, which are involved in calcium signaling pathways crucial for cardiac function and possibly cardiac arrhythmias (Lamber2022The).",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the role of MYOM2 in cardiac muscle function and its interaction with ryanodine receptors, which could be part of the article's scope. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, as it uses \"RYR1\" and \"RYR2\" without specifying their full names or UniProt identifiers. The sentence lacks a clear statement of the article's main focus or objectives."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MYOM2,\" which is the HUGO gene symbol, but it does not provide any disambiguation. It also mentions \"ryanodine receptors RYR1 and potentially RYR2,\" which are gene symbols. The requirement suggests using the recommended UniProt protein name if it is relatively short, or the HUGO gene symbol with disambiguation if necessary. The sentence partially meets the requirement by using gene symbols, but it lacks disambiguation and does not use UniProt protein names where applicable."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides some information about the function of MYOM2 in cardiac muscle and its interaction with ryanodine receptors, which is relevant to the requirement. However, it lacks details on the structure of MYOM2 and does not fully address the clinical significance beyond a potential link to cardiac arrhythmias. Additionally, it includes a citation that is not formatted correctly, which may detract from its clarity as a summary. Overall, it partially meets the requirement but is not comprehensive or concise enough."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of MYOM2 in cardiac muscle function and its interaction with ryanodine receptors, which may not be common knowledge or already present in an infobox. It also mentions the potential involvement in cardiac arrhythmias, which could be notable. However, without knowing the exact content of the infobox, it's difficult to fully assess redundancy. The sentence seems to offer detailed and potentially notable information, justifying a relatively high score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Furthermore, MYOM2 is part of a dense network of proteins associated with limb-girdle muscular dystrophies (LGMD), indicating its involvement in broader muscular and neuromuscular disorders (Blandin2013A).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It mentions MYOM2 and its association with muscular disorders, which could hint at the article's focus, but it lacks a clear definition of the article's scope. Additionally, the sentence does not adhere to any specific naming conventions that UniProt might recommend."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MYOM2,\" which is the HUGO gene symbol. The requirement suggests using the recommended UniProt protein name if it is relatively short. The sentence does not provide the UniProt protein name, so it partially meets the requirement by using the gene symbol. However, without knowing the length of the UniProt protein name, it's unclear if the sentence fully adheres to the guideline. Providing the UniProt protein name or confirming its length would improve compliance with the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the clinical significance of MYOM2 by mentioning its association with limb-girdle muscular dystrophies and broader muscular disorders. However, it lacks details on the structure and function of MYOM2, which are key aspects required for a comprehensive summary. Additionally, the sentence includes a citation (Blandin2013A) that is not necessary for a concise summary. Overall, the sentence does not fully meet the requirement of summarizing the article concisely with all key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about MYOM2's involvement in muscular and neuromuscular disorders, which may not be detailed in an infobox. However, if the infobox already contains this information, the sentence could be seen as repetitive. The score reflects that while the sentence might repeat information, it adds context and detail that could be considered notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These interactions highlight MYOM2's role not only in maintaining sarcomere structure but also in regulating muscle and cardiac function, making it a significant protein in understanding muscle integrity and related diseases.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides some context about the role of MYOM2 in muscle and cardiac function, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name and its gene name in parentheses. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to the naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"MYOM2\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should be used instead. The sentence partially meets the requirement by using a recognized gene symbol, but it does not fully comply with the preference for the UniProt protein name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.8,
+          "feedback": [
+            "The sentence effectively summarizes the key aspects of MYOM2, including its role in maintaining sarcomere structure, regulating muscle and cardiac function, and its clinical significance in understanding muscle integrity and related diseases. However, it could be slightly more concise by omitting some of the repetitive phrasing, such as \"making it a significant protein,\" to better align with the requirement of avoiding unnecessary detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a detailed explanation of MYOM2's role, which may already be present in an infobox. However, it emphasizes the significance of MYOM2 in understanding muscle integrity and related diseases, which could be considered notable. The sentence could be more concise to avoid potential repetition, but it does add value by highlighting the importance of MYOM2 in a broader context."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # References\n\n\n[1.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow any naming conventions, including those recommended by UniProt. It appears to be a heading or a placeholder for references, rather than a sentence that introduces or defines the scope of an article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any information related to the use of UniProt protein names or HUGO gene symbols. It appears to be an incomplete or incorrectly formatted reference section, and thus does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a heading or a placeholder for references, and it does not summarize any article or cover key aspects like structure, function, or clinical significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 1.0,
+          "feedback": [
+            "The sentence provided does not repeat any information from an infobox, as it is simply a heading for a references section. Therefore, it fully meets the requirement of avoiding repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Auxerre-Planti\u00c3\u00a92020Identification) Identification ofMYOM2as a candidate gene in hypertrophic cardiomyopathy and Tetralogy of Fallot and its functional evaluation in theDrosophilaheart (30 citations) 10.1101/2020.08.18.255760]( https://doi.org/10.1101/2020.08.18.255760 )\n\n[2.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the article's focus by mentioning the identification of MYOM2 as a candidate gene related to hypertrophic cardiomyopathy and Tetralogy of Fallot, and its evaluation in the Drosophila heart. However, it does not clearly define the full scope of the article, nor does it follow the recommended UniProt naming conventions. The sentence is also cluttered with citation information, which detracts from its clarity and focus on the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"MYOM2\" which is the HUGO gene symbol. However, it does not specify whether this is the recommended UniProt protein name or if it is relatively short. The requirement suggests using the UniProt protein name if it is short, otherwise the HUGO gene symbol should be used with disambiguation if necessary. The sentence does not provide enough information to determine if the correct naming convention was followed, hence a partial score."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a basic identification of the article's focus, mentioning the candidate gene MYOM2 in relation to hypertrophic cardiomyopathy and Tetralogy of Fallot, as well as its evaluation in the Drosophila heart. However, it lacks a concise summary of the article's structure, function, and clinical significance. The sentence is more of a title or citation rather than a comprehensive lead that covers the key aspects required. Additionally, it includes unnecessary details like the citation count and DOI link, which do not contribute to summarizing the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise summary of a research article, including the title, citation count, and DOI link. It does not appear to repeat information that would typically be found in an infobox, such as the authors' names or publication details, unless these are considered particularly notable. The inclusion of the DOI and citation count could be seen as emphasizing the article's relevance or impact, which may justify their mention. However, without context on what is in the infobox, it's difficult to fully assess repetition, hence the score is not perfect."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Blandin2013A) Ga\u00c3\u00ablle Blandin, Sylvie Marchand, Karine Charton, Nathalie Dani\u00c3\u00a8le, Evelyne Gicquel, Jean-Baptiste Boucheteil, Az\u00c3\u00a9ddine Bentaib, Laetitia Barrault, Daniel Stockholm, Marc Bartoli, and Isabelle Richard.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not define the scope of an article. It also does not follow the recommended UniProt naming conventions, as it does not mention any proteins, genes, or related biological terms. To meet the requirement, the sentence should clearly state the focus or subject matter of the article in accordance with UniProt standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, nor does it attempt to use the UniProt protein name or HUGO gene symbol. It appears to be a list of authors from a publication, which does not relate to the requirement of using specific naming conventions for proteins or genes. Therefore, it does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not summarize the article at all. It does not cover any key aspects such as structure, function, or clinical significance, nor does it provide any detail about the content of the article. To meet the requirement, the sentence should concisely summarize the main points and findings of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, listing authors of a work. If this information is already present in an infobox, repeating it in the main text may not be necessary unless the authorship is particularly notable or requires emphasis. The sentence does not provide additional context or emphasis, so it partially meets the requirement by potentially being redundant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "A human skeletal muscle interactome centered on proteins involved in muscular dystrophies: lgmd interactome.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general idea of the article's focus, which is the human skeletal muscle interactome related to proteins involved in muscular dystrophies, specifically limb-girdle muscular dystrophy (LGMD). However, it does not clearly define the scope of the article in a detailed manner, nor does it explicitly follow the recommended UniProt naming conventions. To improve, the sentence should more explicitly outline the scope and adhere to specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence mentions \"lgmd interactome,\" which likely refers to proteins involved in limb-girdle muscular dystrophy (LGMD). However, it does not specify whether the recommended UniProt protein names or HUGO gene symbols are used. The sentence lacks clarity on whether the naming convention aligns with the requirement, resulting in a partial score. To improve, the sentence should explicitly use either the recommended UniProt names or the appropriate HUGO gene symbols with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general topic of the article, mentioning a human skeletal muscle interactome and its focus on proteins involved in muscular dystrophies, specifically lgmd (limb-girdle muscular dystrophy). However, it lacks details on the structure, function, and clinical significance of the interactome. It does not summarize the article concisely or cover key aspects beyond the topic, which limits its effectiveness as a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information unnecessarily, assuming the infobox contains standard details about the interactome. However, without knowing the specific content of the infobox, it's difficult to fully assess the repetition. The sentence seems to emphasize the focus on muscular dystrophies and the lgmd interactome, which could be notable. The score reflects a generally good adherence to the requirement, with a slight deduction due to the lack of context about the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Skeletal Muscle, February 2013.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Skeletal Muscle, February 2013.\" does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a title or a reference to a publication date rather than a sentence that provides a definition or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Skeletal Muscle, February 2013.\" does not mention any protein name or gene symbol, and therefore does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a reference to a publication or journal issue rather than a discussion of a specific protein or gene."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Skeletal Muscle, February 2013.\" does not meet the requirement as it does not provide any summary of an article. It lacks any information on structure, function, or clinical significance, and does not offer any detail, necessary or otherwise."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence \"Skeletal Muscle, February 2013\" is likely a reference to a publication or event date. If this information is already present in an infobox, repeating it in the main text may not be necessary unless it is particularly notable or requires emphasis. The sentence is concise and does not overly repeat information, but without context, it's unclear if the repetition is justified. Therefore, it mostly meets the requirement but could be improved by ensuring the repetition is necessary."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1186/2044-5040-3-3 , doi:10.1186/2044-5040-3-3.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it simply provides a URL and a DOI, which are identifiers for accessing the article but do not describe its content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It contains a URL and a DOI reference, but it does not mention any UniProt protein name or HUGO gene symbol. The requirement is about using specific naming conventions for proteins or genes, which is not relevant to the content of the sentence provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary or information about the article's structure, function, or clinical significance. There is no content that addresses the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information twice, which may not be necessary unless there is a specific reason to emphasize it. This repetition does not align well with the requirement to avoid repeating information unless notable. The score reflects the partial adherence to the requirement, as the repetition seems unnecessary without additional context."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(47 citations) 10.1186/2044-5040-3-3]( https://doi.org/10.1186/2044-5040-3-3 )\n\n[3.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow any naming conventions, let alone the recommended UniProt naming conventions. It appears to be a citation or reference link rather than a descriptive sentence about the article's content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, and therefore cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference and does not address the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It appears to be a citation reference rather than a summary. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of providing a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence includes a citation count and a DOI link, which are likely to be present in an infobox. If this information is not particularly notable or does not require emphasis, it may be considered repetitive. However, without context on the infobox content, it's unclear if this repetition is necessary, hence the middle score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Lamber2022The) Ekaterina P. Lamber, Pascale Guicheney, and Nikos Pinotsis.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation or reference to authors and does not define the scope of an article. Additionally, it does not follow any naming conventions, including those recommended by UniProt. To meet the requirement, the sentence should clearly outline the scope of the article and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not mention any protein names or gene symbols, and therefore does not address the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation or reference to authors, which is unrelated to the requirement given."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only lists the authors of a paper and does not summarize the article's content, structure, function, or clinical significance. There is no information provided that could be considered a summary, concise or otherwise."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a bibliographic reference, likely listing authors of a work. If this information is already present in an infobox, repeating it in the main text may not be necessary unless the authorship is particularly notable or requires emphasis. The sentence could be improved by ensuring it adds value beyond what is in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The role of the m-band myomesin proteins in muscle integrity and cardiac disease.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a general topic of the article, mentioning \"m-band myomesin proteins,\" \"muscle integrity,\" and \"cardiac disease.\" However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To improve, the sentence should explicitly state the focus and boundaries of the article's content and ensure that protein names adhere to UniProt standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"m-band myomesin proteins,\" which is a general description rather than a specific UniProt protein name or HUGO gene symbol. Without knowing the specific protein or gene being referred to, it's unclear if the recommended naming convention is followed. If \"myomesin\" is a relatively short UniProt name, it should be used directly. If not, the specific HUGO gene symbol should be used with disambiguation if necessary. The sentence partially meets the requirement by mentioning the protein type but lacks specificity in naming."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provided is more of a title than a summary. It mentions the topic of the article, which is the role of m-band myomesin proteins in muscle integrity and cardiac disease, but it does not summarize the article's content or cover key aspects such as structure, function, and clinical significance. To meet the requirement, the sentence should provide a concise overview of these elements."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information, as it is a standalone statement about the role of m-band myomesin proteins. However, without the context of the infobox, it's difficult to fully assess whether the information is repeated. Assuming the sentence is not redundant, it meets the requirement well. If the infobox already contains this information and it is not particularly notable, the score might be lower."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Journal of Biomedical Science, March 2022.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of an article nor does it follow any naming conventions, including those recommended by UniProt. It merely states the name of a journal and a date, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not mention any protein name or gene symbol. It only provides a journal name and date, which is unrelated to the requirement of using a UniProt protein name or HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is merely a citation and does not summarize the article at all. It lacks any information about the structure, function, or clinical significance of the topic, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence \"Journal of Biomedical Science, March 2022\" is concise and does not appear to repeat information unnecessarily. However, without context from the infobox, it's unclear if this information is already present there. Assuming it is, the sentence could be seen as redundant unless the publication date or journal name is particularly notable or requires emphasis. The score reflects a minor deduction for potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1186/s12929-022-00801-6 , doi:10.1186/s12929-022-00801-6.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, which do not define the scope of the article or follow any naming conventions, let alone the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly state the topic or focus of the article in accordance with UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI reference, with no mention of a UniProt protein name or a HUGO gene symbol. The requirement is about using specific naming conventions for proteins or genes, which is not relevant to the content of the sentence provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and DOI reference, with no summary of the article's content. It lacks any information about the article's structure, function, or clinical significance, and therefore cannot be considered a summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information twice, which is unnecessary unless there is a specific reason to emphasize it. This repetition does not align well with the requirement to avoid repeating information unless notable or requiring emphasis. The score reflects the partial adherence to the requirement, as the sentence could be more concise by omitting the redundant DOI mention."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(19 citations) 10.1186/s12929-022-00801-6]( https://doi.org/10.1186/s12929-022-00801-6 )",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It does not define the scope of the article, nor does it follow any naming conventions, let alone the recommended UniProt naming conventions. Instead, it appears to be a citation reference with a DOI link."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement of using the recommended UniProt protein name or the HUGO gene symbol. It appears to be a citation reference rather than a sentence discussing protein names or gene symbols. Therefore, it does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a citation count and a DOI link, without any summary or information about the article's structure, function, or clinical significance. There is no content that addresses the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation count and a DOI link, which are common elements that might be found in an infobox. However, the information is concise and could be considered notable, as the citation count might be of particular interest to readers. The sentence generally meets the requirement, but if this information is already in the infobox, it might be redundant unless the citation count is emphasized for a specific reason."
+          ]
+        }
+      ],
+      "color": "red"
+    }
+  ]
+}

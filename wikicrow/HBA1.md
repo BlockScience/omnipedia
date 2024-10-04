@@ -1,0 +1,50 @@
+# HBA1
+
+## Overview
+The HBA1 gene is responsible for encoding the hemoglobin subunit alpha 1, a crucial component of hemoglobin, the oxygen-carrying protein in red blood cells. This gene plays a vital role in the synthesis of the alpha globin chains of hemoglobin, which are essential for oxygen transport from the lungs to various parts of the body and for carbon dioxide transport back to the lungs. The protein product of HBA1, along with its counterpart from the HBA2 gene, forms part of the hemoglobin tetramer, which consists of two alpha and two beta chains. The proper function and regulation of HBA1 are critical for maintaining effective oxygen delivery and overall vascular health (Brooks2021Hemoglobin; Hardison2002HbVar:). The gene's expression is not limited to erythroid cells, indicating its potential involvement in other physiological processes beyond oxygen transport (Newton2006Hemoglobin).
+
+## Structure
+The molecular structure of the HBA1 protein, which encodes one of the two types of polypeptide chains in hemoglobin, is characterized by a predominance of helical structures. Specifically, the secondary structure of HBA1 is composed of 79.58% helices, which include Î±-helices, pi-helices, and 3_10-helices (AbdulAzeez2016In-Silico). The tertiary structure analysis, although not detailed in the provided excerpts, typically involves the three-dimensional folding pattern of these helices to form a functional protein. The quaternary structure of hemoglobin, where HBA1 is a component, consists of a heterotetramer made up of two alpha chains and two beta chains, crucial for its oxygen-binding function (Fitzsimmons2016Understanding).
+
+Regarding post-translational modifications, phosphorylation is noted specifically in the alpha subunits, including HBA1. These modifications are preferentially located within intrinsically disordered protein regions (IDPRs) of the subunits, which suggests a functional significance in regulating protein activity or stability (Fitzsimmons2016Understanding).
+
+The analysis does not provide specific details on prominent folds, domains, or splice variant isoforms of HBA1, nor does it elaborate extensively on the primary amino acid sequence from the provided contexts.
+
+## Function
+The HBA1 gene encodes the alpha-1 globin chain, a vital component of hemoglobin, which is essential for oxygen transport in red blood cells. Hemoglobin, a tetramer consisting of two alpha and two beta chains, carries oxygen from the lungs to the tissues and facilitates the return transport of carbon dioxide from tissues to the lungs. The alpha chains, including those produced by HBA1, play a crucial role in stabilizing the structure of hemoglobin and regulating its ability to bind and release oxygen efficiently (Hardison2002HbVar:; Li2013Characterization).
+
+Beyond its classical role in erythrocytes, HBA1 expression is not limited to these cells. It has been detected in various non-erythroid cells, suggesting a broader role in cellular physiology. For instance, in cervical cancer cells, the HBA1 gene product is involved in managing oxidative stress and maintaining cellular redox balance. It acts as an antioxidant, particularly in protecting against oxidative stress induced by agents like hydrogen peroxide (Li2013Characterization).
+
+Additionally, the presence of HBA1 in alveolar epithelial cells indicates potential roles in pulmonary functions, possibly related to nitric oxide metabolism and blood pressure regulation (Newton2006Hemoglobin). These findings highlight the diverse functions of the HBA1 gene product, extending its importance beyond traditional roles in oxygen transport.
+
+## Clinical Significance
+Mutations in the HBA1 gene are associated with several hemoglobinopathies, including alpha-thalassemia, where there is a reduced or absent production of alpha globin chains, leading to anemia and other related symptoms (AbdulAzeez2016In-Silico). In sickle cell disease (SCD) and beta-thalassemia, interactions between the alpha and beta globin genes can modify disease severity. For instance, the presence of additional alpha globin genes (triplication) can exacerbate the clinical phenotype in these conditions (Diamantidis2023Clinical). 
+
+Additionally, mutations in HBA1 contribute to high oxygen affinity hemoglobin (HOAH), a condition that enhances the oxygen-binding capacity of hemoglobin, preventing adequate oxygen release to tissues. This can lead to tissue hypoxia and secondary erythrocytosis as the body attempts to compensate by producing more red blood cells (Filser2022Importance). 
+
+The clinical implications of HBA1 mutations are complex and can vary widely, from asymptomatic conditions to severe anemia requiring regular transfusions. This variability underscores the importance of genetic screening and personalized medical approaches in managing hemoglobinopathies (Diamantidis2023Clinical).
+
+## Interactions
+The human hemoglobin subunit alpha 1 (HBA1) protein engages in several critical interactions that are essential for its function and regulation. HBA1 forms stable complexes with other hemoglobin subunits including hemoglobin beta (HBB), hemoglobin epsilon 1 (HBE1), and hemoglobin alpha 2 (HBA2) (Fitzsimmons2016Understanding). Beyond its interactions within the hemoglobin complex, HBA1 also interacts with the alpha hemoglobin stabilizing protein (AHSP), which acts as a chaperone to prevent the aggregation of the free HBA1 subunit during erythroid cell development (Fitzsimmons2016Understanding). Another significant interaction is with haptoglobin (HP), which captures free plasma hemoglobin to facilitate its clearance by macrophages, crucial for the hepatic recycling of heme iron and preventing kidney damage from hemoglobin accumulation (Fitzsimmons2016Understanding).
+
+Additionally, HBA1 interacts with endothelial nitric oxide synthase (eNOS) in human resistance arteries. This interaction is vital for regulating vasodilation in response to vasoconstriction and modulating nitric oxide (NO) signaling across the myoendothelial junction, a key factor in the feedback mechanism that opposes vasoconstriction (Brooks2021Hemoglobin). The binding of HBA1 to eNOS has been quantified with a moderate affinity, indicating a significant and functional interaction within the vascular system (Brooks2021Hemoglobin).
+
+
+## References
+
+
+[1. (AbdulAzeez2016In-Silico) Sayed AbdulAzeez and J. Francis Borgio. In-silico computing of the most deleterious nssnps in hba1 gene. PLOS ONE, 11(1):e0147702, January 2016. URL: http://dx.doi.org/10.1371/journal.pone.0147702, doi:10.1371/journal.pone.0147702. (47 citations) 10.1371/journal.pone.0147702](https://doi.org/10.1371/journal.pone.0147702)
+
+[2. (Hardison2002HbVar:) Ross C. Hardison, David H.K. Chui, Belinda Giardine, Cathy Riemer, George P. Patrinos, Nicholas Anagnou, Webb Miller, and Henri Wajcman. Hbvar: a relational database of human hemoglobin variants and thalassemia mutations at the globin gene server. Human Mutation, 19(3):225â233, February 2002. URL: http://dx.doi.org/10.1002/humu.10044, doi:10.1002/humu.10044. (519 citations) 10.1002/humu.10044](https://doi.org/10.1002/humu.10044)
+
+[3. (Filser2022Importance) Mathilde Filser, Betty Gardie, Mathieu Wemeau, Patricia Aguilar-Martinez, Muriel Giansily-Blaizot, and FranÃ§ois Girodon. Importance of sequencing hba1, hba2 and hbb genes to confirm the diagnosis of high oxygen affinity hemoglobin. Genes, 13(1):132, January 2022. URL: http://dx.doi.org/10.3390/genes13010132, doi:10.3390/genes13010132. (3 citations) 10.3390/genes13010132](https://doi.org/10.3390/genes13010132)
+
+[4. (Diamantidis2023Clinical) Michael D. Diamantidis, Rebecca-Anastasia Karanikola, Chrysoula Polyzoudi, Sophia Delicou, Achilles Manafas, Helen Savera, Aikaterini Xydaki, Angeliki Kotsiafti, Evangelos Tsangalas, Georgia Ikonomou, Eirini Mani, Konstantinos Ntoulas, Evangelos Alexiou, Ioanna Argyrakouli, John Koskinas, and Paraskevi Fotiou. Clinical significance of mutational variants in beta and alpha genes in patients with hemoglobinopathies from two large greek centers: a complex interplay between genotype and phenotype. Journal of Molecular Medicine, 101(9):1073â1082, July 2023. URL: http://dx.doi.org/10.1007/s00109-023-02342-3, doi:10.1007/s00109-023-02342-3. (3 citations) 10.1007/s00109-023-02342-3](https://doi.org/10.1007/s00109-023-02342-3)
+
+[5. (Li2013Characterization) Xiaolei Li, Zhiqiang Wu, Yao Wang, Qian Mei, Xiaobing Fu, and Weidong Han. Characterization of adult Î±- and Î²-globin elevated by hydrogen peroxide in cervical cancer cells that play a cytoprotective role against oxidative insults. PLoS ONE, 8(1):e54342, January 2013. URL: http://dx.doi.org/10.1371/journal.pone.0054342, doi:10.1371/journal.pone.0054342. (71 citations) 10.1371/journal.pone.0054342](https://doi.org/10.1371/journal.pone.0054342)
+
+[6. (Brooks2021Hemoglobin) Hemoglobin Interacts with Endothelial Nitric Oxide Synthase to Regulate Vasodilation in Human Resistance Arteries (3 citations) 10.1101/2021.04.06.21255004](https://doi.org/10.1101/2021.04.06.21255004)
+
+[7. (Newton2006Hemoglobin) Danforth A. Newton, K. Murali Krishna Rao, Richard A. Dluhy, and John E. Baatz. Hemoglobin is expressed by alveolar epithelial cells. Journal of Biological Chemistry, 281(9):5668â5676, March 2006. URL: http://dx.doi.org/10.1074/jbc.m509314200, doi:10.1074/jbc.m509314200. (187 citations) 10.1074/jbc.m509314200](https://doi.org/10.1074/jbc.m509314200)
+
+[8. (Fitzsimmons2016Understanding) Reis Fitzsimmons, Narmin Amin, and Vladimir N. Uversky. Understanding the roles of intrinsic disorder in subunits of hemoglobin and the disease process of sickle cell anemia. Intrinsically Disordered Proteins, 4(1):e1248273, January 2016. URL: http://dx.doi.org/10.1080/21690707.2016.1248273, doi:10.1080/21690707.2016.1248273. (12 citations) 10.1080/21690707.2016.1248273](https://doi.org/10.1080/21690707.2016.1248273)

@@ -1,0 +1,1588 @@
+{
+  "LeadSection": [
+    {
+      "text": "# TBC1D30 # # Overview\nTBC1D30, or TBC1 domain family member 30, is a gene that encodes the protein TBC1 domain family member 30, which is a member of the TBC (Tre-2/Bub2/Cdc16) domain family.",
+      "title": "Introduction",
+      "score": 0.5,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides a basic definition of TBC1D30, mentioning that it is a gene encoding a protein and identifying its family. However, it lacks a clear statement of the article's scope and does not fully adhere to UniProt naming conventions, which typically include more detailed information about the protein's function, biological role, or significance. Additionally, the sentence structure could be improved for clarity and conciseness."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TBC1D30\" and provides a description of the gene and its encoded protein. However, it does not mention whether the recommended UniProt protein name was considered or if it is relatively short. The requirement specifies using the UniProt protein name if it is short, which is not addressed in the sentence. Therefore, the sentence partially meets the requirement by using the HUGO gene symbol but lacks information on the UniProt protein name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a basic introduction to TBC1D30, mentioning its gene and protein identity and its membership in the TBC domain family. However, it lacks information on the structure, function, and clinical significance of TBC1D30, which are key aspects required for a comprehensive summary. Additionally, the sentence includes some redundancy by repeating the gene and protein name, which could be considered unnecessary detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the name \"TBC1D30\" and its description as a \"TBC1 domain family member 30\" multiple times, which could be redundant if this information is already present in an infobox. The sentence could be more concise by avoiding repetition unless this repetition is necessary for emphasis or clarity."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This protein functions primarily as a GTPase-activating protein (GAP) for Rab8, a key regulator in the formation and function of primary cilia, essential cellular structures that serve as signaling hubs.",
+      "title": "Introduction",
+      "score": 0.51,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a specific function of a protein, which is a GTPase-activating protein for Rab8, and mentions its role in primary cilia. However, it does not clearly define the overall scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should introduce the broader context or focus of the article and adhere to naming conventions, such as using the full protein name and gene name if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not use either the recommended UniProt protein name or the HUGO gene symbol. It refers to the protein in a functional context as a \"GTPase-activating protein (GAP) for Rab8\" without specifying the actual protein name or gene symbol. To meet the requirement, the sentence should include the specific UniProt protein name or the HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the protein's function as a GTPase-activating protein for Rab8 and its role in primary cilia. However, it lacks information on the protein's structure and clinical significance, which are key aspects mentioned in the requirement. Additionally, the sentence does not cover the broader context or implications of the protein's function, which would be necessary for a comprehensive lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the protein's function as a GTPase-activating protein for Rab8 and its role in primary cilia, which could be considered notable. However, if this information is already present in the infobox, it may not need to be repeated unless it is particularly emphasized or expanded upon in a meaningful way. The sentence does a good job of highlighting the importance of the protein's function, which could justify its inclusion despite potential repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein's activity is crucial in various cellular processes including cell signaling pathways, intracellular trafficking, and the regulation of cellular architecture.",
+      "title": "Introduction",
+      "score": 0.4,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the protein's role in cellular processes, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically include the protein's name and its function or significance. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not use either the recommended UniProt protein name or the HUGO gene symbol. It simply refers to \"The protein\" without specifying which protein is being discussed. To meet the requirement, the sentence should include the specific UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the protein's function by mentioning its role in cellular processes such as cell signaling, intracellular trafficking, and regulation of cellular architecture. However, it does not address the structure or clinical significance of the protein, which are key aspects mentioned in the requirement. Additionally, the sentence lacks a summary of the article as a whole, focusing only on the protein's activity."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise summary of the protein's activity, which may be notable enough to warrant emphasis. However, without knowing the specific content of the infobox, it's difficult to determine if this information is repetitive. If the infobox already contains detailed information about these cellular processes, the sentence might be somewhat redundant. Nonetheless, the sentence is well-structured and highlights key aspects of the protein's role, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "TBC1D30's role in these processes makes it significant in understanding cellular function and development, as well as in the study of diseases where these pathways are disrupted.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the significance of TBC1D30 in cellular function, development, and disease study, which hints at the scope of the article. However, it does not explicitly define the scope or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should clearly outline the article's focus and adhere to specific naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TBC1D30,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name for TBC1D30, it's unclear if the sentence meets the requirement fully. If the UniProt name is indeed short, it should have been used instead."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence touches on the significance of TBC1D30 in cellular function, development, and disease study, which hints at its clinical significance. However, it lacks specific details about the structure and function of TBC1D30, which are key aspects mentioned in the requirement. The sentence is concise but does not fully summarize the article as required."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a general statement about the significance of TBC1D30 in cellular function, development, and disease study. If the infobox already contains detailed information about TBC1D30's role in these areas, the sentence might be somewhat redundant. However, the sentence does emphasize the importance of TBC1D30, which could be considered notable. The score reflects that while the sentence may repeat some information, it does so in a way that highlights the significance of TBC1D30, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein's interaction with other molecular components within the cell highlights its importance in the delicate balance of cellular signaling required for proper cellular function and development.",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not clearly define the scope of the article, nor does it follow the recommended UniProt naming conventions. It mentions the protein's interaction and its importance in cellular signaling, but it lacks specificity about the protein in question and does not set a clear scope for the article. To better meet the requirement, the sentence should explicitly state the protein's name according to UniProt conventions and outline the main focus or scope of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not use either the recommended UniProt protein name or the HUGO gene symbol. It simply refers to \"The protein\" without specifying which protein is being discussed. To meet the requirement, the sentence should include the specific UniProt protein name or the HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence touches on the function of the protein by mentioning its interaction with molecular components and its role in cellular signaling. However, it lacks information on the protein's structure and clinical significance, which are key aspects required by the prompt. Additionally, the sentence does not provide a concise summary of an article, as it focuses on a specific aspect without covering the broader context or key points."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence effectively highlights the importance of the protein's interaction within the cell, which could be considered notable or requiring emphasis. However, without knowing the specific content of the infobox, it's difficult to fully assess whether the information is repetitive. If the infobox already contains detailed information about the protein's role in cellular signaling and development, the sentence might be somewhat redundant. Nonetheless, the sentence does emphasize the significance of these interactions, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Structure\nTBC1D30, or TBC1 domain family member 30, encodes a protein that is part of the TBC (Tre-2/Bub2/Cdc16) domain family, which is integral in regulating cell signaling pathways influencing cell growth and development.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a definition of TBC1D30 and its role in the TBC domain family, which is a good start for defining the scope of an article. However, it does not explicitly state the scope of the article itself, such as what specific aspects of TBC1D30 will be covered (e.g., its structure, function, interactions, etc.). Additionally, it is unclear if the naming conventions align with UniProt standards, as the sentence does not mention UniProt or its specific naming guidelines. To fully meet the requirement, the sentence should clearly define the article's scope and ensure adherence to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TBC1D30\" and provides a description of the protein it encodes. However, it does not use the recommended UniProt protein name, which is part of the requirement. The sentence partially meets the requirement by using the gene symbol, but it lacks the use of the UniProt name, which affects the score."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the structure and function of TBC1D30, mentioning its role in cell signaling pathways. However, it lacks information on the clinical significance of TBC1D30, which is a key aspect of the requirement. Additionally, the sentence includes a section header (\"# # Structure\") that is not relevant to the summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise explanation of what TBC1D30 is and its role, which may be notable information. However, if the infobox already contains this exact information, the sentence could be seen as repetitive. The score reflects that while the sentence is informative, it may not add new or emphasized information beyond what is in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein encoded by TBC1D30 can be structurally analyzed at multiple levels: primary, secondary, tertiary, and quaternary.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the protein TBC1D30 and the levels at which it can be structurally analyzed, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically include the full name of the protein and its function or role. To better meet the requirement, the sentence should provide a broader context or purpose of the article and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TBC1D30\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used according to the requirement. However, without knowing the length or availability of the UniProt name, it's unclear if the requirement is fully unmet, hence a partial score is given."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the structural analysis of the protein encoded by TBC1D30, which partially addresses the \"structure\" aspect of the requirement. However, it does not cover the \"function\" or \"clinical significance\" of the protein, nor does it provide a concise summary of the article. The sentence lacks the necessary breadth and depth to meet the requirement fully."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the structural analysis of the protein encoded by TBC1D30, which may already be present in an infobox. However, the mention of the different levels of structural analysis (primary, secondary, tertiary, and quaternary) could be considered notable or require emphasis, as it highlights the complexity and depth of analysis possible for this protein. The sentence mostly meets the requirement, but without knowing the content of the infobox, it's difficult to fully assess the necessity of this repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The primary structure of TBC1D30 consists of a linear sequence of amino acids, which includes the characteristic TBC domain responsible for its function in GTPase activation.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a description of the primary structure of TBC1D30 and mentions its function in GTPase activation, but it does not clearly define the scope of an article. Additionally, it does not follow the recommended UniProt naming conventions, which typically include specific identifiers or standardized names. To better meet the requirement, the sentence should explicitly state the focus or purpose of the article and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TBC1D30,\" which is the HUGO gene symbol. However, it does not provide any disambiguation or context to indicate that this is the gene symbol rather than the UniProt protein name. If the UniProt protein name is relatively short, it should be used instead. The sentence partially meets the requirement by using the gene symbol, but it lacks clarity on whether this is the best choice according to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the structure and function of TBC1D30, mentioning its linear sequence of amino acids and the TBC domain's role in GTPase activation. However, it lacks any mention of the clinical significance of TBC1D30, which is a key aspect required by the prompt. Additionally, while it avoids unnecessary detail, it does not fully meet the requirement to cover all specified aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the primary structure of TBC1D30 and its function, which may not be redundant if the infobox does not detail the role of the TBC domain in GTPase activation. However, if the infobox already contains this information, the sentence could be seen as repetitive. The score reflects that the sentence is potentially notable, but without knowing the infobox content, it's unclear if it truly avoids redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This activation is crucial for various cellular processes.",
+      "title": "Introduction",
+      "score": 0.26,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It is a general statement about activation in cellular processes, lacking specific context or reference to UniProt guidelines. To improve, the sentence should clearly outline the article's focus and incorporate relevant UniProt terminology."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein or gene, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To fulfill the requirement, the sentence should specify a protein or gene name according to the given guidelines."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence is too vague and lacks the necessary detail to summarize an article. It mentions the importance of activation for cellular processes but does not address key aspects such as structure, function, or clinical significance. More specific information is needed to meet the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence is general and does not provide specific information that would be considered particularly notable or requiring emphasis. Without knowing the content of the infobox, it's unclear if this information is redundant. If the infobox already contains this information, the sentence may not meet the requirement to avoid repetition unless it adds significant value or emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The secondary structure features common motifs such as alpha helices and beta sheets, which are typical in many proteins and are important for the protein's stability and function.",
+      "title": "Introduction",
+      "score": 0.34,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides information about secondary structure motifs in proteins, but it does not define the scope of an article or follow UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's focus and adhere to specific naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein or gene, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The requirement is not applicable to the content of the sentence as it stands."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief mention of the structure and function of proteins by highlighting common motifs like alpha helices and beta sheets. However, it lacks a comprehensive summary of the article, as it does not address the clinical significance or cover other key aspects that might be present in the article. Additionally, it does not provide a concise overview but rather focuses on a specific detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides general information about secondary structure motifs like alpha helices and beta sheets, which are common knowledge in the context of protein structures. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable or requires emphasis. However, the sentence does emphasize the importance of these motifs for protein stability and function, which could justify its inclusion. The score reflects that while the sentence may not strictly avoid repetition, it does add some value by highlighting the significance of these structures."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "At the tertiary level, TBC1D30 folds into a unique three-dimensional structure that is necessary for its biological activity.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides a specific detail about the protein TBC1D30's structure and function, but it lacks a broader context or introduction to the article's overall focus. To meet the requirement, the sentence should introduce the main topic or purpose of the article and adhere to UniProt naming conventions, if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TBC1D30,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the length of the UniProt protein name, it's unclear if the sentence meets the requirement fully. If the UniProt name is short, it should have been used instead."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the structure and function of TBC1D30, which partially addresses the requirement. However, it lacks any mention of clinical significance and does not provide a comprehensive summary of an article. It is too focused on a specific detail (the three-dimensional structure) without covering broader key aspects or summarizing the article as a whole."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the tertiary structure of TBC1D30 and its necessity for biological activity, which may not be common knowledge or explicitly detailed in an infobox. If the infobox already contains this information, the sentence could be seen as repetitive. However, the detail about the structure's necessity for biological activity could be considered notable, justifying its inclusion. The score reflects a slight deviation from the requirement due to potential repetition, but acknowledges the importance of the information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This structure allows for the interaction with other molecules and proteins within the cell, facilitating its role in signaling pathways.",
+      "title": "Introduction",
+      "score": 0.31,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It describes a function related to molecular interactions and signaling pathways, but it does not provide an overview or context for the article's content."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein or gene, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence should specify a protein or gene using the appropriate naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence partially addresses the requirement by mentioning \"structure\" and \"function\" in the context of interaction and signaling pathways. However, it lacks a summary of the article's key aspects, particularly the \"clinical significance,\" and does not provide a comprehensive overview. Additionally, it does not clearly summarize the article concisely, as it focuses on a specific detail rather than a broad overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information from an infobox, as it provides specific details about the structure's role in interacting with molecules and proteins and its involvement in signaling pathways. However, without access to the infobox, it's difficult to fully assess whether the information is repeated. Assuming the sentence adds new or emphasized information, it meets the requirement well."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The quaternary structure of TBC1D30 involves its interaction and possibly forming complexes with other proteins, which could influence its function and localization within the cell.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the quaternary structure of TBC1D30 and its potential interactions, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using specific identifiers or standardized names for proteins. To better meet the requirement, the sentence should explicitly state the focus or main topic of the article and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TBC1D30,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt name, it's unclear if the sentence fully meets the requirement. If the UniProt name is indeed short, it should have been used instead."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence partially addresses the requirement by mentioning the quaternary structure and potential interactions of TBC1D30, which relates to its function. However, it lacks a comprehensive summary of the article, as it does not cover the clinical significance or provide a broader context. Additionally, it does not concisely summarize key aspects, focusing instead on a specific detail about protein interaction."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the quaternary structure of TBC1D30, focusing on its interaction and potential complex formation with other proteins. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does add context about the potential influence on function and localization, which could be notable. The score reflects that while there is some repetition, the additional details may justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, TBC1D30 may undergo post-translational modifications such as phosphorylation, which can further regulate its activity and stability.",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it discusses a specific aspect of TBC1D30, namely its potential post-translational modifications. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve providing a clear and concise definition or description of the protein or topic in question."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TBC1D30\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used according to the requirement. However, without knowing the specific UniProt name length, it's unclear if the requirement was fully met, hence a partial score."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions a specific aspect of TBC1D30, namely its potential post-translational modifications and their effects on activity and stability. However, it does not summarize the article concisely or cover key aspects such as structure, function, and clinical significance. It lacks a broader context and does not provide a comprehensive overview, which is necessary to meet the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about TBC1D30 undergoing post-translational modifications, which may be a detail not typically included in a standard infobox. If this information is already present in the infobox, it might be considered repetitive unless it is particularly notable or requires emphasis. However, the sentence does add context about the potential impact on activity and stability, which could justify its inclusion. The score reflects that while there is a possibility of repetition, the sentence adds value by explaining the significance of the modifications."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Various splice variant isoforms of TBC1D30 also exist, potentially altering its functional and interaction dynamics within the cell.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions the existence of splice variant isoforms of TBC1D30 and their potential effects, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name and its corresponding gene name in a standardized format. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TBC1D30\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used to better meet the requirement. However, if the UniProt name is long or not well-known, using the gene symbol with disambiguation might be acceptable. The sentence does not provide disambiguation, which affects the score."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the existence of splice variant isoforms of TBC1D30 and hints at their potential impact on function and interaction dynamics. However, it does not provide a concise summary of the article, as it lacks information on the structure, specific functions, and clinical significance of TBC1D30. Additionally, it does not cover key aspects comprehensively and includes unnecessary detail about splice variants without broader context."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides information about splice variant isoforms of TBC1D30, which may already be present in an infobox. However, it adds value by mentioning the potential impact on functional and interaction dynamics, which could be considered notable. The sentence could be more concise if the infobox already covers these aspects, but it does emphasize the significance of the variants, justifying its inclusion to some extent."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Function\nTBC1D30, a member of the Tre2-Bub2-Cdc16 (TBC) protein family, functions as a GTPase-activating protein (GAP) specifically for the Rab8 GTPase.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a specific function of the protein TBC1D30, which is a member of the TBC protein family and acts as a GAP for Rab8 GTPase. However, it does not clearly define the overall scope of the article. To better meet the requirement, the sentence should include broader context or objectives of the article, such as the biological significance, potential applications, or the focus of the research on TBC1D30, while adhering to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TBC1D30,\" which is the HUGO gene symbol. However, it does not specify whether this is the recommended UniProt protein name or if disambiguation is necessary. To fully meet the requirement, the sentence should clarify if \"TBC1D30\" is the recommended UniProt name or provide disambiguation if it is not."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the function of TBC1D30 as a GTPase-activating protein for Rab8, which partially meets the requirement of summarizing the function. However, it lacks information on the structure and clinical significance of TBC1D30, which are key aspects mentioned in the requirement. Additionally, the sentence includes unnecessary detail with the mention of the Tre2-Bub2-Cdc16 (TBC) protein family without explaining its relevance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the function of TBC1D30, which may be notable if not already detailed in the infobox. However, without knowing the content of the infobox, it's difficult to fully assess redundancy. If the infobox already contains this exact information, the sentence could be seen as repetitive. The score reflects a slight deduction for potential redundancy, but acknowledges that the detail might be important if not emphasized elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This protein plays a significant role in the regulation of cellular architecture and signaling pathways, particularly through its involvement in the formation and function of primary cilia, which are crucial signaling hubs on the cell surface (Barr2014Rab).",
+      "title": "Introduction",
+      "score": 0.46,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the protein's role in cellular architecture and signaling pathways, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, as it does not specify the protein's name or any relevant identifiers. To better meet the requirement, the sentence should explicitly state the protein's name and its specific functions or areas of focus within the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention the specific protein by either its UniProt recommended name or the HUGO gene symbol. To meet the requirement, the sentence should explicitly name the protein using one of these conventions."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the protein's role in cellular architecture and signaling pathways, specifically mentioning its involvement with primary cilia. However, it lacks details on the protein's structure and clinical significance, which are key aspects required by the prompt. Additionally, the citation style \"(Barr2014Rab)\" is not standard and may be considered unnecessary detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the protein's role in cellular architecture and signaling pathways, specifically mentioning its involvement with primary cilia. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does emphasize the importance of primary cilia as signaling hubs, which could be notable enough to warrant repetition. The score reflects that while the sentence may repeat some information, it also adds emphasis on a specific aspect that could be considered important."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Primary cilia are essential for various signaling pathways that govern cellular and tissue architecture, especially during development and in disease states where these pathways might be disrupted.",
+      "title": "Introduction",
+      "score": 0.49,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general statement about the importance of primary cilia in signaling pathways and their role in development and disease. However, it does not clearly define the scope of the article or follow specific UniProt naming conventions. To better meet the requirement, the sentence should explicitly outline the focus of the article and incorporate relevant UniProt terminology if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific proteins or genes, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the score, the sentence should include specific protein or gene names and ensure they are presented according to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.7,
+          "feedback": [
+            "The sentence effectively highlights the function and clinical significance of primary cilia by mentioning their role in signaling pathways and their importance during development and disease states. However, it lacks specific details about the structure of primary cilia, which is a key aspect mentioned in the requirement. Additionally, while it is concise, it could be more comprehensive in summarizing the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides a general overview of the role of primary cilia in signaling pathways and their importance in development and disease. If the infobox already contains detailed information about the role of primary cilia in signaling pathways, development, and disease, this sentence might be somewhat repetitive. However, if the infobox lacks this context or if the emphasis on the disruption of pathways in disease states is particularly notable, the sentence could be justified. The score reflects a moderate level of potential redundancy, depending on the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The activity of TBC1D30 in modulating Rab8 activity is critical in ciliogenesis.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the role of TBC1D30 in modulating Rab8 activity and its importance in ciliogenesis, which suggests a focus on cellular processes. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the article's focus and adhere to specific naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TBC1D30\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should be used instead. The sentence partially meets the requirement by using a recognized gene symbol, but it does not fully comply with the preference for the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the role of TBC1D30 in modulating Rab8 activity and its importance in ciliogenesis, which touches on the function aspect. However, it lacks information on structure and clinical significance, and it does not provide a comprehensive summary of the article. The sentence is too specific and does not cover the broader key aspects required for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of TBC1D30 in modulating Rab8 activity and its importance in ciliogenesis. If this information is already present in the infobox, it might be considered repetitive. However, the sentence emphasizes the critical nature of this activity, which could justify its inclusion if it is particularly notable. The score reflects that while the sentence may repeat information, it does so with a focus on emphasizing the importance of the activity, which partially aligns with the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "By acting as a GAP for Rab8, TBC1D30 can suppress the formation of primary cilia by interfering with Rab8a activity, thus indirectly influencing the ciliogenesis process (\u00c4\u008caj\u00c3\u00a1nek2014Cep164).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively define the scope of the article. Instead, it provides a specific detail about the function of TBC1D30 in relation to Rab8 and ciliogenesis. Additionally, the sentence does not follow the recommended UniProt naming conventions, as it uses \"Rab8\" and \"Rab8a\" without specifying the full protein names or identifiers. To better meet the requirement, the sentence should provide a broader overview of the article's focus and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TBC1D30,\" which is the HUGO gene symbol, but it does not provide any disambiguation. It is unclear if \"TBC1D30\" is the best choice according to the requirement, as the recommended UniProt protein name is not mentioned. The sentence partially meets the requirement by using a gene symbol, but it lacks clarity on whether this is the most appropriate choice or if disambiguation is needed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the function of TBC1D30 as a GAP for Rab8 and its role in suppressing primary cilia formation. However, it does not summarize the article concisely or cover key aspects like structure, broader function, or clinical significance. It focuses narrowly on a specific interaction without providing a comprehensive overview of the article's content. Additionally, the citation is not properly formatted, which may affect clarity."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of TBC1D30 in suppressing primary cilia formation by acting as a GAP for Rab8, which may not be common knowledge and could be notable enough to include outside of an infobox. However, without knowing the content of the infobox, it's difficult to fully assess if this information is repeated unnecessarily. The sentence seems to offer detailed insight that might not be redundant, hence the relatively high score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This suppression highlights the protein's role in the delicate balance of cellular signaling required for proper cellular function and development.",
+      "title": "Introduction",
+      "score": 0.31,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It discusses the role of a protein in cellular signaling but lacks any indication of the article's scope or adherence to specific naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not mention any specific protein name or gene symbol. To fulfill the requirement, the sentence should include either the recommended UniProt protein name or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the protein's role in cellular signaling and its importance for cellular function and development, which touches on the function aspect. However, it lacks information on structure and clinical significance, and it does not provide a comprehensive summary of an article. The sentence is too focused on a specific detail rather than summarizing key aspects concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information from an infobox, as it provides specific details about the protein's role in cellular signaling and development. However, without access to the infobox content, it's difficult to fully assess the repetition. Assuming the sentence adds new or emphasized information, it meets the requirement well. If the infobox already contains this information and it is not particularly notable, the score would be lower."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Overall, TBC1D30 is integral to the regulation of intracellular trafficking and signaling, impacting crucial cellular processes and potentially influencing disease pathology when dysregulated.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general overview of the role of TBC1D30 in cellular processes and its potential impact on disease pathology. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to specific naming guidelines provided by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TBC1D30,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name, it's unclear if the sentence meets the requirement fully. If the UniProt name is indeed short and not used, the sentence does not fully comply with the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides a concise summary of the article by highlighting the function of TBC1D30 in regulating intracellular trafficking and signaling. It also touches on its clinical significance by mentioning its potential influence on disease pathology. However, it lacks specific details about the structure of TBC1D30, which is a key aspect mentioned in the requirement. Including a brief mention of the structure would improve the summary's completeness."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise summary of TBC1D30's role in cellular processes and its potential impact on disease pathology. If this information is already present in the infobox, it may not be necessary to repeat it unless it adds significant emphasis or context. The sentence does not overly repeat details, but the score reflects the need to ensure it adds value beyond what is in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Interactions\nTBC1D30, a GTPase activating protein (GAP) for Rab8, plays a significant role in the regulation of cellular processes through its interactions with other proteins.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context by mentioning TBC1D30 and its role as a GTPase activating protein for Rab8, which is relevant to the scope of the article. However, it does not clearly define the overall scope of the article or follow the recommended UniProt naming conventions. The sentence lacks a clear statement of the article's focus or objectives, which is necessary to fully meet the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TBC1D30\" instead of the recommended UniProt protein name. If the UniProt name is relatively short, it should be used according to the requirement. The sentence partially meets the requirement by using a recognized gene symbol, but it does not fully comply as it does not check if the UniProt name is short enough to be used."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief mention of the function of TBC1D30 as a GTPase activating protein for Rab8 and its role in cellular processes. However, it lacks information on the structure and clinical significance of TBC1D30, which are key aspects required for a comprehensive summary. Additionally, the sentence does not provide a clear summary of an article, as it seems to be more of a standalone statement rather than a lead that encapsulates the main points of a larger text."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about TBC1D30, highlighting its role as a GTPase activating protein for Rab8 and its involvement in cellular processes through protein interactions. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable. However, the sentence does emphasize the significance of TBC1D30's role, which could justify its inclusion. The score reflects that while the sentence may repeat information, it does so with a focus on the importance of the interactions, which could be considered notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "It is specifically enriched at primary cilia, suggesting interactions with components of the ciliary structure or signaling pathways associated with cilia (Barr2014Rab).",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It appears to be a specific observation or finding related to primary cilia, rather than an introductory sentence that outlines the broader context or focus of the article. To meet the requirement, the sentence should provide a clear overview of the article's main topic or research area and adhere to any specific naming conventions set by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, so it cannot be evaluated against the requirement to use the recommended UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence should include a specific protein or gene name and ensure it follows the guideline for naming."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about the enrichment of a component at primary cilia and hints at potential interactions, but it does not summarize the article concisely. It lacks coverage of key aspects such as structure, function, and clinical significance, and does not provide a broad overview. The sentence is too focused on a specific point rather than summarizing the article as a whole."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the enrichment at primary cilia and suggests interactions with ciliary components or signaling pathways. If this information is already present in the infobox, it might be considered repetitive. However, the mention of a specific study (Barr2014Rab) could be notable, which slightly justifies its inclusion. The sentence could be more concise if the information is not particularly notable or requires emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein's GAP activity facilitates the conversion of Rab8 from its active GTP-bound form to an inactive GDP-bound form, which is crucial for the proper functioning and regulation of Rab8-dependent pathways, including those involved in cell shape changes, migration, and ciliogenesis (Per\u00c3\u00a4nen2011Rab8).",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about the function of a protein's GAP activity related to Rab8, but it does not define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein names and identifiers. To better meet the requirement, the sentence should introduce the broader topic or focus of the article and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not use either the recommended UniProt protein name or the HUGO gene symbol for the protein with GAP activity. Instead, it refers to \"The protein's GAP activity\" without specifying the protein's name or gene symbol. To meet the requirement, the sentence should include the specific UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the function of a protein's GAP activity in relation to Rab8, mentioning its role in converting Rab8 from an active to an inactive form. However, it does not summarize the article concisely or cover key aspects such as structure, broader function, or clinical significance. The sentence focuses narrowly on a specific function without providing a comprehensive overview of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the protein's GAP activity and its role in Rab8 regulation, which may already be present in an infobox. However, it does emphasize the importance of this activity in specific cellular processes like cell shape changes, migration, and ciliogenesis, which could be considered notable. The score reflects that while the information might be repetitive, the emphasis on its significance justifies its inclusion to some extent."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Furthermore, TBC1D30's overexpression has been shown to suppress primary cilium (PC) formation by interfering with Rab8a activity.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides specific information about the function of TBC1D30 in relation to primary cilium formation and Rab8a activity, but it does not introduce the broader context or purpose of the article. To meet the requirement, the sentence should clearly outline the main focus or objective of the article and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"TBC1D30\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should be used instead. The sentence partially meets the requirement by using a recognized gene symbol, but it does not fully comply with the preference for the UniProt name if it is short."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about TBC1D30's overexpression and its effect on primary cilium formation, focusing on its interaction with Rab8a. However, it does not summarize the article concisely or cover key aspects such as the overall structure, function, and clinical significance of TBC1D30. It lacks a broader context and does not provide a comprehensive overview, which is necessary to meet the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about TBC1D30's role in suppressing primary cilium formation by interfering with Rab8a activity. If this information is already present in the infobox, it may not be necessary to repeat it unless it is particularly notable or requires emphasis. However, the sentence does not appear to be overly redundant or unnecessary, so it largely meets the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This interaction does not affect the recruitment of IFT81 or the removal of CP110 from centrioles, indicating that while TBC1D30 modulates Rab8a activity, it does not directly influence these specific events in ciliogenesis (\u00c4\u008caj\u00c3\u00a1nek2014Cep164).",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it discusses specific interactions related to proteins and cellular processes, which is more detailed content rather than a scope-defining statement. To meet the requirement, the sentence should provide a broad overview of the article's focus and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses gene symbols (IFT81, CP110, TBC1D30, Rab8a) instead of the recommended UniProt protein names. While gene symbols are often used in scientific literature, the requirement specifies using UniProt names if they are relatively short. The sentence partially meets the requirement by using gene symbols, but it does not fully comply with the preference for UniProt names. Additionally, the citation format appears to be incorrect or corrupted, which could affect clarity."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provided does not effectively summarize the article as required. It focuses on a specific interaction involving TBC1D30, Rab8a, IFT81, and CP110, but does not cover the overall structure, function, or clinical significance of the study. Additionally, it lacks a broader context or summary of the key findings of the article. The mention of \"\u00c4\u008caj\u00c3\u00a1nek2014Cep164\" suggests a citation, but it does not contribute to a comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 1.0,
+          "feedback": [
+            "The sentence does not appear to repeat information that would typically be found in an infobox, such as basic facts or data points. Instead, it provides specific details about the interaction of TBC1D30 with Rab8a and its effects on ciliogenesis, which are likely not covered in an infobox. Therefore, it meets the requirement well."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These interactions underline the critical role of TBC1D30 in cellular trafficking and signaling pathways, particularly in the context of primary cilia and Rab8 regulation.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the role of TBC1D30 in cellular trafficking and signaling pathways, which gives some insight into the article's focus. However, it does not clearly define the overall scope of the article or follow the recommended UniProt naming conventions. A more explicit statement about the article's purpose and adherence to naming conventions would improve the score."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"TBC1D30,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt name length, it's unclear if the requirement is fully met. The score reflects this uncertainty."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the role of TBC1D30 in cellular trafficking and signaling pathways, specifically in relation to primary cilia and Rab8 regulation. However, it does not provide a comprehensive summary of the article, as it lacks information on the structure, function, and clinical significance of TBC1D30. Additionally, it does not cover key aspects concisely and omits broader context or implications."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of TBC1D30 in cellular processes, which may be notable or require emphasis. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repetitive. If the infobox already contains detailed information about TBC1D30's role in cellular trafficking, signaling pathways, primary cilia, and Rab8 regulation, the sentence might be somewhat redundant. Nonetheless, the sentence does focus on a specific aspect that could be considered notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # References\n\n\n[1.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a heading or a placeholder for references, rather than a sentence that introduces or defines the scope of an article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any information related to the use of UniProt protein names or HUGO gene symbols. It appears to be an incomplete or incorrectly formatted reference section, and thus does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It is not a lead or summary of an article; instead, it appears to be a heading or part of a reference list. It does not cover any key aspects such as structure, function, or clinical significance, nor does it provide any detail, necessary or unnecessary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provided is incomplete and does not offer enough context to fully evaluate its adherence to the requirement. However, the presence of \"# # References\" suggests a heading or section title, which typically does not repeat information from an infobox. Without additional context, it's unclear if the content following this heading repeats infobox information. Therefore, the score reflects this uncertainty."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Per\u00c3\u00a4nen2011Rab8) Johan Per\u00c3\u00a4nen.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It appears to be a citation or reference to an author and a year, rather than a descriptive sentence that outlines the article's scope. To meet the requirement, the sentence should clearly state the focus or subject of the article using appropriate naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It does not use either the recommended UniProt protein name or the HUGO gene symbol. Instead, it appears to be a citation or reference to a publication by Johan Per\u00e4nen, which is unrelated to the requirement of naming a protein."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It does not provide any summary of the article, nor does it cover key aspects like structure, function, or clinical significance. It appears to be a citation or reference to an author and year, rather than a lead summarizing an article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to repeat information that might be present in an infobox, such as the author's name. However, without context, it's unclear if this repetition is necessary for emphasis or not. The score reflects this uncertainty, as the sentence could potentially be redundant if the information is already covered elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Rab8 gtpase as a regulator of cell shape.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general idea of the article's topic by mentioning \"Rab8 gtpase as a regulator of cell shape,\" but it lacks a clear definition of the article's scope. Additionally, it does not follow the recommended UniProt naming conventions, as \"Rab8 gtpase\" should be capitalized and formatted correctly (e.g., \"RAB8 GTPase\"). To improve, the sentence should clearly define the scope and adhere to proper naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Rab8 gtpase,\" which appears to be a gene or protein name. However, it does not specify whether this is the recommended UniProt protein name or the HUGO gene symbol. To fully meet the requirement, the sentence should clarify if \"Rab8 gtpase\" is the recommended UniProt name or use the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a very brief mention of Rab8 GTPase as a regulator of cell shape, which touches on its function. However, it lacks any information on structure, clinical significance, or a comprehensive summary of the article. It is too vague and does not meet the requirement of summarizing key aspects concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence \"Rab8 gtpase as a regulator of cell shape\" is concise and does not appear to repeat information unnecessarily. However, without the context of the infobox, it's difficult to fully assess whether this information is already present there. Assuming the sentence is not redundant with the infobox, it meets the requirement well. If the infobox already contains this information and it is not particularly notable, the score might be lower."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Cytoskeleton, 68(10):527\u00e2\u0080\u0093539, September 2011.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation reference, not a sentence that defines the scope of an article. It does not follow the recommended UniProt naming conventions or provide any information about the content or scope of the article. To meet the requirement, the sentence should introduce the topic and scope of the article using appropriate scientific terminology."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not mention any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is not a summary of an article but rather a citation. It does not cover any key aspects such as structure, function, or clinical significance of the cytoskeleton. To meet the requirement, a concise summary of the article's content is needed."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, likely providing publication details such as the journal name, volume, issue, page numbers, and date. If this information is already present in an infobox, repeating it in the main text may not be necessary unless it is particularly notable. However, without additional context, it's difficult to determine if this repetition is justified. The sentence mostly meets the requirement, but the score reflects the potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1002/cm.20529 , doi:10.1002/cm.20529.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It only contains a URL and a DOI, which are identifiers for accessing the article, but do not provide any information about the article's content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI reference, with no mention of a UniProt protein name or a HUGO gene symbol. To meet the requirement, the sentence should include a reference to a protein name or gene symbol, as specified."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary or information about the article's structure, function, or clinical significance. There is no content to evaluate against the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the sentence does provide both the URL and DOI format, which could be useful in some contexts, hence a middle score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(117 citations) 10.1002/cm.20529]( https://doi.org/10.1002/cm.20529 )\n\n[2.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation or reference to a DOI link, which does not provide any information about the content or scope of the article. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any mention of a protein name or a gene symbol, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference and does not address the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation reference rather than a summary of an article. It lacks any information about the article's structure, function, or clinical significance, and does not provide a concise summary of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation and a DOI link, which are typically found in an infobox. However, it does not repeat any specific information that would be expected in an infobox, such as the title, authors, or publication date. The inclusion of the number of citations could be considered notable, but without additional context, it's unclear if this repetition is necessary. The sentence mostly meets the requirement, but the relevance of the citation count could be questioned."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Barr2014Rab) Francis A. Barr.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"(Barr2014Rab) Francis A. Barr.\" does not define the scope of the article and does not follow the recommended UniProt naming conventions. It appears to be a citation or reference to an author rather than a sentence that introduces or defines the scope of an article. To meet the requirement, the sentence should clearly state the topic or focus of the article and adhere to UniProt naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not use either the recommended UniProt protein name or the HUGO gene symbol. Instead, it appears to be a citation or reference to an author, which is unrelated to the requirement of naming a protein or gene."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It only provides a reference citation and a name, without any summary of the article's content. It lacks any information on structure, function, or clinical significance, and does not provide a concise summary of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence \"(Barr2014Rab) Francis A. Barr.\" appears to be a citation or reference to a work by Francis A. Barr. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable or requires emphasis. The sentence is concise and does not overly repeat information, but without context, it's unclear if the repetition is necessary. Therefore, it mostly meets the requirement but could be improved by ensuring the repetition is justified."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Rab GEFs and GAPs: The Enigma Variations, pages 81\u00e2\u0080\u0093106.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article. Instead, it appears to be a citation or reference to a section of a publication, indicating page numbers. Additionally, it does not follow any naming conventions, such as those recommended by UniProt, which typically involve standardized protein or gene names. To meet the requirement, the sentence should clearly outline the article's focus and adhere to the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not use any UniProt protein name or HUGO gene symbol. It appears to be a reference to a section in a publication rather than a mention of a specific protein or gene. To meet the requirement, the sentence should include a specific protein name from UniProt or a HUGO gene symbol if applicable."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the structure, function, or clinical significance of Rab GEFs and GAPs. To meet the requirement, the sentence should concisely cover these key aspects of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a reference to a specific section or pages in a document or book, likely related to Rab GEFs and GAPs. Without additional context, it's unclear if this information is repeated from an infobox or if it is particularly notable. If this information is already present in an infobox and is not emphasized for a specific reason, it may not fully meet the requirement to avoid repetition. However, if the page numbers or the title \"The Enigma Variations\" are notable, it could justify the repetition. More context is needed to accurately assess the necessity of this information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Springer International Publishing, 2014.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Springer International Publishing, 2014.\" does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation or reference to a publication, rather than a sentence that introduces or defines the scope of an article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It does not mention any protein name, UniProt protein name, or HUGO gene symbol. It appears to be a citation or reference to a publication, which is unrelated to the requirement of using specific protein or gene naming conventions."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Springer International Publishing, 2014.\" does not meet the requirement at all. It is a citation or reference to a publication and does not summarize an article, nor does it cover any key aspects like structure, function, or clinical significance. It lacks any content related to the article's subject matter."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence \"Springer International Publishing, 2014.\" appears to be a bibliographic reference, likely indicating the publisher and year of publication. Without additional context, it's unclear if this information is already present in an infobox. If it is, and the information is not particularly notable or requires emphasis, then the sentence may be unnecessarily repetitive. However, if this is the only mention or if it is emphasized for a specific reason, it could be justified. The score reflects this ambiguity."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1007/978-3-319-07761-1_5 , doi:10.1007/978-3-319-07761-1_5.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of an article nor does it follow any naming conventions, including those recommended by UniProt. Instead, it simply lists a URL and a DOI, which are identifiers for a document but do not provide any information about the content or scope of the article. To meet the requirement, the sentence should describe the article's focus or subject matter using appropriate naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. The requirement is about using the recommended UniProt protein name or the HUGO gene symbol, but the sentence only contains a URL and a DOI reference, which are unrelated to protein names or gene symbols."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary or information about the article's content, structure, function, or clinical significance. To meet the requirement, the sentence should provide a concise summary of the article's key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information in two different formats (URL and plain DOI), which may not be necessary unless there is a specific reason to emphasize both. This repetition does not align well with the requirement to avoid repeating information unless notable. However, if the context requires both formats for clarity or emphasis, the repetition could be justified."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(1 citations) 10.1007/978-3-319-07761-1_5]( https://doi.org/10.1007/978-3-319-07761-1_5 )\n\n[3.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It appears to be a citation or reference link rather than a descriptive sentence about the article's content or scope. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a sentence discussing proteins or genes."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation or reference link rather than a summary of an article. It does not provide any information about the article's structure, function, or clinical significance, nor does it summarize the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation reference, which is typically included in an infobox or reference section. It does not seem to repeat information unnecessarily, but without context, it's unclear if this information is already present elsewhere. The score reflects that it mostly meets the requirement, assuming the citation is not repeated in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(\u00c4\u008caj\u00c3\u00a1nek2014Cep164) Luk\u00c3\u00a1\u00c5\u00a1 \u00c4\u008caj\u00c3\u00a1nek and Erich A. Nigg.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It appears to be a citation or reference to authors and a publication year, rather than a sentence that introduces or defines the scope of an article. To meet the requirement, the sentence should clearly state the topic or focus of the article and adhere to UniProt naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It mentions authors and a reference, but it does not include any protein names or gene symbols, nor does it attempt to use the recommended UniProt protein name or HUGO gene symbol. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation or reference to authors and a publication year, rather than a summary of an article. It does not cover any key aspects such as structure, function, or clinical significance, nor does it provide any detail about the content of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes information that might also be present in an infobox. However, without context on what is in the infobox, it's difficult to determine if this information is repeated unnecessarily. The sentence does not seem to emphasize or highlight any particularly notable information, but it is a standard format for citations. The score reflects that it likely meets the requirement, assuming the citation is necessary for context or reference purposes."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Cep164 triggers ciliogenesis by recruiting tau tubulin kinase 2 to the mother centriole.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific piece of information about the role of Cep164 in ciliogenesis, but it does not define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically include the full name of the protein and its gene symbol in parentheses. To better meet the requirement, the sentence should introduce the broader topic of the article and adhere to the naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"tau tubulin kinase 2,\" which is a descriptive name rather than the recommended UniProt protein name or the HUGO gene symbol. The UniProt recommended name for this protein is \"Serine/threonine-protein kinase TTN2,\" and the HUGO gene symbol is \"TTBK2.\" The sentence partially meets the requirement by using a recognizable name, but it does not use the preferred naming conventions specified."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the role of Cep164 in ciliogenesis by recruiting tau tubulin kinase 2 to the mother centriole, which touches on the function aspect. However, it lacks information on the structure and clinical significance, and it does not summarize the article concisely. It focuses on a specific mechanism rather than providing a broader overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of Cep164 in ciliogenesis, which may not be redundant if the infobox does not contain this level of detail. However, if the infobox already includes this exact information, the sentence could be seen as repetitive. The score reflects that the sentence is likely to be informative and notable, but its necessity depends on the content of the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Proceedings of the National Academy of Sciences, June 2014.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It merely states the title of a publication and its date, without any indication of the article's content or adherence to specific naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence is a citation and does not relate to the requirement provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is merely a citation and does not summarize the article at all. It lacks any information about the article's structure, function, or clinical significance. To meet the requirement, the sentence should concisely convey the main points and findings of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence \"Proceedings of the National Academy of Sciences, June 2014\" may repeat information that is typically found in an infobox, such as the publication name and date. Without context, it's unclear if this repetition is necessary or notable. If this information is already present in the infobox and does not require emphasis, the sentence could be seen as redundant. However, if the context justifies its inclusion, the score could be higher."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1073/pnas.1401777111 , doi:10.1073/pnas.1401777111.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement at all. It only provides a URL and a DOI, which are identifiers for accessing the article, but it does not define the scope of the article or follow any naming conventions, such as those recommended by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI, with no mention of a UniProt protein name or a HUGO gene symbol. The requirement is about using specific naming conventions for proteins or genes, which is not relevant to the content of the sentence provided."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, without any summary or information about the article's content, structure, function, or clinical significance. To meet the requirement, the sentence should provide a concise summary of the article's key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, the sentence does provide both the URL and DOI, which could be seen as slightly different pieces of information, hence not a complete failure."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(189 citations) 10.1073/pnas.1401777111]( https://doi.org/10.1073/pnas.1401777111 )",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation reference with a DOI link, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. It contains a citation and a DOI link, but it does not mention any protein names or gene symbols, nor does it use the recommended UniProt protein name or HUGO gene symbol. To meet the requirement, the sentence should include a protein name or gene symbol and ensure it follows the specified naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a citation and a DOI link, without any summary or information about the article's structure, function, or clinical significance. There is no content to evaluate against the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a citation count and a DOI link, which are likely to be details already present in an infobox. The information is not particularly notable or emphasized in a way that justifies its repetition outside the infobox. However, if the citation count is significant, it might warrant mention, but this is not clear from the context provided."
+          ]
+        }
+      ],
+      "color": "red"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+# GOLGA8H
+
+## Overview
+GOLGA8H is a gene located in the human genome that encodes the protein golgin A8 family member H. This protein is part of the golgin subfamily of proteins, which are primarily associated with the Golgi apparatus, an essential organelle involved in protein sorting and modification. Golgin proteins, including golgin A8 family member H, are known for their coiled-coil domains that contribute to their role in maintaining Golgi structure and function. The specific functions of GOLGA8H are not fully understood, but it is believed to play a role in Golgi membrane dynamics and the regulation of Golgi assembly. The protein's involvement in these processes suggests its importance in cellular logistics and integrity, although its exact molecular activities and interactions require further elucidation (Bekpen2019Human).
+
+## Function
+GOLGA8H, a member of the GOLGA (GOLGIN) gene family, encodes a protein associated with the Golgi apparatus, a central organelle in cellular trafficking and protein modification. The GOLGA8 subfamily proteins, including GOLGA8H, are characterized by long coiled-coil domains and are involved in maintaining the structure and function of the Golgi apparatus. These proteins are crucial for vesicle tethering and fusion, processes essential for the transport and sorting of proteins within the cell (Bekpen2019Human).
+
+The GOLGA8H protein shares structural similarities with GM130 (GOLGA2), suggesting a role in Golgi membrane dynamics and possibly in the regulation of Golgi assembly (Bekpen2019Human). Although the specific molecular activities of GOLGA8H in these processes are not fully detailed, its involvement in core cellular functions and potential interactions with other cellular proteins indicate its importance in maintaining cellular logistics and integrity (Bekpen2019Human).
+
+Moreover, the intrinsic disorder characteristic of the GOLGA8 proteins, including GOLGA8H, allows for flexible interactions with multiple proteins, which is critical for the dynamic processes of the Golgi apparatus (Van2020Intrinsic). This structural plasticity underscores the protein's adaptability and its role in diverse cellular functions, although further studies are needed to elucidate the specific outcomes of these interactions in organismal biology.
+
+## Clinical Significance
+GOLGA8H, a member of the GOLGA8 gene family, is implicated in promoting genomic instability, which is associated with various chromosomal rearrangements and diseases. The presence of GOLGA8 core duplicons, including GOLGA8H, at rearrangement breakpoints suggests their role in genomic instability and disease (Antonacci2014Palindromic). These duplicons are enriched in sequence duplications linked to disease instability, including conditions such as Prader-Willi/Angelman syndromes, 15q24 microdeletions, and 15q25.2 microdeletions. The structural variations involving GOLGA8H are linked to genetic diseases due to their role in promoting chromosome 15q13.3 microdeletion and evolutionary instability (Antonacci2014Palindromic).
+
+Although there is an association between GOLGA8H and certain neurological conditions such as intellectual disability, schizophrenia, autism, and epilepsy, current data do not suggest a causative role of GOLGA8H losses for these disease effects. This implies that while there is a connection, the direct impact of GOLGA8H alterations on these conditions remains unclear (Bekpen2019Human). Further research is necessary to clarify the specific mechanisms through which GOLGA8H contributes to these complex disorders and to determine the potential for targeted therapeutic interventions.
+
+
+## References
+
+
+[1. (Antonacci2014Palindromic) Francesca Antonacci, Megan Y Dennis, John Huddleston, Peter H Sudmant, Karyn Meltz Steinberg, Jill A Rosenfeld, Mattia Miroballo, Tina A Graves, Laura Vives, Maika Malig, Laura Denman, Archana Raja, Andrew Stuart, Joyce Tang, Brenton Munson, Lisa G Shaffer, Chris T Amemiya, Richard K Wilson, and Evan E Eichler. Palindromic golga8 core duplicons promote chromosome 15q13.3 microdeletion and evolutionary instability. Nature Genetics, 46(12):1293â1302, October 2014. URL: http://dx.doi.org/10.1038/ng.3120, doi:10.1038/ng.3120. (126 citations) 10.1038/ng.3120](https://doi.org/10.1038/ng.3120)
+
+[2. (Van2020Intrinsic) Nathan W. Van Bibber, Cornelia Haerle, Roy Khalife, Guy W. Dayhoff, and Vladimir N. Uversky. Intrinsic disorder in human proteins encoded by core duplicon gene families. The Journal of Physical Chemistry B, 124(37):8050â8070, September 2020. URL: http://dx.doi.org/10.1021/acs.jpcb.0c07676, doi:10.1021/acs.jpcb.0c07676. (4 citations) 10.1021/acs.jpcb.0c07676](https://doi.org/10.1021/acs.jpcb.0c07676)
+
+[3. (Bekpen2019Human) Cemalettin Bekpen and Diethard Tautz. Human core duplicon gene families: game changers or game players? Briefings in Functional Genomics, 18(6):402â411, September 2019. URL: http://dx.doi.org/10.1093/bfgp/elz016, doi:10.1093/bfgp/elz016. (19 citations) 10.1093/bfgp/elz016](https://doi.org/10.1093/bfgp/elz016)

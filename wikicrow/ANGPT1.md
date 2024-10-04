@@ -1,0 +1,64 @@
+# ANGPT1
+
+## Overview
+ANGPT1 is a human gene responsible for encoding the protein angiopoietin 1, which plays a pivotal role in vascular development and stability. Angiopoietin 1 is a ligand for the TIE2 receptor, a receptor tyrosine kinase expressed predominantly on endothelial cells. The interaction between angiopoietin 1 and TIE2 is crucial for the regulation of angiogenesis and the maintenance of vascular integrity. This protein is involved in various critical processes such as endothelial cell survival, migration, and vascular remodeling. Mutations in the ANGPT1 gene have been linked to several vascular diseases, including hereditary angioedema and complications in pregnancy such as pre-eclampsia (Bafunno2018Mutation; Andraweera2011A). The gene and its encoded protein are therefore significant in both physiological vascular function and the pathogenesis of vascular-related disorders.
+
+## Structure
+The ANGPT1 protein, encoded by the human gene ANGPT1, exhibits a complex molecular structure essential for its biological functions, particularly in angiogenesis. The protein is organized into several distinct domains that contribute to its function and interaction with the Tie2 receptor, crucial for vascular development and stability.
+
+The primary structure of ANGPT1 consists of 498 amino acids, with a notable sequence homology between human and mouse forms, indicating a highly conserved nature (Davis1996Isolation). The protein includes a coiled-coil domain, which is indicative of its potential for forming quaternary structures through dimerization or oligomerization (Davis1996Isolation; Conklin1999Identification). This domain is central to the protein-protein interactions that lead to oligomer formation, a critical aspect of ANGPT1's function (Conklin1999Identification).
+
+The tertiary structure involves a fibrinogen-like domain at the C-terminus, responsible for binding to the Tie2 receptor. This domain is crucial as it mediates interaction with endothelial cells, influencing vascular stability and permeability (Bafunno2018Mutation).
+
+In terms of quaternary structure, ANGPT1 can form multimers, with tetramers being the minimum size required for effective receptor activation. Smaller forms such as dimers and monomers act as antagonists, highlighting the importance of multimeric state in its function (Davis2002Angiopoietins).
+
+Overall, the structural organization of ANGPT1, from its amino acid sequence to its complex multimeric state, underscores its critical role in vascular biology.
+
+## Function
+The ANGPT1 gene encodes the angiopoietin-1 protein, which is crucial for vascular biology, particularly in the regulation of endothelial cell functions and vascular stability. Angiopoietin-1 interacts with the TIE2 receptor, a process essential for the multimerization of the protein and its subsequent biological activities. This interaction promotes angiogenesis and maintains vascular integrity by stabilizing the blood vascular endothelium and regulating endothelial barrier function (Bafunno2018Mutation).
+
+Angiopoietin-1 is involved in several key molecular processes, including the inhibition of the effects of permeability-enhancing agents like VEGF, thereby contributing to maintaining endothelial barrier integrity. It also plays a role in endothelial cell survival, migration, sprouting, and tube formation, although it notably does not induce proliferation (EKLUND2006Tie). The protein's interaction with TIE2 activates several signaling pathways, such as the PI3-Kinase pathway, which is essential for its anti-apoptotic actions mediated through the activation of Akt, and influences the MAPK signaling cascade supporting endothelial cell survival and migration (EKLUND2006Tie).
+
+In the context of vascular dynamics, angiopoietin-1 is a key regulator of vascular remodeling and stabilization, contributing to the structural and functional integrity of the vascular barrier, which is critical in preventing excessive vascular permeability and maintaining the quiescent state of endothelial cells in adult vasculature (Mei2007Prevention).
+
+## Clinical Significance
+Mutations in the ANGPT1 gene have been linked to various forms of hereditary angioedema (HAE), particularly types that do not involve C1 inhibitor deficiencies. These mutations, such as the c.807G>T (p.A119S) identified in Italian families, lead to a unique form of HAE characterized by reduced multimerization and impaired binding to the TIE2 receptor, crucial for maintaining vascular stability. This alteration in the ANGPT1 protein function contributes to increased vascular permeability and the clinical manifestation of angioedema (Bafunno2018Mutation). 
+
+Additionally, the ANGPT1 gene has been implicated in various pregnancy complications. The rs2507800 polymorphism, specifically the TT genotype, is associated with a reduced risk for pre-eclampsia, hypertensive small-for-gestational-age (SGA) infants, and abnormal uterine artery Doppler findings. This suggests a role for ANGPT1 in placental vascular remodeling and maternal vascular health during pregnancy (Andraweera2011A).
+
+Furthermore, ANGPT1 is involved in the pathogenesis of diabetic retinopathy (DR), particularly through its role in maintaining the integrity of the blood-retinal barrier. Variants in the ANGPT1 gene, such as the presence of the T allele of the rs4324901 SNP, have been associated with protection against DR, highlighting the gene's role in vascular health and disease (Dieter2023Polymorphisms).
+
+## Interactions
+ANGPT1 (angiopoietin 1) interacts with the TIE2 receptor, a receptor tyrosine kinase predominantly expressed on endothelial cells. This interaction is crucial for the activation of TIE2, involving the assembly of ANGPT1 into multimers that bind to the homodimeric TIE2 receptor, leading to its autophosphorylation and the initiation of downstream signaling pathways such as the phosphatidylinositol 3-kinase (PI3K)/AKT pathway. This pathway plays a significant role in promoting endothelial cell survival and inhibiting apoptosis (Huang2010Targeting; Bilimoria2019The).
+
+ANGPT1 also interacts with integrins, specifically Î±5Î²1 and Î±VÎ²3. These interactions are essential for the angiogenic processes and facilitate the formation of heteromeric complexes of TIE1 and TIE2, leading to TIE receptor activation and downstream signaling in various physiological and pathological contexts, including tumor environments and retinal vasculature development (Kiss2019Anti-angiogenic).
+
+Furthermore, ANGPT1 binds to thrombomodulin (TM), inhibiting its function as a thrombin cofactor. This interaction affects the thrombin/TM-dependent activation of protein C and thrombin-activatable fibrinolysis inhibitor (TAFI), playing a role in the regulation of coagulation processes (Daly2018Angiopoietins).
+
+
+## References
+
+
+[1. (Davis1996Isolation) Samuel Davis, Thomas H Aldrich, Pamela F Jones, Ann Acheson, Debra L Compton, Vivek Jain, Terence E Ryan, Joanne Bruno, Czeslaw Radziejewski, Peter C Maisonpierre, and George D Yancopoulos. Isolation of angiopoietin-1, a ligand for the tie2 receptor, by secretion-trap expression cloning. Cell, 87(7):1161â1169, December 1996. URL: http://dx.doi.org/10.1016/s0092-8674(00)81812-7, doi:10.1016/s0092-8674(00)81812-7. (1492 citations) 10.1016/s0092-8674(00)81812-7](https://doi.org/10.1016/s0092-8674(00)81812-7)
+
+[2. (Andraweera2011A) P. H. Andraweera, G. A. Dekker, S. D. Thompson, R. A. North, L. M. E. McCowan, and C. T. Roberts. A functional variant in angpt1 and the risk of pregnancies with hypertensive disorders and small-for-gestational-age infants. Molecular Human Reproduction, 18(6):325â332, December 2011. URL: http://dx.doi.org/10.1093/molehr/gar081, doi:10.1093/molehr/gar081. (28 citations) 10.1093/molehr/gar081](https://doi.org/10.1093/molehr/gar081)
+
+[3. (Bafunno2018Mutation) Valeria Bafunno, Davide Firinu, Maria DâApolito, Giorgia Cordisco, Stefania Loffredo, Angelica Leccese, Maria Bova, Maria Pina Barca, Rosa Santacroce, Marco Cicardi, Stefano Del Giacco, and Maurizio Margaglione. Mutation of the angiopoietin-1 gene (angpt1) associates with a new type of hereditary angioedema. Journal of Allergy and Clinical Immunology, 141(3):1009â1017, March 2018. URL: http://dx.doi.org/10.1016/j.jaci.2017.05.020, doi:10.1016/j.jaci.2017.05.020. (300 citations) 10.1016/j.jaci.2017.05.020](https://doi.org/10.1016/j.jaci.2017.05.020)
+
+[4. (Huang2010Targeting) Hanhua Huang, Abhijit Bhat, Gary Woodnutt, and Rodney Lappe. Targeting the angptâtie2 pathway in malignancy. Nature Reviews Cancer, 10(8):575â585, August 2010. URL: http://dx.doi.org/10.1038/nrc2894, doi:10.1038/nrc2894. (542 citations) 10.1038/nrc2894](https://doi.org/10.1038/nrc2894)
+
+[5. (Conklin1999Identification) Darrell Conklin, Debra Gilbertson, David W. Taft, Mark F. Maurer, Theodore E. Whitmore, Deborah L. Smith, Kathleen M. Walker, Lennie H. Chen, Sigrid Wattler, Michael Nehls, and Kenneth B. Lewis. Identification of a mammalian angiopoietin-related protein expressed specifically in liver. Genomics, 62(3):477â482, December 1999. URL: http://dx.doi.org/10.1006/geno.1999.6041, doi:10.1006/geno.1999.6041. (204 citations) 10.1006/geno.1999.6041](https://doi.org/10.1006/geno.1999.6041)
+
+[6. (Dieter2023Polymorphisms) Cristine Dieter, NatÃ¡lia Emerim Lemos, Nathalia Rodrigues de Faria CorrÃªa, TaÃ­s Silveira Assmann, Felipe Mateus Pellenz, LuÃ­s Henrique Canani, LetÃ­cia de Almeida Brondani, Andrea Carla Bauer, and Daisy Crispim. Polymorphisms in tie2 and angpt-1 genes are associated with protection against diabetic retinopathy in a brazilian population. Archives of Endocrinology and Metabolism, 2023. URL: http://dx.doi.org/10.20945/2359-3997000000624, doi:10.20945/2359-3997000000624. (1 citations) 10.20945/2359-3997000000624](https://doi.org/10.20945/2359-3997000000624)
+
+[7. (Davis2002Angiopoietins) Samuel Davis, Nick Papadopoulos, Thomas H. Aldrich, Peter C. Maisonpierre, Tammy Huang, Lubomir Kovac, April Xu, Raymond Leidich, Elzbieta Radziejewska, Ashique Rafique, Judah Goldberg, Vivek Jain, Kevin Bailey, Margaret Karow, Jim Fandl, Steven J. Samuelsson, Ella Ioffe, John S. Rudge, Thomas J. Daly, Czeslaw Radziejewski, and George D. Yancopoulos. Angiopoietins have distinct modular domains essential for receptor binding, dimerization and superclustering. Nature Structural Biology, 10(1):38â44, December 2002. URL: http://dx.doi.org/10.1038/nsb880, doi:10.1038/nsb880. (173 citations) 10.1038/nsb880](https://doi.org/10.1038/nsb880)
+
+[8. (Mei2007Prevention) Shirley H. J Mei, Sarah D McCarter, Yupu Deng, Colleen H Parker, W. Conrad Liles, and Duncan J Stewart. Prevention of lps-induced acute lung injury in mice by mesenchymal stem cells overexpressing angiopoietin 1. PLoS Medicine, 4(9):e269, September 2007. URL: http://dx.doi.org/10.1371/journal.pmed.0040269, doi:10.1371/journal.pmed.0040269. (796 citations) 10.1371/journal.pmed.0040269](https://doi.org/10.1371/journal.pmed.0040269)
+
+[9. (EKLUND2006Tie) L EKLUND and B OLSEN. Tie receptors and their angiopoietin ligands are context-dependent regulators of vascular remodeling. Experimental Cell Research, 312(5):630â641, March 2006. URL: http://dx.doi.org/10.1016/j.yexcr.2005.09.002, doi:10.1016/j.yexcr.2005.09.002. (243 citations) 10.1016/j.yexcr.2005.09.002](https://doi.org/10.1016/j.yexcr.2005.09.002)
+
+[10. (Daly2018Angiopoietins) Christopher Daly, Xiaozhong Qian, Carla Castanaro, Elizabeth Pasnikowski, Xiabo Jiang, Benjamin R. Thomson, Susan E. Quaggin, Nicholas Papadopoulos, Yang Wei, John S. Rudge, Gavin Thurston, George D. Yancopoulos, and Samuel Davis. Angiopoietins bind thrombomodulin and inhibit its function as a thrombin cofactor. Scientific Reports, January 2018. URL: http://dx.doi.org/10.1038/s41598-017-18912-8, doi:10.1038/s41598-017-18912-8. (45 citations) 10.1038/s41598-017-18912-8](https://doi.org/10.1038/s41598-017-18912-8)
+
+[11. (Kiss2019Anti-angiogenic) Elina A. Kiss and Pipsa Saharinen. Anti-angiogenic Targets: Angiopoietin and Angiopoietin Receptors, pages 227â250. Springer International Publishing, 2019. URL: http://dx.doi.org/10.1007/978-3-319-33673-2_4, doi:10.1007/978-3-319-33673-2_4. (28 citations) 10.1007/978-3-319-33673-2_4](https://doi.org/10.1007/978-3-319-33673-2_4)
+
+[12. (Bilimoria2019The) Jay Bilimoria and Harprit Singh. The angiopoietin ligands and tie receptors: potential diagnostic biomarkers of vascular disease. Journal of Receptors and Signal Transduction, 39(3):187â193, May 2019. URL: http://dx.doi.org/10.1080/10799893.2019.1652650, doi:10.1080/10799893.2019.1652650. (31 citations) 10.1080/10799893.2019.1652650](https://doi.org/10.1080/10799893.2019.1652650)

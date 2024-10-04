@@ -1,0 +1,48 @@
+# ACKR1
+
+## Overview
+ACKR1, the gene encoding the atypical chemokine receptor 1 (Duffy blood group), plays a pivotal role in the immune system by regulating chemokine levels. This gene is distinct from typical chemokine receptors as it does not signal through G-protein-coupled pathways but functions primarily as a chemokine scavenger, thereby modulating immune responses and inflammation (Rappoport2018The). The protein encoded by ACKR1, a 338-amino-acid glycosylated entity, is characterized by its structure typical of G protein-coupled receptors (GPCRs) with seven transmembrane domains, although it lacks the conserved DRYLAIV motif necessary for G protein activation (Grison2021Mechanisms). This receptor is expressed on erythrocytes and endothelial cells and is involved in various biological processes, including the regulation of chemokine activity, influencing immune cell trafficking, and interactions with pathogens such as Plasmodium vivax (Cambier2023The).
+
+## Structure
+ACKR1, also known as Duffy Antigen Receptor for Chemokines (DARC), is characterized by a structure typical of G protein-coupled receptors (GPCRs), featuring seven transmembrane domains. Unlike typical GPCRs, ACKR1 lacks the conserved DRYLAIV motif crucial for G protein activation, indicating a unique mechanism of action as it does not signal through G proteins but instead functions primarily as a chemokine scavenger receptor (Grison2021Mechanisms; Cambier2023The).
+
+The protein is a 338-amino-acid glycosylated entity, suggesting the presence of post-translational glycosylation modifications which are essential for its stability and function. Specific glycosylation sites have been identified at positions N16, N27, and N33 (Grison2021Mechanisms). The N-terminal extracellular region of ACKR1 is particularly significant as it is essential for binding the Plasmodium vivax merozoites and is involved in interactions with various ligands (Rappoport2018The).
+
+Structural modeling and molecular dynamics simulations have provided insights into the dynamics and stability of ACKR1, particularly highlighting the roles of the transmembrane domains and extracellular loops in ligand interactions (Grison2021Mechanisms). However, detailed information on the secondary, tertiary, and quaternary structures of ACKR1 remains limited, with no comprehensive details on specific domains, prominent folds, or splice variant isoforms provided in the available literature.
+
+## Function
+ACKR1, also known as the Duffy antigen receptor for chemokines, is primarily involved in the regulation of chemokines, which are signaling proteins that guide the movement of immune cells towards sites of inflammation. Unlike typical chemokine receptors, ACKR1 does not signal through G-protein-coupled pathways but acts as a 'silent' receptor. This unique function allows it to internalize and remove chemokines from circulation, thereby modulating the immune response and inflammation levels (Rappoport2018The; Yang2023Comprehensive).
+
+Expressed on erythrocytes and endothelial cells, ACKR1 plays a crucial role in various models of chemokine regulation. These include the 'chemokine sink/depot' model, where it sequesters chemokines in the bloodstream, and the 'chemokine transcytosis' model, which involves the movement of chemokines across endothelial cells to enhance leukocyte recruitment to inflamed sites. Additionally, the 'chemokine reservoir' model suggests that ACKR1 binds chemokines during high local concentrations and releases them when concentrations decrease, maintaining a balance in chemokine levels during inflammation (Rappoport2018The).
+
+Furthermore, ACKR1's interaction with chemokines is implicated in various aspects of cancer biology, influencing tumor progression and patient survival in specific cancers such as lung and breast cancer (Davis2015Distinct). This receptor's ability to regulate chemokine levels is essential for the controlled movement of neutrophils and monocytes from blood vessels into tissues during immune responses, highlighting its significant role in cell biology and organismal outcomes related to immune regulation and inflammation.
+
+## Clinical Significance
+ACKR1 mutations and polymorphisms are linked to several health conditions, reflecting its role in immune and inflammatory responses. The rs2814778 polymorphism, leading to the Duffy-negative phenotype, is associated with benign ethnic neutropenia, characterized by lower neutrophil counts without increased infection risk (Rappoport2018The). This phenotype also correlates with a reduced susceptibility to malaria caused by Plasmodium vivax, as the Duffy antigen is a known receptor for this parasite on red blood cells (Fichou2019Defining). Conversely, the ACKR1-null allele increases susceptibility to HIV, complicating its role in immune modulation (Rappoport2018The).
+
+In cancer, ACKR1 expression levels and methylation status are significant in breast cancer (BRCA), where its lower expression is associated with poorer prognosis and survival rates (Yang2023Comprehensive). The gene's expression is inversely correlated with cancer stages, suggesting a potential role in tumor suppression and as a therapeutic target (Yang2023Comprehensive).
+
+Additionally, ACKR1's involvement in inflammatory conditions is noted, where its expression is upregulated in various inflammatory diseases, potentially acting as a chemokine reservoir to modulate inflammation severity (Rappoport2018The).
+
+## Interactions
+ACKR1, also known as Duffy antigen receptor for chemokines (DARC), does not couple to G-proteins and therefore does not mediate a biological signal upon direct chemokine binding due to its lack of the DRYLAIV sequence, a crucial determinant for G-protein coupling in GPCRs (Horuk2015The). This unique feature distinguishes it from typical G-protein-coupled receptors (GPCRs), altering its interaction with cellular signaling pathways. Despite this, ACKR1 still plays a significant role in modulating immune responses and cell signaling through its ability to bind chemokines. 
+
+In breast cancer, ACKR1's interactions are implicated in the progression and immune response modulation. Specifically, its expression is significantly associated with the infiltration of CD4+ T cells, CD8+ T cells, and dendritic cells in breast cancer patients, suggesting a role in the immune landscape of tumors (Yang2023Comprehensive). Additionally, a protein-protein interaction (PPI) network analysis using the STRING website indicated potential interactions between ACKR1 and other proteins, although specific interacting proteins were not detailed (Yang2023Comprehensive). This suggests that ACKR1 may be part of multiprotein complexes influencing both cancer progression and the immune response.
+
+
+## References
+
+
+[1. (Davis2015Distinct) Melissa B. Davis, Andrea Walens, Rupali Hire, Kauthar Mumin, Andrea M. Brown, DeJuana Ford, Elizabeth W. Howerth, and Michele Monteil. Distinct transcript isoforms of the atypical chemokine receptor 1 (ackr1) / duffy antigen receptor for chemokines (darc) gene are expressed in lymphoblasts and altered isoform levels are associated with genetic ancestry and the duffy-null allele. PLOS ONE, 10(10):e0140098, October 2015. URL: http://dx.doi.org/10.1371/journal.pone.0140098, doi:10.1371/journal.pone.0140098. (30 citations) 10.1371/journal.pone.0140098](https://doi.org/10.1371/journal.pone.0140098)
+
+[2. (Fichou2019Defining) Yann Fichou, Isabelle Berlivet, GaÃ«lle Richard, Christophe Tournamille, Lilian Castilho, and Claude FÃ©rec. Defining blood group gene reference alleles by long-read sequencing: proof of concept in the &lt;b&gt;&lt;i&gt;ackr1&lt;/i&gt;&lt;/b&gt; gene encoding the duffy antigens. Transfusion Medicine and Hemotherapy, 47(1):23â32, December 2019. URL: http://dx.doi.org/10.1159/000504584, doi:10.1159/000504584. (14 citations) 10.1159/000504584](https://doi.org/10.1159/000504584)
+
+[3. (Grison2021Mechanisms) Mechanisms of GPCR hijacking byStaphylococcus aureus (2 citations) 10.1101/2021.02.08.430206](https://doi.org/10.1101/2021.02.08.430206)
+
+[4. (Rappoport2018The) Naama Rappoport, Amos J. Simon, Ninette Amariglio, and Gideon Rechavi. The duffy antigen receptor for chemokines, <scp>ackr</scp>1,â âjeanne <scp>darc</scp>â of benign neutropenia. British Journal of Haematology, 184(4):497â507, December 2018. URL: http://dx.doi.org/10.1111/bjh.15730, doi:10.1111/bjh.15730. (43 citations) 10.1111/bjh.15730](https://doi.org/10.1111/bjh.15730)
+
+[5. (Horuk2015The) Richard Horuk. The duffy antigen receptor for chemokines darc/ackr1. Frontiers in Immunology, June 2015. URL: http://dx.doi.org/10.3389/fimmu.2015.00279, doi:10.3389/fimmu.2015.00279. (60 citations) 10.3389/fimmu.2015.00279](https://doi.org/10.3389/fimmu.2015.00279)
+
+[6. (Yang2023Comprehensive) Lixian Yang, Shiyu Zhang, and Pengpeng Pu. Comprehensive analysis of ackr family members in breast cancer using prognostic values. Oncology Letters, August 2023. URL: http://dx.doi.org/10.3892/ol.2023.14011, doi:10.3892/ol.2023.14011. (0 citations) 10.3892/ol.2023.14011](https://doi.org/10.3892/ol.2023.14011)
+
+[7. (Cambier2023The) Seppe Cambier, Mieke Gouwy, and Paul Proost. The chemokines cxcl8 and cxcl12: molecular and functional properties, role in disease and efforts towards pharmacological intervention. Cellular &amp; Molecular Immunology, 20(3):217â251, February 2023. URL: http://dx.doi.org/10.1038/s41423-023-00974-6, doi:10.1038/s41423-023-00974-6. (88 citations) 10.1038/s41423-023-00974-6](https://doi.org/10.1038/s41423-023-00974-6)

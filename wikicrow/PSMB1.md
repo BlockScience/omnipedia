@@ -1,0 +1,39 @@
+# PSMB1
+
+## Overview
+The PSMB1 gene encodes the proteasome 20S subunit beta 1, a non-catalytic component of the 20S core proteasome complex involved in the ubiquitin-proteasome system (UPS). This system is crucial for the degradation of proteins, thereby maintaining cellular protein homeostasis. The proteasome 20S subunit beta 1 plays a significant role in the structural integrity and assembly of the proteasome complex, facilitating efficient protein degradation. This process is essential for various cellular functions including cell cycle regulation, apoptosis, and response to oxidative stress. The protein encoded by PSMB1 is integral to the proteolytic pathway, which is vital not only for routine cellular maintenance but also in the regulation of various critical cellular processes that affect overall organism health (Guo2022Bioinformatic; Wu2019PSMB1).
+
+## Function
+The PSMB1 gene encodes the Î²1 subunit of the 20S core proteasome, a key component of the ubiquitin-proteasome system (UPS) essential for protein degradation within cells. This system plays a pivotal role in maintaining cellular protein homeostasis by degrading over 80% of intracellular proteins, including those that are misfolded or have a rapid turnover rate (Guo2022Bioinformatic). The proteasome itself is a multicatalytic proteinase complex that is crucial for various cellular processes such as cell cycle regulation, apoptosis, and DNA repair.
+
+The Î²1 subunit, encoded by PSMB1, is part of the proteolytic chamber where protein degradation occurs. Although this specific subunit does not exhibit direct catalytic activity, it contributes significantly to the assembly and structural stability of the proteasome, enhancing the proteolytic environment necessary for efficient protein breakdown (Guo2022Bioinformatic). This degradation pathway is critical not only for routine cellular maintenance but also plays a role in the regulation of key cellular processes including the cell cycle and signal transduction, impacting overall organismal health.
+
+Moreover, PSMB1 interacts with various proteins, such as the oncogenic protein BCL-3, facilitating its proteasomal degradation. This interaction is crucial for regulating processes like gene transcription and may influence oncogenic processes when dysregulated (Keutgens2010BCL-3). Additionally, PSMB1 has been shown to negatively regulate innate immune responses against viral infections by modulating the degradation of key signaling molecules, thus preventing excessive inflammation that could lead to cellular damage (Wu2019PSMB1).
+
+## Clinical Significance
+PSMB1, a gene encoding a component of the 20S core proteasome, plays a significant role in various diseases due to mutations, altered expression levels, or disruptions in its normal interactions. In clear cell renal cell carcinoma (ccRCC), PSMB1 is highly expressed compared to normal tissues, and this overexpression correlates with a higher malignant degree and worse prognosis. Elevated PSMB1 expression is associated with advanced cancer stages, higher tumor grades, and significantly shorter overall survival in ccRCC patients (Jiang2022Comprehensive). Additionally, genetic alterations in PSMB1, such as minor allele mutations, have been linked to suboptimal responses to bortezomib treatment in myeloma, suggesting that PSMB1 alterations can affect drug sensitivity (Jiang2022Comprehensive).
+
+Furthermore, PSMB1 expression levels significantly impact prognosis across various cancer types, indicating its role in cancer progression and patient outcomes. High or low expression of PSMB1 affects overall survival and progression-free intervals, underscoring its prognostic relevance in a broad spectrum of cancers (Larsson2022Pan-cancer). These findings highlight the clinical significance of PSMB1 in oncology, suggesting its potential as a therapeutic target and a biomarker for predicting disease progression and response to treatment.
+
+## Interactions
+PSMB1, a proteasome subunit, is involved in several critical protein interactions that regulate various cellular processes. It interacts with BCL-3, an oncogenic protein that regulates gene transcription by binding with NF-ÎºB proteins p50 and p52. This interaction is crucial for the proteasomal degradation of BCL-3, particularly through a pathway that does not involve the E3 ligase FBW7. The N-terminal domain of BCL-3, specifically amino acids 31 to 112, is essential for this association, which predominantly occurs in the nucleus (Keutgens2010BCL-3).
+
+Additionally, PSMB1 interacts with IKK-Îµ, playing a significant role in the regulation of antiviral immune responses. This interaction inhibits the activation of the IFNÎ² promoter mediated by TBK1 and IKK-Îµ, and promotes the degradation of IKK-Îµ through the ubiquitin-proteasome pathway, thereby negatively regulating antiviral signaling (Wu2019PSMB1).
+
+PSMB1 also directly interacts with the Rheb protein in Cashmere goat fetal fibroblasts, influencing cell cycle regulation and proliferation. This interaction was confirmed using yeast two-hybrid and co-immunoprecipitation experiments (Wang2017Proteasome). These interactions highlight the diverse roles of PSMB1 in cellular regulation, impacting processes from gene transcription to cell cycle progression and immune responses.
+
+
+## References
+
+
+[1. (Wu2019PSMB1) Fangyi Wu, Zhenmin Niu, Bin Zhou, Pengcheng Li, and Feng Qian. Psmb1 negatively regulates the innate antiviral immunity by facilitating degradation of ikk-Îµ. Viruses, 11(2):99, January 2019. URL: http://dx.doi.org/10.3390/v11020099, doi:10.3390/v11020099. (15 citations) 10.3390/v11020099](https://doi.org/10.3390/v11020099)
+
+[2. (Larsson2022Pan-cancer) Peter Larsson, Daniella Pettersson, Hanna Engqvist, Elisabeth Werner RÃ¶nnerman, Eva Forssell-Aronsson, AnikÃ³ KovÃ¡cs, Per Karlsson, Khalil Helou, and Toshima Z. Parris. Pan-cancer analysis of genomic and transcriptomic data reveals the prognostic relevance of human proteasome genes in different cancer types. BMC Cancer, September 2022. URL: http://dx.doi.org/10.1186/s12885-022-10079-4, doi:10.1186/s12885-022-10079-4. (3 citations) 10.1186/s12885-022-10079-4](https://doi.org/10.1186/s12885-022-10079-4)
+
+[3. (Guo2022Bioinformatic) Jing-Yi Guo, Zuo-qian Jing, Xue-jie Li, and Li-yuan Liu. Bioinformatic analysis identifying psmb 1/2/3/4/6/8/9/10 as prognostic indicators in clear cell renal cell carcinoma. International Journal of Medical Sciences, 19(5):796â812, 2022. URL: http://dx.doi.org/10.7150/ijms.71152, doi:10.7150/ijms.71152. (5 citations) 10.7150/ijms.71152](https://doi.org/10.7150/ijms.71152)
+
+[4. (Keutgens2010BCL-3) Aurore Keutgens, Xin Zhang, Kateryna Shostak, Isabelle Robert, Sabine Olivier, Alain Vanderplasschen, Jean-Paul Chapelle, Patrick Viatour, Marie-Paule Merville, FranÃ§oise Bex, AndrÃ© Gothot, and Alain Chariot. Bcl-3 degradation involves its polyubiquitination through a fbw7-independent pathway and its binding to the proteasome subunit psmb1. Journal of Biological Chemistry, 285(33):25831â25840, August 2010. URL: http://dx.doi.org/10.1074/jbc.m110.112128, doi:10.1074/jbc.m110.112128. (31 citations) 10.1074/jbc.m110.112128](https://doi.org/10.1074/jbc.m110.112128)
+
+[5. (Jiang2022Comprehensive) Comprehensive Analysis of the Expression and Prognosis for PSMBs in Clear Cell Renal Cell Carcinoma (0 citations) 10.1101/2022.05.12.491733](https://doi.org/10.1101/2022.05.12.491733)
+
+[6. (Wang2017Proteasome) Yanfeng Wang, Zhixin Guo, Mingtao Liu, Keyu Zhao, Xue Feng, Xu Zheng, Xiaojing Wang, Huifang Hao, Xudong Guo, and Zhigang Wang. Proteasome subunit beta type 1 interacts directly with rheb and regulates the cell cycle in cashmere goat fetal fibroblasts. Animal Cells and Systems, 21(5):307â315, September 2017. URL: http://dx.doi.org/10.1080/19768354.2017.1371072, doi:10.1080/19768354.2017.1371072. (2 citations) 10.1080/19768354.2017.1371072](https://doi.org/10.1080/19768354.2017.1371072)

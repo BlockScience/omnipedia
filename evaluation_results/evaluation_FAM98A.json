@@ -1,0 +1,2128 @@
+{
+  "LeadSection": [
+    {
+      "text": "# FAM98A # # Overview\nFAM98A, or Family with Sequence Similarity 98 Member A, is a gene in humans that encodes a protein involved in multiple cellular processes, including stress response, mRNA regulation, and cellular architecture.",
+      "title": "Introduction",
+      "score": 0.64,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides a definition of FAM98A, mentioning its role as a gene in humans and its involvement in various cellular processes. This aligns with the requirement to define the scope of the article. However, it does not explicitly follow the recommended UniProt naming conventions, which typically include the full name of the protein and its function in a more structured format. Additionally, the sentence starts with hashtags, which are not standard in formal definitions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"FAM98A\" and provides a full name \"Family with Sequence Similarity 98 Member A.\" However, it does not specify whether this is the recommended UniProt protein name or if it is relatively short. The requirement suggests using the UniProt protein name if it is short, but this information is not provided in the sentence. Therefore, the sentence partially meets the requirement by using the HUGO gene symbol but lacks clarity on the use of the recommended UniProt protein name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a brief overview of the FAM98A gene, mentioning its role in encoding a protein involved in cellular processes. However, it lacks details on the gene's structure, specific functions, and any clinical significance, which are key aspects required for a comprehensive summary. Additionally, the sentence includes unnecessary detail with the repeated hashtag and \"Overview\" label, which do not contribute to the summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise overview of the FAM98A gene and its functions. However, it repeats the full name \"Family with Sequence Similarity 98 Member A,\" which might already be present in an infobox. The repetition is not particularly notable or emphasized, so it slightly detracts from meeting the requirement. Otherwise, the sentence effectively summarizes the gene's role without unnecessary repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The FAM98A protein is part of a larger family of proteins characterized by their involvement in protein-protein interactions and cellular signaling pathways.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the FAM98A protein, mentioning its involvement in protein-protein interactions and cellular signaling pathways. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to specific naming guidelines provided by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"FAM98A,\" which is the HUGO gene symbol, but it does not provide any disambiguation. It does not use the UniProt protein name, which might be more appropriate if it is relatively short. The requirement suggests using the UniProt name if it is concise, or the HUGO symbol with disambiguation if necessary, and the sentence partially meets this by using the HUGO symbol without disambiguation."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the FAM98A protein's involvement in protein-protein interactions and cellular signaling pathways, which touches on its function. However, it lacks information on the protein's structure and clinical significance, which are key aspects mentioned in the requirement. Additionally, the sentence does not summarize an article but rather presents a single fact about the protein, which does not fulfill the requirement of a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides information about the FAM98A protein being part of a larger family involved in protein-protein interactions and cellular signaling pathways. If this information is already present in the infobox, the sentence may be somewhat redundant. However, if the involvement in cellular signaling pathways is particularly notable or requires emphasis, the repetition could be justified. The score reflects a moderate level of adherence to the requirement, as the necessity of the repetition depends on the context provided by the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Notably, FAM98A has been implicated in the formation and function of stress granules, structures that protect cellular components under stress conditions.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about FAM98A's role in stress granules, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve a more structured introduction of the protein, including its full name and any relevant identifiers. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"FAM98A,\" which is the HUGO gene symbol. The requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name for FAM98A, it's unclear if the sentence fully meets the requirement. If the UniProt name is short and was not used, the sentence partially meets the requirement by using the gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by mentioning the structure (stress granules) and function (protection of cellular components under stress conditions) related to FAM98A. However, it lacks coverage of the clinical significance of FAM98A and does not provide a comprehensive summary of the article. Additionally, it includes some unnecessary detail by specifying the role of stress granules without connecting it to a broader context."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about FAM98A's role in stress granules, which could be considered notable. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repetitive. If the infobox already contains this detail, the sentence might not be necessary unless it adds significant emphasis or context."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein's structure includes a calponin homology-like domain and coiled-coil regions, which facilitate its interactions with other proteins and contribute to its role in cellular dynamics and architecture (Li2019FAM98A; Zheng2018FAM98A).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it describes the structure and function of a protein, mentioning specific domains and their roles. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein names and identifiers. To meet the requirement, the sentence should clearly outline the main focus or objective of the article in accordance with UniProt guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"FAM98A\" as a reference, which is the HUGO gene symbol. However, it does not provide any disambiguation, which may be necessary if there are multiple proteins or genes with similar names. Additionally, it does not mention whether the recommended UniProt protein name is relatively short and could have been used instead. The sentence partially meets the requirement by using the gene symbol, but it lacks clarity on the choice and disambiguation."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the protein's structure and function, mentioning the calponin homology-like domain and coiled-coil regions, as well as their role in cellular dynamics and architecture. However, it lacks information on the clinical significance of the protein, which is a key aspect of the requirement. Additionally, the sentence includes references (Li2019FAM98A; Zheng2018FAM98A) that are unnecessary for a lead summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the protein's structure, including the presence of a calponin homology-like domain and coiled-coil regions, which may not be common knowledge or explicitly detailed in an infobox. The information about its role in cellular dynamics and architecture, along with the citations, suggests that this detail might be notable or require emphasis. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this repetition. The sentence is likely to be valuable if these details are not already covered in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, FAM98A's involvement in various cancers highlights its potential as a therapeutic target, underscoring its importance in both health and disease (Akter2017FAM98A; Liu2021MicroRNA\u00e2\u0080\u009126a).",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it discusses the involvement of FAM98A in cancers and its potential as a therapeutic target. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"FAM98A,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name for FAM98A, it's unclear if the sentence meets the requirement fully. If the UniProt name is indeed short and was not used, the sentence does not fully comply with the requirement. If the UniProt name is long or not well-known, using the gene symbol might be appropriate, but this is not clear from the sentence alone."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions FAM98A's involvement in cancers and its potential as a therapeutic target, which touches on clinical significance. However, it lacks information on the structure and function of FAM98A, which are key aspects required for a comprehensive summary. Additionally, the sentence references studies without providing context or detail, making it less informative as a standalone summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence effectively highlights the significance of FAM98A in cancer research, which could be considered notable information. However, without knowing the specific content of the infobox, it's difficult to fully assess whether this information is repetitive. If the infobox already contains detailed information about FAM98A's role in cancer, the sentence might be somewhat redundant. Nonetheless, the sentence does emphasize the therapeutic potential, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Structure\nThe molecular structure of the FAM98A protein is characterized by several distinct features.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence introduces the topic of the molecular structure of the FAM98A protein, which partially defines the scope of the article. However, it does not fully adhere to the recommended UniProt naming conventions, as it lacks a clear definition or context for the scope of the article. Additionally, the use of \"# # Structure\" is unclear and does not contribute to defining the scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"FAM98A\" instead of the recommended UniProt protein name. Without knowing the length or availability of the UniProt name, it's unclear if this choice was appropriate. If the UniProt name is short, it should have been used. If not, the sentence should clarify the use of the gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence only briefly mentions the structure of the FAM98A protein and does not address its function or clinical significance. It lacks a comprehensive summary of key aspects and does not provide enough information to meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence introduces the topic of the molecular structure of the FAM98A protein, which may be a key point that requires emphasis. However, without knowing the content of the infobox, it's unclear if this information is repeated unnecessarily. The sentence does not explicitly repeat information, but it could potentially be redundant if the infobox already covers this detail comprehensively."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The N-terminal region of FAM98A includes a divergent calponin homology (CH)-like domain, which is typically involved in interactions with actin and other cytoskeletal elements, suggesting a role in cellular architecture or motility (Li2019FAM98A; Zheng2018FAM98A).",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it provides specific information about the N-terminal region of FAM98A and its potential role, which is more characteristic of content within the article rather than an introductory scope statement. To meet the requirement, the sentence should clearly outline the main focus or purpose of the article in accordance with UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"FAM98A,\" which is the HUGO gene symbol. However, it does not specify whether this is the recommended UniProt protein name or if disambiguation is necessary. To fully meet the requirement, the sentence should clarify if \"FAM98A\" is the recommended UniProt name or provide disambiguation if needed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the structure and potential function of FAM98A, specifically mentioning the N-terminal region and its CH-like domain's involvement in cellular architecture or motility. However, it lacks a comprehensive summary of the article, as it does not address the overall structure, broader functions, or any clinical significance of FAM98A. Additionally, it includes specific details about the domain's interactions without summarizing the article's key aspects concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the N-terminal region of FAM98A and its potential role in cellular architecture or motility. If this information is already present in the infobox, it may be considered repetitive unless it is particularly notable or requires emphasis. However, the sentence does add context by mentioning specific studies (Li2019FAM98A; Zheng2018FAM98A), which could justify its inclusion. The score reflects that while the sentence may repeat information, it also provides additional context that could be valuable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, the C-terminal region contains heptad repeats that form a coiled-coil structure, facilitating protein-protein interactions, which are crucial for the formation of protein complexes or signaling cascades (Li2019FAM98A).",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it describes a specific structural feature of a protein and its functional implications. Additionally, it does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should provide an overview of the article's focus and adhere to the naming conventions specified by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"FAM98A,\" which appears to be a gene symbol rather than a UniProt protein name. The requirement suggests using the recommended UniProt protein name if it is relatively short, otherwise using the HUGO gene symbol with disambiguation if necessary. Without additional context, it's unclear if \"FAM98A\" is the best choice according to the requirement. The sentence partially meets the requirement by using a gene symbol, but it does not clarify if this is the most appropriate or recommended name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the structure and function of a protein's C-terminal region, specifically mentioning heptad repeats and their role in protein-protein interactions. However, it lacks a comprehensive summary of the article, as it does not address the overall structure, broader function, or any clinical significance of the protein. Additionally, it includes a citation (Li2019FAM98A) without context, which does not contribute to a concise summary. To better meet the requirement, the sentence should encapsulate the main findings and implications of the article in a more holistic manner."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the C-terminal region's structure and function, which may not be present in an infobox. It avoids unnecessary repetition unless this information is already highlighted in the infobox. However, without knowing the specific content of the infobox, it's difficult to fully assess the necessity of this detail. The score reflects a reasonable assumption that the sentence adds value beyond what an infobox typically contains."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "FAM98A is also subject to post-translational modifications; it is arginine-methylated by protein arginine methyltransferase 1 (PRMT1), which is a significant modification affecting its function and interactions (Zheng2018FAM98A).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it provides specific information about a post-translational modification of FAM98A. To meet the requirement, the sentence should introduce the broader topic or focus of the article, such as the biological role, significance, or general characteristics of FAM98A, while adhering to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"FAM98A,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt name for FAM98A, it's unclear if the sentence meets the requirement. If the UniProt name is short and was not used, the sentence does not fully meet the requirement. If the UniProt name is long or not well-known, using the gene symbol might be acceptable. More context is needed to determine the appropriateness of using \"FAM98A\" in this case."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about a post-translational modification of FAM98A, mentioning its arginine-methylation by PRMT1 and its impact on function and interactions. However, it does not summarize the article concisely or cover key aspects like structure and clinical significance. The sentence focuses on a specific detail rather than providing a broad overview, which is necessary to meet the requirement of summarizing the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the post-translational modification of FAM98A, which may not be common knowledge and could be considered notable. However, if this information is already present in the infobox, it might be somewhat redundant unless the modification's significance is emphasized. The sentence does highlight the importance of the modification, which justifies its inclusion to some extent."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This methylation is crucial for its role in cellular processes such as lysosome positioning and secretion, mediated through interactions with proteins like NDEL1 and PLEKHM1 within a molecular complex that includes DEF8 and RAB7 (Li2019FAM98A; Zheng2018FAM98A).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively define the scope of the article. It provides specific information about methylation and its role in cellular processes, but it lacks a clear introduction or overview of the article's broader focus. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein names and identifiers. The sentence is more detailed and specific rather than introductory or scope-defining."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses gene symbols (NDEL1, PLEKHM1, DEF8, RAB7) instead of the recommended UniProt protein names. While gene symbols are often used in scientific literature, the requirement specifies using UniProt names if they are relatively short. The sentence partially meets the requirement by mentioning proteins, but it does not adhere to the specific naming convention requested."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the function of methylation in cellular processes and mentions specific proteins involved. However, it lacks a comprehensive summary of the article, as it does not address the structure or clinical significance, and it includes specific details that may not be necessary for a concise summary. The sentence also does not clearly indicate that it is summarizing an article, which is part of the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the role of methylation in cellular processes, specifically mentioning interactions with proteins and a molecular complex. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable. However, the sentence does not appear to be overly redundant or unnecessary, so it largely meets the requirement. The score reflects that while the sentence is informative, it could be more concise if the details are already covered elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "However, detailed information on the tertiary or quaternary structures of FAM98A, or specific folds and splice variant isoforms, is not provided in the available literature.",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it discusses the lack of detailed information on specific structural aspects of FAM98A. Additionally, it does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's focus and adhere to the naming conventions specified by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"FAM98A,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name for FAM98A, it's unclear if the sentence fully meets the requirement. If the UniProt name is indeed short, it should have been used instead."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence primarily focuses on the lack of detailed information regarding the tertiary or quaternary structures of FAM98A and does not provide a summary of the article's key aspects such as structure, function, and clinical significance. It lacks a comprehensive overview and does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the lack of detailed structural data on FAM98A, which may not be present in an infobox. It avoids unnecessary repetition and focuses on a notable gap in the literature, thus largely meeting the requirement. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Thus, while the primary and secondary structural elements are somewhat characterized, further studies are needed to elucidate the complete structural biology of FAM98A.",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It merely states that further studies are needed to understand the structural biology of FAM98A. To meet the requirement, the sentence should clearly outline the article's focus and adhere to specific naming conventions as per UniProt guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"FAM98A,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name for FAM98A, it's unclear if the sentence fully meets the requirement. If the UniProt name is indeed short, it should have been used instead."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a partial summary by mentioning the characterization of primary and secondary structural elements of FAM98A, but it lacks information on the function and clinical significance. It also does not concisely summarize the article as a whole, focusing instead on the need for further studies. To better meet the requirement, the sentence should include key aspects like the function and clinical significance of FAM98A, while avoiding unnecessary detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information from an infobox, as it discusses the need for further studies on the structural biology of FAM98A. However, without the context of the infobox content, it's difficult to fully assess compliance. Assuming the infobox does not already emphasize the need for further studies, the sentence seems to meet the requirement well. If the infobox already contains similar information, the score would be lower."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Function\nFAM98A, or Family with Sequence Similarity 98 Member A, is a protein encoded by the FAM98A gene in humans, which plays a significant role in various cellular processes.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a basic introduction to the FAM98A protein and its gene, which is a good start for defining the scope of an article. However, it does not fully adhere to the recommended UniProt naming conventions, which typically include the protein name, gene name, and organism in a specific format. Additionally, the sentence could be more explicit in defining the scope of the article by mentioning the specific aspects of the protein that will be covered, such as its structure, function, and role in cellular processes."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"FAM98A\" with disambiguation, which is acceptable if the UniProt protein name is not relatively short. However, the sentence does not mention whether the UniProt protein name was considered or if it is relatively short. To fully meet the requirement, the sentence should clarify the use of the UniProt protein name or explicitly state why the HUGO gene symbol was chosen."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief introduction to the FAM98A protein, mentioning its encoding gene and its role in cellular processes. However, it lacks details on the protein's structure and clinical significance, which are key aspects required by the prompt. Additionally, the sentence includes unnecessary detail with the phrase \"Family with Sequence Similarity 98 Member A,\" which could be omitted for conciseness. Overall, the sentence does not fully meet the requirement of summarizing the article comprehensively."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise description of the FAM98A protein and its gene, which is likely to be basic information already present in an infobox. However, it does emphasize the protein's significant role in cellular processes, which could be considered notable. The sentence mostly meets the requirement by not overly repeating infobox content, but it could be more focused on unique or emphasized aspects."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This protein is involved in the formation and localization of stress granules, cytoplasmic aggregates of proteins and RNAs that form in response to environmental stresses such as heat, osmotic shock, and oxidative stress.",
+      "title": "Introduction",
+      "score": 0.4,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the protein's function related to stress granules, but it does not clearly define the scope of the article. It lacks a specific mention of the protein's name, which is essential for following UniProt naming conventions. Additionally, it does not outline the broader context or focus of the article, such as the biological significance, mechanisms, or implications of the protein's role."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name, either by the recommended UniProt protein name or the HUGO gene symbol. To meet the requirement, the sentence should include the specific name of the protein being described."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the function of a protein, specifically its role in the formation and localization of stress granules. However, it lacks details on the protein's structure and clinical significance, which are key aspects mentioned in the requirement. Additionally, the sentence includes unnecessary detail about the types of environmental stresses, which could be omitted for a more concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the protein's role in stress granule formation and localization, which may be notable or require emphasis. However, without knowing the content of the infobox, it's difficult to fully assess redundancy. Assuming the infobox contains basic information about the protein's function, this sentence adds context by specifying the types of environmental stresses involved, which could justify its inclusion. Nonetheless, if the infobox already contains similar details, the sentence might slightly repeat information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "FAM98A specifically localizes to these granules, aiding in the sequestration and protection of mRNAs and proteins involved in survival pathways under stress conditions (Ozeki2018FAM98A).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions FAM98A and its role in localizing to granules and protecting mRNAs and proteins under stress, which provides some context about the protein's function. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to naming conventions, such as using the full protein name and any relevant identifiers."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"FAM98A,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name for FAM98A, it's unclear if the sentence meets the requirement fully. If the UniProt name is indeed short and was not used, the sentence partially meets the requirement by using the gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the localization and function of FAM98A, mentioning its role in stress conditions. However, it does not summarize the article concisely or cover key aspects such as structure, broader function, or clinical significance. It lacks a comprehensive overview and focuses on a single aspect, which limits its effectiveness as a lead summarizing the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the localization and function of FAM98A, which may not be common knowledge or already present in an infobox. It seems to offer detailed insight that could be considered notable, thus justifying its inclusion. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this information. If the infobox already contains similar details, the sentence might be slightly redundant, but it still adds value by emphasizing the role of FAM98A in stress conditions."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, FAM98A interacts with several other proteins localized to stress granules, such as DDX1, ATXN2, ATXN2L, and NUFIP2, suggesting a role in the organization and function of these granules (Li2019FAM98A; Ozeki2018FAM98A).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides specific information about the interactions of FAM98A with other proteins, which might be part of the article's content, but it does not establish the overall scope or context. Additionally, it lacks the formal structure and naming conventions typically used in UniProt entries."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses HUGO gene symbols (DDX1, ATXN2, ATXN2L, NUFIP2) instead of the recommended UniProt protein names. While the gene symbols are commonly used, the requirement specifies using UniProt names if they are relatively short. The sentence partially meets the requirement by using recognizable symbols, but it does not fully comply with the preference for UniProt names."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the interaction of FAM98A with other proteins in stress granules, which relates to its function. However, it does not summarize the article concisely or cover key aspects like structure and clinical significance. The sentence is too focused on a specific detail rather than providing a broad overview of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the interactions of FAM98A with other proteins in stress granules, which may not be common knowledge or explicitly detailed in an infobox. If the infobox already contains this information, the sentence could be seen as repetitive. However, the inclusion of specific protein names and the implication of FAM98A's role in granule organization and function could be considered notable, justifying its presence in the text. The score reflects a slight deviation from the requirement due to potential redundancy, but the information's specificity and potential importance mitigate this."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein also forms a complex with DDX1 and C14orf166, which is crucial for the expression of PRMT1, a protein arginine methyltransferase involved in various cellular processes including signal transduction, gene transcription, DNA repair, and mRNA splicing (Akter2017FAM98A).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively define the scope of the article as required. It provides specific information about a protein complex and its role in cellular processes, but it lacks a clear statement of the article's overall focus or scope. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein names and identifiers. To better meet the requirement, the sentence should introduce the main topic or objective of the article and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"PRMT1\" instead of the recommended UniProt protein name. While \"PRMT1\" is a commonly used gene symbol, the requirement specifies using the UniProt protein name if it is relatively short. The sentence partially meets the requirement by using a recognizable symbol, but it does not fully comply with the preference for the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the function of a protein complex involving DDX1 and C14orf166 and its role in the expression of PRMT1. However, it lacks a comprehensive summary of the article, as it does not address the structure or clinical significance of the protein complex. Additionally, it includes specific details that may not be necessary for a concise summary. To better meet the requirement, the sentence should provide a broader overview of the article's key points, including structure and clinical relevance, while avoiding excessive detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the protein's interaction with DDX1 and C14orf166 and its role in the expression of PRMT1. If this information is already present in the infobox, it might be considered repetitive unless it is particularly notable or requires emphasis. However, the sentence does not seem to overly repeat information and provides context that could be important for understanding the protein's function, which justifies a relatively high score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In summary, FAM98A is active in several cellular compartments, including the cytoplasm and nucleus, and is involved in both nuclear and cytoplasmic functions, influencing the stability and translation of mRNA as well as the dynamics of actin filaments.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a brief overview of the functions and locations of FAM98A within the cell, but it does not define the scope of an article or follow the recommended UniProt naming conventions. It lacks context about the article's focus and does not specify the naming conventions used. To better meet the requirement, the sentence should clearly state the article's scope and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"FAM98A,\" which is the HUGO gene symbol. The requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt name, it's unclear if \"FAM98A\" is the best choice. If the UniProt name is short and commonly used, the sentence should use that instead. If \"FAM98A\" is the most appropriate or only name, then the sentence is acceptable. The score reflects this uncertainty."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.4,
+          "feedback": [
+            "The sentence provides a concise summary of the functions and cellular locations of FAM98A, which partially meets the requirement. However, it lacks information on the structure and clinical significance of FAM98A, which are key aspects mentioned in the requirement. Additionally, the sentence does not provide a comprehensive overview of the article, focusing only on specific functions and locations."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides a concise summary of FAM98A's functions and locations within the cell. If the infobox already contains this information, the sentence may be somewhat redundant. However, it does emphasize the dual role of FAM98A in both nuclear and cytoplasmic functions, which could be considered notable. The score reflects that while the sentence may repeat information, it does so in a way that highlights the protein's multifaceted roles, which might justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This multifunctional role underscores its importance in cellular organization, stress response mechanisms, and broader cellular processes essential for the maintenance and survival of body tissues.",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a general overview of the role's importance in cellular functions, which could be part of defining the scope of an article. However, it does not clearly define the specific scope of the article or adhere to UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and incorporate relevant UniProt terminology."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the score, the sentence should include a specific protein or gene name as per the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence touches on the importance of a multifunctional role in cellular organization and stress response mechanisms, which hints at function. However, it lacks specific details about structure and clinical significance, which are key aspects mentioned in the requirement. Additionally, it does not provide a comprehensive summary of the article, as it is too vague and general. To better meet the requirement, the sentence should include more specific information about structure, function, and clinical significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.7,
+          "feedback": [
+            "The sentence effectively highlights the importance of the multifunctional role in cellular organization, stress response mechanisms, and broader cellular processes. However, without knowing the content of the infobox, it's difficult to determine if this information is repeated. If the infobox already contains this information and it is not particularly notable or emphasized, the sentence may not fully meet the requirement. The score reflects a reasonable assumption that the sentence might be somewhat redundant without additional context."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Clinical Significance\nFAM98A has been implicated in the progression and prognosis of several cancers.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article as required. It mentions the clinical significance of FAM98A in relation to cancer, but it does not provide a clear definition of the article's scope or follow the recommended UniProt naming conventions. The sentence is more focused on a specific aspect rather than setting the overall context or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"FAM98A\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should be used instead. The sentence partially meets the requirement by using a recognized gene symbol, but it does not fully comply as it does not check for the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence only addresses the clinical significance of FAM98A, mentioning its role in cancer progression and prognosis. It does not cover other key aspects such as the structure or function of FAM98A, which are necessary for a comprehensive summary. Additionally, the sentence lacks context and detail that would make it a complete lead for an article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides information about the clinical significance of FAM98A in cancer progression and prognosis. If this information is already present in the infobox, it may not be necessary to repeat it unless it is particularly notable or requires emphasis. However, without knowing the content of the infobox, it's difficult to determine if the repetition is justified. The sentence is concise and relevant, which is why it scores relatively high, but the potential redundancy slightly lowers the score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In breast cancer, miR-26a targets FAM98A, and its decreased expression is associated with increased cell proliferation and metastasis, suggesting a tumor suppressive role for miR-26a via its regulation of FAM98A (Liu2021MicroRNA\u00e2\u0080\u009126a).",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the role of miR-26a in breast cancer, mentioning its target (FAM98A) and its effects on cell proliferation and metastasis. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein names and identifiers. The sentence is more focused on a specific finding rather than setting the broader context or scope of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"FAM98A,\" which is the HUGO gene symbol. The requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt name for FAM98A, it's unclear if the sentence fully meets the requirement. If the UniProt name is indeed short and was not used, the sentence partially meets the requirement by using the HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides a concise summary of the article by highlighting the key aspects of miR-26a's role in breast cancer. It mentions the target (FAM98A), the effect of decreased expression (increased cell proliferation and metastasis), and suggests a tumor suppressive role, which touches on structure, function, and clinical significance. However, it lacks specific details about the study's structure or methodology and could be slightly more comprehensive in covering all key aspects without adding unnecessary detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of miR-26a in breast cancer, which may not be redundant if the infobox does not contain these details. However, without knowing the content of the infobox, it's difficult to fully assess redundancy. The sentence seems to emphasize the tumor suppressive role of miR-26a, which could be notable. The score reflects a reasonable assumption that the information is not overly repetitive unless the infobox already contains this specific detail."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Similarly, in colorectal cancer, FAM98A is overexpressed and its knockdown results in reduced cell proliferation and colony formation, indicating its role as a tumor promoter (Akter2017FAM98A).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it provides specific information about the role of FAM98A in colorectal cancer. To meet the requirement, the sentence should introduce the overall topic or focus of the article and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"FAM98A\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used according to the requirement. However, if the UniProt name is long or not well-known, using the gene symbol with disambiguation might be acceptable. The sentence does not provide disambiguation, which affects the score."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a specific finding from the article, mentioning the overexpression of FAM98A in colorectal cancer and its role as a tumor promoter. However, it lacks a comprehensive summary of the article's key aspects such as the structure and broader clinical significance of FAM98A. It focuses on a single detail rather than providing a concise overview of the entire article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of FAM98A in colorectal cancer, which may not be present in the infobox. It highlights the overexpression of FAM98A and its impact on cell proliferation and colony formation, which could be considered notable details. However, if this information is already detailed in the infobox, the sentence might be somewhat redundant. The score reflects that the sentence likely adds value unless the infobox already contains this level of detail."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "FAM98A is also highly expressed in ovarian and lung cancer, where it contributes to poor prognosis and enhanced cancer cell capabilities (Liu2021MicroRNA\u00e2\u0080\u009126a).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions the expression of FAM98A in ovarian and lung cancer and its contribution to poor prognosis, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name and gene name in a specific format. The sentence lacks context and does not provide a comprehensive overview of the article's focus."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"FAM98A,\" which is the HUGO gene symbol. However, the requirement specifies using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt name, it's unclear if \"FAM98A\" is the best choice. The sentence partially meets the requirement by using a gene symbol, but it does not confirm whether the UniProt name was considered."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some clinical significance by mentioning FAM98A's expression in ovarian and lung cancer and its contribution to poor prognosis. However, it lacks information on the structure and function of FAM98A, which are key aspects required by the prompt. Additionally, the sentence references a study (Liu2021MicroRNA\u00e2\u0080\u009126a) without summarizing its findings, which does not contribute to a concise summary of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the expression of FAM98A in ovarian and lung cancer and its impact on prognosis and cancer cell capabilities. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable. However, the sentence does add context by mentioning the study (Liu2021MicroRNA\u201126a), which could justify its inclusion. The score reflects that while the sentence may repeat information, it does provide additional context that could be considered notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "In endometrial carcinoma, FAM98A expression is significantly higher in cancerous tissues compared to non-tumor controls, and its high levels are associated with poor patient outcomes.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about FAM98A expression in endometrial carcinoma and its association with patient outcomes, which could be part of the article's scope. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name and gene symbol. The sentence lacks a broader context or introduction to the main focus of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"FAM98A,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name for FAM98A, it's unclear if the sentence fully meets the requirement. If the UniProt name is indeed short and was not used, the sentence partially meets the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.7,
+          "feedback": [
+            "The sentence effectively summarizes the clinical significance of FAM98A expression in endometrial carcinoma by highlighting its higher expression in cancerous tissues and its association with poor patient outcomes. However, it lacks details on the structure and function of FAM98A, which are key aspects mentioned in the requirement. Including these elements would provide a more comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about FAM98A expression in endometrial carcinoma, which may be notable if not already detailed in the infobox. However, without knowing the content of the infobox, it's difficult to fully assess redundancy. If the infobox already contains this information, the sentence could be seen as repetitive unless the association with poor patient outcomes is particularly emphasized."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Silencing FAM98A in endometrial carcinoma cell lines leads to decreased cell viability and increased apoptosis, highlighting its potential as a therapeutic target (Li2019FAM98A).",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some insight into the focus of the article by mentioning the effect of silencing FAM98A in endometrial carcinoma cell lines, suggesting its potential as a therapeutic target. However, it does not clearly define the overall scope of the article, nor does it follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the main topic or objective of the article and adhere to the specific naming conventions outlined by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"FAM98A\" instead of the UniProt protein name. If the UniProt protein name is relatively short, it should have been used according to the requirement. The sentence partially meets the requirement by using a recognized gene symbol, but it does not fully comply as it does not check if the UniProt name is short and suitable for use."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.7,
+          "feedback": [
+            "The sentence effectively summarizes the article by mentioning the key finding that silencing FAM98A affects cell viability and apoptosis in endometrial carcinoma cell lines, suggesting its potential as a therapeutic target. However, it lacks specific details about the structure and function of FAM98A, which are part of the requirement. Including a brief mention of these aspects would provide a more comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the effects of silencing FAM98A in endometrial carcinoma cell lines, which may not be redundant if this detail is not already covered in the infobox. However, if the infobox already contains this information, the sentence could be seen as repetitive unless the detail is particularly notable or requires emphasis. The score reflects a slight deduction for potential redundancy, but overall, the sentence is informative and specific."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These findings underscore the clinical significance of FAM98A in various cancers, suggesting that it could serve as a potential biomarker and therapeutic target across multiple cancer types.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article as required. Instead, it presents a conclusion or finding related to FAM98A's role in cancer. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve specific guidelines for protein names and identifiers. To better meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"FAM98A\" instead of the UniProt protein name. If the UniProt protein name is relatively short, it should have been used according to the requirement. The sentence partially meets the requirement by using a recognized gene symbol, but it does not fully comply as it does not check or use the UniProt protein name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.7,
+          "feedback": [
+            "The sentence effectively highlights the clinical significance of FAM98A in various cancers, suggesting its potential as a biomarker and therapeutic target. However, it lacks specific details about the structure and function of FAM98A, which are key aspects mentioned in the requirement. Including a brief mention of these elements would provide a more comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence may repeat information that is already present in an infobox, such as the role of FAM98A as a biomarker and therapeutic target in various cancers. Without knowing the content of the infobox, it's unclear if this repetition is necessary or notable. If the infobox already contains this information, the sentence could be seen as redundant unless it adds new insights or emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Interactions\nFAM98A, a protein encoded by the human gene Family with Sequence Similarity 98 Member A, is involved in various protein-protein interactions that are crucial for cellular functions and disease progression.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides some context by mentioning FAM98A and its involvement in protein-protein interactions, which could suggest the scope of the article. However, it does not clearly define the scope of the article in a comprehensive manner. Additionally, it does not explicitly follow the recommended UniProt naming conventions, which typically include the full protein name, gene name, and species. The sentence could be improved by explicitly stating the focus of the article and adhering more closely to UniProt conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"FAM98A,\" which is the HUGO gene symbol, but it does not provide any disambiguation or context to clarify that it is a gene symbol. Additionally, it does not use the recommended UniProt protein name, if available. The sentence partially meets the requirement by using the gene symbol, but it lacks clarity and completeness in terms of disambiguation or using the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief mention of FAM98A's involvement in protein-protein interactions and hints at its importance in cellular functions and disease progression. However, it lacks specific details about the structure, function, and clinical significance of FAM98A, which are key aspects required for a concise summary. Additionally, the sentence includes unnecessary detail, such as the full name of the gene, which could be simplified."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides information about the FAM98A protein and its involvement in protein-protein interactions, which may be notable or require emphasis. However, without knowing the content of the infobox, it's difficult to fully assess whether the information is repeated unnecessarily. The sentence does not appear to be overly redundant, but the score reflects the potential for overlap with the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "It forms a complex with FAM98B, DDX1, and C14orf166, which is essential for the expression of PRMT1, a protein arginine methyltransferase significantly involved in cancer progression.",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not clearly define the scope of the article, as it primarily describes a specific biochemical interaction involving FAM98B, DDX1, C14orf166, and PRMT1. It lacks a broader context or introduction to the main topic of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein names and identifiers. To better meet the requirement, the sentence should provide a more general overview of the article's focus and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"PRMT1,\" which is the HUGO gene symbol for protein arginine methyltransferase 1. However, it does not specify if this is the recommended UniProt protein name or if disambiguation is necessary. The sentence partially meets the requirement by using a gene symbol, but it lacks clarity on whether this is the best choice according to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides some information about the structure (complex with FAM98B, DDX1, and C14orf166) and function (essential for the expression of PRMT1) but lacks a comprehensive summary of the article. It mentions clinical significance (involvement in cancer progression) but does not cover all key aspects or provide a concise overview of the entire article. Additionally, it includes specific details that may not be necessary for a lead sentence."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence may repeat information that could be present in an infobox, such as the interaction of FAM98B, DDX1, and C14orf166 with PRMT1 and its role in cancer progression. Without knowing the content of the infobox, it's unclear if this information is notable enough to warrant repetition. If the infobox already contains this information, the sentence does not meet the requirement well. However, if the details about the complex and its role in cancer are not in the infobox, the sentence could be justified."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This complex plays a critical role in PRMT1-mediated arginine methylation, affecting cancer cell proliferation, migration, and invasion (Akter2017FAM98A).",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the role of a complex in PRMT1-mediated arginine methylation and its effects on cancer cell behavior, which may be part of the article's scope. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, as it lacks proper protein or gene names formatted according to those standards. To better meet the requirement, the sentence should explicitly outline the article's main focus and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"PRMT1,\" which is the HUGO gene symbol, but it does not provide any disambiguation. It is unclear if \"PRMT1\" is the recommended UniProt protein name or if it should have been disambiguated. The sentence partially meets the requirement by using a gene symbol, but it lacks clarity on whether this is the best choice according to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by mentioning the function of the complex in PRMT1-mediated arginine methylation and its impact on cancer cell behaviors. However, it lacks information on the structure and broader clinical significance, and it does not provide a comprehensive summary of the article. Additionally, the citation style is not standard, which may affect clarity."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of a complex in PRMT1-mediated arginine methylation and its effects on cancer cell behavior. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable. However, the sentence does emphasize the significance of the complex's role, which could justify its inclusion. The score reflects that while the sentence may repeat information, it does so with a focus on its importance, which aligns with the requirement to avoid unnecessary repetition unless emphasis is needed."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, FAM98A is part of a novel complex identified in colorectal cancer samples, where it interacts with PRMT1, and this interaction is crucial for maintaining PRMT1 levels and function (Akter2017FAM98A).",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about FAM98A and its interaction with PRMT1 in colorectal cancer samples, which is a detailed aspect of the study. However, it does not define the overall scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should introduce the broader context or purpose of the article and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"FAM98A\" and \"PRMT1\" instead of the recommended UniProt protein names. If the UniProt names are relatively short, they should be used instead. The sentence partially meets the requirement by using gene symbols, but it does not specify whether the UniProt names were considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides some information about the interaction between FAM98A and PRMT1 in colorectal cancer samples, which touches on the function and clinical significance. However, it lacks details on the structure of FAM98A and does not provide a comprehensive summary of the article. The sentence is also somewhat specific, mentioning a study reference, which may not be necessary for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about FAM98A's role in a novel complex and its interaction with PRMT1 in colorectal cancer samples. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable. However, the sentence does emphasize the importance of the interaction for maintaining PRMT1 levels and function, which could justify its inclusion. The score reflects that while the sentence may repeat information, it does add context and emphasis that could be valuable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "FAM98A also localizes to stress granules under stress conditions and interacts with several stress granule-localized proteins, including DDX1, ATXN2, ATXN2L, and NUFIP2.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about the protein FAM98A and its interactions under stress conditions, but it does not define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name followed by the gene name in parentheses. The sentence lacks a broader context or introduction to the topic that would set the scope for the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses HUGO gene symbols (e.g., DDX1, ATXN2, ATXN2L, NUFIP2) instead of the recommended UniProt protein names. If the UniProt names are relatively short, they should be used instead. The sentence partially meets the requirement by using gene symbols, but it does not specify whether the UniProt names are longer or not, which is necessary to justify using gene symbols."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the localization and interaction of FAM98A with stress granule-localized proteins, which touches on the function aspect. However, it lacks a comprehensive summary of the article, as it does not address the structure or clinical significance of FAM98A. Additionally, it includes unnecessary detail about specific proteins, which is not required for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about FAM98A's localization and interactions under stress conditions, which may not be redundant unless the infobox already contains this detailed information. If the infobox includes these exact details, the sentence could be seen as repetitive. However, if the infobox lacks this specificity, the sentence adds valuable context. The score reflects the potential for redundancy depending on the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These interactions suggest a role for FAM98A in the organization and possibly the function of stress granules, which are involved in mRNA regulation during cellular stress (Ozeki2018FAM98A).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively define the scope of the article. It provides a specific observation about FAM98A's role in stress granules but lacks a broader context or overview of the article's main focus. Additionally, it does not adhere to UniProt naming conventions, which typically involve standardized protein names and identifiers. To better meet the requirement, the sentence should introduce the main topic or objective of the article and use proper naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"FAM98A,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name for FAM98A, it's unclear if the sentence meets the requirement. If the UniProt name is indeed short, the sentence should use that instead. If not, the use of the gene symbol is appropriate, but the sentence does not provide disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the role of FAM98A in stress granules and mRNA regulation, which is a part of the function aspect. However, it does not summarize the article concisely or cover key aspects like structure and clinical significance. The sentence lacks a broader overview and includes unnecessary detail by citing a specific study, which does not align with the requirement for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of FAM98A in stress granules and mRNA regulation, which may not be redundant if the infobox does not already contain this detailed explanation. However, without knowing the content of the infobox, it's difficult to fully assess redundancy. The sentence seems to emphasize the function and importance of FAM98A, which could justify its inclusion. If the infobox already contains this information, the score would be lower."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The C-terminal region of FAM98A, rich in low complexity sequences, is crucial for its accumulation in stress granules, indicating a specific domain necessary for its localization and function in these structures (Ozeki2018FAM98A).",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the C-terminal region of FAM98A and its role in stress granules, which may be part of the article's scope. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name and gene name in a standardized format. To better meet the requirement, the sentence should more broadly outline the article's focus and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"FAM98A,\" which is the HUGO gene symbol. However, it does not provide any disambiguation, which may be necessary if there are multiple proteins or genes with similar names. Additionally, it does not mention whether the UniProt protein name is relatively short and could have been used instead. The sentence partially meets the requirement by using the gene symbol, but it lacks clarity on whether this is the best choice according to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the article's focus on the structure and function of FAM98A, specifically its C-terminal region and its role in stress granules. However, it lacks coverage of the clinical significance of FAM98A, which is a key aspect mentioned in the requirement. Additionally, while it avoids unnecessary detail, it could be more comprehensive in summarizing the article's broader findings."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the C-terminal region of FAM98A and its role in stress granules, which may not be common knowledge or detailed in an infobox. It emphasizes the importance of this region for localization and function, which could be considered notable. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this repetition. The sentence seems to add value by highlighting a specific functional aspect, thus largely meeting the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # References\n\n\n[1.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow any naming conventions, including those recommended by UniProt. It appears to be an incomplete or incorrectly formatted section heading rather than a sentence that meets the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any information related to the use of UniProt protein names or HUGO gene symbols. It appears to be an incomplete or incorrectly formatted reference section, and thus does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a fragment or a placeholder for a references section, rather than a lead summarizing an article. It does not cover any key aspects such as structure, function, or clinical significance, nor does it provide any summary or detail about the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 1.0,
+          "feedback": [
+            "The sentence provided does not repeat any information from an infobox, as it is simply a heading for a references section. Therefore, it fully meets the requirement of avoiding repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Liu2021MicroRNA\u00e2\u0080\u009126a) Tan Liu, Ziming Wang, Menghao Dong, Jingjing Wei, and Yueyin Pan.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article. Instead, it appears to be a citation or reference to an article, listing authors and a title in a non-standard format. It does not follow the recommended UniProt naming conventions or provide any information about the content or scope of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not mention any protein name or gene symbol, let alone using the recommended UniProt protein name or HUGO gene symbol. The sentence appears to be a citation or reference to a study, and it does not address the requirement related to protein or gene naming conventions."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation or reference to an article, listing authors and a title, but it does not summarize the article's content. There is no information about the structure, function, or clinical significance of the topic, nor is there any summary of key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes author names and publication details. If this information is already present in an infobox, repeating it in the main text may not be necessary unless it is particularly notable. However, without context on the presence of an infobox or the notability of the information, the sentence seems to meet the requirement reasonably well by not excessively repeating information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Microrna\u00e2\u0080\u009126a inhibits cell proliferation and invasion by targeting fam98a in breast cancer.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific finding related to microRNA-26a and its effect on cell proliferation and invasion in breast cancer, which partially defines the scope of the article. However, it does not follow the recommended UniProt naming conventions, as \"microrna\u00e2\u0080\u009126a\" should be formatted according to those standards. Additionally, the sentence lacks broader context or background information that would more fully define the scope of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"fam98a,\" which appears to be a gene symbol. The requirement suggests using the recommended UniProt protein name if it is relatively short, or the HUGO gene symbol with disambiguation if necessary. The sentence does not clarify whether \"fam98a\" is the gene or protein name, nor does it provide disambiguation. To fully meet the requirement, the sentence should specify whether \"fam98a\" is the gene or protein and use the appropriate naming convention."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the article's main finding, indicating that microRNA-26a inhibits cell proliferation and invasion by targeting FAM98A in breast cancer. However, it lacks details on the structure and function of microRNA-26a and FAM98A, as well as the clinical significance of these findings. To fully meet the requirement, the sentence should include these aspects without adding unnecessary detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to provide specific information about the role of microRNA-26a in breast cancer, which may not be redundant unless the infobox already contains this exact detail. If the infobox includes this information, the sentence could be seen as repetitive. However, if the detail is particularly notable or requires emphasis, the repetition might be justified. The score reflects a slight deduction for potential redundancy, assuming the infobox contains similar information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Oncology Letters, March 2021.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Oncology Letters, March 2021.\" does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It merely provides a publication name and date, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence only mentions a journal name and a date, which are unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence \"Oncology Letters, March 2021.\" does not meet the requirement as it does not provide any summary of the article. It lacks information on structure, function, clinical significance, or any other key aspects. It merely states the name of a publication and a date, which is insufficient for a summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence \"Oncology Letters, March 2021\" is concise and does not appear to repeat information unnecessarily. However, without context, it's unclear if this information is already present in an infobox. Assuming it is, the sentence could be seen as redundant unless the publication date or journal name is particularly notable or requires emphasis. The score reflects a minor deduction for potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.3892/ol.2021.12628 , doi:10.3892/ol.2021.12628.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it only provides a URL and a DOI, which are identifiers for accessing the article but do not give any information about its content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It contains a URL and a DOI reference, but it does not mention any protein names or gene symbols, nor does it make any attempt to use the recommended UniProt protein name or the HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, without any summary of the article's content. There is no information about the structure, function, or clinical significance of the topic, nor is there any attempt to summarize the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in an infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement to avoid unnecessary repetition. However, the sentence does provide both the URL and DOI format, which could be useful in some contexts, hence the score is not the lowest possible."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(13 citations) 10.3892/ol.2021.12628]( https://doi.org/10.3892/ol.2021.12628 )\n\n[2.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation reference rather than a descriptive sentence about the article's content. To meet the requirement, the sentence should clearly outline the article's focus and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It appears to be a citation reference rather than a summary. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of providing a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not appear to repeat information from an infobox, as it seems to be a citation reference. However, without context or the actual infobox content, it's difficult to fully assess repetition. The score reflects that the sentence likely meets the requirement, assuming the citation is not redundant with the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Li2019FAM98A) Zenghui Li, Ning Li, Xiaomei Sun, and Jing Wang.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation or reference to authors and does not define the scope of an article. It also does not follow any naming conventions related to UniProt, which typically involves protein names and identifiers. To meet the requirement, the sentence should clearly state the topic or focus of the article in accordance with UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not mention any protein names or gene symbols, nor does it relate to the requirement of using UniProt protein names or HUGO gene symbols. It appears to be a citation or reference to authors of a study, which is unrelated to the requirement given. Therefore, it does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It only lists the authors' names and a reference code, without any information about the article's content, structure, function, or clinical significance. To meet the requirement, the sentence should provide a concise summary of the article's key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes author names and publication details. If this information is already present in an infobox, repeating it here may not be necessary unless it serves a specific purpose, such as emphasizing the authors' contributions. The sentence could be improved by ensuring it adds value beyond what is in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Fam98a promotes cancer progression in endometrial carcinoma.",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific focus on the role of Fam98a in cancer progression within endometrial carcinoma, which partially defines the scope of the article. However, it does not follow the recommended UniProt naming conventions, which typically include the full protein name and species. Additionally, it lacks broader context or background information that would fully define the scope of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Fam98a,\" which appears to be a gene symbol. To fully meet the requirement, the sentence should use the recommended UniProt protein name if it is relatively short. If the UniProt name is not short, the HUGO gene symbol should be used with disambiguation if necessary. The sentence does not provide enough information to determine if \"Fam98a\" is the best choice according to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a very brief summary of the article by stating that Fam98a promotes cancer progression in endometrial carcinoma. However, it lacks details on the structure, function, and clinical significance of Fam98a, which are key aspects mentioned in the requirement. The sentence is concise but does not cover the necessary elements to fully meet the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence does not provide enough context to determine if the information is repeated from an infobox or if it is particularly notable. Without knowing the content of the infobox, it's unclear if this statement is redundant. If the infobox already contains this information and it is not emphasized for a specific reason, the sentence may not meet the requirement well. However, if it is notable or requires emphasis, it could be justified."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Molecular and Cellular Biochemistry, 459(1\u00e2\u0080\u00932):131\u00e2\u0080\u0093139, May 2019.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's focus and adhere to the specific naming guidelines set by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not contain any protein names or gene symbols. Therefore, it cannot be evaluated against the requirement, which pertains to the use of UniProt protein names or HUGO gene symbols. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's content, such as structure, function, or clinical significance. To meet the requirement, a concise summary of the article's key aspects is needed."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes specific details such as journal name, volume, issue, page numbers, and date. If this information is already present in an infobox, repeating it in the main text may not be necessary unless it is particularly notable or requires emphasis. However, without context on what is in the infobox, it's difficult to determine if this repetition is justified. The sentence is concise and factual, which aligns with typical citation practices, but it could be redundant if the infobox already contains this information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1007/s11010-019-03556-1 , doi:10.1007/s11010-019-03556-1.",
+      "title": "Introduction",
+      "score": 0.09,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article at all. Instead, it only provides a URL and a DOI, which are identifiers for accessing the article. There is no information about the content, topic, or scope of the article, nor does it follow any naming conventions, such as those recommended by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI reference, with no mention of a UniProt protein name or a HUGO gene symbol. To meet the requirement, the sentence should include a reference to a protein name or gene symbol, as specified."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI, which do not summarize the article or cover any key aspects such as structure, function, or clinical significance. There is no content related to the article's subject matter, making it impossible to evaluate its conciseness or relevance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.3,
+          "feedback": [
+            "The sentence repeats the DOI information twice, which is unnecessary and does not meet the requirement to avoid repeating information unless it is particularly notable or requires emphasis. The repetition does not add value or emphasis, thus the sentence could be more concise by mentioning the DOI only once."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(11 citations) 10.1007/s11010-019-03556-1]( https://doi.org/10.1007/s11010-019-03556-1 )\n\n[3.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation or reference link rather than a descriptive sentence about the article's content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation reference rather than a summary of an article. It lacks any information about the article's structure, function, or clinical significance, and does not provide a concise summary of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation count and a DOI link, which are typically found in an infobox. However, the citation count might be notable information that could warrant emphasis outside of the infobox. The sentence could be improved by ensuring that the information is not redundant if it is already present in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Ozeki2018FAM98A) Kanako Ozeki, Mai Sugiyama, Khondker Ayesha Akter, Kimitoshi Nishiwaki, Eri Asano-Inami, and Takeshi Senga.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation of authors and does not define the scope of an article. It does not follow the recommended UniProt naming conventions or provide any information about the content or focus of the article. To meet the requirement, the sentence should clearly outline the article's scope and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, and therefore does not address the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation or list of authors, which is unrelated to the requirement given."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation listing authors and does not summarize an article. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, listing authors of a work. Without context, it's unclear if this information is repeated from an infobox or if it is particularly notable. If this list of authors is already present in an infobox, the sentence may not meet the requirement to avoid repetition unless the authorship is notable. The score reflects this ambiguity."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Fam98a is localized to stress granules and associates with multiple stress granule-localized proteins.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about Fam98a's localization and associations, which may be part of the article's scope. However, it does not clearly define the overall scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly outline the main focus or purpose of the article and ensure that any protein names adhere to UniProt standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Fam98a,\" which appears to be a gene symbol rather than a UniProt protein name. The requirement suggests using the recommended UniProt protein name if it is relatively short, or the HUGO gene symbol with disambiguation if necessary. Without additional context, it's unclear if \"Fam98a\" is the best choice according to the requirement. If \"Fam98a\" is indeed the HUGO gene symbol and no disambiguation is needed, the sentence partially meets the requirement. However, without confirming the UniProt name, the score is reduced."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the localization and association of Fam98a with stress granules and related proteins, which touches on the structure and function aspects. However, it lacks a comprehensive summary of the article, as it does not address the clinical significance or provide a broader context. Additionally, it does not concisely cover the key aspects of the article as a whole, focusing instead on a single point."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about Fam98a's localization and associations, which may not be redundant unless the infobox already contains this exact detail. If the infobox includes this information, the sentence could be seen as repetitive. However, if the details are particularly notable or require emphasis, the repetition might be justified. The score reflects a slight deduction for potential redundancy, depending on the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Molecular and Cellular Biochemistry, 451(1\u00e2\u0080\u00932):107\u00e2\u0080\u0093115, July 2018.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions, as it does not mention any specific proteins or biological terms that would be relevant to UniProt. To meet the requirement, the sentence should clearly outline the article's focus and use appropriate scientific terminology."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not contain any protein names or gene symbols. Therefore, it cannot be evaluated against the requirement, which pertains to the use of UniProt protein names or HUGO gene symbols. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It lacks any information about the article's content, such as structure, function, or clinical significance. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference to a journal article, which typically includes information such as the journal name, volume, issue, page numbers, and date. If this information is already present in an infobox, repeating it in the text may not be necessary unless it is particularly notable. However, without context on what is in the infobox, it's difficult to determine if this repetition is justified. The sentence is concise and specific, which is appropriate for a citation, but it could be redundant if the infobox already contains this exact information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1007/s11010-018-3397-6 , doi:10.1007/s11010-018-3397-6.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article at all. Instead, it lists a URL and a DOI, which are identifiers for accessing the article but do not provide any information about its content or scope. Additionally, there is no use of UniProt naming conventions in the sentence. To meet the requirement, the sentence should include a clear statement about the article's focus or subject matter, using appropriate scientific terminology."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI, which are unrelated to the use of UniProt protein names or HUGO gene symbols. There is no mention of any protein name or gene symbol in the sentence, so it cannot be evaluated against the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI, which do not summarize the article or cover any key aspects such as structure, function, or clinical significance. There is no content related to the article's subject matter, making it impossible to evaluate it as a summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information twice, once as a URL and once as a DOI, which may not be necessary unless there is a specific reason to emphasize both formats. This repetition does not align well with the requirement to avoid repeating information unless it is particularly notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(11 citations) 10.1007/s11010-018-3397-6]( https://doi.org/10.1007/s11010-018-3397-6 )\n\n[4.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation or reference to a scientific article, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation reference rather than a summary of an article. It lacks any information about the article's structure, function, or clinical significance, and does not provide a concise summary of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation count and a DOI link, which are likely to be present in an infobox. However, the citation count might be notable information that could require emphasis, depending on the context. The sentence mostly meets the requirement but could be seen as slightly redundant if this information is already highlighted elsewhere."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Akter2017FAM98A) Khondker Ayesha Akter, Mohammed A. Mansour, Toshinori Hyodo, and Takeshi Senga.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation or reference to authors and does not define the scope of an article. It does not follow the recommended UniProt naming conventions or provide any information about the content or focus of the article. To meet the requirement, the sentence should clearly state the topic or scope of the article in accordance with UniProt guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. It appears to be a citation or reference to authors of a study, rather than a sentence involving the use of a UniProt protein name or a HUGO gene symbol. To meet the requirement, the sentence should include a protein name or gene symbol and demonstrate the choice between using a UniProt protein name or a HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It only lists the authors of the article and does not cover any key aspects such as structure, function, or clinical significance. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes author names and publication details. If this information is already present in an infobox, repeating it here may not be necessary unless it is particularly notable. However, without additional context, it's difficult to determine if this repetition is justified. The sentence mostly meets the requirement, but could be improved by ensuring it adds value beyond what is in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Fam98a associates with ddx1-c14orf166-fam98b in a novel complex involved in colorectal cancer progression.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the topic of the article, specifically mentioning a novel complex involving Fam98a, ddx1, c14orf166, and fam98b in colorectal cancer progression. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions, which typically require the use of standardized protein or gene names. The sentence lacks clarity and specificity in terms of the article's overall focus and does not adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses HUGO gene symbols (Fam98a, ddx1, c14orf166, fam98b) instead of the recommended UniProt protein names. If the UniProt names are relatively short, they should be used instead. The sentence partially meets the requirement by using gene symbols, but it does not clarify if the UniProt names were considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the article by mentioning the association of Fam98a with a novel complex and its involvement in colorectal cancer progression, which touches on structure and clinical significance. However, it lacks details on the function of the complex and does not fully cover all key aspects required, such as the specific roles of the components or the mechanism of action. Additionally, it does not provide enough context to understand the broader implications or significance of the findings."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence introduces a specific association between Fam98a and a complex involving ddx1, c14orf166, and fam98b, which is relevant to colorectal cancer progression. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does highlight a novel complex and its involvement in cancer progression, which could be notable enough to warrant emphasis. The score reflects that while there is potential repetition, the information could be significant depending on the context."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The International Journal of Biochemistry &amp; Cell Biology, 84:1\u00e2\u0080\u009313, March 2017.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation for an article from a journal and does not define the scope of the article. It also does not follow any naming conventions, such as those recommended by UniProt. To meet the requirement, the sentence should clearly state the article's focus or scope and adhere to the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence is a citation and does not address the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article's content. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation for a journal article, which is typically necessary for academic references. If this information is already present in an infobox, it might be redundant unless the citation is particularly notable or requires emphasis. However, without context on the infobox content, it's difficult to determine the necessity of repetition. The sentence is concise and relevant, so it largely meets the requirement, but the score reflects potential redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1016/j.biocel.2016.12.013 , doi:10.1016/j.biocel.2016.12.013.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It merely provides a URL and a DOI, which are identifiers for accessing the article, but do not give any information about the content or scope of the article itself."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only provides a URL and a DOI, which are unrelated to the use of UniProt protein names or HUGO gene symbols. There is no mention of any protein name or gene symbol in the sentence, so it cannot be evaluated against the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary or information about the article's content. It lacks any mention of structure, function, or clinical significance, and therefore does not provide a concise summary of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information twice, once as a URL and once as a plain DOI. This repetition does not add notable emphasis or additional value, which does not align well with the requirement to avoid unnecessary repetition. However, the sentence does provide both formats, which might be useful in some contexts, hence a middle score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(35 citations) 10.1016/j.biocel.2016.12.013]( https://doi.org/10.1016/j.biocel.2016.12.013 )\n\n[5.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation reference with a DOI link, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It only includes a citation and a DOI link, without any information about the article's content, structure, function, or clinical significance. To meet the requirement, a concise summary of the article's key aspects is needed."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation with a DOI link, which is typically useful for referencing purposes. However, if this information is already present in an infobox, it may not need to be repeated unless it is particularly notable or requires emphasis. The sentence does not clearly indicate why this citation is notable, so it could be seen as redundant if the infobox already contains this information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Zheng2018FAM98A) Rui Zheng, Quanbo Liu, Tianxu Wang, Lili Wang, and Yong Zhang.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of an article. It lists authors and a reference code, but does not provide any information about the content or scope of the article. Additionally, it does not follow any naming conventions, such as those recommended by UniProt. To meet the requirement, the sentence should clearly state the topic or focus of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not mention any protein names or gene symbols, nor does it attempt to use the UniProt protein name or HUGO gene symbol. It appears to be a citation or reference to a publication, which does not address the requirement of using specific protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article at all. It only lists the authors and does not cover any key aspects such as structure, function, or clinical significance. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, which typically includes authors' names and publication details. If this information is already present in an infobox, repeating it in the main text may not be necessary unless it is particularly notable or requires emphasis. However, without additional context, it's difficult to determine if this repetition is justified. The sentence mostly meets the requirement but could be improved by ensuring it adds value beyond what is in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Fam98a promotes proliferation of non-small cell lung cancer cells via the p38-atf2 signaling pathway.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially meets the requirement by indicating the focus of the article on the role of Fam98a in non-small cell lung cancer cell proliferation via a specific signaling pathway. However, it does not fully adhere to the UniProt naming conventions, which typically require the use of standardized protein names and may include additional context or details to clearly define the scope of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"Fam98a,\" which appears to be a gene symbol. To fully meet the requirement, the sentence should use the recommended UniProt protein name if it is relatively short. If the UniProt name is long or not available, the HUGO gene symbol should be used with disambiguation if necessary. The sentence does not clarify whether \"Fam98a\" is the best choice according to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the article's main finding, indicating that Fam98a promotes the proliferation of non-small cell lung cancer cells through a specific signaling pathway. However, it lacks details on the structure and function of Fam98a, as well as its clinical significance, which are key aspects mentioned in the requirement. To fully meet the requirement, the sentence should include these elements without adding unnecessary detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of Fam98a in promoting the proliferation of non-small cell lung cancer cells through a particular signaling pathway. If this information is already present in the infobox, it may not need to be repeated unless it is particularly notable or requires emphasis. However, the sentence is concise and focused, which suggests it could be notable enough to warrant mention outside the infobox. The score reflects a slight deduction for potential redundancy, but overall, it meets the requirement well."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Cancer Management and Research, Volume 10:2269\u00e2\u0080\u00932278, July 2018.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's focus and adhere to specific naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any protein names or gene symbols, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence appears to be a citation reference rather than a statement involving protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article. It lacks any information about the article's structure, function, or clinical significance. To meet the requirement, a concise summary of the article's key aspects is needed."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific bibliographic information about a publication, which is typically found in an infobox. However, without context, it's unclear if this information is repeated from an infobox or if it requires emphasis. Assuming the infobox contains similar details, the sentence could be seen as redundant, but it may still be notable if the publication details are crucial to the context."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.2147/CMAR.S163323 , doi:10.2147/cmar.s163323.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it contains a URL and a DOI, which are identifiers for accessing the article but do not provide any information about its content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. The requirement is about using specific naming conventions for proteins or genes, while the sentence only contains a URL and a DOI reference. There is no mention of any protein names or gene symbols, so it cannot be evaluated against the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, with no summary of the article's content. It lacks any information about the article's structure, function, or clinical significance, and therefore does not fulfill the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information in two different formats (URL and plain DOI), which may not be necessary unless there is a specific reason to emphasize both. This repetition does not align well with the requirement to avoid repeating information unless notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(13 citations) 10.2147/CMAR.S163323]( https://doi.org/10.2147/CMAR.S163323 )",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it appears to be a citation or reference to a DOI link, which does not meet the requirement of defining the article's scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement of using the recommended UniProt protein name or the HUGO gene symbol. Instead, it appears to be a citation reference, which is unrelated to the requirement of naming proteins or genes. To meet the requirement, the sentence should include a protein or gene name and ensure it follows the specified naming conventions."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation or reference link rather than a summary of an article. It does not cover any key aspects such as structure, function, or clinical significance, nor does it provide any detail, necessary or unnecessary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation reference, which is typically included in an infobox. However, it does not repeat any notable or emphasized information beyond the citation itself. The score reflects that while the sentence does not add new information, it does not unnecessarily repeat content either."
+          ]
+        }
+      ],
+      "color": "red"
+    }
+  ]
+}

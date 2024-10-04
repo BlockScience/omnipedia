@@ -1,0 +1,54 @@
+# CCL20
+
+## Overview
+CCL20, or chemokine (C-C motif) ligand 20, is a gene that encodes the protein C-C motif chemokine ligand 20, a member of the chemokine family. This protein plays a pivotal role in immunological responses by acting as a chemoattractant for immune cells, particularly through its interaction with the CCR6 receptor. The CCL20 protein is characterized by a typical chemokine structure, including a three-stranded Î²-sheet and an overlying Î±-helix, and is involved in various biological processes such as cell migration and inflammatory responses (PÃ©rez-CaÃ±adillas2001NMR). The gene and its protein product are crucial in the immune system's function, influencing the behavior of cells in both normal physiological and pathological conditions.
+
+## Structure
+The molecular structure of the CCL20 protein, as determined by NMR spectroscopy, reveals a typical chemokine framework consisting of a three-stranded Î²-sheet and an overlying Î±-helix. This secondary structure is consistent with other chemokines, featuring a single turn of helix, three Î²-strands, and a C-terminal Î±-helix. The N-terminal region of CCL20 is largely disordered but includes long-distance NOEs indicating proximity to the protein core (PÃ©rez-CaÃ±adillas2001NMR).
+
+The tertiary structure of CCL20 includes an amphipathic Î±-helix with a hydrophobic face oriented towards the Î²-sheet, contributing to the overall stability of the protein through hydrophobic interactions. These interactions involve residues from the Î±-helix, Î²-sheet, and N-loop. Additionally, the structure is stabilized by disulfide bonds and intramolecular hydrogen bonds (PÃ©rez-CaÃ±adillas2001NMR).
+
+CCL20 can exist in a monomer-dimer equilibrium, with potential dimerization involving the association of the first Î²-strand of each monomer. This quaternary structure forms a six-stranded antiparallel sheet in the dimeric state, supported by NMR evidence (PÃ©rez-CaÃ±adillas2001NMR).
+
+Specific structural features such as the DCCL motif and a narrow groove formed by the N-loop and the Î²2-Î²3 hairpin contribute to its highly specific receptor binding properties, crucial for its interaction with the Î²-chemokine receptor CCR6 (PÃ©rez-CaÃ±adillas2001NMR).
+
+## Function
+CCL20, also known as macrophage inflammatory protein-3Î±, is a chemokine that plays a significant role in the immune response by mediating the migration of immune cells to sites of inflammation. It is constitutively expressed in various human tissues, particularly in mucosa-associated and lymphoid tissues, and is involved in the chemoattraction of immature dendritic cells (DCs) and certain B-cell subsets through its interaction with the CCR6 receptor (Schutyser2003The). 
+
+In healthy human cells, CCL20 is expressed at low levels in normal skin, mainly by keratinocytes and venular endothelial cells in the epidermis, and its production can be significantly enhanced by proinflammatory cytokines and T-cell-derived factors (Schutyser2003The). This chemokine is also involved in mucosal homeostasis by attracting subsets of immature DCs, intestine-seeking effector/memory T-cells, and B-lymphocytes to the mucosa under normal conditions, supporting their role in immune surveillance and response (Schutyser2003The).
+
+Furthermore, CCL20 contributes to the immune function of the lungs, particularly in the recruitment and migration of dendritic cells, including CD1a+ DCs, which are precursors to Langerhans cells. The migration of these DCs towards alveolar type II epithelial cells is highly correlated with the amount of CCL20 present, indicating its crucial role in initiating immune responses in the lung by attracting DCs to sites of potential infection or inflammation (Thorley2005Primary).
+
+## Clinical Significance
+CCL20, implicated in various diseases, plays a significant role in the pathogenesis of colorectal cancer (CRC). Studies have shown that the coexpression of CCL20 and CXCL8 in CRC tissues is strongly associated with poor prognosis and increased likelihood of liver metastases, suggesting that these chemokines are significant in the progression of CRC and could serve as prognostic markers for this disease (Cheng2014CCL20). Additionally, CCL20 is involved in inflammatory diseases like inflammatory bowel disease (IBD), including Crohn's Disease and ulcerative colitis. Elevated expression of CCL20 in the inflamed colon of IBD patients compared to normal epithelia has been noted, indicating its role in the inflammatory processes of these conditions (Dutta2017Biphasic).
+
+In the context of autoimmune diseases, CCL20 is also linked to rheumatoid arthritis and psoriasis, where its expression is upregulated, contributing to the chronic inflammatory state observed in these diseases (Schutyser2003The). Furthermore, CCL20 has been associated with multiple sclerosis (MS), where higher serum levels of CCL20 have been observed in MS patients compared to healthy individuals, particularly during relapses, suggesting its involvement in the disease's inflammatory processes (El2019The). These findings underscore the clinical significance of CCL20 in both cancer progression and autoimmune diseases, highlighting its potential as a target for therapeutic intervention.
+
+## Interactions
+CCL20, also known as macrophage inflammatory protein 3 alpha (MIP-3Î±), engages in specific interactions with its receptor CCR6, a G protein-coupled receptor (GPCR). This interaction is crucial for the migration of T helper lymphocyte 17 (TH17) cells to sites of inflammation and involves an extensive protein-protein interface that includes domains at the extracellular surface and a deep pocket within the transmembrane domain at the N terminus, known as the orthosteric site (Ranasinghe2018Modulation). The binding of CCL20 to CCR6 activates heterotrimeric G proteins and the Î²-arrestin-mediated signal transduction pathway, leading to intracellular responses such as directional cell migration (Ranasinghe2018Modulation).
+
+Additionally, CCL20 can form a disulfide-linked dimer, specifically in its S64C variant, which exhibits altered receptor activation properties compared to the wild-type CCL20. This dimeric form binds to CCR6 but with different kinetics and efficacy, influencing the biological responses mediated by this receptor (Getschman2017Protein).
+
+CCL20 also competes with human beta-defensins (HBDs) for binding to CCR6. Despite the structural similarity between CCL20 and HBDs, CCL20 has a higher binding affinity for CCR6, which is significant in mediating immune responses and inflammatory processes (Lee2015The).
+
+
+## References
+
+
+[1. (Schutyser2003The) Evemie Schutyser, Sofie Struyf, and Jo Van Damme. The cc chemokine ccl20 and its receptor ccr6. Cytokine &amp; Growth Factor Reviews, 14(5):409â426, October 2003. URL: http://dx.doi.org/10.1016/s1359-6101(03)00049-2, doi:10.1016/s1359-6101(03)00049-2. (943 citations) 10.1016/s1359-6101(03)00049-2](https://doi.org/10.1016/s1359-6101(03)00049-2)
+
+[2. (Cheng2014CCL20) Xian-Shuo Cheng, Yun-Feng Li, Jing Tan, Bin Sun, You-Chuan Xiao, Xing-Bao Fang, Xiao-Feng Zhang, Qiang Li, Jian-Hua Dong, Ming Li, Hai-hua Qian, Zheng-Feng Yin, and Zhi-Bin Yang. Ccl20 and cxcl8 synergize to promote progression and poor survival outcome in patients with colorectal cancer by collaborative induction of the epithelialâmesenchymal transition. Cancer Letters, 348(1â2):77â87, June 2014. URL: http://dx.doi.org/10.1016/j.canlet.2014.03.008, doi:10.1016/j.canlet.2014.03.008. (91 citations) 10.1016/j.canlet.2014.03.008](https://doi.org/10.1016/j.canlet.2014.03.008)
+
+[3. (Dutta2017Biphasic) Pujarini Dutta, Atri Ta, Bhupesh Kumar Thakur, Nirmalya Dasgupta, and Santasabuj Das. Biphasic ccl20 regulation by toll-like receptor 9 through the activation of erk-ap-1 and non-canonical nf-Îºb signaling pathways. Biochimica et Biophysica Acta (BBA) - General Subjects, 1861(1):3365â3377, January 2017. URL: http://dx.doi.org/10.1016/j.bbagen.2016.08.019, doi:10.1016/j.bbagen.2016.08.019. (6 citations) 10.1016/j.bbagen.2016.08.019](https://doi.org/10.1016/j.bbagen.2016.08.019)
+
+[4. (Getschman2017Protein) A. E. Getschman, Y. Imai, O. Larsen, F. C. Peterson, X. Wu, M. M. Rosenkilde, S. T. Hwang, and B. F. Volkman. Protein engineering of the chemokine ccl20 prevents psoriasiform dermatitis in an il-23âdependent murine model. Proceedings of the National Academy of Sciences, 114(47):12460â12465, November 2017. URL: http://dx.doi.org/10.1073/pnas.1704958114, doi:10.1073/pnas.1704958114. (61 citations) 10.1073/pnas.1704958114](https://doi.org/10.1073/pnas.1704958114)
+
+[5. (Lee2015The) Adrian Y.S. Lee, Thanh K. Phan, Mark D. Hulett, and Heinrich KÃ¶rner. The relationship between ccr6 and its binding partners: does the ccr6âccl20 axis have to be extended? Cytokine, 72(1):97â101, March 2015. URL: http://dx.doi.org/10.1016/j.cyto.2014.11.029, doi:10.1016/j.cyto.2014.11.029. (59 citations) 10.1016/j.cyto.2014.11.029](https://doi.org/10.1016/j.cyto.2014.11.029)
+
+[6. (El2019The) Fathia Z. El Sharkawi, Sahar A. Ali, Mohamed I. Hegazy, and Hanaa B. Atya. The combined effect of il-17f and ccl20 gene polymorphism in susceptibility to multiple sclerosis in egypt. Gene, 685:164â169, February 2019. URL: http://dx.doi.org/10.1016/j.gene.2018.11.006, doi:10.1016/j.gene.2018.11.006. (14 citations) 10.1016/j.gene.2018.11.006](https://doi.org/10.1016/j.gene.2018.11.006)
+
+[7. (Ranasinghe2018Modulation) Ranmali Ranasinghe and Rajaraman Eri. Modulation of the ccr6-ccl20 axis: a potential therapeutic target in inflammation and cancer. Medicina, 54(5):88, November 2018. URL: http://dx.doi.org/10.3390/medicina54050088, doi:10.3390/medicina54050088. (73 citations) 10.3390/medicina54050088](https://doi.org/10.3390/medicina54050088)
+
+[8. (Thorley2005Primary) Andrew J. Thorley, Peter Goldstraw, Alan Young, and Teresa D. Tetley. Primary human alveolar type ii epithelial cell ccl20 (macrophage inflammatory protein-3Î±)âinduced dendritic cell migration. American Journal of Respiratory Cell and Molecular Biology, 32(4):262â267, April 2005. URL: http://dx.doi.org/10.1165/rcmb.2004-0196OC, doi:10.1165/rcmb.2004-0196oc. (105 citations) 10.1165/rcmb.2004-0196OC](https://doi.org/10.1165/rcmb.2004-0196OC)
+
+[9. (PÃ©rez-CaÃ±adillas2001NMR) JosÃ© Manuel PÃ©rez-CaÃ±adillas, Ãngel Zaballos, Julio GutiÃ©rrez, Rosa Varona, Fernando Roncal, Juan Pablo Albar, Gabriel MÃ¡rquez, and Marta Bruix. Nmr solution structure of murine ccl20/mip-3Î±, a chemokine that specifically chemoattracts immature dendritic cells and lymphocytes through its highly specific interaction with the Î²-chemokine receptor ccr6. Journal of Biological Chemistry, 276(30):28372â28379, July 2001. URL: http://dx.doi.org/10.1074/jbc.m103121200, doi:10.1074/jbc.m103121200. (139 citations) 10.1074/jbc.m103121200](https://doi.org/10.1074/jbc.m103121200)

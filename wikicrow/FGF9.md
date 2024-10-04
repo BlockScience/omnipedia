@@ -1,0 +1,68 @@
+# FGF9
+
+## Overview
+FGF9, or fibroblast growth factor 9, is a gene that encodes for the protein fibroblast growth factor 9, a member of the fibroblast growth factor family known for its significant roles in developmental processes and tissue maintenance. The FGF9 protein is characterized by a Î²-trefoil fold and is unique in its ability to form a dimeric structure, which is crucial for its function in various biological processes (Plotnikov2001Crystal). This protein is involved in the development of multiple organ systems, including the lungs, skeletal system, and reproductive organs, and plays a role in regulating cellular differentiation and proliferation through its interaction with specific fibroblast growth factor receptors (FGFRs) (Ornitz2015The; DiNapoli2006FGF9). The gene and its protein product are also implicated in several clinical conditions, such as Multiple Synostoses Syndrome and craniosynostosis, due to mutations that affect its signaling capabilities (RodriguezâZabala2017FGF9; Schmetz2023FGF9-Associated).
+
+## Structure
+FGF9 (fibroblast growth factor 9) is characterized by a Î²-trefoil fold, a common structural motif among the fibroblast growth factor family. This fold consists of three copies of a four-stranded Î²-sheet, forming the core domain of the protein (Plotnikov2001Crystal). Unique to FGF9, both the N-terminal and C-terminal regions outside the Î²-trefoil core are ordered and contribute to the formation of a dimeric structure in the crystal form, which is essential for its biological function (Plotnikov2001Crystal).
+
+The quaternary structure of FGF9 involves dimerization, facilitated by interactions outside the Î²-trefoil core, including hydrophobic contacts and hydrogen bonds. This dimerization can occlude critical receptor binding sites, serving as an autoinhibitory mechanism (Plotnikov2001Crystal). The dimer interface is divided into two main areas: one involving the Î²-trefoil core domain and the other involving the flanking amino-terminal and carboxy-terminal regions (Goetz2013Exploring).
+
+Specific mutations, such as S99N, affect the ordering of the 3-10 helix near the homodimer interface, which can influence the stability and function of the FGF9 dimer (Wang2012Autoinhibitory). Additionally, the N143T mutation within the dimer interface affects the biological activity and phenotypic consequences in mice, highlighting the importance of specific amino acid residues in the protein's function (Goetz2013Exploring).
+
+## Function
+FGF9 (fibroblast growth factor 9) is a protein encoded by the FGF9 gene, playing a pivotal role in various developmental and physiological processes. In the context of lung development, FGF9 is essential for mesenchymal proliferation and epithelial branching, which are critical for proper lung formation. It is expressed in both the mesothelium and epithelium of developing lungs, influencing the development of lung tissues through interactions with canonical WNT signaling and FGFR expression (Ornitz2015The; Joannes2016FGF9).
+
+Beyond the lungs, FGF9 is involved in the development of multiple organ systems. It affects skeletal growth, the reproductive system, and sensory organs, indicating its broad impact on organismal development. For instance, FGF9 is crucial for the survival and function of gonocytes in the fetal testis, playing a significant role in testis differentiation and germ cell survival (DiNapoli2006FGF9).
+
+Additionally, FGF9 has a notable role in muscle cell biology, where it inhibits myogenic differentiation and affects genes related to calcium homeostasis and muscle regeneration. This suggests a regulatory function in maintaining the balance required for skeletal muscle turnover and regeneration (Huang2019Fibroblast).
+
+FGF9 also interacts with various signaling pathways, including the Wnt/Î²-catenin and Hedgehog pathways, which are crucial for its diverse roles in tissue development and cellular differentiation processes (Xie2020FGF/FGFR).
+
+## Clinical Significance
+Mutations in the FGF9 gene are primarily associated with Multiple Synostoses Syndrome type 3 (SYNS3), a genetic disorder characterized by the fusion of bones across multiple joints, leading to restricted movement. This condition is caused by heterozygous missense variants in the FGF9 gene, which disrupt normal joint development and skeletal formation (Tang2017A; Schmetz2023FGF9-Associated). The S99N mutation, in particular, has been identified as a critical factor that impairs FGF9 signaling and joint interzone formation, crucial for normal joint development (Tang2017A). This mutation leads to abnormal chondrogenesis and osteogenesis, significantly affecting the skeletal system's balance and homeostasis (Tang2017A).
+
+Additionally, FGF9 mutations have been linked to craniosynostosis, a condition involving the premature fusion of cranial sutures. This association highlights the broader impact of FGF9 mutations beyond joint development, affecting cranial structure and potentially leading to neurological implications (RodriguezâZabala2017FGF9).
+
+These findings underscore the essential role of FGF9 in skeletal development and its disruption in pathological conditions, emphasizing the need for further research into therapeutic interventions targeting FGF9 pathways to manage and treat these disorders effectively.
+
+## Interactions
+FGF9 (Fibroblast Growth Factor 9) engages in several critical physical interactions with proteins and nucleic acids, which are essential for its biological functions. FGF9 interacts predominantly with the FGFR1c receptor, involving key contacts in the D2 and D3 domains of the receptor. This interaction is characterized by a network of hydrogen bonds and hydrophobic contacts, crucial for the specificity and affinity of FGF9 towards FGFR1c (Liu2017Regulation). Additionally, FGF9 forms a complex with integrin Î±vÎ²3, acting as a ligand and influencing cellular signaling pathways that are vital for processes like cell migration and invasion (Chang2023FGF9).
+
+FGF9 also participates in autoinhibitory homodimerization, which regulates its interaction with FGFRs. This dimerization involves the N and C termini along with the conserved Î²-trefoil core, playing a significant role in modulating the availability of FGF9 for receptor binding (Liu2017Regulation). Moreover, FGF9's interaction with FGFR3 variants is particularly notable in the context of hepatocellular carcinoma, where it supports tumor growth and neoangiogenesis (Paur2020Interaction).
+
+On the molecular level, FGF9's 3' UTR TG repeats interact with proteins, as demonstrated in UV-cross-linking and RNA-electrophoretic mobility shift assays, highlighting its role in post-transcriptional regulation (Gau2011FUBP3). These interactions collectively underscore the multifaceted role of FGF9 in cellular function and disease mechanisms.
+
+
+## References
+
+
+[1. (DiNapoli2006FGF9) Leo DiNapoli, Jordan Batchvarov, and Blanche Capel. Fgf9 promotes survival of germ cells in the fetal testis. Development, 133(8):1519â1527, April 2006. URL: http://dx.doi.org/10.1242/dev.02303, doi:10.1242/dev.02303. (130 citations) 10.1242/dev.02303](https://doi.org/10.1242/dev.02303)
+
+[2. (Wang2012Autoinhibitory) Ying Wang, Xiao-Lin Wu, Dong-Qing Wei, Yi-Xue Li, and Jing-Fang Wang. Autoinhibitory mechanism for the mutation-induced impaired fgf9 signaling. Journal of Chemical Information and Modeling, 52(9):2422â2429, September 2012. URL: http://dx.doi.org/10.1021/ci3003045, doi:10.1021/ci3003045. (9 citations) 10.1021/ci3003045](https://doi.org/10.1021/ci3003045)
+
+[3. (Joannes2016FGF9) Audrey Joannes, StÃ©phanie Brayer, ValÃ©rie Besnard, JoÃ«lle Marchal-SommÃ©, Madeleine Jaillet, Pierre Mordant, HervÃ© Mal, Raphael Borie, Bruno Crestani, and Arnaud A. Mailleux. Fgf9 and fgf18 in idiopathic pulmonary fibrosis promote survival and migration and inhibit myofibroblast differentiation of human lung fibroblasts in vitro. American Journal of Physiology-Lung Cellular and Molecular Physiology, 310(7):L615âL629, April 2016. URL: http://dx.doi.org/10.1152/ajplung.00185.2015, doi:10.1152/ajplung.00185.2015. (103 citations) 10.1152/ajplung.00185.2015](https://doi.org/10.1152/ajplung.00185.2015)
+
+[4. (Tang2017A) Lingyun Tang, Xiaolin Wu, Hongxin Zhang, Shunyuan Lu, Min Wu, Chunling Shen, Xuejiao Chen, Yicheng Wang, Weigang Wang, Yan Shen, Mingmin Gu, Xiaoyi Ding, Xiaolong Jin, Jian Fei, and Zhugang Wang. A point mutation in fgf9 impedes joint interzone formation leading to multiple synostoses syndrome. Human Molecular Genetics, 26(7):1280â1293, February 2017. URL: http://dx.doi.org/10.1093/hmg/ddx029, doi:10.1093/hmg/ddx029. (26 citations) 10.1093/hmg/ddx029](https://doi.org/10.1093/hmg/ddx029)
+
+[5. (Xie2020FGF/FGFR) Yangli Xie, Nan Su, Jing Yang, Qiaoyan Tan, Shuo Huang, Min Jin, Zhenhong Ni, Bin Zhang, Dali Zhang, Fengtao Luo, Hangang Chen, Xianding Sun, Jian Q. Feng, Huabing Qi, and Lin Chen. Fgf/fgfr signaling in health and disease. Signal Transduction and Targeted Therapy, September 2020. URL: http://dx.doi.org/10.1038/s41392-020-00222-7, doi:10.1038/s41392-020-00222-7. (344 citations) 10.1038/s41392-020-00222-7](https://doi.org/10.1038/s41392-020-00222-7)
+
+[6. (RodriguezâZabala2017FGF9) Maria RodriguezâZabala, Miriam AzaâCarmona, Carlos I. RiveraâPedroza, Alberta BelinchÃ³n, Isabel GuerreroâZapata, Jimena BarrazaâGarcÃ­a, Elena Vallespin, Min Lu, Angela del Pozo, Marc J. Glucksman, Fernando SantosâSimarro, and Karen E. Heath. Fgf9 mutation causes craniosynostosis along with multiple synostoses. Human Mutation, 38(11):1471â1476, July 2017. URL: http://dx.doi.org/10.1002/humu.23292, doi:10.1002/humu.23292. (28 citations) 10.1002/humu.23292](https://doi.org/10.1002/humu.23292)
+
+[7. (Huang2019Fibroblast) Jian Huang, Kun Wang, Lora A. Shiflett, Leticia Brotto, Lynda F. Bonewald, Michael J. Wacker, Sarah L. Dallas, and Marco Brotto. Fibroblast growth factor 9 (fgf9) inhibits myogenic differentiation of c2c12 and human muscle cells. Cell Cycle, 18(24):3562â3580, November 2019. URL: http://dx.doi.org/10.1080/15384101.2019.1691796, doi:10.1080/15384101.2019.1691796. (27 citations) 10.1080/15384101.2019.1691796](https://doi.org/10.1080/15384101.2019.1691796)
+
+[8. (Paur2020Interaction) Jakob Paur, Maximilian Valler, Rebecca Sienel, Karin Taxauer, Klaus Holzmann, Brigitte Marian, Andreas Unterberger, Thomas Mohr, Walter Berger, Andja Gvozdenovich, Johannes Schimming, Michael Grusch, and Bettina GraslâKraupp. Interaction of fgf9 with fgfr3âiiib/iiic, a putative driver of growth and aggressive behaviour of hepatocellular carcinoma. Liver International, 40(9):2279â2290, June 2020. URL: http://dx.doi.org/10.1111/liv.14505, doi:10.1111/liv.14505. (11 citations) 10.1111/liv.14505](https://doi.org/10.1111/liv.14505)
+
+[9. (Goetz2013Exploring) Regina Goetz and Moosa Mohammadi. Exploring mechanisms of fgf signalling through the lens of structural biology. Nature Reviews Molecular Cell Biology, 14(3):166â180, February 2013. URL: http://dx.doi.org/10.1038/nrm3528, doi:10.1038/nrm3528. (600 citations) 10.1038/nrm3528](https://doi.org/10.1038/nrm3528)
+
+[10. (Chang2023FGF9) FGF9, a potent mitogen, is a new ligand for integrin Î±vÎ²3, and the FGF9 mutant defective in integrin binding acts as an antagonist (0 citations) 10.1101/2023.12.01.569657](https://doi.org/10.1101/2023.12.01.569657)
+
+[11. (Gau2011FUBP3) Bing-Huang Gau, Tsung-Ming Chen, Yu-Heng J. Shih, and H. Sunny Sun. Fubp3 interacts with fgf9 3â² microsatellite and positively regulates fgf9 translation. Nucleic Acids Research, 39(9):3582â3593, January 2011. URL: http://dx.doi.org/10.1093/nar/gkq1295, doi:10.1093/nar/gkq1295. (32 citations) 10.1093/nar/gkq1295](https://doi.org/10.1093/nar/gkq1295)
+
+[12. (Ornitz2015The) David M. Ornitz and Nobuyuki Itoh. The fibroblast growth factor signaling pathway. WIREs Developmental Biology, 4(3):215â266, March 2015. URL: http://dx.doi.org/10.1002/wdev.176, doi:10.1002/wdev.176. (1441 citations) 10.1002/wdev.176](https://doi.org/10.1002/wdev.176)
+
+[13. (Plotnikov2001Crystal) Alexander N. Plotnikov, Anna V. Eliseenkova, Omar A. Ibrahimi, Zachary Shriver, Ram Sasisekharan, Mark A. Lemmon, and Moosa Mohammadi. Crystal structure of fibroblast growth factor 9 reveals regions implicated in dimerization and autoinhibition. Journal of Biological Chemistry, 276(6):4322â4329, February 2001. URL: http://dx.doi.org/10.1074/jbc.m006502200, doi:10.1074/jbc.m006502200. (103 citations) 10.1074/jbc.m006502200](https://doi.org/10.1074/jbc.m006502200)
+
+[14. (Liu2017Regulation) Yang Liu, Jinghong Ma, Andrew Beenken, Lakshmi Srinivasan, Anna V. Eliseenkova, and Moosa Mohammadi. Regulation of receptor binding specificity of fgf9 by an autoinhibitory homodimerization. Structure, 25(9):1325-1336.e3, September 2017. URL: http://dx.doi.org/10.1016/j.str.2017.06.016, doi:10.1016/j.str.2017.06.016. (30 citations) 10.1016/j.str.2017.06.016](https://doi.org/10.1016/j.str.2017.06.016)
+
+[15. (Schmetz2023FGF9-Associated) Ariane Schmetz, JÃ¶rg Schaper, Simon Thelen, Majeed Rana, Thomas Klenzner, Katharina Schaumann, Jasmin Beygo, Harald Surowy, Hermann-Josef LÃ¼decke, and Dagmar Wieczorek. Fgf9-associated multiple synostoses syndrome type 3 in a multigenerational family. Genes, 14(3):724, March 2023. URL: http://dx.doi.org/10.3390/genes14030724, doi:10.3390/genes14030724. (2 citations) 10.3390/genes14030724](https://doi.org/10.3390/genes14030724)

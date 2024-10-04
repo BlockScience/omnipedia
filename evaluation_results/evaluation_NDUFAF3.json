@@ -1,0 +1,1300 @@
+{
+  "LeadSection": [
+    {
+      "text": "# NDUFAF3 # # Overview\nNDUFAF3 is a gene that encodes the protein NADH:ubiquinone oxidoreductase complex assembly factor 3, which is crucial for the assembly of mitochondrial complex I, a key component of the mitochondrial respiratory chain involved in cellular energy production.",
+      "title": "Introduction",
+      "score": 0.64,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides a clear definition of NDUFAF3, mentioning its role and importance in mitochondrial function, which helps define the scope of the article. However, it does not explicitly follow the recommended UniProt naming conventions, which typically include the full name of the protein and its function in a more structured format. Additionally, the sentence could be more explicit in stating that it is an overview or introduction to the article's content."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"NDUFAF3\" instead of the recommended UniProt protein name. The requirement suggests using the UniProt protein name if it is relatively short, but the sentence does not provide this information. The use of the gene symbol is correct if the UniProt name is too long or not provided, but without knowing the length of the UniProt name, it's unclear if the requirement is fully met."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the gene NDUFAF3, mentioning its role in encoding a protein crucial for mitochondrial complex I assembly, which is part of the respiratory chain involved in energy production. However, it lacks information on the structure and clinical significance of NDUFAF3, which are key aspects required by the prompt. Additionally, the sentence includes unnecessary formatting elements like \"# NDUFAF3 # # Overview\" that do not contribute to the summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise overview of the NDUFAF3 gene and its function, which is likely to be included in an infobox. However, it does not excessively repeat information and focuses on the importance of the gene in mitochondrial function, which could be considered notable. The score reflects that while there is some repetition, it is not excessive and the information is relevant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein, localized in the mitochondrial inner membrane, interacts with other proteins to facilitate the integration and stability of complex I subunits.",
+      "title": "Introduction",
+      "score": 0.4,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about a protein's location and function, but it does not define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically include the protein's name and organism. To better meet the requirement, the sentence should introduce the main topic or focus of the article and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name, either from UniProt or using the HUGO gene symbol. It only refers to \"The protein\" without specifying which protein is being discussed. To meet the requirement, the sentence should include the recommended UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the protein's location and function, specifically its role in the mitochondrial inner membrane and its interaction with other proteins for complex I subunit stability. However, it lacks a summary of the protein's structure and any mention of its clinical significance. Additionally, it does not provide a comprehensive overview of the article's key aspects, making it insufficient as a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the protein's location and function, which may not be redundant if the infobox lacks these details. However, if the infobox already contains this information and it is not particularly notable or emphasized, the sentence could be seen as repetitive. The score reflects a slight deduction for potential redundancy, but overall, the sentence is informative and specific."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Mutations in the NDUFAF3 gene are linked to severe mitochondrial disorders, underscoring its essential role in mitochondrial function and energy metabolism.",
+      "title": "Introduction",
+      "score": 0.5,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides information about the NDUFAF3 gene and its association with mitochondrial disorders, which could suggest a focus on genetic and mitochondrial research. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the article's focus and adhere to specific naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"NDUFAF3\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used to better meet the requirement. However, the sentence does correctly use the gene symbol with no need for disambiguation, which partially satisfies the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.7,
+          "feedback": [
+            "The sentence effectively summarizes the clinical significance of the NDUFAF3 gene by linking its mutations to severe mitochondrial disorders, highlighting its essential role in mitochondrial function and energy metabolism. However, it lacks specific details about the gene's structure and function, which are key aspects mentioned in the requirement. Including a brief mention of these elements would provide a more comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides information about the NDUFAF3 gene and its link to mitochondrial disorders, which may already be present in an infobox. Without knowing the content of the infobox, it's unclear if this information is notable or requires emphasis. If the infobox already contains this information and it is not particularly notable, the sentence may be redundant, thus partially meeting the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein's involvement in the early stages of complex I assembly and its dependency on mitochondrial translation highlight its fundamental biological importance (Saada2009Mutations).",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides some context about the protein's role in complex I assembly and its dependency on mitochondrial translation, which hints at its biological importance. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus or main topic of the article and use specific UniProt naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement because it does not use either the recommended UniProt protein name or the HUGO gene symbol. Instead, it refers to \"The protein\" without specifying which protein is being discussed. To meet the requirement, the sentence should include the specific UniProt protein name or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the protein's role in complex I assembly and its dependency on mitochondrial translation, which touches on its function and biological importance. However, it lacks information on the protein's structure and clinical significance, and it does not provide a comprehensive summary of the article. The sentence is also too specific and does not cover the broader key aspects required for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the protein's role in complex I assembly and its dependency on mitochondrial translation, which could be considered notable. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated or requires emphasis. The sentence seems to highlight the protein's biological importance, which might justify its inclusion even if similar details are in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Structure\nThe molecular structure of the NDUFAF3 protein has been partially elucidated through homology modeling, using a protein with unknown function (PDB code 2FVT) that shares 30% sequence identity with NDUFAF3 over a stretch of 129 amino acids.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not effectively define the scope of the article. It provides specific information about the molecular structure of the NDUFAF3 protein, but it does not clearly outline the overall focus or purpose of the article. Additionally, it does not follow the recommended UniProt naming conventions, as it lacks a clear introduction or context for the article's content. To improve, the sentence should introduce the main topic and objectives of the article while adhering to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"NDUFAF3,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The sentence does not provide the UniProt protein name, so it partially meets the requirement by using the gene symbol but does not fully comply as it does not consider the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the molecular structure of the NDUFAF3 protein, specifically mentioning its partial elucidation through homology modeling. However, it lacks coverage of the protein's function and clinical significance, which are key aspects required by the prompt. Additionally, the sentence includes unnecessary detail about the PDB code and sequence identity, which does not contribute to a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the molecular structure of the NDUFAF3 protein, including the method used (homology modeling) and the reference protein (PDB code 2FVT) with its sequence identity percentage. If this information is already present in the infobox, it might be considered repetitive. However, the details about the modeling process and sequence identity are specific and could be notable, justifying their inclusion in the text. The sentence mostly meets the requirement but could be more concise if the infobox already contains similar details."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This model has provided insights into the potential structural impacts of specific mutations on the protein.",
+      "title": "Introduction",
+      "score": 0.31,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It merely describes a specific insight provided by a model, without addressing the broader context or scope of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve, the sentence should specify the protein or gene being discussed."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions insights into structural impacts of mutations on a protein, which partially addresses the structure aspect. However, it does not cover function or clinical significance, and it lacks a comprehensive summary of the article. It is too specific and does not provide a broad overview, which is necessary for a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not provide enough context to determine if the information is repeated from the infobox. However, it does not appear to emphasize or highlight particularly notable information. Without knowing the content of the infobox, it's difficult to fully assess compliance, but the sentence seems to be informative and concise, which suggests it likely meets the requirement unless the infobox already contains this exact detail."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "For instance, the G77R mutation is located in a conserved region where Gly77 has backbone-torsion angles that are unfavorable for other residue types, suggesting that this mutation disrupts the protein structure by being energetically unfavorable.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it discusses a specific mutation and its effects on protein structure. Additionally, it does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should provide an overview of the article's focus and adhere to UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any protein name or gene symbol, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the score, the sentence should include the appropriate protein name or gene symbol as specified in the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provided focuses on a specific mutation (G77R) and its impact on protein structure, particularly in terms of energetics and torsion angles. However, it does not summarize an article or cover key aspects such as the overall structure, function, and clinical significance of the topic. It lacks a broader context and does not provide a concise summary of an article, which is what the requirement asks for."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the G77R mutation, including its location in a conserved region and its impact on protein structure due to unfavorable backbone-torsion angles. If this information is already present in the infobox, it may be considered repetitive. However, the sentence does emphasize the energetic unfavorability and structural disruption, which could be notable enough to warrant repetition. The score reflects that while there is some potential for repetition, the emphasis on the mutation's impact might justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Another mutation, R122P, is predicted to alter the structure of a loop at the C-terminal side of the protein, which could affect protein interactions or stability (Saada2009Mutations).",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it discusses a specific mutation and its potential effects on protein structure and function. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein and gene names."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention the UniProt protein name or the HUGO gene symbol, which is required by the guideline. It only refers to a mutation and its predicted effects without specifying the protein or gene involved. To meet the requirement, the sentence should include either the recommended UniProt protein name or the HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about a mutation (R122P) and its predicted effect on protein structure, which could influence interactions or stability. However, it does not summarize the article concisely or cover key aspects like structure, function, and clinical significance comprehensively. It lacks context and broader information necessary for a summary, focusing instead on a single detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about a mutation (R122P) and its predicted effects on protein structure and function. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does emphasize the potential impact on protein interactions or stability, which could be notable. The score reflects that while the sentence may repeat information, it also adds context that could be important for understanding the mutation's significance."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, the model reveals a large hydrophobic domain within NDUFAF3, which is typical for facilitating protein-protein interactions.",
+      "title": "Introduction",
+      "score": 0.27,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it provides specific information about a hydrophobic domain within NDUFAF3. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein names and identifiers. To meet the requirement, the sentence should introduce the main topic or focus of the article and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"NDUFAF3,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt name length, it's unclear if the requirement is fully met. If the UniProt name is indeed short, it should have been used instead."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about the structure of NDUFAF3, mentioning a hydrophobic domain and its role in protein-protein interactions. However, it does not summarize the article concisely or cover key aspects such as the overall structure, function, and clinical significance of NDUFAF3. It focuses on a single detail rather than providing a comprehensive overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence may repeat information that could be present in an infobox, such as the presence of a hydrophobic domain in NDUFAF3. Without knowing the content of the infobox, it's unclear if this detail is particularly notable or requires emphasis. If the infobox already contains this information and it is not emphasized for a specific reason, the sentence may not fully meet the requirement to avoid repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The visualization of the protein in a ribbon model, colored by secondary structure elements, provides further insights into the secondary and tertiary structure of NDUFAF3, highlighting the presence of beta strands, alpha helices, turns, and coils (Saada2009Mutations).",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it describes a specific aspect of a protein visualization related to NDUFAF3. To meet the requirement, the sentence should introduce the main topic or focus of the article and adhere to any specific naming conventions outlined by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"NDUFAF3,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the length or availability of the UniProt protein name, it's unclear if the sentence fully meets the requirement. If the UniProt name is short and available, it should be used instead."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence primarily focuses on the visualization of the protein NDUFAF3 and its structural elements, such as beta strands and alpha helices. It does not provide a concise summary of the article, as it lacks information on the function and clinical significance of NDUFAF3. Additionally, it includes specific details about the visualization method, which may be considered unnecessary for a summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides detailed information about the visualization of the protein structure, which may already be present in an infobox. However, it emphasizes the insights gained from the visualization, which could be considered notable. The mention of specific structural elements like beta strands and alpha helices adds value, but if these details are already covered in the infobox, the sentence could be seen as somewhat repetitive. The score reflects a balance between potential redundancy and the added emphasis on structural insights."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Function\nNDUFAF3, also known as C3ORF60, is a mitochondrial protein that plays a pivotal role in the assembly of complex I, a fundamental component of the mitochondrial respiratory chain essential for cellular energy production.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a definition and context for NDUFAF3, indicating its role in mitochondrial function, which partially defines the scope of the article. However, it does not explicitly follow the recommended UniProt naming conventions, which typically include the full protein name, gene name, and organism. Additionally, the sentence does not clearly outline the broader scope or focus of the article beyond the function of NDUFAF3."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"NDUFAF3\" and provides an alternative name \"C3ORF60,\" but it does not specify whether these are the recommended UniProt protein names. Without confirmation that \"NDUFAF3\" or \"C3ORF60\" is the recommended UniProt name, the sentence partially meets the requirement by using the gene symbol. To fully meet the requirement, the sentence should explicitly use the recommended UniProt protein name if it is relatively short."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the function of NDUFAF3, mentioning its role in the assembly of complex I in the mitochondrial respiratory chain. However, it lacks information on the structure and clinical significance of NDUFAF3, which are key aspects required by the prompt. Additionally, the sentence includes unnecessary detail, such as the alternative name C3ORF60, which is not essential for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the function of NDUFAF3, which may already be present in an infobox. However, it emphasizes the protein's pivotal role in the assembly of complex I and its importance in cellular energy production, which could be considered notable. The sentence largely meets the requirement by focusing on the significance of the protein's function, but it could be more concise if the infobox already contains similar details."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This protein is involved in the early stages of complex I assembly, particularly in association with other proteins such as NDUFAF4, NDUFS2, NDUFS3, NDUFS8, and NDUFA5, which are crucial for the proper functioning and structural integrity of complex I (Saada2009Mutations).",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it provides specific information about a protein's role in complex I assembly. To meet the requirement, the sentence should introduce the main topic or focus of the article in a broader context, using appropriate naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses HUGO gene symbols (e.g., NDUFAF4, NDUFS2) instead of the recommended UniProt protein names. While the gene symbols are clear and commonly used, the requirement specifies using UniProt names if they are relatively short. The sentence partially meets the requirement by using recognizable identifiers, but it does not fully comply with the preference for UniProt names."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the protein's involvement in complex I assembly and mentions associated proteins, which touches on structure and function. However, it lacks a comprehensive summary of the article, particularly missing any mention of clinical significance. Additionally, it includes specific details (e.g., protein names) that may not be necessary for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.7,
+          "feedback": [
+            "The sentence provides detailed information about the protein's role in complex I assembly and its association with specific proteins. If this information is already present in the infobox, it may be somewhat redundant. However, the mention of specific proteins and the reference to a study (Saada2009Mutations) could be considered notable, which justifies some repetition. The sentence could be more concise if the details are not particularly notable or emphasized in the context."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "NDUFAF3 and NDUFAF4 are codependent and localize in the mitochondrial inner membrane, participating in at least three previously described assembly intermediates (Saada2009Mutations).",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about NDUFAF3 and NDUFAF4, mentioning their localization and role in mitochondrial assembly intermediates. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein names and accession numbers. The sentence lacks a broader context or introduction to the main focus of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols \"NDUFAF3\" and \"NDUFAF4\" instead of the recommended UniProt protein names. If the UniProt names are relatively short, they should be used instead. The sentence partially meets the requirement by using gene symbols, but it does not check if the UniProt names are short enough to be used."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the localization and interaction of NDUFAF3 and NDUFAF4, mentioning their role in mitochondrial assembly intermediates. However, it lacks a comprehensive summary of the article, as it does not address the structure, detailed function, or clinical significance of these proteins. Additionally, it references a study (Saada2009Mutations) without explaining its relevance, which may be considered unnecessary detail without further context."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the localization and function of NDUFAF3 and NDUFAF4, which may not be redundant unless the infobox already contains this exact detail. If the infobox includes this information, the sentence could be seen as repetitive. However, the mention of \"three previously described assembly intermediates\" adds a level of detail that might not be in the infobox, making it somewhat notable. The score reflects that the sentence mostly meets the requirement but could be improved by ensuring it adds new or emphasized information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The function of NDUFAF3 is closely related to mitochondrial translation, as it is required for the association of mitochondrial DNA-encoded ND subunits into higher-molecular-weight complexes of complex I. Inhibition of mitochondrial translation leads to a disruption in the incorporation of NDUFAF3 into these complexes, highlighting its dependency on this process for proper function (Saada2009Mutations).",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the function of NDUFAF3 in relation to mitochondrial translation and complex I assembly. However, it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name and its corresponding gene name in a standardized format. To better meet the requirement, the sentence should introduce the broader topic of the article and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"NDUFAF3,\" which is the HUGO gene symbol, but it does not provide any disambiguation. It is unclear whether the recommended UniProt protein name is relatively short and should have been used instead. The sentence partially meets the requirement by using the gene symbol, but it lacks clarity on whether this is the best choice according to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the function of NDUFAF3 in relation to mitochondrial translation and its role in complex I assembly. However, it lacks information on the structure and clinical significance of NDUFAF3, which are key aspects mentioned in the requirement. Additionally, the sentence includes a specific study reference (Saada2009Mutations) that may be considered unnecessary detail for a lead summary. To better meet the requirement, the sentence should include a brief mention of the structure and any known clinical implications of NDUFAF3."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the function of NDUFAF3 and its relationship with mitochondrial translation. If this information is already present in the infobox, the sentence may be somewhat redundant. However, the sentence does emphasize the dependency of NDUFAF3 on mitochondrial translation, which could be considered notable. The score reflects that while the sentence may repeat some information, it also adds emphasis on the functional dependency, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Additionally, gene-order-conservation analysis suggests that NDUFAF3's function in complex I assembly may be evolutionarily conserved from its bacterial ancestors, indicating a fundamental role in mitochondrial protein assembly and function (Saada2009Mutations).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it provides a specific piece of information about gene-order-conservation analysis and NDUFAF3's function. To meet the requirement, the sentence should clearly outline the overall focus or purpose of the article and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"NDUFAF3\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used according to the requirement. However, without knowing the length of the UniProt protein name, it's unclear if the sentence fully meets the requirement. The use of the gene symbol without disambiguation is appropriate if the context is clear, but the requirement suggests a preference for the UniProt name if it is short."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the evolutionary conservation and potential fundamental role of NDUFAF3 in mitochondrial protein assembly, which touches on the function aspect. However, it lacks coverage of the structure and clinical significance of NDUFAF3, which are key aspects mentioned in the requirement. Additionally, the sentence includes a citation (Saada2009Mutations) without context, which may be considered unnecessary detail in a lead summary. Overall, the sentence does not comprehensively summarize the article as required."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the evolutionary conservation of NDUFAF3's function, which may not be common knowledge and could be considered notable. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated. The sentence seems to emphasize the evolutionary aspect, which might justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Clinical Significance\nMutations in the NDUFAF3 gene are associated with a fatal neonatal mitochondrial disease characterized by severe mitochondrial complex I deficiency.",
+      "title": "Introduction",
+      "score": 0.53,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence does not clearly define the scope of the article as required. It begins with a section heading (\"# # Clinical Significance\") and then provides specific information about mutations in the NDUFAF3 gene and their association with a disease. To better meet the requirement, the sentence should introduce the broader topic or focus of the article, using UniProt naming conventions, before delving into specific details."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"NDUFAF3\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should be used instead. The sentence partially meets the requirement by using the gene symbol, but it does not clarify if the UniProt name was considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence addresses the clinical significance of mutations in the NDUFAF3 gene by linking them to a specific disease. However, it lacks information on the structure and function of the gene, which are key aspects required for a comprehensive summary. Additionally, the sentence does not provide a complete overview of the article, focusing solely on the clinical significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the clinical significance of mutations in the NDUFAF3 gene, which may be notable enough to warrant emphasis outside of an infobox. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated unnecessarily. If the infobox already contains this exact information, the score might be lower. The sentence does seem to focus on a significant aspect of the gene, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This condition manifests shortly after birth with symptoms including lactic acidemia, increased muscle tone, macrocephaly, severe muscle weakness, hypotonia, and diffuse leukomalacia.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article or follow the recommended UniProt naming conventions. Instead, it describes symptoms of a condition without providing context or a clear definition of the article's focus. To meet the requirement, the sentence should introduce the topic and outline the scope of the article, possibly mentioning specific proteins or genes if relevant to UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any protein names or gene symbols, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the score, the sentence should include a relevant protein or gene name following the specified guidelines."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a list of symptoms associated with a condition but does not summarize an article or cover key aspects like structure, function, and clinical significance. It lacks context and does not fulfill the requirement of being a concise lead that summarizes an article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a detailed list of symptoms associated with the condition, which may already be present in an infobox. However, it does not appear to repeat information unnecessarily and includes specific medical terms that could be notable or require emphasis for clarity. The score reflects that while the sentence is informative, it could potentially be redundant if the infobox already contains this detailed information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These clinical manifestations lead to a rapid deterioration in health, resulting in death before the age of six months (Saada2009Mutations).",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it describes a specific outcome related to clinical manifestations. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve specific terminology and structure related to protein information."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any protein name or gene symbol, so it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol. To improve the sentence, it should include the relevant protein or gene information as specified in the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific clinical outcome related to the article but lacks a comprehensive summary of the article's key aspects such as structure, function, and overall clinical significance. It focuses solely on the clinical manifestation and its consequence, without addressing other important elements that would provide a complete overview of the article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the clinical manifestations leading to death before six months of age, which could be notable or require emphasis. However, if this information is already present in the infobox and not particularly notable, it might be considered repetitive. The score reflects that while the sentence may repeat information, it could still be important for emphasis or context."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The NDUFAF3 gene plays a crucial role in the assembly of mitochondrial complex I, a key component of the mitochondrial respiratory chain essential for ATP production.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a specific function of the NDUFAF3 gene, which is relevant to the scope of an article about this gene. However, it does not clearly define the overall scope of the article, such as whether it will cover the gene's structure, function, associated diseases, or other aspects. Additionally, it does not explicitly follow UniProt naming conventions, which typically include the full name of the protein and its function. To improve, the sentence should more clearly outline the article's scope and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"NDUFAF3\" instead of the recommended UniProt protein name. If the UniProt protein name is relatively short, it should have been used according to the requirement. The sentence does not provide disambiguation for the gene symbol, which may be necessary if there are multiple meanings. Therefore, the sentence partially meets the requirement by using the gene symbol but does not fully comply with the preference for the UniProt protein name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the NDUFAF3 gene's role in mitochondrial complex I assembly, which is part of the mitochondrial respiratory chain crucial for ATP production. However, it lacks information on the gene's structure and clinical significance, which are key aspects mentioned in the requirement. To fully meet the requirement, the sentence should include these additional elements."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides detailed information about the NDUFAF3 gene's role in mitochondrial complex I assembly and its importance in ATP production. If this information is already present in the infobox, the sentence may be somewhat redundant. However, the sentence is concise and emphasizes the gene's crucial role, which could be considered notable. The score reflects that while the sentence is informative, it may not fully meet the requirement to avoid repetition unless the information is particularly notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Mutations in NDUFAF3 disrupt this assembly process, leading to diminished complex I activity and severe metabolic disorders (Saada2009Mutations).",
+      "title": "Introduction",
+      "score": 0.5,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions a specific mutation and its effects, which could be part of the article's scope, but it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using standardized protein or gene names and identifiers. The sentence lacks context and does not provide a broad overview of the article's content."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"NDUFAF3,\" which is the HUGO gene symbol. The requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt protein name, it's unclear if the sentence meets the requirement fully. If the UniProt name is short and not used, the sentence partially meets the requirement by using the gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the article's key findings, mentioning the impact of NDUFAF3 mutations on complex I activity and the resulting metabolic disorders. However, it lacks details on the structure and function of the complex, which are essential aspects of the requirement. Additionally, the citation format is not standard, which may affect clarity."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the impact of mutations in NDUFAF3, which may not be common knowledge and could be considered notable. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated unnecessarily. If the infobox already contains detailed information about NDUFAF3 mutations and their effects, the sentence might be redundant. Otherwise, it adds valuable context."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Experimental evidence further supports the critical role of NDUFAF3 in mitochondrial function.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions the role of NDUFAF3 in mitochondrial function, which could hint at the article's focus on this protein's role. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. A more explicit statement about the article's scope and adherence to naming conventions is needed for a higher score."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"NDUFAF3,\" which is the HUGO gene symbol. The requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the length of the UniProt protein name, it's unclear if the sentence fully meets the requirement. If the UniProt name is short, it should have been used instead."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the critical role of NDUFAF3 in mitochondrial function, which touches on the aspect of function. However, it does not address the structure or clinical significance of NDUFAF3, nor does it provide a comprehensive summary of the article. It lacks detail and context needed to meet the requirement of summarizing key aspects concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence does not repeat specific information from an infobox, so it generally meets the requirement. However, without knowing the content of the infobox, it's difficult to fully assess whether the information is notable or requires emphasis. The sentence is concise and focuses on the role of NDUFAF3, which could be considered important if not already highlighted in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Fibroblasts from patients with specific NDUFAF3 mutations exhibit decreased levels of complex I subunits and impaired complex I activity.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about fibroblasts with NDUFAF3 mutations and their effects on complex I, but it does not clearly define the overall scope of the article. Additionally, it does not explicitly follow the recommended UniProt naming conventions, which typically involve using standardized protein names and identifiers. To better meet the requirement, the sentence should more broadly introduce the main topic or focus of the article and ensure adherence to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"NDUFAF3,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. The UniProt recommended name for NDUFAF3 is \"NADH:ubiquinone oxidoreductase complex assembly factor 3,\" which is quite long. Therefore, using the gene symbol is acceptable, but the sentence does not clarify if the UniProt name was considered. The score reflects the partial fulfillment of the requirement, as the gene symbol is used without disambiguation, which might be necessary if there are multiple meanings."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of a specific finding related to NDUFAF3 mutations and their impact on complex I in fibroblasts. It touches on structure (complex I subunits) and function (impaired complex I activity), but it lacks broader context or clinical significance. To fully meet the requirement, the sentence should include more information on the overall structure, function, and clinical implications of these findings."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence may repeat information that could be present in an infobox, such as details about the effects of NDUFAF3 mutations on fibroblasts. Without knowing the specific content of the infobox, it's difficult to determine if this information is notable or requires emphasis. If the infobox already contains this information, the sentence could be seen as redundant, thus partially meeting the requirement."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Complementation studies with NDUFAF3-GFP in these fibroblasts restored complex I activity, confirming the gene's essential role in maintaining mitochondrial complex I integrity (Saada2009Mutations).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides specific information about a study involving NDUFAF3-GFP and its role in mitochondrial complex I activity, but it lacks a broader context or introduction to the article's overall focus. To meet the requirement, the sentence should clearly outline the main topic or objective of the article and adhere to naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"NDUFAF3-GFP,\" which appears to be a gene symbol rather than the recommended UniProt protein name. The requirement suggests using the UniProt protein name if it is relatively short, otherwise using the HUGO gene symbol with disambiguation if necessary. The sentence does not clarify whether \"NDUFAF3\" is the best choice according to the requirement, as it does not provide disambiguation or check if the UniProt name is short enough to be used."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific finding from the study, indicating that NDUFAF3-GFP complementation restored complex I activity in fibroblasts, highlighting the gene's role in mitochondrial integrity. However, it lacks a comprehensive summary of the article, as it does not address the overall structure, broader function, or clinical significance of the findings. Additionally, it includes a citation that is not fully integrated into the sentence. To better meet the requirement, the sentence should provide a more holistic overview of the study's key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about a complementation study involving NDUFAF3-GFP and its role in restoring complex I activity in fibroblasts. If this information is already present in the infobox, it might be considered repetitive. However, the sentence does emphasize the gene's essential role, which could be notable. The score reflects that while the sentence may repeat information, it also highlights a significant finding that could warrant emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Interactions\nNDUFAF3, encoded by the NDUFAF3 gene, is a mitochondrial complex I assembly protein that interacts with several other proteins crucial for the assembly and function of mitochondrial complex I.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about NDUFAF3, mentioning its role as a mitochondrial complex I assembly protein and its interactions with other proteins. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. The sentence lacks a clear statement of the article's focus or purpose, which is necessary to meet the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"NDUFAF3\" which is the HUGO gene symbol, but it does not provide any disambiguation or context to indicate that it is the gene symbol. It also does not use the recommended UniProt protein name, which might be more appropriate if it is relatively short. The sentence partially meets the requirement by mentioning the gene symbol, but it lacks clarity on whether this is the best choice according to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the function of NDUFAF3 as a mitochondrial complex I assembly protein and mentions its interaction with other proteins. However, it lacks information on the structure and clinical significance of NDUFAF3, which are key aspects required for a comprehensive summary. Additionally, the sentence does not effectively serve as a lead summarizing an entire article, as it focuses narrowly on interactions without broader context."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides information about the NDUFAF3 protein and its role in mitochondrial complex I assembly, which may already be present in an infobox. However, it does emphasize the interaction with other proteins, which could be considered notable. The sentence could be more concise to avoid potential repetition, but it does add some emphasis on the protein's interactions."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "It forms a codependent relationship with NDUFAF4, another complex I assembly protein.",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It merely describes a relationship between two proteins without providing any context or scope for the article. To meet the requirement, the sentence should introduce the main topic or focus of the article and adhere to specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"NDUFAF4,\" which is the HUGO gene symbol. However, the requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the length of the UniProt name for NDUFAF4, it's unclear if the requirement is fully met. The sentence partially meets the requirement by using a recognized symbol, but it doesn't confirm whether the UniProt name was considered."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about a codependent relationship between two proteins, which may relate to the structure or function aspect of the requirement. However, it does not summarize the article concisely or cover key aspects like structure, function, and clinical significance comprehensively. It lacks context and does not provide a broad overview, which is necessary for a lead sentence."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the relationship between two proteins, which may not be detailed in an infobox. If the infobox already contains this information, the sentence could be seen as repetitive. However, the relationship between proteins can be considered notable, justifying its mention in the text. The score reflects that while the sentence might repeat infobox content, it adds value by emphasizing the interaction."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The interaction between NDUFAF3 and NDUFAF4 is essential for the assembly process, as evidenced by the decrease in NDUFAF3 protein levels following RNA interference for NDUFAF4 (Saada2009Mutations).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, which is the primary requirement. Instead, it provides a specific detail about the interaction between NDUFAF3 and NDUFAF4, which is more suitable for the body of the article rather than the introductory sentence. Additionally, it does not clearly follow the recommended UniProt naming conventions, as it lacks clarity on whether the names are gene or protein names and does not provide any context or broader scope for the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols \"NDUFAF3\" and \"NDUFAF4\" instead of the recommended UniProt protein names. If the UniProt names are relatively short, they should be used instead. The sentence partially meets the requirement by using gene symbols, but it does not check if the UniProt names are short and suitable for use."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the interaction between NDUFAF3 and NDUFAF4, focusing on their role in the assembly process. However, it does not summarize the article concisely or cover key aspects such as structure, function, and clinical significance comprehensively. It lacks a broader context and does not address the overall findings or implications of the study, which are necessary for a complete summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interaction between NDUFAF3 and NDUFAF4 and its importance in the assembly process, which may not be common knowledge or explicitly detailed in an infobox. However, if the infobox already contains this specific interaction and its consequences, the sentence could be seen as repetitive. The score reflects that while the information might be notable, it could potentially be redundant depending on the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This interaction also involves the localization of both proteins in the mitochondrial inner membrane, participating in the assembly of complex I substructures including subunits NDUFS2, NDUFS3, NDUFS8, and NDUFA5 (Saada2009Mutations).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it describes a specific interaction involving proteins and their localization in the mitochondrial inner membrane. To meet the requirement, the sentence should provide a broader overview of the article's focus and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses HUGO gene symbols (e.g., NDUFS2, NDUFS3, NDUFS8, NDUFA5) instead of the recommended UniProt protein names. If the UniProt names are relatively short, they should be used according to the requirement. The sentence partially meets the requirement by using gene symbols, but it does not clarify if these are the best choices based on the length of the UniProt names."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific details about the localization and involvement of proteins in the mitochondrial inner membrane and mentions specific subunits and a reference. However, it does not concisely summarize the article's key aspects such as structure, function, and clinical significance. It focuses on a specific interaction without providing a broader overview or context, which is necessary for a lead that summarizes an article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the localization and involvement of proteins in the mitochondrial inner membrane and the assembly of complex I substructures. If this information is already present in the infobox, it may not be necessary to repeat it unless it adds notable context or emphasis. However, the mention of specific subunits and the reference to a study (Saada2009Mutations) could be considered notable, which justifies its inclusion to some extent. The score reflects that while the sentence may repeat information, it does provide additional context that could be valuable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Furthermore, NDUFAF3 is involved in interactions with the core subunits of complex I, predominantly NDUFS2 and NDUFS3, as demonstrated through copurification studies using stable HEK293 Trex Flp-in clones containing TAP-tagged constructs of these proteins (Saada2009Mutations).",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it provides specific information about the interactions of NDUFAF3 with other proteins, which is more detailed than a typical scope-defining sentence. A scope-defining sentence should give a broad overview of the article's content or purpose."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols (NDUFAF3, NDUFS2, NDUFS3) instead of the recommended UniProt protein names. If the UniProt names are relatively short, they should be used according to the requirement. The sentence partially meets the requirement by using gene symbols, but it does not clarify if the UniProt names are longer or if disambiguation is necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific details about the interactions of NDUFAF3 with other proteins in complex I, focusing on experimental methods and specific proteins involved. However, it does not summarize the article concisely or cover key aspects like structure, function, and clinical significance. It includes unnecessary detail about the experimental setup, which is not aligned with the requirement for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the interactions of NDUFAF3 with core subunits of complex I, which may not be present in an infobox. The mention of copurification studies and the use of HEK293 Trex Flp-in clones adds depth and context that could be considered notable. However, if this information is already detailed in the infobox, it might be seen as repetitive unless the study or method is particularly significant. The score reflects that the sentence likely adds value beyond what an infobox typically contains, but without knowing the exact content of the infobox, there's a slight possibility of redundancy."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These interactions are vital for the proper assembly and functionality of mitochondrial complex I, which plays a critical role in cellular energy production.",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It mentions the importance of interactions for mitochondrial complex I and its role in energy production, but it lacks a clear definition of the article's scope and does not adhere to specific naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not use either the recommended UniProt protein name or the HUGO gene symbol for mitochondrial complex I. Instead, it uses a general description. To meet the requirement, the sentence should specify the protein name or gene symbol as per the guidelines."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the importance of interactions for the assembly and functionality of mitochondrial complex I, highlighting its role in cellular energy production. However, it lacks coverage of the structure and clinical significance, which are key aspects mentioned in the requirement. Additionally, it does not provide a comprehensive summary of the article, focusing instead on a specific detail."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of mitochondrial complex I in cellular energy production, which may not be redundant unless the infobox already contains detailed information about this function. If the infobox only briefly mentions mitochondrial complex I, this sentence adds valuable context. However, if the infobox already covers this in detail, the sentence could be seen as repetitive. The score reflects the potential for redundancy depending on the infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The gene-order-conservation analysis also links NDUFAF3 to the Sec membrane-translocation machinery in alpha-proteobacteria, suggesting a role in coupling mitochondrial translation to membrane insertion during assembly (Saada2009Mutations).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it provides specific information about a gene-order-conservation analysis and its implications. To meet the requirement, the sentence should clearly outline the main focus or objective of the article and adhere to any specific naming conventions recommended by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"NDUFAF3,\" which is the HUGO gene symbol. The requirement suggests using the recommended UniProt protein name if it is relatively short. Without knowing the specific UniProt name for NDUFAF3, it's unclear if the sentence meets the requirement. If the UniProt name is short and was not used, the sentence does not fully meet the requirement. If the UniProt name is long or not commonly used, then using the HUGO gene symbol might be appropriate. The score reflects this uncertainty."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about a gene-order-conservation analysis linking NDUFAF3 to a particular function in alpha-proteobacteria. However, it does not summarize the article concisely or cover key aspects such as structure, function, and clinical significance comprehensively. It focuses on a specific finding rather than providing a broad overview of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the gene-order-conservation analysis linking NDUFAF3 to the Sec membrane-translocation machinery in alpha-proteobacteria. If this information is already present in the infobox, it may not be necessary to repeat it unless it is particularly notable or requires emphasis. However, the sentence does not appear to be overly redundant or repetitive, so it largely meets the requirement. The score reflects that while the sentence is informative, it should be checked against the infobox to ensure it is not redundant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # References\n\n\n[1.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow any naming conventions, including those recommended by UniProt. It appears to be an incomplete or incorrectly formatted reference section header, rather than a sentence that introduces or defines the scope of an article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any information related to the use of UniProt protein names or HUGO gene symbols. It appears to be an incomplete or incorrectly formatted reference section, and thus does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a heading or a placeholder for references, and it does not summarize any article or cover key aspects like structure, function, or clinical significance. It lacks any content related to the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 1.0,
+          "feedback": [
+            "The sentence provided does not repeat any information from an infobox, as it is simply a heading for a references section. Therefore, it fully meets the requirement of avoiding repetition of information from the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Saada2009Mutations) Ann Saada, Rutger O. Vogel, Saskia J. Hoefs, Mari\u00c3\u00abl A. van den Brand, Hans J. Wessels, Peter H. Willems, Hanka Venselaar, Avraham Shaag, Flora Barghuti, Orit Reish, Mordechai Shohat, Martijn A. Huynen, Jan A.M. Smeitink, Lambert P. van den Heuvel, and Leo G. Nijtmans.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not define the scope of the article. It does not follow the recommended UniProt naming conventions or provide any context or information about the content or focus of the article. To meet the requirement, the sentence should introduce the topic, purpose, or main findings of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not mention any protein names or gene symbols. It does not address the requirement of using the recommended UniProt protein name or the HUGO gene symbol. Therefore, it cannot be evaluated against the given requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a list of authors and does not summarize the article at all. It does not cover any key aspects such as structure, function, or clinical significance, nor does it provide any summary of the article's content. To meet the requirement, the sentence should include a concise summary of the article's main points."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a list of authors, likely from a citation or reference. If this information is already present in an infobox, repeating it in the main text may not be necessary unless the authorship is particularly notable or requires emphasis. The sentence does not provide context or explanation, which could help determine its necessity. Therefore, it partially meets the requirement by potentially repeating information without clear justification."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Mutations in ndufaf3 (c3orf60), encoding an ndufaf4 (c6orf66)-interacting complex i assembly protein, cause fatal neonatal mitochondrial disease.",
+      "title": "Introduction",
+      "score": 0.64,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence partially defines the scope of the article by indicating that it discusses mutations in specific genes and their link to a fatal neonatal mitochondrial disease. However, it does not fully adhere to the recommended UniProt naming conventions, as it uses gene symbols (ndufaf3, c3orf60, ndufaf4, c6orf66) without providing the full protein names or UniProt identifiers. To better meet the requirement, the sentence should clearly define the scope and use the recommended naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols \"ndufaf3\" and \"ndufaf4\" with their corresponding chromosome locations in parentheses, which provides some disambiguation. However, it does not use the recommended UniProt protein names, which might be relatively short and preferred according to the requirement. The sentence partially meets the requirement by providing gene symbols with some context, but it does not fully adhere to the preference for UniProt names."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.7,
+          "feedback": [
+            "The sentence effectively summarizes the article by mentioning the key aspects: the gene (ndufaf3), its interaction with another protein (ndufaf4), and the clinical significance (causing fatal neonatal mitochondrial disease). However, it could be more concise by omitting the specific gene aliases (c3orf60 and c6orf66), which may be considered unnecessary detail for a lead summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of mutations in ndufaf3 and their impact on neonatal mitochondrial disease. If this information is already present in the infobox, it may be somewhat repetitive. However, the sentence does emphasize the interaction between ndufaf3 and ndufaf4, which could be notable. The score reflects that while there might be some repetition, the details provided could justify its inclusion if they are not fully covered in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The American Journal of Human Genetics, 84(6):718\u00e2\u0080\u0093727, June 2009.",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not define the scope of the article. It also does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the article's focus or subject matter and adhere to any specific naming guidelines set by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not contain any protein names or gene symbols. Therefore, it cannot be evaluated against the requirement, which pertains to the use of UniProt protein names or HUGO gene symbols. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and does not summarize the article's content. It lacks any information about the article's structure, function, or clinical significance, and therefore does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation for a journal article, which is typically concise and does not repeat information unnecessarily. However, without context on what is in the infobox, it's difficult to fully assess if any information is repeated. Assuming the infobox contains similar citation details, the sentence might slightly repeat information, but it is generally acceptable in academic contexts to provide full citations."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1016/j.ajhg.2009.04.020 , doi:10.1016/j.ajhg.2009.04.020.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, which do not define the scope of the article or follow any naming conventions, let alone the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly state the topic or focus of the article in accordance with UniProt naming guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI reference, with no mention of a UniProt protein name or a HUGO gene symbol. To meet the requirement, the sentence should include either a recommended UniProt protein name or a HUGO gene symbol, depending on the length and context."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, without any summary or information about the article's content. There is no mention of structure, function, or clinical significance, nor any attempt to summarize the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information, which is likely already present in the infobox. This repetition does not seem particularly notable or necessary for emphasis, thus partially failing to meet the requirement of avoiding redundant information. However, if the context outside this sentence requires emphasis on the DOI, the repetition might be justified."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(199 citations) 10.1016/j.ajhg.2009.04.020]( https://doi.org/10.1016/j.ajhg.2009.04.020 )",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation reference rather than a descriptive sentence about the article's content or scope. To meet the requirement, the sentence should clearly outline the article's focus and adhere to any specific naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. It contains a citation and a DOI link, but it does not mention any protein names or gene symbols, nor does it use the UniProt protein name or HUGO gene symbol. The requirement is not applicable to the content of the sentence."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not summarize the article at all. It only includes a citation count and a DOI link, without any information about the article's content, structure, function, or clinical significance. To meet the requirement, the sentence should provide a concise summary of the article's key aspects."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation count and a DOI link, which are common elements that might already be present in an infobox. However, the citation count could be considered notable information that might warrant emphasis, depending on the context. The sentence does not excessively repeat information, but it could be more concise if the infobox already contains this data."
+          ]
+        }
+      ],
+      "color": "red"
+    }
+  ]
+}

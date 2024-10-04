@@ -1,0 +1,940 @@
+{
+  "LeadSection": [
+    {
+      "text": "# CCDC74A # # Overview\nCCDC74A is a gene that encodes the protein coiled-coil domain containing 74A, which plays a critical role in cell division, particularly during mitosis.",
+      "title": "Introduction",
+      "score": 0.59,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a brief overview of the gene CCDC74A and its role, which partially defines the scope of the article. However, it does not fully adhere to the recommended UniProt naming conventions, which typically include the full name of the protein and its function in a more structured format. Additionally, the sentence starts with hashtags, which are not part of the naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbol \"CCDC74A\" but does not provide any disambiguation, which may be necessary if there are multiple proteins with similar names. Additionally, it does not mention whether the UniProt protein name was considered or if it is relatively short. The requirement suggests using the UniProt name if it is short, so the sentence partially meets the requirement by using the gene symbol but lacks clarity on the choice of name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a brief overview of the CCDC74A gene and its role in cell division, which partially addresses the requirement. However, it lacks information on the gene's structure and clinical significance, which are key aspects mentioned in the requirement. Additionally, the sentence includes unnecessary detail by repeating the gene name in a hashtag format. To fully meet the requirement, the lead should concisely cover the gene's structure, function, and clinical significance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a concise overview of the CCDC74A gene and its function, which is likely to be included in an infobox. However, it does not excessively repeat information and focuses on the notable aspect of the gene's role in cell division, particularly mitosis. The sentence could be improved by ensuring that only the most critical or unique information is highlighted if it is already present in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The protein is primarily involved in the organization and stabilization of kinetochore fibers, essential components for the proper alignment and segregation of chromosomes.",
+      "title": "Introduction",
+      "score": 0.4,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific function of a protein related to kinetochore fibers, but it does not define the overall scope of an article. It lacks a broader context or introduction to the topic that would set the stage for the article's content. Additionally, it does not follow any specific naming conventions, such as those recommended by UniProt, which typically include the protein name and organism. To better meet the requirement, the sentence should introduce the protein by name, mention the organism if relevant, and outline the broader topic or focus of the article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, either from UniProt or HUGO. To meet the requirement, the sentence should include the recommended UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the protein's function, specifically its role in organizing and stabilizing kinetochore fibers, which are crucial for chromosome alignment and segregation. However, it lacks information on the protein's structure and clinical significance, which are key aspects mentioned in the requirement. Additionally, the sentence does not summarize an article but rather focuses on a specific function, missing the broader context needed for a lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the protein's role in organizing and stabilizing kinetochore fibers, which may not be redundant if the infobox contains only basic details. However, if the infobox already includes this information, the sentence could be seen as repetitive unless the role is particularly notable or requires emphasis. The score reflects a slight deduction for potential redundancy, but acknowledges that the detail might be necessary for emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "CCDC74A, along with its paralog CCDC74B, interacts directly with microtubules, facilitating the bundling of these structures, which is crucial for the formation of bipolar spindles and chromosome alignment.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the function of CCDC74A and CCDC74B, specifically their interaction with microtubules and their role in spindle formation and chromosome alignment. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus or main topic of the article and ensure that protein names are formatted according to UniProt standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols \"CCDC74A\" and \"CCDC74B\" instead of the recommended UniProt protein names. If the UniProt names are relatively short, they should be used according to the requirement. The sentence partially meets the requirement by using gene symbols, but it does not clarify if the UniProt names were considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides a concise summary of the interaction between CCDC74A, CCDC74B, and microtubules, highlighting their role in spindle formation and chromosome alignment. However, it lacks information on the structure and clinical significance of these proteins, which are key aspects mentioned in the requirement. Additionally, it includes some specific details that may not be necessary for a high-level summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence provides detailed information about the interaction of CCDC74A and CCDC74B with microtubules, which may already be present in an infobox. If this information is not particularly notable or does not require emphasis, it could be considered repetitive. However, without knowing the content of the infobox, it's difficult to fully assess the necessity of this repetition. The score reflects this uncertainty."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The proteins encoded by these genes are localized to the mitotic spindles and are integral to maintaining spindle integrity and promoting efficient mitotic progression (Zhou2019CCDC74A/B).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides specific information about the proteins encoded by certain genes and their role in mitotic spindles, but it lacks a broader context or introduction to the article's overall focus. Additionally, it does not adhere to any specific naming conventions that might be expected in a UniProt context."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols \"CCDC74A/B\" but does not provide any disambiguation or context for these symbols. It does not use the recommended UniProt protein names, which might be more appropriate if they are relatively short. The sentence partially meets the requirement by mentioning gene symbols, but it lacks clarity and completeness in terms of using the recommended naming conventions."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the function of proteins encoded by certain genes, specifically their role in mitotic spindles and mitotic progression. However, it lacks details on the structure of these proteins and does not address their clinical significance. Additionally, it does not summarize the article as a whole, focusing instead on a specific aspect. To better meet the requirement, the sentence should include a broader overview that covers structure, function, and clinical significance concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the localization and function of proteins encoded by certain genes, which may not be detailed in an infobox. However, without knowing the content of the infobox, it's difficult to fully assess redundancy. The sentence seems to offer notable details that could justify its inclusion, but if the infobox already contains this information, it might be somewhat repetitive."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Function\nCCDC74A, along with its paralog CCDC74B, encodes proteins that are integral to the structure and function of the mitotic spindle during cell division.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the function of CCDC74A and its paralog CCDC74B, which is relevant to the scope of an article about these proteins. However, it does not clearly define the overall scope of the article, nor does it follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and adhere to naming conventions, such as including the full protein names and any relevant identifiers."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols \"CCDC74A\" and \"CCDC74B\" to refer to the proteins. However, it does not specify whether these are the recommended UniProt protein names or if the HUGO gene symbols are being used due to the length of the UniProt names. To fully meet the requirement, the sentence should clarify if the UniProt names are short and being used, or if the gene symbols are used with necessary disambiguation."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief overview of the function of CCDC74A and its paralog CCDC74B, specifically mentioning their role in the structure and function of the mitotic spindle during cell division. However, it lacks information on the structure and clinical significance of these proteins, which are key aspects mentioned in the requirement. Additionally, the sentence includes unnecessary detail, such as the mention of the paralog, which is not essential for a concise summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the function of CCDC74A and its paralog CCDC74B, which may not be redundant if the infobox does not already contain this detailed information. However, if the infobox already includes this exact detail, the sentence could be considered repetitive. The score reflects the potential for redundancy, but also acknowledges that the information might be notable if not already covered."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These proteins are specifically involved in the organization and stabilization of kinetochore fibers (K-fibers), which are essential for the proper alignment and segregation of chromosomes during mitosis.",
+      "title": "Introduction",
+      "score": 0.4,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the role of certain proteins in mitosis, specifically in relation to kinetochore fibers. However, it does not clearly define the scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should explicitly state the focus of the article and use precise UniProt terminology."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein names, either using the UniProt protein name or the HUGO gene symbol. It only refers to \"these proteins\" in a general sense without specifying which proteins are involved. To meet the requirement, the sentence should include specific protein names using the recommended UniProt name or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the function of certain proteins in the context of mitosis, focusing on their role in organizing and stabilizing kinetochore fibers. However, it does not summarize an article or cover key aspects like structure and clinical significance. It lacks the broader context and conciseness expected in a lead that summarizes an article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of proteins in the organization and stabilization of kinetochore fibers, which is a detailed aspect of their function. If this information is not already present in the infobox, it is notable and relevant to include. However, if the infobox already contains this specific detail, the sentence could be seen as repetitive. The score reflects the assumption that this level of detail is not typically found in an infobox, thus justifying its inclusion in the main text."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "CCDC74A and CCDC74B bind directly to microtubules through distinct domains and are capable of bundling these microtubules both in vivo and in vitro.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the proteins CCDC74A and CCDC74B, mentioning their ability to bind and bundle microtubules. However, it does not clearly define the overall scope of the article or follow the recommended UniProt naming conventions. To better meet the requirement, the sentence should introduce the broader context or focus of the article and ensure that protein names adhere to UniProt standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols \"CCDC74A\" and \"CCDC74B\" instead of the recommended UniProt protein names. If the UniProt names are relatively short, they should be used according to the requirement. The sentence partially meets the requirement by using gene symbols, but it does not clarify if the UniProt names were considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides information about the function of CCDC74A and CCDC74B, specifically their ability to bind and bundle microtubules. However, it lacks details on the structure of these proteins and any clinical significance they may have. Additionally, it does not summarize the article as a whole, focusing instead on a specific aspect of the proteins' function. To better meet the requirement, the sentence should include a broader overview that encompasses structure, function, and clinical relevance."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the binding and bundling capabilities of CCDC74A and CCDC74B with microtubules, which may not be common knowledge or present in an infobox. However, without knowing the content of the infobox, it's difficult to fully assess the necessity of this repetition. The sentence seems to emphasize the distinct domains and the capability in both in vivo and in vitro contexts, which could be notable. The score reflects a slight deduction due to the potential for overlap with infobox content, but overall, it appears to add value."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This bundling activity is vital for the formation of bipolar spindles and the alignment of chromosomes (Zhou2019CCDC74A/B).",
+      "title": "Introduction",
+      "score": 0.41,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It mentions a specific activity related to bipolar spindles and chromosomes, but it lacks context about the overall focus or scope of the article. Additionally, it references a study (Zhou2019CCDC74A/B) without providing a clear definition or context for the terms used."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"CCDC74A/B,\" which appears to be a gene symbol rather than a UniProt protein name. The requirement specifies using the recommended UniProt protein name if it is relatively short, or the HUGO gene symbol with disambiguation if necessary. The sentence does not clarify whether \"CCDC74A/B\" is the gene symbol or the protein name, nor does it provide disambiguation. To fully meet the requirement, the sentence should either use the UniProt protein name or provide disambiguation for the gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about the role of bundling activity in spindle formation and chromosome alignment, but it does not summarize the article concisely or cover key aspects like structure, function, and clinical significance. It lacks context and broader information needed for a comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of bundling activity in the formation of bipolar spindles and chromosome alignment, which may not be redundant unless this information is already detailed in the infobox. Without knowing the content of the infobox, it's difficult to determine if the sentence repeats information unnecessarily. However, the sentence does not appear to emphasize or highlight any particularly notable aspect, which could be a reason for a slight deduction in score."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The proteins are localized at the spindles and central spindles in mitotic cells, playing a crucial role in mitotic spindle integrity and chromosomal alignment.",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides specific information about the role of proteins in mitotic cells, but it does not define the overall scope of an article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using specific protein names or identifiers. To better meet the requirement, the sentence should introduce the main topic or focus of the article and adhere to naming conventions by specifying the proteins involved."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein names or gene symbols, which is necessary to evaluate whether the recommended UniProt protein name or HUGO gene symbol is used. To meet the requirement, the sentence should include a specific protein name or gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the localization and function of proteins in mitotic cells, specifically their role in spindle integrity and chromosomal alignment. However, it lacks coverage of the structure and clinical significance of these proteins, which are key aspects mentioned in the requirement. Additionally, it does not summarize an article but rather presents a specific detail, failing to provide a concise overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the localization and function of proteins in mitotic cells, which could be considered notable. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repetitive. If the infobox already contains detailed information about protein localization and function, the sentence might be somewhat redundant. Nonetheless, the sentence does emphasize the importance of these proteins, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Functional studies have shown that depletion of these proteins leads to increased mitotic index, prolonged prometaphase, and reduced cell viability.",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides specific findings from functional studies but lacks context or a broader introduction to the topic. To meet the requirement, the sentence should introduce the main focus of the article and adhere to naming conventions if specific proteins are mentioned."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not specify any protein names, either using the recommended UniProt protein name or the HUGO gene symbol. Without specific protein names, it is impossible to evaluate whether the requirement is met. To improve the score, the sentence should include the names of the proteins being referred to, using the recommended UniProt name if it is short, or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the function of certain proteins, specifically their role in cell division and viability. However, it lacks details on the structure of these proteins and their clinical significance, which are key aspects mentioned in the requirement. Additionally, the sentence is not a summary of an article but rather a specific finding, and it does not provide a comprehensive overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the effects of protein depletion, which may not be present in an infobox. If the infobox already contains this information, the sentence could be seen as repetitive. However, the details about increased mitotic index, prolonged prometaphase, and reduced cell viability are specific and could be considered notable, justifying their inclusion in the main text. The score reflects that while there is potential for repetition, the information might be significant enough to warrant emphasis."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Specifically, knockdown of CCDC74A/B results in shorter and misoriented spindles, increased percentages of cells in G2/M phase, and defects in mitotic progression (Zhou2019CCDC74A/B).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides specific findings related to CCDC74A/B but lacks a broader context or introduction to the article's overall focus. To meet the requirement, the sentence should introduce the main topic or research question of the article and adhere to UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"CCDC74A/B,\" which appears to be a gene symbol rather than a UniProt protein name. The requirement specifies using the recommended UniProt protein name if it is relatively short, or the HUGO gene symbol with disambiguation if necessary. The sentence does not clarify whether \"CCDC74A/B\" is the gene symbol or the protein name, nor does it provide disambiguation. To fully meet the requirement, the sentence should specify whether \"CCDC74A/B\" is the gene symbol or use the UniProt protein name if it is short."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific findings related to the knockdown of CCDC74A/B, such as effects on spindle orientation, cell cycle phase, and mitotic progression. However, it does not summarize the article concisely or cover key aspects like the overall structure, function, and clinical significance of CCDC74A/B. The sentence is too focused on specific experimental results and lacks broader context or implications, which are necessary for a comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the effects of CCDC74A/B knockdown, which may not be present in an infobox. However, without knowing the content of the infobox, it's difficult to fully assess whether the information is repeated. The sentence seems to offer detailed and potentially notable information, which could justify its inclusion even if some elements are in the infobox."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Moreover, CCDC74A/B proteins bind to microtubules at two separate regions rich in positively charged amino acids, facilitating their interaction with the negatively charged C-terminal tail of tubulin dimers.",
+      "title": "Introduction",
+      "score": 0.39,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it provides specific information about the interaction between CCDC74A/B proteins and microtubules. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein and gene names."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"CCDC74A/B proteins,\" which appears to be based on the HUGO gene symbol. However, it does not specify whether this is the recommended UniProt protein name or if disambiguation is necessary. To fully meet the requirement, the sentence should clarify if \"CCDC74A/B\" is the recommended UniProt name or provide disambiguation if using the HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific details about the interaction between CCDC74A/B proteins and microtubules, focusing on the structural aspect of their binding. However, it does not summarize the article concisely or cover key aspects such as the overall structure, function, and clinical significance of the proteins. The sentence is too detailed and lacks a broader context, which is necessary for a comprehensive summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the binding mechanism of CCDC74A/B proteins to microtubules, which may not be common knowledge or present in a typical infobox. It emphasizes the interaction between positively charged amino acids and the negatively charged C-terminal tail of tubulin dimers, which could be considered notable information. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated. The sentence is likely to meet the requirement unless the infobox already contains this specific detail."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This interaction is essential for their function in bundling microtubules, particularly the kinetochore fibers (K-fibers), which are critical for proper chromosome alignment and stability of the spindle structure (Zhou2019CCDC74A/B).",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It provides specific information about the function of certain proteins in microtubule bundling but lacks a broader context or introduction to the article's overall focus. To meet the requirement, the sentence should introduce the main topic or purpose of the article and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein name or gene symbol, so it is not possible to evaluate whether the recommended UniProt protein name or the HUGO gene symbol was used. The sentence references a study (Zhou2019CCDC74A/B), but it does not clarify whether \"CCDC74A/B\" is a protein or gene symbol, nor does it provide any disambiguation. To meet the requirement, the sentence should explicitly use the recommended UniProt protein name if it is short, or the HUGO gene symbol with disambiguation if necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the function of a particular interaction in bundling microtubules and its importance for chromosome alignment and spindle stability. However, it does not summarize the article concisely or cover key aspects like structure, function, and clinical significance comprehensively. It lacks a broader context and does not address the overall findings or implications of the study, which are necessary for a complete summary."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the function of the interaction in bundling microtubules and its importance for chromosome alignment and spindle stability. If this information is already present in the infobox, it may be somewhat repetitive. However, the sentence does emphasize the critical nature of these functions, which could justify its inclusion. The score reflects that while there might be some repetition, the emphasis on the importance of these functions could be considered notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # Interactions\nCCDC74A, along with its closely related counterpart CCDC74B, participates in crucial protein-protein interactions that are essential for the proper organization and function of the mitotic spindle during cell division.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some context about the role of CCDC74A and CCDC74B in protein-protein interactions related to the mitotic spindle, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically include the full name of the protein and its function. The sentence could be improved by explicitly stating the focus of the article and adhering to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols \"CCDC74A\" and \"CCDC74B\" instead of the recommended UniProt protein names. If the UniProt names are relatively short, they should be used instead. The sentence partially meets the requirement by using gene symbols, but it does not specify whether the UniProt names were considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides some information about the function of CCDC74A and CCDC74B, specifically their role in protein-protein interactions related to the mitotic spindle during cell division. However, it lacks details on the structure and clinical significance of these proteins, which are key aspects mentioned in the requirement. Additionally, the sentence does not serve as a lead summarizing an article, as it focuses narrowly on one aspect without providing a broader overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of CCDC74A and CCDC74B in protein-protein interactions related to the mitotic spindle, which may not be common knowledge or detailed in an infobox. However, without knowing the content of the infobox, it's difficult to fully assess redundancy. The sentence seems to emphasize the importance of these interactions, which could justify its inclusion."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These proteins directly bind to and bundle microtubules, a process that is vital for the formation and maintenance of kinetochore fibers (K-fibers) and the overall stability of the spindle apparatus.",
+      "title": "Introduction",
+      "score": 0.37,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides some context about the role of certain proteins in cellular processes, but it does not clearly define the scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve specific protein names or identifiers. To better meet the requirement, the sentence should explicitly state the focus of the article and incorporate appropriate UniProt naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not mention any specific protein names, either by their UniProt recommended name or HUGO gene symbol. It only refers to \"these proteins\" in a general sense, without specifying which proteins are being discussed. Therefore, it does not meet the requirement of using the recommended UniProt protein name or the HUGO gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about proteins binding to microtubules and their role in spindle apparatus stability, which touches on structure and function. However, it lacks a comprehensive summary of the article, as it does not address clinical significance or provide a broader overview. It is too focused on a single aspect without covering other key points that would be expected in a lead summarizing an article."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the role of proteins in binding and bundling microtubules, which is crucial for kinetochore fibers and spindle apparatus stability. If this information is already present in the infobox, it may be somewhat repetitive. However, the sentence emphasizes the importance of these processes, which could justify its inclusion if the emphasis is necessary. The score reflects that while there might be some repetition, the detail and emphasis could be notable enough to warrant it."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The bundling activity of CCDC74A/B is mediated through two distinct microtubule-binding regions within each protein, which interact with the negatively charged C-terminal tail of tubulin dimers (Zhou2019CCDC74A/B).",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides specific information about the function of CCDC74A/B proteins, particularly their interaction with microtubules, but it does not clearly define the overall scope of the article. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name and species identifier. To better meet the requirement, the sentence should introduce the broader topic or research focus of the article and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"CCDC74A/B,\" which appears to be the HUGO gene symbol. However, it does not provide any disambiguation or context to clarify if this is the intended use according to the requirement. Additionally, it does not use the recommended UniProt protein name, which might be more appropriate if it is relatively short. The sentence partially meets the requirement by using a gene symbol, but it lacks clarity and adherence to the full guideline."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the bundling activity of CCDC74A/B and its interaction with tubulin dimers, which relates to the structure and function of the proteins. However, it does not summarize the article concisely or cover key aspects like the overall structure, broader function, or clinical significance of CCDC74A/B. The sentence is too focused on a specific interaction and lacks a broader context or summary of the article's main points."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific details about the bundling activity of CCDC74A/B, including the interaction with microtubule-binding regions and the C-terminal tail of tubulin dimers. If this information is already present in the infobox, it may be considered repetitive unless it is particularly notable or requires emphasis. However, the sentence does not appear to be overly redundant without additional context, so it scores relatively well. To fully assess compliance, the content of the infobox would need to be reviewed."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Moreover, CCDC74A/B proteins are capable of self-association, forming homodimers or potentially larger oligomers.",
+      "title": "Introduction",
+      "score": 0.36,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it provides specific information about the self-association capabilities of CCDC74A/B proteins. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve standardized protein or gene names. To meet the requirement, the sentence should introduce the main topic or focus of the article and adhere to naming conventions."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"CCDC74A/B\" which appears to be a gene symbol rather than a UniProt protein name. The requirement suggests using the UniProt protein name if it is relatively short, or the HUGO gene symbol with disambiguation if necessary. Since \"CCDC74A/B\" is a gene symbol, it should be disambiguated to specify whether it refers to CCDC74A or CCDC74B, or the UniProt protein names should be used if they are available and short."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence mentions the self-association capability of CCDC74A/B proteins, which relates to their structure. However, it does not provide a summary of the article, nor does it cover key aspects such as function and clinical significance. The sentence lacks the comprehensive overview required for a lead and focuses on a specific detail instead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the self-association capabilities of CCDC74A/B proteins, which may not be common knowledge and could be considered notable. However, without knowing the content of the infobox, it's difficult to fully assess whether this information is repeated unnecessarily. If the infobox already contains this detail and it is not particularly notable, the sentence could be seen as redundant. The score reflects a slight deduction for potential redundancy, but acknowledges the possibility of the information being notable."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "This self-association is critical for their function in microtubule bundling and stabilization (Zhou2019CCDC74A/B).",
+      "title": "Introduction",
+      "score": 0.27,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not define the scope of the article. Instead, it discusses the function of a specific self-association in microtubule bundling and stabilization. Additionally, it does not follow the recommended UniProt naming conventions. To meet the requirement, the sentence should clearly outline the main focus or topic of the article and adhere to the naming conventions specified by UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"CCDC74A/B,\" which appears to be a gene symbol rather than a UniProt protein name. The requirement suggests using the recommended UniProt protein name if it is relatively short. Since the sentence does not provide the UniProt protein name, it partially meets the requirement by using the gene symbol, but it does not fully comply with the preference for the UniProt name."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.2,
+          "feedback": [
+            "The sentence provides a specific detail about the function of a protein in microtubule bundling and stabilization, referencing a study (Zhou2019CCDC74A/B). However, it does not summarize the article concisely or cover key aspects like structure and clinical significance. It lacks the broader context needed for a lead and focuses on a single aspect without providing an overview."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "Without access to the infobox, it's difficult to determine if the information in the sentence is repeated. If the infobox already contains details about the self-association's role in microtubule bundling and stabilization, the sentence may not meet the requirement well. However, if this information is particularly notable or requires emphasis, the sentence could be justified. The score reflects this uncertainty."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "The interaction between CCDC74A/B proteins and other spindle-associated proteins, such as NuMA and HURP, has also been suggested, although the specific mechanisms and outcomes of these interactions require further investigation (Zhou2019CCDC74A/B).",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. Instead, it mentions a specific interaction between proteins, which might be part of the article's content but does not establish the overall scope. Additionally, the sentence lacks clarity on the naming conventions used for proteins, as it does not adhere to any specific UniProt guidelines."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses gene symbols (CCDC74A/B) instead of the recommended UniProt protein names. While the gene symbols are relatively short, the requirement specifies using UniProt names when they are short. The sentence partially meets the requirement by using gene symbols, but it does not fully comply with the preference for UniProt names. Additionally, the sentence does not provide disambiguation for the gene symbols, which could be necessary for clarity."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific detail about the interaction of CCDC74A/B proteins with other spindle-associated proteins, but it does not summarize the article concisely or cover key aspects like structure, function, and clinical significance. It lacks a broader overview and focuses on a single point, which does not fulfill the requirement of summarizing the article comprehensively."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides specific information about the interaction between CCDC74A/B proteins and other spindle-associated proteins, which may not be present in the infobox. It avoids unnecessary repetition and focuses on the need for further investigation, which could be considered notable. However, without knowing the exact content of the infobox, it's difficult to fully assess the necessity of this information. The sentence generally meets the requirement by not obviously repeating infobox content."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "These interactions highlight the role of CCDC74A/B in the dynamic and complex environment of the mitotic spindle, underscoring their importance in maintaining cellular division integrity.",
+      "title": "Introduction",
+      "score": 0.44,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.2,
+          "feedback": [
+            "The sentence does not define the scope of the article, nor does it follow the recommended UniProt naming conventions. It mentions the role of CCDC74A/B in the mitotic spindle and cellular division, which could be part of the article's scope, but it lacks a clear definition or context that would set the scope for the entire article. Additionally, it does not adhere to any specific naming conventions that might be expected in a scientific article, such as those from UniProt."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses \"CCDC74A/B,\" which appears to be a gene symbol rather than a UniProt protein name. The requirement suggests using the UniProt protein name if it is relatively short, otherwise using the HUGO gene symbol with disambiguation if necessary. Since the sentence does not specify whether \"CCDC74A/B\" is the recommended UniProt protein name or provide disambiguation for the gene symbol, it partially meets the requirement. To improve, ensure the use of the recommended UniProt protein name or provide clear disambiguation for the gene symbol."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence mentions the role of CCDC74A/B in the mitotic spindle and their importance in cellular division integrity, which touches on function. However, it lacks information on structure and clinical significance, and it does not provide a comprehensive summary of the article. The sentence is too focused on a specific aspect without covering the broader key aspects required."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence effectively highlights the role of CCDC74A/B in the mitotic spindle and emphasizes their importance in cellular division integrity. However, without knowing the content of the infobox, it's difficult to fully assess whether the information is repeated or particularly notable. Assuming the infobox contains basic information about CCDC74A/B's role, the sentence does well to underscore their significance, which may warrant emphasis. The score reflects a slight deduction due to potential repetition, but overall, it seems to meet the requirement of emphasizing notable information."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "# # References\n\n\n[1.",
+      "title": "Introduction",
+      "score": 0.29,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a heading or a placeholder for references, rather than a sentence that introduces or defines the scope of an article."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not contain any information related to the use of UniProt protein names or HUGO gene symbols. It appears to be an incomplete or incorrectly formatted reference section, and thus does not meet the requirement at all."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a fragment or a placeholder for a references section, rather than a lead summarizing an article. It does not cover any key aspects such as structure, function, or clinical significance, nor does it provide any summary or detail about the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 1.0,
+          "feedback": [
+            "The sentence provided does not repeat any information from an infobox, as it is simply a heading for a references section. Therefore, it fully meets the requirement of avoiding repetition."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(Zhou2019CCDC74A/B) Haining Zhou, Tao Zheng, Tianning Wang, Qi Li, Fulin Wang, Xin Liang, Jianguo Chen, and Junlin Teng.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation or reference to authors and a study, rather than an introductory sentence that outlines the article's scope. To meet the requirement, the sentence should clearly state the focus or subject of the article, using appropriate naming conventions if applicable."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not meet the requirement as it does not use either the recommended UniProt protein name or the HUGO gene symbol. Instead, it appears to be a citation or reference format, which does not address the requirement of using specific protein or gene nomenclature."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided is a citation and list of authors, not a summary of an article. It does not cover any key aspects such as structure, function, or clinical significance, nor does it provide any detail about the content of the article. Therefore, it does not meet the requirement of summarizing the article concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence appears to be a citation or reference entry, likely listing authors of a study or paper. If this information is already present in an infobox, repeating it in this format may not be necessary unless the authorship is particularly notable or requires emphasis. The sentence does not provide additional context or emphasis, so it partially meets the requirement by potentially being redundant."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "Ccdc74a/b are k-fiber crosslinkers required for chromosomal alignment.",
+      "title": "Introduction",
+      "score": 0.47,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a specific function of Ccdc74a/b, indicating they are k-fiber crosslinkers required for chromosomal alignment. However, it does not define the broader scope of the article, such as the overall focus or context of the research. Additionally, it does not follow the recommended UniProt naming conventions, which typically involve using the full protein name and species information. To improve, the sentence should clearly outline the article's scope and adhere to UniProt naming standards."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.5,
+          "feedback": [
+            "The sentence uses the HUGO gene symbols \"Ccdc74a/b\" instead of the recommended UniProt protein names. If the UniProt names are relatively short, they should be used according to the requirement. The sentence partially meets the requirement by using gene symbols, but it does not clarify if the UniProt names were considered or if disambiguation was necessary."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.3,
+          "feedback": [
+            "The sentence provides a brief mention of the function of Ccdc74a/b as k-fiber crosslinkers required for chromosomal alignment, which touches on the functional aspect. However, it lacks information on the structure and clinical significance, and it does not provide a comprehensive summary of the article. The sentence is too concise and does not cover the key aspects required by the lead."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence is concise and does not appear to repeat information unnecessarily. However, without the context of the infobox, it's difficult to fully assess whether the information is already present there. Assuming the sentence is not redundant, it meets the requirement well. If the information is notable or requires emphasis, the sentence is justified."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "BMC Biology, September 2019.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement as it does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It only provides a publication name and date, which does not address the requirement."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not mention any protein name or gene symbol, so it cannot be evaluated against the requirement of using the recommended UniProt protein name or the HUGO gene symbol. The sentence only contains a journal name and a date, which are unrelated to the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only mentions the name of a journal and a date, without summarizing any article or covering any key aspects such as structure, function, or clinical significance. There is no content related to the article's subject matter, making it impossible to evaluate against the requirement."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence \"BMC Biology, September 2019\" appears to be a citation or reference to a publication. If this information is already present in an infobox, repeating it in the main text may not be necessary unless it is particularly notable or requires emphasis. Without additional context, it's unclear if this repetition is justified, hence the score is moderate."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "URL: http://dx.doi.org/10.1186/s12915-019-0694-9 , doi:10.1186/s12915-019-0694-9.",
+      "title": "Introduction",
+      "score": 0.14,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. Instead, it simply provides a URL and a DOI, which are identifiers for accessing the article but do not offer any information about its content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence does not address the requirement at all. It only contains a URL and a DOI reference, with no mention of any protein names or gene symbols. To meet the requirement, the sentence should include a UniProt protein name or a HUGO gene symbol, depending on the length and context."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It only contains a URL and a DOI reference, without any summary of the article's content. There is no information about the structure, function, or clinical significance of the article, nor is there any attempt to summarize it concisely."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.5,
+          "feedback": [
+            "The sentence repeats the DOI information twice, which may not be necessary unless there is a specific reason to emphasize it. This repetition does not align well with the requirement to avoid repeating information unless notable or requiring emphasis. However, the sentence does provide both the URL and DOI format, which could be useful in some contexts."
+          ]
+        }
+      ],
+      "color": "red"
+    },
+    {
+      "text": "(10 citations) 10.1186/s12915-019-0694-9]( https://doi.org/10.1186/s12915-019-0694-9 )",
+      "title": "Introduction",
+      "score": 0.23,
+      "requirements": [
+        {
+          "requirement": "DefineScope",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not define the scope of the article nor does it follow the recommended UniProt naming conventions. It appears to be a citation or reference link rather than a descriptive sentence about the article's content or scope."
+          ]
+        },
+        {
+          "requirement": "UseUniProtName",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not address the requirement at all. It appears to be a citation reference rather than a sentence discussing protein names or gene symbols. There is no mention of a UniProt protein name or a HUGO gene symbol, so it cannot be evaluated against the requirement."
+          ]
+        },
+        {
+          "requirement": "SummaryConciseness",
+          "score": 0.0,
+          "feedback": [
+            "The sentence provided does not meet the requirement at all. It appears to be a citation reference rather than a summary of an article. It lacks any information about the article's structure, function, or clinical significance, and does not provide a concise summary of the article's content."
+          ]
+        },
+        {
+          "requirement": "AvoidRedundancy",
+          "score": 0.8,
+          "feedback": [
+            "The sentence provides a citation with a DOI link, which is typically included in an infobox. However, the sentence does not repeat any other information and the DOI link itself might be considered notable for direct access to the source. The score reflects that while the information could be redundant if already in an infobox, it is not excessively repetitive and serves a specific purpose."
+          ]
+        }
+      ],
+      "color": "red"
+    }
+  ]
+}

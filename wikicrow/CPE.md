@@ -1,0 +1,45 @@
+# CPE
+
+## Overview
+Carboxypeptidase E (CPE) is a gene that encodes the enzyme carboxypeptidase E, a multifunctional protein crucial in the biosynthesis and processing of peptide hormones and neurotransmitters. The CPE protein, also known as carboxypeptidase H, is primarily involved in cleaving C-terminal basic amino acids from peptide precursors, facilitating their conversion into active forms. This enzymatic activity is essential in the production of neuropeptides and peptide hormones, particularly within the secretory pathways of endocrine and neuronal cells. Additionally, CPE serves as a sorting receptor in the regulated secretory pathway, influencing hormone storage and release, and plays roles in various cellular signaling pathways, including the negative regulation of the canonical Wnt signaling pathway (Cool1997Carboxypeptidase; Skalka2012Carboxypeptidase). The diverse functions of CPE underscore its importance in metabolic control, neurotransmitter regulation, and cellular response to stress.
+
+## Function
+Carboxypeptidase E (CPE), also known as carboxypeptidase H, is a multifunctional enzyme that plays a critical role in the biosynthesis and processing of peptide hormones and neurotransmitters. CPE is primarily involved in cleaving C-terminal basic amino acids from peptide precursors, a necessary step for converting these precursors into their active forms. This enzymatic activity is crucial in the production of neuropeptides and peptide hormones within the secretory pathway of endocrine and neuronal cells (Fricker1988Carboxypeptidase; Cool1997Carboxypeptidase).
+
+In addition to its role in peptide processing, CPE functions as a sorting receptor in the regulated secretory pathway, particularly in neuroendocrine cells. It binds specific sorting signals on prohormones, facilitating their incorporation into secretory granules for regulated secretion. This receptor function is vital for maintaining proper hormonal balances and responses (Cool1997Carboxypeptidase).
+
+CPE is also implicated in various cellular signaling pathways. It acts as a negative regulator of the canonical Wnt signaling pathway by interacting with components like Wnt3a and the Frizzled receptor, thereby influencing cell proliferation and differentiation processes (Skalka2012Carboxypeptidase).
+
+Moreover, CPE has been identified in roles beyond its enzymatic and receptor functions. It is involved in neuroprotection, where it upregulates the expression of anti-apoptotic proteins and protects neurons from oxidative stress-induced cell death (Cheng2013Carboxypeptidase). These diverse functions highlight the importance of CPE in cellular and organismal physiology, impacting processes ranging from metabolic control to stress response and neurotransmitter regulation.
+
+## Clinical Significance
+Mutations in the CPE gene, which encodes carboxypeptidase E, have been linked to a variety of endocrinological and neurological disorders. Notably, a homozygous mutation in CPE is associated with severe obesity, type 2 diabetes mellitus, intellectual disability, and hypogonadotrophic hypogonadism (Alsters2015Truncating). Additionally, mutations such as W235R lead to enzymatic inactivity, increasing the risk of hyperproinsulinemia and diabetes in homozygous individuals (Cawley2012New). The gene's role in neurodevelopment is also critical, as evidenced by its involvement in neuron positioning and dendrite morphology; disruptions in these processes due to CPE mutations can result in neurocognitive disorders (Liang2018Cortical).
+
+Alterations in CPE expression have significant implications as well. Elevated levels of CPE are observed in insulinomas, potentially leading to excessive insulin secretion (Cawley2012New). Conversely, decreased CPE expression correlates with increased disease severity in models of multiple sclerosis (Cawley2012New). Furthermore, the presence of CPE autoantibodies has been explored as a diagnostic marker in distinguishing latent autoimmune diabetes in adults (Cawley2012New).
+
+In summary, both mutations in the CPE gene and alterations in its expression are crucial in the pathogenesis of various metabolic, neurological, and autoimmune disorders, highlighting the gene's broad clinical significance.
+
+## Interactions
+Carboxypeptidase E (CPE) interacts with a variety of proteins that influence its function and trafficking within the cell. Notably, CPE interacts with Wolframin, an ER resident protein, which may assist in CPE's folding and intracellular transport (Cawley2012New). It also interacts with phogrin, a receptor tyrosine phosphatase-like protein, facilitating and stabilizing a nonclassical transmembrane domain of CPE in the trans-Golgi network (TGN) (Cawley2012New). Additionally, CPE binds to prohormones via a prohormone sorting signal, specifically interacting with the amino acids Arg 255 and Lys 260 on CPE, crucial for the trafficking of CPE from the TGN to the granules of the regulated secretory pathway (RSP) (Cawley2012New). 
+
+CPE is involved in the internalization of the eosinophil cationic protein (ECP) into neuroendocrine cells, a process dependent on the interaction between CPE and ARF6 (Ji2017Dissecting). In vesicle transport, the cytoplasmic tail of CPE interacts with motor protein complexes dynactin, kinesin-2, and kinesin-3, facilitating the movement of vesicles such as BDNF and ACTH in neurons (Ji2017Dissecting). This interaction is crucial for the localization and secretion of neurotransmitters in synaptic vesicles, impacting neurotransmission in both glutamatergic and cholinergic systems (Ji2017Dissecting).
+
+
+## References
+
+
+[1. (Fricker1988Carboxypeptidase) L D Fricker. Carboxypeptidase e. Annual Review of Physiology, 50(1):309â321, October 1988. URL: http://dx.doi.org/10.1146/annurev.ph.50.030188.001521, doi:10.1146/annurev.ph.50.030188.001521. (412 citations) 10.1146/annurev.ph.50.030188.001521](https://doi.org/10.1146/annurev.ph.50.030188.001521)
+
+[2. (Ji2017Dissecting) Lin Ji, Huan-Tong Wu, Xiao-Yan Qin, and Rongfeng Lan. Dissecting carboxypeptidase e: properties, functions and pathophysiological roles in disease. Endocrine Connections, 6(4):R18âR38, May 2017. URL: http://dx.doi.org/10.1530/ec-17-0020, doi:10.1530/ec-17-0020. (68 citations) 10.1530/ec-17-0020](https://doi.org/10.1530/ec-17-0020)
+
+[3. (Alsters2015Truncating) Suzanne I. M. Alsters, Anthony P. Goldstone, Jessica L. Buxton, Anna Zekavati, Alona Sosinsky, Andrianos M. Yiorkas, Susan Holder, Robert E. Klaber, Nicola Bridges, Mieke M. van Haelst, Carel W. le Roux, Andrew J. Walley, Robin G. Walters, Michael Mueller, and Alexandra I. F. Blakemore. Truncating homozygous mutation of carboxypeptidase e (cpe) in a morbidly obese female with type 2 diabetes mellitus, intellectual disability and hypogonadotrophic hypogonadism. PLOS ONE, 10(6):e0131417, June 2015. URL: http://dx.doi.org/10.1371/journal.pone.0131417, doi:10.1371/journal.pone.0131417. (68 citations) 10.1371/journal.pone.0131417](https://doi.org/10.1371/journal.pone.0131417)
+
+[4. (Cool1997Carboxypeptidase) David R Cool, Emmanuel Normant, Fu-sheng Shen, Hao-Chia Chen, Lewis Pannell, Ying Zhang, and Y.Peng Loh. Carboxypeptidase e is a regulated secretory pathway sorting receptor: genetic obliteration leads to endocrine disorders in cpefat mice. Cell, 88(1):73â83, January 1997. URL: http://dx.doi.org/10.1016/s0092-8674(00)81860-7, doi:10.1016/s0092-8674(00)81860-7. (347 citations) 10.1016/s0092-8674(00)81860-7](https://doi.org/10.1016/s0092-8674(00)81860-7)
+
+[5. (Cawley2012New) Niamh X. Cawley, William C. Wetsel, Saravana R. K. Murthy, Joshua J. Park, Karel Pacak, and Y. Peng Loh. New roles of carboxypeptidase e in endocrine and neural function and cancer. Endocrine Reviews, 33(2):216â253, March 2012. URL: http://dx.doi.org/10.1210/er.2011-1039, doi:10.1210/er.2011-1039. (86 citations) 10.1210/er.2011-1039](https://doi.org/10.1210/er.2011-1039)
+
+[6. (Skalka2012Carboxypeptidase) N Skalka, M Caspi, E Caspi, Y P Loh, and R Rosin-Arbesfeld. Carboxypeptidase e: a negative regulator of the canonical wnt signaling pathway. Oncogene, 32(23):2836â2847, July 2012. URL: http://dx.doi.org/10.1038/onc.2012.308, doi:10.1038/onc.2012.308. (52 citations) 10.1038/onc.2012.308](https://doi.org/10.1038/onc.2012.308)
+
+[7. (Cheng2013Carboxypeptidase) Yong Cheng, Niamh X. Cawley, and Y. Peng Loh. Carboxypeptidase e/nfÎ±1: a new neurotrophic factor against oxidative stress-induced apoptotic cell death mediated by erk and pi3-k/akt pathways. PLoS ONE, 8(8):e71578, August 2013. URL: http://dx.doi.org/10.1371/journal.pone.0071578, doi:10.1371/journal.pone.0071578. (44 citations) 10.1371/journal.pone.0071578](https://doi.org/10.1371/journal.pone.0071578)
+
+[8. (Liang2018Cortical) Chen Liang, Damien Carrel, Anton Omelchenko, Hyuck Kim, Aashini Patel, Isabelle Fanget, and Bonnie L Firestein. Cortical neuron migration and dendrite morphology are regulated by carboxypeptidase e. Cerebral Cortex, 29(7):2890â2903, July 2018. URL: http://dx.doi.org/10.1093/cercor/bhy155, doi:10.1093/cercor/bhy155. (9 citations) 10.1093/cercor/bhy155](https://doi.org/10.1093/cercor/bhy155)

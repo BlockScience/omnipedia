@@ -1,0 +1,27 @@
+# ATPAF2
+
+## Overview
+ATPAF2, or ATP synthase mitochondrial F1 complex assembly factor 2, is a gene that encodes the protein ATP synthase mitochondrial F1 complex assembly factor 2. This protein is crucial for the assembly of the F1 subunit of the mitochondrial ATP synthase, a key enzyme necessary for ATP production through oxidative phosphorylation. ATPAF2 ensures the proper assembly of the ATP synthase complex by preventing the formation of non-functional homo-oligomers and facilitating interactions with other subunits of the enzyme. The gene is expressed variably across different tissues, indicating a role in tissue-specific energy metabolism. Disruptions in ATPAF2 function have been linked to mitochondrial dysfunction and are implicated in the pathogenesis of neurodegenerative diseases such as dementia and Alzheimer's disease (reynolds2010analysis).
+
+## Structure
+The molecular structure of ATPAF2, a protein encoded by the ATPAF2 gene, is characterized by a small 3-stranded Î²-sheet at the N-terminus and predominantly Î±-helical structures throughout the rest of the protein. The interaction site of ATPAF2 is located on the last Î±-helix, which includes a residue with a pathogenic mutation (L262P) that has been reported in the ClinVar database (Pei2021Human). This protein has been experimentally validated to interact with FMC1, a member of the LYRM family of proteins, which is predicted to adopt a three-helix bundle fold. The interaction between ATPAF2 and FMC1 is supported by high contact probability scores from computational tools like AlphaFold2 and RoseTTAFold (Pei2021Human).
+
+Despite these details, the excerpts do not provide comprehensive information on the tertiary or quaternary structures of ATPAF2, nor do they discuss specific domains, prominent folds, common post-translational modifications, or splice variant isoforms in detail. Therefore, further research and structural elucidation are required to fully understand the molecular architecture and functional domains of ATPAF2.
+
+## Function
+ATPAF2, or ATP synthase mitochondrial F1 complex assembly factor 2, plays a crucial role in the assembly of the F1 subunit of the mitochondrial ATP synthase, essential for ATP production in cells. This protein is specifically involved in preventing the formation of non-functional homo-oligomers of the F1 subunit, ensuring the correct assembly and function of the ATP synthase complex (reynolds2010analysis). ATPAF2 interacts with the K subunit of the F1 component of ATP synthase, facilitating the proper assembly of this critical enzyme complex that drives ATP production through oxidative phosphorylation (PÄ±ÌckovÃ¡2003Differential). The expression of ATPAF2 varies significantly across different tissues, with the highest levels observed in brown adipose tissue, suggesting a tissue-specific regulation and importance in energy metabolism (PÄ±ÌckovÃ¡2003Differential). This variation in expression correlates with the mRNA levels of other subunits of ATP synthase, indicating a coordinated expression potentially under similar regulatory mechanisms (PÄ±ÌckovÃ¡2003Differential). The protein's activity is vital for maintaining mitochondrial function and energy metabolism in healthy human cells, highlighting its broader biological roles in cellular and organismal energy homeostasis.
+
+## Clinical Significance
+ATPAF2, or ATP synthase mitochondrial F1 complex assembly factor 2, has been implicated in the risk and progression of dementia, including Alzheimer's disease (AD). Research indicates that sequence variations near the ATPAF2 gene, particularly in the SREBF1 locus on chromosome 17p, are significantly associated with increased risk of these conditions (reynolds2010analysis). Specifically, markers like rs3183702 and rs4925114, which are in linkage disequilibrium, have been linked to changes in ATPAF2 expression levels, suggesting that alterations in the gene's expression could influence susceptibility to dementia and AD (reynolds2010analysis).
+
+The gene encodes a protein essential for the assembly of the mitochondrial ATP synthase complex, crucial for cellular energy production. Disruptions in ATPAF2 function due to genetic variations could lead to mitochondrial dysfunction, a factor frequently associated with the pathogenesis of dementia and AD (reynolds2010analysis). The findings underscore the need for further studies to explore the functional impact of ATPAF2 in mitochondrial integrity and its broader implications in neurodegenerative diseases.
+
+
+## References
+
+
+[1. (PÄ±ÌckovÃ¡2003Differential) Andrea PÄ±ÌckovÃ¡, Jan Paul, Vittoria Petruzzella, and Josef HouÅ¡tÄk. Differential expression of atpaf1 and atpaf2 genes encoding f1âatpase assembly proteins in mouse tissues. FEBS Letters, 551(1â3):42â46, August 2003. URL: http://dx.doi.org/10.1016/s0014-5793(03)00890-1, doi:10.1016/s0014-5793(03)00890-1. (16 citations) 10.1016/s0014-5793(03)00890-1](https://doi.org/10.1016/s0014-5793(03)00890-1)
+
+[2. (Pei2021Human) Human mitochondrial protein complexes revealed by large-scale coevolution analysis and deep learning-based structure modeling (17 citations) 10.1101/2021.09.14.460228](https://doi.org/10.1101/2021.09.14.460228)
+
+[3. (reynolds2010analysis) Reynolds, Chandra A., et al. "Analysis of lipid pathway genes indicates association of sequence variation near SREBF1/TOM1L2/ATPAF2 with dementia risk." Human molecular genetics 19.10 (2010): 2068-2078. (62 citations) 10/2068/701799](https://doi.org/10/2068/701799)

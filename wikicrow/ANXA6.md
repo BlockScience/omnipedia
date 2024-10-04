@@ -1,0 +1,60 @@
+# ANXA6
+
+## Overview
+ANXA6, or Annexin A6, is a gene that encodes the protein annexin A6, a member of the annexin family of calcium-dependent phospholipid-binding proteins. This protein is involved in various cellular processes including membrane organization, signal transduction, and the regulation of cellular cholesterol levels. Annexin A6 is characterized by its ability to bind to cellular membranes in a calcium-dependent manner, playing a crucial role in membrane repair, vesicle trafficking, and the modulation of inflammation and cell proliferation. The protein's structure includes multiple annexin repeats, which facilitate its interaction with other proteins and membrane components, influencing cellular signaling pathways and structural integrity (Cubells2007Annexin; Enrich2011Annexin).
+
+## Structure
+ANXA6, also known as Annexin A6, is characterized by a unique molecular structure within the annexin family. It consists of eight annexin repeats, which are organized into two core domains of four repeats each. These repeats form a highly Î±-helical, tightly packed disk with a slight curvature. The convex side of this disk, which is oriented towards the membrane, facilitates interactions through calcium and membrane binding sites. The concave side faces away, potentially allowing interactions with other proteins. A flexible linker between the fourth and fifth repeats enables the two ANXA6 disks to be oriented perpendicularly to each other, which may allow the protein to bind two membranes simultaneously (Lizarbe2013Annexin-Phospholipid; Grewal2010Annexin).
+
+Specific domains within ANXA6 include a potential F-actin binding site and a p120GAP binding domain within the linker region. The protein also has two splice variant isoforms, AnxA6-1 and AnxA6-2, which differ by six amino acids (Grewal2010Annexin). Common post-translational modifications identified in ANXA6 include phosphorylation sites at Ser-13, Tyr-30, and Thr-356, which may influence its function and interactions (Grewal2010Annexin).
+
+## Function
+ANXA6, encoded by the ANXA6 gene, is a multifunctional protein involved in various cellular processes, including membrane dynamics, cholesterol homeostasis, and signal transduction. It plays a critical role in the regulation of the epidermal growth factor receptor (EGFR)/Ras signaling pathway, which is essential for cell proliferation and differentiation. ANXA6 inhibits this pathway, impacting cell growth and signaling responses (Grewal2010Annexin).
+
+In terms of membrane dynamics, ANXA6 is involved in the organization of membrane domains, supporting the formation of signaling complexes and regulating membrane-actin interactions during endocytic transport. This protein also modulates cholesterol levels within cells, influencing the activity of cytoplasmic phospholipase A2 and the formation of caveolae, small invaginations in the plasma membrane involved in signal transduction (Grewal2010Annexin).
+
+ANXA6 is also crucial for cellular cholesterol homeostasis. It regulates cholesterol export from late endosomes, affecting the distribution and localization of cholesterol and caveolin, which are integral to maintaining cellular structure and signaling (Cubells2007Annexin).
+
+Furthermore, ANXA6 participates in endo-exocytosis and autophagy, processes essential for vesicle fusion in cells, mediated by calcium-induced local lipid rearrangements (Enrich2017Annexins:). This protein's ability to bind to cellular membranes in a calcium-dependent manner and its interaction with various phospholipids are vital for its function in membrane repair and cellular signaling (Enrich2011Annexin).
+
+## Clinical Significance
+ANXA6 has been implicated in several diseases, primarily through its association with systemic lupus erythematosus (SLE) and various cancers. In Asian populations, specific single-nucleotide polymorphisms (SNPs) in the ANXA6 gene have been identified as susceptibility factors for SLE. Notably, SNPs rs11960458 and rs6896621 are significantly associated with the disease, suggesting that genetic variations in ANXA6 may influence immune system dysfunction in SLE (Zhang2015GeneâBased).
+
+In the context of cancer, ANXA6 polymorphisms have been linked to glioma risk and prognosis. The CC genotype of rs888988 is associated with poor prognosis in glioma patients, affecting both overall survival and progression-free survival. This indicates that ANXA6 may play a role in tumor progression and patient outcomes in glioma (Wang2019Effects).
+
+Furthermore, ANXA6 is involved in the pathobiology of various cancers, including pancreatic ductal adenocarcinoma, triple-negative breast cancer, and gastric cancer. Its role in these cancers often relates to resistance mechanisms against chemotherapy and the regulation of tumor aggressiveness and metastasis (Prieto-FernÃ¡ndez2022Pathobiological).
+
+Overall, alterations in the expression or function of ANXA6 due to genetic mutations or polymorphisms are significant in the pathogenesis and prognosis of both autoimmune diseases and cancers.
+
+## Interactions
+Annexin A6 (ANXA6) interacts with several proteins, influencing various cellular and viral processes. In the context of viral infection, ANXA6 binds to the M2 protein of the influenza A virus. This interaction occurs at the plasma membrane, which is crucial for virus assembly and budding, and it specifically involves the cytoplasmic tail of the M2 protein. This binding negatively modulates influenza virus infection by affecting virus budding and altering the morphology of virions (Ma2012Human).
+
+In cancer biology, ANXA6 is involved in the regulation of the epidermal growth factor receptor (EGFR) signaling pathway. ANXA6, when SUMOylated at the K299 residue, enhances its interaction with EGFR and Protein Kinase C alpha (PKCÎ±). This interaction is critical for suppressing EGFR/ERK phosphorylation signaling pathways, which are implicated in epithelial cancer growth. The SUMOylation of ANXA6 at K299 increases its binding affinity to EGFR, promoting the formation of an EGFR-PKCÎ± complex that suppresses cancer cell proliferation and migration (Sheng2023SUMOylation).
+
+Additionally, ANXA6 interacts with sarcomeric Î±-actinin in cardiomyocytes. This interaction occurs at the sarcomere structure and plays a regulatory role in cardiac contractility and mechanotransduction. The binding of ANXA6 to Î±-actinin is confirmed through various in vitro assays and is significant for the contractile properties of cardiomyocytes (Mishra2011Interaction).
+
+
+## References
+
+
+[1. (Wang2019Effects) Effects of the ANXA6 polymorphisms on glioma risk and patients prognosis (0 citations) 10.21203/rs.2.16678/v1](https://doi.org/10.21203/rs.2.16678/v1)
+
+[2. (Grewal2010Annexin) Thomas Grewal, Meryem Koese, Carles Rentero, and Carlos Enrich. Annexin a6-regulator of the egfr/ras signalling pathway and cholesterol homeostasis. The International Journal of Biochemistry &amp; Cell Biology, 42(5):580â584, May 2010. URL: http://dx.doi.org/10.1016/j.biocel.2009.12.020, doi:10.1016/j.biocel.2009.12.020. (88 citations) 10.1016/j.biocel.2009.12.020](https://doi.org/10.1016/j.biocel.2009.12.020)
+
+[3. (Sheng2023SUMOylation) Zenghua Sheng, Xu Cao, Ya-nan Deng, Xinyu Zhao, and Shufang Liang. Sumoylation of anxa6 facilitates egfr-pkcÎ± complex formation to suppress epithelial cancer growth. Cell Communication and Signaling, August 2023. URL: http://dx.doi.org/10.1186/s12964-023-01217-x, doi:10.1186/s12964-023-01217-x. (2 citations) 10.1186/s12964-023-01217-x](https://doi.org/10.1186/s12964-023-01217-x)
+
+[4. (Enrich2017Annexins:) Carlos Enrich, Carles Rentero, Elsa Meneses-Salas, Francesc Tebar, and Thomas Grewal. Annexins: Ca2+ Effectors Determining Membrane Trafficking in the Late Endocytic Compartment, pages 351â385. Springer International Publishing, 2017. URL: http://dx.doi.org/10.1007/978-3-319-55858-5_14, doi:10.1007/978-3-319-55858-5_14. (19 citations) 10.1007/978-3-319-55858-5_14](https://doi.org/10.1007/978-3-319-55858-5_14)
+
+[5. (Enrich2011Annexin) Carlos Enrich, Carles Rentero, Sandra VilÃ  de Muga, Meritxell Reverter, Vishwaroop Mulay, Peta Wood, Meryem Koese, and Thomas Grewal. Annexin a6âlinking ca2+ signaling with cholesterol transport. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1813(5):935â947, May 2011. URL: http://dx.doi.org/10.1016/j.bbamcr.2010.09.015, doi:10.1016/j.bbamcr.2010.09.015. (113 citations) 10.1016/j.bbamcr.2010.09.015](https://doi.org/10.1016/j.bbamcr.2010.09.015)
+
+[6. (Lizarbe2013Annexin-Phospholipid) MarÃ­a Lizarbe, Juan Barrasa, Nieves Olmo, Francisco Gavilanes, and Javier Turnay. Annexin-phospholipid interactions. functional implications. International Journal of Molecular Sciences, 14(2):2652â2683, January 2013. URL: http://dx.doi.org/10.3390/ijms14022652, doi:10.3390/ijms14022652. (174 citations) 10.3390/ijms14022652](https://doi.org/10.3390/ijms14022652)
+
+[7. (Ma2012Human) Huailiang Ma, FranÃ§ois Kien, Maxime ManiÃ¨re, Yang Zhang, NadÃ¨ge Lagarde, Kong San Tse, Leo Lit Man Poon, and BÃ©atrice Nal. Human annexin a6 interacts with influenza a virus protein m2 and negatively modulates infection. Journal of Virology, 86(3):1789â1801, February 2012. URL: http://dx.doi.org/10.1128/jvi.06003-11, doi:10.1128/jvi.06003-11. (88 citations) 10.1128/jvi.06003-11](https://doi.org/10.1128/jvi.06003-11)
+
+[8. (Zhang2015GeneâBased) Jing Zhang, Lu Zhang, Yan Zhang, Jing Yang, Mengbiao Guo, Liangdan Sun, HaiâFeng Pan, Nattiya Hirankarn, Dingge Ying, Shuai Zeng, Tsz Leung Lee, Chak Sing Lau, Tak Mao Chan, Alexander Moon Ho Leung, Chi Chiu Mok, Sik Nin Wong, Ka Wing Lee, Marco Hok Kung Ho, Pamela Pui Wah Lee, Brian HonâYin Chung, Chun Yin Chong, Raymond Woon Sing Wong, Mo Yin Mok, Wilfred Hing Sang Wong, Kwok Lung Tong, Niko Kei Chiu Tse, XiangâPei Li, Yingyos Avihingsanon, Pornpimol Rianthavorn, Thavatchai Deekajorndej, Kanya Suphapeetiporn, Vorasuk Shotelersuk, Shirley King Yee Ying, Samuel Ka Shun Fung, Wai Ming Lai, MariaâMercÃ¨ GarciaâBarcelÃ³, Stacey S. Cherny, Pak Chung Sham, Yong Cui, Sen Yang, Dong Qing Ye, XueâJun Zhang, Yu Lung Lau, and Wanling Yang. Geneâbased metaâanalysis of genomeâwide association study data identifies independent singleânucleotide polymorphisms in anxa6 as being associated with systemic lupus erythematosus in asian populations. Arthritis &amp; Rheumatology, 67(11):2966â2977, October 2015. URL: http://dx.doi.org/10.1002/art.39275, doi:10.1002/art.39275. (17 citations) 10.1002/art.39275](https://doi.org/10.1002/art.39275)
+
+[9. (Mishra2011Interaction) Sumita Mishra, Vivek Chander, Priyam Banerjee, Jae G Oh, Ekaterina Lifirsu, Woo J Park, Do H Kim, and Arun Bandyopadhyay. Interaction of annexin a6 with alpha actinin in cardiomyocytes. BMC Cell Biology, January 2011. URL: http://dx.doi.org/10.1186/1471-2121-12-7, doi:10.1186/1471-2121-12-7. (26 citations) 10.1186/1471-2121-12-7](https://doi.org/10.1186/1471-2121-12-7)
+
+[10. (Cubells2007Annexin) Laia Cubells, Sandra VilÃ  de Muga, Francesc Tebar, Peta Wood, Rachael Evans, Mercedes IngelmoâTorres, Maria Calvo, Katharina Gaus, Albert Pol, Thomas Grewal, and Carlos Enrich. Annexin a6âinduced alterations in cholesterol transport and caveolin export from the golgi complex. Traffic, 8(11):1568â1589, August 2007. URL: http://dx.doi.org/10.1111/j.1600-0854.2007.00640.x, doi:10.1111/j.1600-0854.2007.00640.x. (90 citations) 10.1111/j.1600-0854.2007.00640.x](https://doi.org/10.1111/j.1600-0854.2007.00640.x)
+
+[11. (Prieto-FernÃ¡ndez2022Pathobiological) Llara Prieto-FernÃ¡ndez, SofÃ­a T. MenÃ©ndez, MarÃ­a Otero-Rosales, Irene Montoro-JimÃ©nez, Francisco Hermida-Prado, Juana M. GarcÃ­a-Pedrero, and SaÃºl Ãlvarez-Teijeiro. Pathobiological functions and clinical implications of annexin dysregulation in human cancers. Frontiers in Cell and Developmental Biology, September 2022. URL: http://dx.doi.org/10.3389/fcell.2022.1009908, doi:10.3389/fcell.2022.1009908. (7 citations) 10.3389/fcell.2022.1009908](https://doi.org/10.3389/fcell.2022.1009908)

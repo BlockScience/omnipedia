@@ -1,0 +1,62 @@
+# ATF2
+
+## Overview
+ATF2, or Activating Transcription Factor 2, is a gene that encodes a transcription factor involved in the regulation of gene expression. The ATF2 protein plays a critical role in cellular processes such as growth, survival, and apoptosis by binding to specific DNA elements in the promoters of target genes. Structurally, ATF2 contains a basic leucine zipper (bZIP) domain essential for DNA binding and dimerization, allowing it to form complexes with itself or other proteins to regulate transcription (Lau2012ATF2). Functionally, ATF2 is activated by phosphorylation, primarily in response to stress signals, which enhances its transcriptional activity and its role in DNA damage response (Watson2017ATF2). The protein's involvement in multiple signaling pathways underscores its importance in maintaining cellular homeostasis and responding to environmental stresses.
+
+## Structure
+The ATF2 protein, encoded by the ATF2 gene, is a multifaceted transcription factor characterized by distinct structural domains that facilitate its function in gene regulation. The protein consists of an N-terminal transactivation domain and a C-terminal DNA-binding domain. The transactivation domain includes a zinc finger-like subdomain with a structured arrangement of an antiparallel beta-sheet and an alpha-helix, stabilized by a zinc atom coordinated by cysteine and histidine residues (Nagadoi1999Solution). This domain is crucial for the protein's interaction with other molecular components.
+
+The C-terminal region of ATF2 features a basic leucine zipper (bZIP) motif, essential for DNA binding and dimerization. This domain allows ATF2 to form either homodimers or heterodimers, which are necessary for its binding to the cAMP response element (CRE) in DNA and subsequent transcriptional activation (Panne2004Crystal; Lau2012ATF2).
+
+Post-translational modifications play a significant role in regulating ATF2's activity. Phosphorylation at multiple sites, including threonine and serine residues, is critical for activating the protein in response to various stimuli. These modifications can alter ATF2's conformation and its ability to interact with other proteins and DNA (Watson2017ATF2).
+
+Additionally, ATF2 exists in multiple splice variant isoforms, which may differ in their domain compositions and hence in their functional capabilities. These isoforms can lack certain regulatory elements, affecting their transcriptional activity and cellular localization (Lau2012ATF2).
+
+## Function
+ATF2, a transcription factor encoded by the ATF2 gene, is integral to various molecular processes in healthy human cells. It binds directly to DNA promoter elements to regulate the transcription of specific target genes, a function facilitated by its bZIP domain, which is conserved across various splice isoforms (Lau2012ATF2). ATF2 is also involved in chromatin restructuring and the DNA damage response, interacting with chromatin-modifying proteins to influence global heterochromatin organization (Lau2012ATF2). 
+
+In response to DNA damage, ATF2 is phosphorylated by ATM at specific serine residues, promoting its colocalization with components of the MRN complex in ionizing radiation-induced foci, aiding in DNA repair. This phosphorylation contributes to the intra-S phase checkpoint, ensuring proper repair of damaged DNA (Lau2012ATF2). Additionally, ATF2 interacts with the histone acetyltransferase TIP60 in a feedback loop mechanism that enhances ATM activities, crucial for the cellular response to genotoxic stress (Lau2012ATF2).
+
+ATF2's role extends to influencing cell biology and organismal outcomes by regulating gene expression in response to environmental and cellular changes, impacting processes such as cell cycle progression, cell survival, and apoptosis (Ouwens2002Growth).
+
+## Clinical Significance
+ATF2 (Activating Transcription Factor 2) is implicated in various diseases and conditions primarily through mutations, altered expression levels, or disruptions in its normal interactions. In cancer biology, ATF2 exhibits dual roles, acting as both a tumor suppressor and an oncogene depending on the cellular context. For instance, reduced levels of ATF2 predispose mice to mammary tumors and are also observed in human breast cancers, suggesting a tumor suppressor role in this context (Maekawa2007Reduced). Conversely, ATF2 mutations are associated with increased tumor susceptibility and progression in models of skin cancer, where its altered expression or localization correlates with the development of squamous cell carcinoma and basal cell carcinoma (Bhoumik2008Suppressor; Li2010Radiation).
+
+In addition to cancer, ATF2 is involved in inflammatory diseases. It is highly expressed in macrophages within white adipose tissues in obesity and plays a significant role in inflammatory responses by influencing the expression of proinflammatory genes, cytokines, and chemokines (Yu2014The). The gene's role in inflammation is further highlighted by its involvement in systemic sclerosis, where it serves as a marker for lung involvement and inflammation (Yu2014The).
+
+Overall, the clinical significance of ATF2 spans a spectrum of pathological conditions, underlining its importance in both oncogenic and inflammatory pathways.
+
+## Interactions
+ATF2 interacts with a variety of proteins and nucleic acids, playing a significant role in transcriptional regulation and cellular differentiation. One of the key interactions is with the coactivator ASC-2, which enhances ATF2's interaction with another transcription factor, C/EBPÎ±. This interaction is crucial for the transcriptional activation of granulopoietic genes and is further enhanced by treatment with all-trans retinoic acid (RA) and phosphorylation by p38Î² kinase (Hong2004Activation). ATF2 also forms heterodimers with c-Jun, which are essential for binding to the cAMP response element (CRE) in DNA, a process that is crucial for regulating various gene transcriptions (Hsu2012Critical).
+
+Additionally, ATF2 and C/EBPÎ± can form a heterodimeric DNA binding complex that does not bind to CRE sites but to an asymmetric sequence composed of one consensus half-site for each monomer, suggesting a unique regulatory function for this heterodimer (Shuman1997ATF-2). The interaction between ATF2 and the hepatitis B virus X protein (pX) alters the DNA binding specificity of ATF2, enabling it to bind to sequences it normally would not, which plays a role in transcriptional regulation during viral infection (Maguire1991HBV). These interactions highlight ATF2's versatile role in transcriptional regulation through complex interactions with both proteins and nucleic acids.
+
+
+## References
+
+
+[1. (Ouwens2002Growth) D.M. Ouwens. Growth factors can activate atf2 via a two-step mechanism: phosphorylation of thr71 through the ras-mek-erk pathway and of thr69 through ralgds-src-p38. The EMBO Journal, 21(14):3782â3793, July 2002. URL: http://dx.doi.org/10.1093/emboj/cdf361, doi:10.1093/emboj/cdf361. (183 citations) 10.1093/emboj/cdf361](https://doi.org/10.1093/emboj/cdf361)
+
+[2. (Bhoumik2008Suppressor) Anindita Bhoumik, Boris Fichtman, Charles DeRossi, Wolfgang Breitwieser, Harriet M. Kluger, Sean Davis, Antonio Subtil, Paul Meltzer, Stan Krajewski, Nic Jones, and Zeâev Ronai. Suppressor role of activating transcription factor 2 (atf2) in skin cancer. Proceedings of the National Academy of Sciences, 105(5):1674â1679, February 2008. URL: http://dx.doi.org/10.1073/pnas.0706057105, doi:10.1073/pnas.0706057105. (65 citations) 10.1073/pnas.0706057105](https://doi.org/10.1073/pnas.0706057105)
+
+[3. (Li2010Radiation) S. Li, S. Ezhevsky, A. Dewing, M. H. Cato, M. Scortegagna, A. Bhoumik, W. Breitwieser, D. Braddock, A. Eroshkin, J. Qi, M. Chen, J.-Y. Kim, S. Jones, N. Jones, R. Rickert, and Z. A. Ronai. Radiation sensitivity and tumor susceptibility in atm phospho-mutant atf2 mice. Genes &amp; Cancer, 1(4):316â330, April 2010. URL: http://dx.doi.org/10.1177/1947601910370700, doi:10.1177/1947601910370700. (21 citations) 10.1177/1947601910370700](https://doi.org/10.1177/1947601910370700)
+
+[4. (Shuman1997ATF-2) Jon D. Shuman, JaeHun Cheong, and John E. Coligan. Atf-2 and c/ebpÎ± can form a heterodimeric dna binding complex in vitro. Journal of Biological Chemistry, 272(19):12793â12800, May 1997. URL: http://dx.doi.org/10.1074/jbc.272.19.12793, doi:10.1074/jbc.272.19.12793. (113 citations) 10.1074/jbc.272.19.12793](https://doi.org/10.1074/jbc.272.19.12793)
+
+[5. (Hsu2012Critical) Chih-Chao Hsu and Chang-Deng Hu. Critical role of n-terminal end-localized nuclear export signal in regulation of activating transcription factor 2 (atf2) subcellular localization and transcriptional activity. Journal of Biological Chemistry, 287(11):8621â8632, March 2012. URL: http://dx.doi.org/10.1074/jbc.m111.294272, doi:10.1074/jbc.m111.294272. (13 citations) 10.1074/jbc.m111.294272](https://doi.org/10.1074/jbc.m111.294272)
+
+[6. (Maguire1991HBV) Hugh F. Maguire, James P. Hoeffler, and Aleem Siddiqui. Hbv x protein alters the dna binding specificity of creb and atf-2 by protein-protein interactions. Science, 252(5007):842â844, May 1991. URL: http://dx.doi.org/10.1126/science.1827531, doi:10.1126/science.1827531. (551 citations) 10.1126/science.1827531](https://doi.org/10.1126/science.1827531)
+
+[7. (Nagadoi1999Solution) Aritaka Nagadoi, Ken-ichi Nakazawa, Hiroko Uda, Koichi Okuno, Toshio Maekawa, Shunsuke Ishii, and Yoshifumi Nishimura. Solution structure of the transactivation domain of atf-2 comprising a zinc finger-like subdomain and a flexiblesubdomain. Journal of Molecular Biology, 287(3):593â607, April 1999. URL: http://dx.doi.org/10.1006/jmbi.1999.2620, doi:10.1006/jmbi.1999.2620. (69 citations) 10.1006/jmbi.1999.2620](https://doi.org/10.1006/jmbi.1999.2620)
+
+[8. (Lau2012ATF2) Eric Lau and Zeâev A. Ronai. Atf2 â at the crossroad of nuclear and cytosolic functions. Journal of Cell Science, January 2012. URL: http://dx.doi.org/10.1242/jcs.095000, doi:10.1242/jcs.095000. (140 citations) 10.1242/jcs.095000](https://doi.org/10.1242/jcs.095000)
+
+[9. (Watson2017ATF2) Gregory Watson, Zeâev A. Ronai, and Eric Lau. Atf2, a paradigm of the multifaceted regulation of transcription factors in biology and disease. Pharmacological Research, 119:347â357, May 2017. URL: http://dx.doi.org/10.1016/j.phrs.2017.02.004, doi:10.1016/j.phrs.2017.02.004. (121 citations) 10.1016/j.phrs.2017.02.004](https://doi.org/10.1016/j.phrs.2017.02.004)
+
+[10. (Yu2014The) Tao Yu, Yong Jun Li, Ai Hong Bian, Hui Bin Zuo, Ti Wen Zhu, Sheng Xiang Ji, Fanming Kong, De Qing Yin, Chuan Bao Wang, Zi Fu Wang, Hong Qun Wang, Yanyan Yang, Byong Chul Yoo, and Jae Youl Cho. The regulatory role of activating transcription factor 2 in inflammation. Mediators of Inflammation, 2014:1â10, 2014. URL: http://dx.doi.org/10.1155/2014/950472, doi:10.1155/2014/950472. (60 citations) 10.1155/2014/950472](https://doi.org/10.1155/2014/950472)
+
+[11. (Hong2004Activation) SunHwa Hong, Hyun Mi Choi, Min Jung Park, Young Hee Kim, Yoon Ha Choi, Hyung Hoi Kim, Young Hyun Choi, and JaeHun Cheong. Activation and interaction of atf2 with the coactivator asc-2 are responsive for granulocytic differentiation by retinoic acid. Journal of Biological Chemistry, 279(17):16996â17003, April 2004. URL: http://dx.doi.org/10.1074/jbc.m311752200, doi:10.1074/jbc.m311752200. (20 citations) 10.1074/jbc.m311752200](https://doi.org/10.1074/jbc.m311752200)
+
+[12. (Panne2004Crystal) Daniel Panne, Tom Maniatis, and Stephen C Harrison. Crystal structure of atf-2/c-jun and irf-3 bound to the interferon-Î² enhancer. The EMBO Journal, 23(22):4384â4393, October 2004. URL: http://dx.doi.org/10.1038/sj.emboj.7600453, doi:10.1038/sj.emboj.7600453. (221 citations) 10.1038/sj.emboj.7600453](https://doi.org/10.1038/sj.emboj.7600453)
+
+[13. (Maekawa2007Reduced) Toshio Maekawa, Toshie Shinagawa, Yuji Sano, Takahiko Sakuma, Shintaro Nomura, Koichi Nagasaki, Yoshio Miki, Fumiko Saito-Ohara, Johji Inazawa, Takashi Kohno, Jun Yokota, and Shunsuke Ishii. Reduced levels of atf-2 predispose mice to mammary tumors. Molecular and Cellular Biology, 27(5):1730â1744, March 2007. URL: http://dx.doi.org/10.1128/mcb.01579-06, doi:10.1128/mcb.01579-06. (67 citations) 10.1128/mcb.01579-06](https://doi.org/10.1128/mcb.01579-06)
