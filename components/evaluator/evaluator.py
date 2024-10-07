@@ -17,7 +17,7 @@ class WikipediaClassifier:
         self, header_text: str, section_content: str
     ) -> str:
         """
-        Uses OpenAI's GPT-4 to map a section header and its content to a taxonomy section.
+        Uses an LLM to map a section header and its content to a taxonomy section.
         """
         prompt = f"""
             You are an assistant that maps Wikipedia article section headers to predefined taxonomy sections.
@@ -54,7 +54,7 @@ class WikipediaClassifier:
                     },
                     {"role": "user", "content": prompt},
                 ],
-                temperature=0,
+                temperature=model_config.temperature,
             )
             mapped_section = response.choices[0].message.content.strip()  # type: ignore
             if mapped_section in TAXONOMY_LABELS:
@@ -74,7 +74,11 @@ class Evaluator:
         self.taxonomy = taxonomy
 
     async def evaluate_sentence(
-        self, sentence, section_type, section_title, requirements
+        self,
+        sentence: str,
+        section_type: str,
+        section_title: str,
+        requirements: dict,
     ):
         sentence_result = {
             "sentence": sentence,

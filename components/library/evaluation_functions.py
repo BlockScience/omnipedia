@@ -44,7 +44,7 @@ class EvaluationFunctions:
                     },
                     {"role": "user", "content": prompt},
                 ],
-                temperature=0,
+                temperature=self.model_config.temperature,
             )
             result = response.choices[0].message.content.strip()  # type: ignore
             score_match = re.search(r"Score:\s*([0-9]*\.?[0-9]+)", result)

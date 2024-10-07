@@ -10,6 +10,7 @@ class ModelConfig:
     base_url: str | None = None
     api_key: str | None = None
     provider: str = "openai"
+    temperature: float = 0.0
 
     @property
     def model(self):
