@@ -3,12 +3,13 @@ import json
 import logging
 from typing import Dict
 
+
 def load_taxonomy(taxonomy_file_path: str) -> Dict:
     """
     Loads taxonomy from a JSON file.
     """
     try:
-        with open(taxonomy_file_path, 'r') as file:
+        with open(taxonomy_file_path, "r") as file:
             taxonomy = json.load(file)
         return taxonomy
     except FileNotFoundError:

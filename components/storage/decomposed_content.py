@@ -1,6 +1,7 @@
 # components/storage/decomposed_content.py
 from typing import Dict, Tuple
 
+
 class DecomposedContentStorage:
     def __init__(self):
         self.content: Dict[str, Tuple[str, str]] = {}
