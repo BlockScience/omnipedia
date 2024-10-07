@@ -1,10 +1,11 @@
 # utils/config.py
 import logging
 
-from pydantic import BaseModel
+from dataclasses import dataclass
 
 
-class ModelConfig(BaseModel):
+@dataclass
+class ModelConfig:
     model_id: str
     base_url: str | None = None
     api_key: str | None = None
