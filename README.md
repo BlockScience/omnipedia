@@ -58,6 +58,7 @@ project_root/
 The project relies on the following Python packages:
 
 - `aiofiles`
+- `litellm`
 - `mwparserfromhell`
 - `nltk`
 - `openai`
