@@ -1,0 +1,3 @@
+# Omnipedia Mono
+
+Omnipedia is a comprehensive platform designed to convert and manage Wikipedia articles efficiently. The client-side application allows users to input Wikipedia URLs and receive structured Markdown representations of the articles, preserving all essential elements such as titles, sections, templates, and references. The backend processes these requests, utilizing advanced models to ensure accurate extraction and conversion of content. This project includes tools for extracting requirements from style guides and evaluating article sections against predefined criteria, making it a robust solution for managing and presenting Wikipedia content.

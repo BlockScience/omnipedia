@@ -1,0 +1,666 @@
+{
+    "sections": [
+        {
+            "title": "ABCC11",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R4",
+                    "applicable": true,
+                    "applicability_reasoning": "The article title 'ABCC11' is the recommended UniProt protein name and is relatively short.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Title is 'ABCC11', which is the recommended UniProt protein name.",
+                    "reasoning": "The title correctly uses the recommended UniProt protein name and is appropriately short.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "The article title 'ABCC11' is the official HUGO gene symbol and should be written in italic font style.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "Title 'ABCC11' is not presented in italic font style.",
+                    "reasoning": "The official HUGO gene symbol should be written in italic font style, but the title lacks this formatting.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R8",
+                    "applicable": true,
+                    "applicability_reasoning": "The title uses the abbreviation 'ABCC11' instead of the full gene name, which aligns with the preference for abbreviations.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Title uses the abbreviation 'ABCC11' instead of a full gene name.",
+                    "reasoning": "The title aligns with the preference for using abbreviations as specified in the style guide.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "The gene name 'ABCC11' is written in all capitals, adhering to the guideline for human gene names.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Gene name 'ABCC11' is written in all capitals.",
+                    "reasoning": "The gene name adheres to the guideline for human gene names by being in all capitals.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R14",
+                    "applicable": true,
+                    "applicability_reasoning": "An infobox should be included at the top of the article, which corresponds to this section.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "No infobox is included at the top of the article.",
+                    "reasoning": "An infobox, which should be present at the beginning of the article, is missing.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R32",
+                    "applicable": true,
+                    "applicability_reasoning": "The article should be added to at least one appropriate category.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "The article is not added to any category.",
+                    "reasoning": "The article should be categorized appropriately, but no category assignments are present.",
+                    "overlap_notes": null
+                }
+            ],
+            "meta_notes": "The section lacks content and necessary elements such as an infobox and category assignments."
+        },
+        {
+            "title": "Overview",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "The section contains article prose where avoiding listing authors' qualifications is relevant.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section does not mention any authors' qualifications, focusing solely on the ABCC11 gene and its functions.",
+                    "reasoning": "The content effectively avoids listing authors' qualifications, adhering to the requirement.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "The section focuses on the ABCC11 gene and its protein functions rather than on study authors.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section centers on the ABCC11 gene and its protein functions rather than on study authors.",
+                    "reasoning": "The focus remains on the gene's biological aspects, satisfying the requirement to prioritize content over authors.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "The section includes gene symbols which should follow HUGO standards and italics formatting.",
+                    "score": 0.8,
+                    "confidence": 0.9,
+                    "evidence": "The gene symbol 'ABCC11' is correctly in all capitals but is not italicized as per HUGO standards.",
+                    "reasoning": "While the gene symbol follows capitalization guidelines, the lack of italicization slightly detracts from full compliance.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R8",
+                    "applicable": true,
+                    "applicability_reasoning": "The section uses both abbreviation ('ABCC11') and full gene names; thus preference for abbreviations is relevant.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section consistently uses the abbreviation 'ABCC11' after its initial mention.",
+                    "reasoning": "The preference for abbreviations is maintained throughout the section, aligning with the requirement.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "The gene name 'ABCC11' is correctly in all capitals for a human gene, aligning with nomenclature guidelines.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The gene name 'ABCC11' is presented in all capital letters, conforming to human gene nomenclature guidelines.",
+                    "reasoning": "Proper capitalization of the gene symbol ensures adherence to nomenclature standards.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "The section uses recommended gene symbol usage, such as 'the ABCC11 gene encodes...'.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Usage of the gene symbol is correct, e.g., 'the ABCC11 gene encodes...'.",
+                    "reasoning": "The gene symbol is used appropriately in the context of the sentence, meeting the recommendation.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R11",
+                    "applicable": true,
+                    "applicability_reasoning": "The section references the gene, and avoiding redundancy in phrasing is relevant when doing so.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Phrasing such as 'The ABCC11 gene encodes...' avoids redundancy.",
+                    "reasoning": "The section maintains clear and non-redundant language when referencing the gene.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R22",
+                    "applicable": true,
+                    "applicability_reasoning": "The section describes the function of the ABCC11 protein, aligning with R22.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Detailed description of the ABCC11 protein's role in transporting lipophilic compounds and its physiological processes.",
+                    "reasoning": "Comprehensive explanation of the protein's function aligns perfectly with the requirement.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R24",
+                    "applicable": true,
+                    "applicability_reasoning": "The section lists conditions related to genetic polymorphisms, which aligns with listing clinical significance.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Mentions conditions like axillary osmidrosis and pharmacogenetic implications related to genetic polymorphisms.",
+                    "reasoning": "Proper listing of clinical significances connected to genetic variations fulfills the requirement.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R25",
+                    "applicable": true,
+                    "applicability_reasoning": "The section contains article prose where avoiding mention of research groups is relevant.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "No mention of research groups; focuses purely on gene and protein information.",
+                    "reasoning": "The absence of research group mentions ensures compliance with the requirement.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R28",
+                    "applicable": true,
+                    "applicability_reasoning": "The section includes inline citations, aligning with the requirement for dense citations.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Inline citations are used appropriately, e.g., (Ishikawa2013Pharmacogenetics; Toyoda2009Earwax).",
+                    "reasoning": "The inclusion of inline citations supports the requirement for dense and relevant referencing.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R29",
+                    "applicable": true,
+                    "applicability_reasoning": "The section includes citations, thus ensuring consistent formatting is relevant.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Citations are consistently formatted without variations in style.",
+                    "reasoning": "Uniform citation formatting throughout the section meets the consistency requirement.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R30",
+                    "applicable": true,
+                    "applicability_reasoning": "The section includes citations where 'Retrieved on' dates might be improperly used, making this requirement applicable.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "No 'Retrieved on' dates are present in the inline citations.",
+                    "reasoning": "The absence of 'Retrieved on' dates adheres to the requirement of avoiding improper citation details.",
+                    "overlap_notes": null
+                }
+            ],
+            "meta_notes": "The section is well-structured and adheres closely to most style guide requirements. Minor improvement is needed in italicizing gene symbols as per HUGO standards."
+        },
+        {
+            "title": "Structure",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "The section contains article prose with citations, making R1 relevant to ensure that author qualifications are not listed.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section does not list author qualifications, only includes standard citations like (Ishikawa2013Pharmacogenetics; Toyoda2009Earwax).",
+                    "reasoning": "No author qualifications are included, compliant with R1 requirements.",
+                    "overlap_notes": ""
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "The section focuses on the ABCC11 protein's structure, aligning with R2's emphasis on concentrating on the gene or protein rather than study authors.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section discusses the ABCC11 protein and gene structure, not focusing on study authors.",
+                    "reasoning": "Content aligns with R2's requirement to concentrate on gene or protein rather than study authors.",
+                    "overlap_notes": ""
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "Gene symbols like ABCC11 should follow nomenclature guidelines, such as being italicized, making R7 relevant.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "The gene symbol ABCC11 is not italicized as per nomenclature guidelines.",
+                    "reasoning": "R7 requires gene symbols to be italicized, which is not followed in the section.",
+                    "overlap_notes": ""
+                },
+                {
+                    "requirement_id": "R8",
+                    "applicable": true,
+                    "applicability_reasoning": "The section uses abbreviations for genes, aligning with R8's preference for using abbreviations over full gene names.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The gene is consistently referred to by its abbreviation ABCC11 rather than the full name.",
+                    "reasoning": "Abbreviations are used in alignment with R8's preference for abbreviations over full gene names.",
+                    "overlap_notes": ""
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "ABCC11 is a human gene and should be written in all capitals, as specified in R9.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The gene symbol ABCC11 is written in all capital letters.",
+                    "reasoning": "ABCC11 is appropriately written in all capitals, as specified in R9.",
+                    "overlap_notes": ""
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "The section uses recommended gene symbol usage, such as 'ABCC11 gene,' which aligns with R10.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The term 'ABCC11 gene' is used appropriately.",
+                    "reasoning": "The gene symbol usage aligns with R10's recommendations.",
+                    "overlap_notes": ""
+                },
+                {
+                    "requirement_id": "R11",
+                    "applicable": true,
+                    "applicability_reasoning": "The section avoids redundant phrasing when referencing gene symbols, adhering to R11.",
+                    "score": 1.0,
+                    "confidence": 0.9,
+                    "evidence": "ABCC11 is used appropriately without unnecessary repetition beyond defining protein and gene.",
+                    "reasoning": "The references to ABCC11 do not show redundant phrasing, complying with R11.",
+                    "overlap_notes": ""
+                },
+                {
+                    "requirement_id": "R20",
+                    "applicable": true,
+                    "applicability_reasoning": "The Structure section discusses protein details and should avoid repeating basic protein information from the infobox, as per R20.",
+                    "score": 1.0,
+                    "confidence": 0.9,
+                    "evidence": "The section provides detailed structural information beyond basic infobox data.",
+                    "reasoning": "Content avoids redundant repetition of basic information, complying with R20.",
+                    "overlap_notes": ""
+                },
+                {
+                    "requirement_id": "R25",
+                    "applicable": true,
+                    "applicability_reasoning": "The Structure section includes article text with citations, making R25 relevant to ensure that research groups or institutions are not mentioned.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section does not mention research groups or institutions, only cites studies.",
+                    "reasoning": "Compliant with R25 by preventing mention of research groups or institutions.",
+                    "overlap_notes": ""
+                },
+                {
+                    "requirement_id": "R28",
+                    "applicable": true,
+                    "applicability_reasoning": "The Structure section includes inline citations, making R28 relevant to ensure dense and specific referencing.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section utilizes inline citations effectively, such as (Ishikawa2013Pharmacogenetics; Toyoda2009Earwax).",
+                    "reasoning": "Inline citations are used densely and specifically, as required by R28.",
+                    "overlap_notes": ""
+                },
+                {
+                    "requirement_id": "R29",
+                    "applicable": true,
+                    "applicability_reasoning": "The Structure section contains citations, so R29 applies to ensure consistent citation formatting within the section.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Citations are consistently formatted throughout the section.",
+                    "reasoning": "Consistent citation formatting is maintained, adhering to R29.",
+                    "overlap_notes": ""
+                }
+            ],
+            "meta_notes": "The gene symbol ABCC11 should be italicized according to nomenclature guidelines (R7)."
+        },
+        {
+            "title": "Function",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "The Function section includes inline citations to studies, so it's important to ensure that authors' qualifications are not listed, adhering to R1.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The Function section includes inline citations without listing authors' qualifications.",
+                    "reasoning": "The section appropriately uses inline citations to reference studies without mentioning the authors' qualifications, adhering to R1.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "R2 is applicable as the Function section focuses on the gene and protein functions rather than the study authors.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The content focuses exclusively on the gene and protein functions, not on study authors.",
+                    "reasoning": "R2 requires the Function section to concentrate on gene/protein functions, which it successfully does.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "R7 is applicable as the Function section mentions the gene symbol 'ABCC11', which should follow HUGO nomenclature and be italicized.",
+                    "score": 0.9,
+                    "confidence": 0.9,
+                    "evidence": "The gene symbol 'ABCC11' is correctly used, but there is no indication of italics in the plain text format.",
+                    "reasoning": "While 'ABCC11' follows the HUGO nomenclature, the absence of italics (which may be a formatting limitation) slightly detracts from full compliance.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R8",
+                    "applicable": true,
+                    "applicability_reasoning": "R8 is applicable because the Function section uses the abbreviation 'ABCC11', aligning with the recommendation to prefer abbreviations over full gene names.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The abbreviation 'ABCC11' is consistently used after the initial mention.",
+                    "reasoning": "R8 emphasizes the preference for abbreviations over full gene names, which is correctly implemented in the section.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "R9 is applicable since the gene symbol 'ABCC11' is a human gene and should be written in all capitals.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The gene symbol 'ABCC11' is written in all capitals throughout the section.",
+                    "reasoning": "Proper formatting for human gene symbols in all capitals is maintained, fulfilling R9.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "R10 is applicable as the Function section uses the gene symbol within sentence structures, following recommended usage.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The gene symbol 'ABCC11' is seamlessly integrated within sentence structures.",
+                    "reasoning": "R10 pertains to the correct usage of gene symbols within sentences, which is effectively demonstrated.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R21",
+                    "applicable": true,
+                    "applicability_reasoning": "R21 is applicable as the Function section describes tissue expression and subcellular localization of the protein.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section describes expression in apocrine glands, axillae, cerumen glands, and mentions subcellular localization.",
+                    "reasoning": "Comprehensive description of tissue expression and localization meets the requirements of R21.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R22",
+                    "applicable": true,
+                    "applicability_reasoning": "R22 is directly applicable since the Function section provides a detailed description of the protein's function.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Detailed functions of the ABCC11 protein, including its role as an efflux transporter and involvement in secretion processes.",
+                    "reasoning": "The section provides an in-depth explanation of the protein's functions, satisfying R22.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R24",
+                    "applicable": true,
+                    "applicability_reasoning": "R24 is applicable as the Function section mentions physiological conditions like axillary osmidrosis and drug response related to the gene.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Mentions physiological conditions such as axillary osmidrosis and the pharmacogenetics of drug response.",
+                    "reasoning": "By linking ABCC11 to specific physiological conditions, the section adheres to R24.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R28",
+                    "applicable": true,
+                    "applicability_reasoning": "R28 is applicable as the Function section includes multiple inline citations and should ensure they are dense and specific.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Multiple inline citations are densely and specifically integrated within the text.",
+                    "reasoning": "R28 requires the use of dense and specific citations, which is effectively achieved in the section.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R29",
+                    "applicable": true,
+                    "applicability_reasoning": "R29 is applicable because the Function section contains citations, which should be consistently formatted.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Citations follow a consistent format, such as (Toyoda2016Diagnosis; Ishikawa2013Pharmacogenetics).",
+                    "reasoning": "Consistent formatting of citations across the section fulfills the requirements of R29.",
+                    "overlap_notes": null
+                }
+            ],
+            "meta_notes": "The Function section is well-structured, thoroughly addressing all applicable style guide requirements with minor formatting considerations regarding gene symbol italics."
+        },
+        {
+            "title": "Clinical Significance",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R1",
+                    "applicable": true,
+                    "applicability_reasoning": "The Clinical Significance section contains article prose, making the General Considerations R1 relevant.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section is well-written, clear, and focuses on the clinical implications of the ABCC11 gene mutations.",
+                    "reasoning": "The content is presented in a coherent manner, effectively conveying the significance of the gene mutations without unnecessary complexity.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "The section focuses on the gene's clinical implications rather than study authors, aligning with General Considerations R2.",
+                    "score": 1.0,
+                    "confidence": 0.9,
+                    "evidence": "The section exclusively discusses the clinical implications of ABCC11 mutations without referencing study authors.",
+                    "reasoning": "The focus remains on the gene's effects and associated conditions, aligning with General Considerations R2.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "The gene symbol 'ABCC11' is used correctly in accordance with HUGO Gene Nomenclature, making R7 applicable.",
+                    "score": 1.0,
+                    "confidence": 0.98,
+                    "evidence": "The gene symbol 'ABCC11' is used consistently and correctly throughout the section.",
+                    "reasoning": "Adheres to HUGO Gene Nomenclature by using the correct gene symbol in appropriate contexts.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R8",
+                    "applicable": true,
+                    "applicability_reasoning": "The section consistently uses the abbreviation 'ABCC11' instead of the full gene name, adhering to R8.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The abbreviation 'ABCC11' is used consistently without introducing the full gene name.",
+                    "reasoning": "Consistent use of the abbreviation throughout the section aligns with R8 requirements.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "Human gene symbols are written in all capitals ('ABCC11'), following the guidelines of R9.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The gene symbol 'ABCC11' is written in all capital letters throughout the section.",
+                    "reasoning": "Correct formatting of human gene symbols in all capitals as per R9 guidelines.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "The gene symbol is used in recommended contexts, such as 'the ABCC11 gene is associated with...', complying with R10.",
+                    "score": 1.0,
+                    "confidence": 0.9,
+                    "evidence": "Phrases like 'the ABCC11 gene is associated with...' are correctly used.",
+                    "reasoning": "Gene symbol is used in recommended contexts, fulfilling R10 requirements.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R11",
+                    "applicable": true,
+                    "applicability_reasoning": "There is no redundant phrasing like 'the gene 'ABCC11' is...', adhering to R11 guidelines.",
+                    "score": 1.0,
+                    "confidence": 0.9,
+                    "evidence": "There is no redundant phrasing such as 'the gene 'ABCC11' is...'.",
+                    "reasoning": "The section avoids unnecessary repetition, adhering to R11 guidelines.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R24",
+                    "applicable": true,
+                    "applicability_reasoning": "R24 directly pertains to listing diseases and conditions resulting from gene mutations, which is the primary focus of the Clinical Significance section.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Lists conditions like axillary osmidrosis and breast cancer risk associated with ABCC11 mutations.",
+                    "reasoning": "Directly addresses diseases and conditions resulting from gene mutations, aligning with R24.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R28",
+                    "applicable": true,
+                    "applicability_reasoning": "The section includes dense inline citations, adhering to the requirements of R28.",
+                    "score": 1.0,
+                    "confidence": 0.9,
+                    "evidence": "Uses dense inline citations such as (Toyoda2016Diagnosis; Toyoda2010Pharmacogenomics).",
+                    "reasoning": "Inline citations are appropriately dense and formatted as per R28 requirements.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R29",
+                    "applicable": true,
+                    "applicability_reasoning": "Citation formatting appears consistent throughout the Clinical Significance section, complying with R29.",
+                    "score": 1.0,
+                    "confidence": 0.9,
+                    "evidence": "Citation formatting is consistent throughout the section, e.g., (Toyoda2016Diagnosis; Toyoda2010Pharmacogenomics).",
+                    "reasoning": "Maintains consistent citation style, complying with R29 guidelines.",
+                    "overlap_notes": null
+                }
+            ],
+            "meta_notes": "The Clinical Significance section effectively meets all applicable style guide requirements with clear evidence and consistent formatting."
+        },
+        {
+            "title": "Interactions",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R2",
+                    "applicable": true,
+                    "applicability_reasoning": "The section focuses on the interactions and functions of ABCC11 rather than on study authors.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "The section focuses on ABCC11 interactions and functions without mentioning study authors.",
+                    "reasoning": "The content aligns with the requirement by concentrating on the gene's interactions rather than on study authors.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R7",
+                    "applicable": true,
+                    "applicability_reasoning": "The section uses the gene symbol 'ABCC11', which should be italicized according to HUGO guidelines.",
+                    "score": 0.0,
+                    "confidence": 0.9,
+                    "evidence": "The gene symbol 'ABCC11' is not italicized in the text.",
+                    "reasoning": "According to HUGO guidelines, gene symbols should be italicized, which was not followed in this section.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R8",
+                    "applicable": true,
+                    "applicability_reasoning": "Abbreviations such as 'ABCC11' and 'MRP8' are used instead of full gene names.",
+                    "score": 1.0,
+                    "confidence": 0.9,
+                    "evidence": "Abbreviations 'ABCC11' and 'MRP8' are used appropriately after the full name is introduced.",
+                    "reasoning": "The section introduces the full name followed by the abbreviation, adhering to standard abbreviation practices.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R9",
+                    "applicable": true,
+                    "applicability_reasoning": "The gene symbol 'ABCC11' is written in all capitals, adhering to the nomenclature guidelines for human genes.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "'ABCC11' is consistently written in all capitals throughout the section.",
+                    "reasoning": "The gene symbol adheres to the nomenclature guidelines for human genes by using all capital letters.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R10",
+                    "applicable": true,
+                    "applicability_reasoning": "Gene symbols like 'ABCC11' are used in the text in a recommended manner.",
+                    "score": 1.0,
+                    "confidence": 0.9,
+                    "evidence": "Gene symbols like 'ABCC11' are used consistently and appropriately within the text.",
+                    "reasoning": "The usage of gene symbols aligns with recommended practices, ensuring clarity and consistency.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R11",
+                    "applicable": true,
+                    "applicability_reasoning": "The section avoids redundant phrasing related to gene symbols.",
+                    "score": 1.0,
+                    "confidence": 0.9,
+                    "evidence": "There is no redundant phrasing related to the gene symbol 'ABCC11'.",
+                    "reasoning": "The section avoids unnecessary repetition of gene symbols, maintaining conciseness.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R23",
+                    "applicable": true,
+                    "applicability_reasoning": "The section lists proteins and molecules that interact with ABCC11, making R23 applicable.",
+                    "score": 0.8,
+                    "confidence": 0.85,
+                    "evidence": "Proteins and molecules such as ATP and cGMP are listed as interactors, but specific partner proteins are not detailed.",
+                    "reasoning": "While the section mentions interacting molecules, it lacks detailed information on specific protein partners, partially fulfilling the requirement.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R28",
+                    "applicable": true,
+                    "applicability_reasoning": "The section includes inline citations, adhering to the requirement for dense citation.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "Inline citations (Chen2004Transport; Honorat2013Localization) are present within the text.",
+                    "reasoning": "The section includes inline citations, adhering to the requirement for dense citation.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R29",
+                    "applicable": true,
+                    "applicability_reasoning": "The citation formatting within the section is consistent.",
+                    "score": 0.9,
+                    "confidence": 0.9,
+                    "evidence": "Citation formatting is consistent, using the format (AuthorYearTitle).",
+                    "reasoning": "Most citations follow a consistent format, though minor variations might be present depending on the full style guide.",
+                    "overlap_notes": null
+                }
+            ],
+            "meta_notes": "The section effectively covers the interactions of ABCC11 with minor formatting issues regarding italicization and limited detail on specific protein partners."
+        },
+        {
+            "title": "References",
+            "requirement_evaluations": [
+                {
+                    "requirement_id": "R29",
+                    "applicable": true,
+                    "applicability_reasoning": "R29 is applicable as it ensures consistent citation formatting within the References section.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "All references follow a consistent citation format, including numbering, author names, article titles, journal information, DOIs, and URLs.",
+                    "reasoning": "Every reference entry adheres to the same structure and formatting, ensuring consistency throughout the References section.",
+                    "overlap_notes": null
+                },
+                {
+                    "requirement_id": "R30",
+                    "applicable": true,
+                    "applicability_reasoning": "R30 is applicable as it ensures 'Retrieved on' dates are not included in convenience links within the References.",
+                    "score": 1.0,
+                    "confidence": 0.95,
+                    "evidence": "No 'Retrieved on' dates are present in the URLs of the reference entries.",
+                    "reasoning": "'Retrieved on' dates are not included, complying with the requirement to exclude them from convenience links within References.",
+                    "overlap_notes": null
+                }
+            ],
+            "meta_notes": "All applicable requirements met without issues."
+        }
+    ]
+}

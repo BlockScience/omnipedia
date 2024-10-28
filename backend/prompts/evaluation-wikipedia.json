@@ -1,0 +1,572 @@
+{
+  "sections": [
+    {
+      "title": "Introduction",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R1 pertains to article prose, which is present in the Introduction section.",
+          "score": 0.75,
+          "confidence": 0.9,
+          "evidence": "The introduction includes detailed references with author names and credentials within citation templates.",
+          "reasoning": "While the introduction provides necessary citations, it minimally lists authors' qualifications within the references, adhering largely to R1 by not overtly hyping studies.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R2 focuses on article prose, specifically in the Introduction section.",
+          "score": 0.5,
+          "confidence": 0.85,
+          "evidence": "The introduction mentions gene and protein functions but also includes specific study details related to gene discovery.",
+          "reasoning": "Partial adherence; while the focus is primarily on the gene and protein, there are mentions of studies that could be more focused on the gene/protein rather than the research context.",
+          "overlap_notes": "Minimal overlap with study-specific content."
+        },
+        {
+          "requirement_id": "R7",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as R7 concerns gene symbols in the text, which are present in the Introduction.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Gene symbols such as 'ABCC11' are correctly italicized in the text.",
+          "reasoning": "The gene symbol 'ABCC11' is properly formatted in italic as per the HUGO Gene Nomenclature Committee guidelines.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R8",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R8 recommends using gene abbreviations over full names, which is followed in the Introduction.",
+          "score": 0.75,
+          "confidence": 0.9,
+          "evidence": "Uses abbreviations like 'MRP8' alongside full protein names.",
+          "reasoning": "The section prefers abbreviations over full names in most instances, though there are instances where both are used interchangeably.",
+          "overlap_notes": "No overlaps in this context."
+        },
+        {
+          "requirement_id": "R9",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as R9 deals with the formatting of human gene names, which are present in the Introduction.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Human gene symbol 'ABCC11' is written in all capitals and italicized.",
+          "reasoning": "Correct formatting of human gene symbols in all capitals and italicized as per guidelines.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R10",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R10 pertains to the usage of gene symbols within sentence structures present in the Introduction.",
+          "score": 0.75,
+          "confidence": 0.9,
+          "evidence": "Phrases like 'encoded by ''ABCC11''' are used.",
+          "reasoning": "The usage of gene symbols aligns with recommended structures, though there could be more varied sentence constructions to fully meet R10.",
+          "overlap_notes": "No overlaps in this context."
+        },
+        {
+          "requirement_id": "R11",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as R11 advises against redundant phrasing involving gene symbols, which is relevant to the Introduction.",
+          "score": 1.0,
+          "confidence": 0.9,
+          "evidence": "Avoids phrases like 'the gene ''ABCC11'' is encoded'.",
+          "reasoning": "The introduction refrains from redundant phrasing, maintaining clarity and conciseness in referencing gene symbols.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R14",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R14 requires the inclusion of appropriate infoboxes at the top of the article, which is present in the Introduction.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Includes '{{Infobox_gene}}' template at the beginning of the introduction.",
+          "reasoning": "Proper inclusion of the gene infobox fulfills the requirement completely.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R18",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as R18 pertains to defining the scope of the article in the first sentence of the lead, which is the Introduction.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "First sentence defines the protein and its encoding gene: 'ATP-binding cassette transporter sub-family C member 11...', 'is a membrane transporter that exports certain molecules... encoded by gene ABCC11.'",
+          "reasoning": "The introduction clearly defines the scope by describing the protein's function and its encoding gene, aligning perfectly with R18.",
+          "overlap_notes": "No significant overlaps detected."
+        }
+      ],
+      "meta_notes": "The Introduction section adheres well to the relevant style guide requirements, particularly in gene nomenclature and the inclusion of infoboxes. There is room for improvement in maintaining exclusive focus on gene/protein information without delving into study-specific details."
+    },
+    {
+      "title": "Function",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R1 pertains to article prose, which is present in the Function section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The Function section does not list or hype study authors' qualifications.",
+          "reasoning": "The section fully adheres to R1 by avoiding the listing of authors' names, credentials, institutions, or qualifications, thus not hyping studies.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R2 focuses on article prose and content focus relevant to the Function section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The Function section centers on describing the protein's function and related molecular processes, without mentioning study authors.",
+          "reasoning": "The section maintains a clear focus on the gene and protein, adhering fully to R2 by avoiding discussion of study authors.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R7",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as the Function section includes gene symbols related to the subject gene.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Gene symbols such as 'ABCC11' and 'ABCC12' are used and are italicized as per HUGO guidelines.",
+          "reasoning": "The gene symbols follow HUGO Gene Nomenclature Committee standards and are correctly formatted in italic font style, fully meeting R7.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R8",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R8 recommends the use of gene abbreviations over full names, which is present in the Function section.",
+          "score": 1.0,
+          "confidence": 0.9,
+          "evidence": "Uses abbreviations like 'ABC transporters' and 'SNP' over full names within the text.",
+          "reasoning": "The Function section effectively prefers abbreviations over full gene names, adhering to R8 by utilizing standard abbreviations in the description.",
+          "overlap_notes": "No overlaps in this context."
+        },
+        {
+          "requirement_id": "R9",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as the Function section mentions human gene symbols.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Human gene symbols 'ABCC11' and 'ABCC12' are written in all capitals and italicized.",
+          "reasoning": "The gene symbols are correctly formatted in all capitals and italicized, in accordance with R9 guidelines.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R10",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as the Function section references gene symbols within sentence structures.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Phrases like 'the ABCC11 transporter is a member...' and 'encoded by gene ABCC11' are used.",
+          "reasoning": "The Function section utilizes recommended sentence structures when referencing gene symbols, fully complying with R10.",
+          "overlap_notes": "No overlaps in this context."
+        },
+        {
+          "requirement_id": "R11",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as R11 advises against redundant gene symbol phrasing, which is relevant to sentence construction in the Function section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Avoids redundant phrasing such as 'the gene ABCC11 is encoded'.",
+          "reasoning": "The Function section refrains from using redundant phrasing involving gene symbols, maintaining clarity and conciseness as per R11.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R22",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as R22 mandates describing the function of the transcribed protein, which is the focus of the Function section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The Function section details the protein's role in transport across membranes, its involvement in multi-drug resistance, and physiological processes with bile acids, steroids, and cyclic nucleotides.",
+          "reasoning": "The section thoroughly describes the function of the transcribed protein, fully complying with R22.",
+          "overlap_notes": "No significant overlaps detected."
+        }
+      ],
+      "meta_notes": "The Function section effectively describes the protein's function and adheres to gene nomenclature guidelines. All applicable requirements are fully met with clear and concise prose, and there are no overlaps or redundancies detected."
+    },
+    {
+      "title": "Molecular genetics",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R1 pertains to article prose, which is present in the Molecular genetics section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The section includes references with author names but does not mention authors' qualifications in the text.",
+          "reasoning": "The section avoids listing authors' names, credentials, institutions, or qualifications within the prose, fully adhering to R1.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R2 focuses on article prose and content focus relevant to the Molecular genetics section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The section describes gene alleles, SNPs, inheritance patterns, and protein interactions without focusing on study authors.",
+          "reasoning": "The section maintains a clear focus on the gene and its molecular genetics, fully adhering to R2 by avoiding discussion of study authors.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R7",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as the Molecular genetics section includes gene symbols related to the subject gene.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Gene symbols such as 'ABCC11' and 'ABCC12' are written in italic as ''ABCC11''.",
+          "reasoning": "The gene symbols follow HUGO Gene Nomenclature Committee standards and are correctly formatted in italic font style, fully meeting R7.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R8",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R8 recommends using gene abbreviations over full names, which is followed in the Molecular genetics section.",
+          "score": 0.75,
+          "confidence": 0.9,
+          "evidence": "Uses abbreviations like 'SNP' alongside full terms such as 'single nucleotide polymorphism (SNP)'.",
+          "reasoning": "The section prefers abbreviations over full names in most instances, though there are instances where both are used for clarity.",
+          "overlap_notes": "No overlaps in this context."
+        },
+        {
+          "requirement_id": "R9",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as the Molecular genetics section mentions human gene symbols.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Human gene symbols 'ABCC11' and 'ABCC12' are written in all capitals and italicized.",
+          "reasoning": "The gene symbols are correctly formatted in all capitals and italicized, in accordance with R9 guidelines.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R10",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as the Molecular genetics section references gene symbols within sentence structures.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Phrases like 'encoded by gene ABCC11' and 'the ABCC11 gene's role' are used.",
+          "reasoning": "The Molecular genetics section utilizes recommended sentence structures when referencing gene symbols, fully complying with R10.",
+          "overlap_notes": "No overlaps in this context."
+        },
+        {
+          "requirement_id": "R11",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as R11 advises against redundant phrasing involving gene symbols, which is relevant to the Molecular genetics section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Avoids redundant phrasing such as 'the gene ABCC11 is encoded'.",
+          "reasoning": "The Molecular genetics section refrains from using redundant phrasing involving gene symbols, maintaining clarity and conciseness as per R11.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R12",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R12 involves maintaining standard formats for diagrams, and the section includes an image.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Includes 'File:ABCC11 genmap 01.svg' with standard labeling and formatting.",
+          "reasoning": "The diagram follows the standard format guidelines, fulfilling R12 completely.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R13",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as R13 involves suggesting expansions to standardized formatting, which is not required here since R12 is met.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The included diagram adheres to standard formatting guidelines.",
+          "reasoning": "Since the diagram meets standard format requirements, no need for expansions, thus fully adhering to R13.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R21",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because the section describes subcellular localization and species-specific information.",
+          "score": 1.0,
+          "confidence": 0.9,
+          "evidence": "Mentions 'cell surface membrane' localization and discusses species-specific expressions.",
+          "reasoning": "The section concisely describes subcellular localization and species expression, fulfilling R21 requirements.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R25",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R25 prohibits mentioning research groups or institutions in the article text, which is relevant to the Molecular genetics section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Does not mention research groups or institutions in the text, only references studies.",
+          "reasoning": "Fully adheres to R25 by avoiding direct mentions of research groups or institutions.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R28",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as the section includes dense inline citations to support factual claims.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Multiple inline references are used to cite sources throughout the section.",
+          "reasoning": "The section meets the requirement for dense inline citations, ensuring information is well-supported.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R29",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R29 ensures consistent citation formatting within the article.",
+          "score": 1.0,
+          "confidence": 0.9,
+          "evidence": "Citations are consistently formatted using '{{cite journal}}' templates.",
+          "reasoning": "The citation formatting is consistent throughout the section, adhering to R29.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R30",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R30 prohibits adding 'Retrieved on' dates for convenience links, which is relevant to the citations in this section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "No 'Retrieved on' dates are present in the citation templates used.",
+          "reasoning": "Fully complies with R30 by not including unnecessary 'Retrieved on' dates in citations.",
+          "overlap_notes": "No significant overlaps detected."
+        }
+      ],
+      "meta_notes": "The Molecular genetics section adheres fully to the relevant style guide requirements, particularly in gene nomenclature, citation practices, and the inclusion of standardized diagrams. The section effectively avoids mentioning research groups or institutions, maintains consistent formatting, and provides detailed genetic information concisely. Minor improvements could include increasing the preference for abbreviations consistently throughout the section."
+    },
+    {
+      "title": "Demographics",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R1",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R1 pertains to article prose, which is present in the Demographics section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The Demographics section includes inline citations without mentioning authors' qualifications or listing authors' credentials within the text.",
+          "reasoning": "The section fully complies with R1 by not listing authors' qualifications, avoiding hype of studies.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R2",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R2 focuses on article prose content, which is present in the Demographics section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The prose centers on allele distribution and population genetics, without discussing study authors or their contributions.",
+          "reasoning": "The section maintains focus on gene information, fully adhering to R2 by avoiding mention of study authors.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R7",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as R7 pertains to gene symbol formatting, which is used in the Demographics section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Gene symbols such as ''ABCC11'' and 'rs17822931' are correctly italicized in the text.",
+          "reasoning": "The gene abbreviations follow HUGO standards and are in italic font style, fully adhering to R7.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R8",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R8 recommends using abbreviations over full gene names, which is relevant in the Demographics section.",
+          "score": 0.75,
+          "confidence": 0.9,
+          "evidence": "Uses abbreviations like 'SNP' alongside full terms such as 'single nucleotide polymorphism (SNP)'.",
+          "reasoning": "The section effectively uses abbreviations, though occasionally uses full terms alongside abbreviations for clarity, which partially adheres to R8.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R9",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as R9 pertains to gene name formatting, which is used in the Demographics section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Human gene symbol 'ABCC11' is written in all capitals and italicized.",
+          "reasoning": "The gene symbols are correctly formatted in all capitals and italicized as per R9 guidelines.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R10",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as R10 pertains to sentence structures when using gene symbols, present in the Demographics section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Phrases like 'the ABCC11 gene is...' are used properly.",
+          "reasoning": "The section follows recommended sentence structures when referencing gene symbols, fully complying with R10.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R11",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as R11 pertains to sentence construction in the Demographics section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "No redundant phrasing involving gene symbols like 'the gene ABCC11 is regulated' is present.",
+          "reasoning": "The Demographics section avoids redundant phrasing involving gene symbols, fully adhering to R11.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R12",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as R12 pertains to diagram formatting, which is included in the Demographics section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Includes 'File:World map ABCC11 A Allele.svg' with standard labeling and formatting.",
+          "reasoning": "The diagram follows standard format guidelines, fully adhering to R12.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R13",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as R13 pertains to diagram formatting guidance, already met.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The included diagram adheres to standard formatting guidelines.",
+          "reasoning": "Since the diagram meets standard format requirements, no need for expansions, thus fully adhering to R13.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R28",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as R28 pertains to inline citations, which are present in the Demographics section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Multiple inline references are used to cite sources throughout the section.",
+          "reasoning": "The section meets the requirement for dense inline citations, ensuring information is well-supported.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R29",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as R29 relates to citation formatting, relevant in the Demographics section.",
+          "score": 1.0,
+          "confidence": 0.9,
+          "evidence": "Citations are consistently formatted using '{{cite journal}}' templates.",
+          "reasoning": "The citation formatting is consistent throughout the section, adhering to R29.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R30",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as R30 relates to citation formatting with regard to 'Retrieved on' dates, relevant in the Demographics section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "No 'Retrieved on' dates are present in the citation templates used.",
+          "reasoning": "Fully complies with R30 by not including unnecessary 'Retrieved on' dates in citations.",
+          "overlap_notes": "No significant overlaps detected."
+        }
+      ],
+      "meta_notes": "The Demographics section effectively presents allele frequency data with correct gene nomenclature and standard diagram inclusion. Inline citations are dense and consistently formatted, adhering fully to citation guidelines. There is minor room for improvement in the preferential use of gene abbreviations."
+    },
+    {
+      "title": "See also",
+      "requirement_evaluations": [],
+      "meta_notes": "No specific style guide requirements apply to the 'See also' section based on the provided guidelines."
+    },
+    {
+      "title": "References",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R29",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R29 ensures consistent citation formatting within the article, which is relevant in the References section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Citations are consistently formatted using '{{Reflist}}' and '{{NLM content}}' templates.",
+          "reasoning": "The References section utilizes standard citation templates, ensuring consistent formatting throughout.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R30",
+          "applicable": true,
+          "applicability_reasoning": "Applicable as R30 prohibits adding 'Retrieved on' dates for convenience links to online editions of paper journals, relevant to the formatting in the References section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "No 'Retrieved on' dates are present in the citation templates used.",
+          "reasoning": "References section complies with R30 by not including unnecessary 'Retrieved on' dates in citations.",
+          "overlap_notes": "No significant overlaps detected."
+        }
+      ],
+      "meta_notes": "The References section properly implements standard citation templates without including 'Retrieved on' dates, ensuring consistent and correct citation formatting as per guidelines."
+    },
+    {
+      "title": "Citations",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R29",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R29 ensures consistent citation formatting within the article, which is relevant in the Citations section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Uses '{{Reflist}}' template to generate the references list consistently.",
+          "reasoning": "The '{{Reflist}}' template standardizes citation formatting, ensuring consistency throughout the article.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R30",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R30 prohibits adding 'Retrieved on' dates for convenience links in citations, which is relevant to the Citations section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "The '{{Reflist}}' template does not include 'Retrieved on' dates by default.",
+          "reasoning": "By using '{{Reflist}}', the section avoids adding unnecessary 'Retrieved on' dates, fully complying with R30.",
+          "overlap_notes": "No significant overlaps detected."
+        }
+      ],
+      "meta_notes": "The Citations section properly implements the '{{Reflist}}' template, ensuring consistent citation formatting and adhering to guidelines by excluding 'Retrieved on' dates for convenience links."
+    },
+    {
+      "title": "Sources",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R29",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R29 ensures consistent citation formatting within the article, which is relevant in the Sources section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Citations are consistently formatted using '{{NLM content}}' template within list items.",
+          "reasoning": "The 'Sources' section employs the '{{NLM content}}' template consistently for formatting citations throughout the section, adhering to R29.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R30",
+          "applicable": true,
+          "applicability_reasoning": "Applicable because R30 prohibits adding 'Retrieved on' dates for convenience links to online editions of paper journals, which is relevant to the formatting in the Sources section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "No 'Retrieved on' dates are present in the '{{NLM content}}' template used.",
+          "reasoning": "The 'Sources' section uses the '{{NLM content}}' template without including 'Retrieved on' dates, fully complying with R30.",
+          "overlap_notes": "No significant overlaps detected."
+        }
+      ],
+      "meta_notes": "The Sources section consistently formats citations using the '{{NLM content}}' template and adheres to citation guidelines by excluding 'Retrieved on' dates."
+    },
+    {
+      "title": "Further reading",
+      "requirement_evaluations": [
+        {
+          "requirement_id": "R29",
+          "applicable": true,
+          "applicability_reasoning": "R29 ensures consistent citation formatting within an article, which applies to the 'Further reading' section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "Citations in the 'Further reading' section consistently use the '{{cite journal}}' template with standard fields.",
+          "reasoning": "All citations are formatted consistently using the '{{cite journal}}' template, adhering to R29.",
+          "overlap_notes": "No significant overlaps detected."
+        },
+        {
+          "requirement_id": "R30",
+          "applicable": true,
+          "applicability_reasoning": "R30 prohibits adding 'Retrieved on' dates for convenience links to online editions of paper journals, which applies to the citations in the 'Further reading' section.",
+          "score": 1.0,
+          "confidence": 0.95,
+          "evidence": "None of the citations in the 'Further reading' section include 'Retrieved on' dates.",
+          "reasoning": "All citations correctly exclude 'Retrieved on' dates, fully complying with R30.",
+          "overlap_notes": "No significant overlaps detected."
+        }
+      ],
+      "meta_notes": "The 'Further reading' section correctly formats citations consistently using '{{cite journal}}' templates and adheres to citation formatting guidelines by avoiding 'Retrieved on' dates in convenience links."
+    },
+    {
+      "title": "External links",
+      "requirement_evaluations": [],
+      "meta_notes": "No specific style guide requirements apply to the 'External links' section based on the provided guidelines."
+    }
+  ]
+}
