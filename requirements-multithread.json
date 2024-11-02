@@ -1,0 +1,187 @@
+{
+  "groups": [
+    {
+      "description": "Requirements related to maintaining the intended focus and scope of the style guide content.",
+      "category": "Content",
+      "requirements": [
+        {
+          "id": "R1",
+          "description": "Keep the page focused on providing advice for editing Wikipedia articles as per project's intentions.",
+          "reference": "Please remember, this page is for the use of the project in determining a set of advice on how to edit Wikipedia articles so please, keep this page restricted to these intentions as there is already a large amount of material on the subjects themselves in their respective articles which can be researched starting with [[music theory]].",
+          "category": "Content",
+          "classification": "Imperative Standards",
+          "where": "Entire style guide page",
+          "when": "Always"
+        }
+      ]
+    },
+    {
+      "description": "Guidelines on general terminology usages in musical contexts.",
+      "category": "Language Usage",
+      "requirements": [
+        {
+          "id": "R2",
+          "description": "Prefer using 'Intensity' or 'Dynamics' over 'Volume' unless referring to electronically amplified music.",
+          "reference": "[[loudness|Intensity]] or [[Dynamics (music)|dynamics]] is preferred over [[volume]] unless referring to electronically amplified music. This is because volume is not referring to the amplitude of the waves the instrument is producing, but the amount of space (volume) the sound fills.",
+          "category": "Language Usage",
+          "classification": "Best Practices",
+          "where": "Terminology sections within articles",
+          "when": "When referring to dynamics in music contexts"
+        },
+        {
+          "id": "R3",
+          "description": "Prefer using 'semitone' and 'whole tone' over 'half step' and 'whole step' when referring to musical intervals.",
+          "reference": "[[semitone]] and [[whole tone]] preferred to [[half step]] and [[whole step]]; only use [[minor second]] and [[major second]] in contexts where their diatonic meaning is significant.",
+          "category": "Language Usage",
+          "classification": "Best Practices",
+          "where": "Terminology sections within articles",
+          "when": "When referring to musical intervals and steps"
+        },
+        {
+          "id": "R4",
+          "description": "Use 'minor second' and 'major second' only in contexts where their diatonic meaning is significant.",
+          "reference": "only use [[minor second]] and [[major second]] in contexts where their diatonic meaning is significant.",
+          "category": "Language Usage",
+          "classification": "Best Practices",
+          "where": "Terminology sections within articles",
+          "when": "When the diatonic meaning is significant in context"
+        },
+        {
+          "id": "R5",
+          "description": "Prefer using 'supertonic', 'mediant', etc. over the German system equivalents like 'subdominant parallel'.",
+          "reference": "[[supertonic]], [[mediant]], etc. preferred to German system ([[subdominant parallel]] etc.). [[Subtonic]] is a whole step below the tonic; [[leading-tone]] (or leading-note) a half-step below.",
+          "category": "Language Usage",
+          "classification": "Best Practices",
+          "where": "Terminology sections within articles",
+          "when": "When referring to scale degrees in musical analysis"
+        },
+        {
+          "id": "R6",
+          "description": "Avoid using scale degree numbers unless the names would be awkward in a melody description.",
+          "reference": "avoid scale degree numbers unless describing a melody where the names above would be awkward",
+          "category": "Language Usage",
+          "classification": "Imperative Standards",
+          "where": "Terminology sections within articles",
+          "when": "When scale degree names are applicable and avoiding awkwardness"
+        },
+        {
+          "id": "R7",
+          "description": "Avoid using solfege except in music-education contexts.",
+          "reference": "[[solfege]] (Do, Re, Mi etc...) is ambiguous because of [[fixed-do]] vs [[moveable-do]] meanings, and varying use in the minor mode; avoid except in music-education contexts",
+          "category": "Language Usage",
+          "classification": "Contextual Considerations",
+          "where": "Terminology sections within articles",
+          "when": "When not in music-education contexts"
+        },
+        {
+          "id": "R8",
+          "description": "Use 'common practice period' when applicable.",
+          "reference": "Use [[common practice period]] when applicable.",
+          "category": "Language Usage",
+          "classification": "Imperative Standards",
+          "where": "Terminology sections within articles",
+          "when": "When applicable to the content"
+        },
+        {
+          "id": "R9",
+          "description": "Use 'key change' if you want to be understood by a wider readership.",
+          "reference": "use 'key change' if you want to be understood by a wider readership.",
+          "category": "Language Usage",
+          "classification": "Best Practices",
+          "where": "Terminology sections within articles",
+          "when": "When catering to a wider readership"
+        },
+        {
+          "id": "R10",
+          "description": "Roman numerals may be used, singly or in combination with figured bass, only when discussing subjects whose readers could be expected to understand them.",
+          "reference": "[[Roman numerals]] may be used, singly or in combination with figured bass (e.g., IV<sup>6</sup>), but only when discussing subjects whose readers could be expected to understand them.",
+          "category": "Language Usage",
+          "classification": "Contextual Considerations",
+          "where": "Harmonic analysis sections within articles",
+          "when": "When discussing subjects understood by the readership"
+        },
+        {
+          "id": "R11",
+          "description": "Prefer using 'musical form' over 'structure' and 'content'.",
+          "reference": "[[musical form]] preferred to [[structure]], [[content]]",
+          "category": "Language Usage",
+          "classification": "Best Practices",
+          "where": "Form sections within articles",
+          "when": "When discussing musical formal structures"
+        },
+        {
+          "id": "R12",
+          "description": "Use 'blank (music)' unless there is a specific reason to distinguish.",
+          "reference": "\"musical blank\" vs \"blank (music)\" - use the latter unless there is a reason to distinguish, such as [[musical bow]] and [[bow (music)]]",
+          "category": "Language Usage",
+          "classification": "Imperative Standards",
+          "where": "Terminology sections within articles",
+          "when": "When referring to general musical terms without need for distinction"
+        },
+        {
+          "id": "R13",
+          "description": "When referring to a key, write 'C major'; when referring to a chord, write 'C-major'.",
+          "reference": "When referring to a key, one writes, for instance, C major, but when referring to a chord one writes C-major.",
+          "category": "Language Usage",
+          "classification": "Imperative Standards",
+          "where": "Terminology sections within articles",
+          "when": "When distinguishing between musical keys and chords"
+        },
+        {
+          "id": "R14",
+          "description": "Always write out 'major' or 'minor'; never use pop-chord symbols such as Cm except in captions, tables, formulas, etc.",
+          "reference": "Always write out ''major'' or ''minor''; never use pop-chord symbols such as Cm except in captions, tables, formulas, etc.",
+          "category": "Language Usage",
+          "classification": "Imperative Standards",
+          "where": "Entire articles",
+          "when": "When referring to musical keys and chords in text"
+        },
+        {
+          "id": "R15",
+          "description": "When using note names, place the alternate terminology in parentheses on first occurrence for clarity.",
+          "reference": "[[crotchet]], [[minim (music)|minim]], [[quaver]], etc. vs [[quarter note]], [[half note]], etc. - both the English \"crotchet, quaver, minim\" and the American \"quarter note, eighth note, half note\" are acceptable in articles, as noted in the [[Wikipedia:Manual of Style#National varieties of English|Manual of Style]], though the American forms are more common in practice. Whichever form is used, place the other in parentheses the first time it comes up for clarity, e.g.: \"There is a minim (half note) followed by two crotchets (quarter notes)\"",
+          "category": "Language Usage",
+          "classification": "Best Practices",
+          "where": "Terminology sections within articles",
+          "when": "When introducing note names in either English or American terminology"
+        },
+        {
+          "id": "R16",
+          "description": "Define 'overtone' to refer to both 'harmonics' and 'partials', with specific definitions for each.",
+          "reference": "[[harmonic]] vs [[partial]] vs [[overtone]] - While the articles about each of these subjects should indicate that they are often used interchangeably, overtone should refer to both harmonics and partials, harmonics being the whole number or integer multiples and partials being all other multiples.",
+          "category": "Language Usage",
+          "classification": "Imperative Standards",
+          "where": "Terminology sections within articles",
+          "when": "When discussing harmonic content in music"
+        },
+        {
+          "id": "R17",
+          "description": "Use 'set' only for unordered collections in musical set theory.",
+          "reference": "[[set]], [[series]], [[sequence]] - In mathematics a set is an unordered collection of things, a sequence is an ordered collection of things, and a series is the sum of a sequence. In music, specifically [[set theory (music)|musical set theory]] a set is often used to mean unordered and/or ordered collections, but should be used only for unordered collections.",
+          "category": "Language Usage",
+          "classification": "Imperative Standards",
+          "where": "Terminology sections within articles",
+          "when": "When referring to collections in musical set theory"
+        },
+        {
+          "id": "R18",
+          "description": "Use 'series' for ordered collections of items.",
+          "reference": "[[set]], [[series]], [[sequence]] - ... Series is often used to mean an ordered collection of things ...",
+          "category": "Language Usage",
+          "classification": "Best Practices",
+          "where": "Terminology sections within articles",
+          "when": "When referring to ordered collections in a musical context"
+        },
+        {
+          "id": "R19",
+          "description": "Use 'sequence' for an ordered collection of pitches that is repeated and transposed.",
+          "reference": "[[set]], [[series]], [[sequence]] - ... a sequence often means an ordered collection of pitches which is then repeated transposed (it is often used this way in [[tonal]] theory).",
+          "category": "Language Usage",
+          "classification": "Best Practices",
+          "where": "Terminology sections within articles",
+          "when": "When referring to repeated and transposed collections of pitches"
+        }
+      ]
+    }
+  ]
+}

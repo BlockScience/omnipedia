@@ -1,11 +1,16 @@
+# Import necessary modules
 import ell
 from pydantic import BaseModel, Field, ValidationError
 from typing import List, Dict
 import json
 import re
+import concurrent.futures
+import logging
+
+# Configure logging
+logging.basicConfig(filename="requirements_extraction.log", level=logging.INFO)
 
 
-# Define Pydantic models for structured output
 # Define Pydantic models for structured output
 class Requirement(BaseModel):
     id: str = Field(description="Unique identifier in the format 'R{id}'")
@@ -16,156 +21,159 @@ class Requirement(BaseModel):
     where: str = Field(description="Where the requirement should be applied")
     when: str = Field(description="When the requirement should be applied")
 
+
 class Group(BaseModel):
     description: str = Field(description="Description of the group")
-    category: str = Field(description="Category of the group (e.g., 'Language Usage', 'Formatting', etc.)")
     requirements: List[Requirement] = Field(default_factory=list)
 
+
 class RequirementsDocument(BaseModel):
-    groups: List[Group] = Field(default_factory=list)
+    groups: Dict[str, Group] = Field(default_factory=dict)
 
     def update(self, other: "RequirementsDocument") -> "RequirementsDocument":
         """Updates the current document with another, merging groups and requirements."""
-        # Update logic for list-based groups
-        existing_categories = {group.category for group in self.groups}
-        
-        for new_group in other.groups:
-            if new_group.category not in existing_categories:
-                # Add new group
-                self.groups.append(new_group)
+        for group_name, group in other.groups.items():
+            if group_name not in self.groups:
+                self.groups[group_name] = group
             else:
-                # Update existing group
-                existing_group = next(g for g in self.groups if g.category == new_group.category)
-                existing_req_ids = {req.id for req in existing_group.requirements}
-                
-                # Add new requirements
-                for req in new_group.requirements:
-                    if req.id not in existing_req_ids:
-                        existing_group.requirements.append(req)
-                
-                # Update description if needed
-                if new_group.description:
-                    existing_group.description = new_group.description
-                    
+                existing_requirements = {
+                    (req.description.strip(), req.reference.strip())
+                    for req in self.groups[group_name].requirements
+                }
+                for req in group.requirements:
+                    if (
+                        req.description.strip(),
+                        req.reference.strip(),
+                    ) not in existing_requirements:
+                        self.groups[group_name].requirements.append(req)
         return self
+
+
+# Allowed classification terms
+ALLOWED_CLASSIFICATIONS = {
+    "Imperative Standard",
+    "Best Practice",
+    "Flexible Guideline",
+    "Contextual Consideration",
+    "Supplementary Information",
+    "Non-Applicable Element",
+}
+
+# Define the extraction prompt as a separate variable for version control
+EXTRACTION_PROMPT = """
+Your task is to extract all prescriptive requirements from the provided style guide chunk and output them in a structured JSON format.
+
+Instructions:
+
+- Identify requirements using imperative language (e.g., "must", "should", "avoid").
+- For each requirement, include the exact quote from the style guide as the "reference".
+- Detail each requirement with the following fields:
+  - id: Assign a temporary ID (e.g., "TEMP_ID").
+  - description: Provide a concise summary.
+  - category: Classify into types like "Content", "Formatting", "Language Usage", "Citations", "Infoboxes", or "Structure".
+  - classification: Use one of the following - "Imperative Standard", "Best Practice", "Flexible Guideline", "Contextual Consideration", "Supplementary Information", or "Non-Applicable Element".
+  - where: Indicate where it applies (e.g., "lead section", "infobox").
+  - when: Indicate when it applies.
+
+- Organize into groups with a "description".
+
+Important: Output only the JSON structure. Do not include any explanations or text outside the JSON.
+"""
 
 
 # Define the ell function to extract requirements
 @ell.simple(model="o1-mini")
-def extract_requirements_from_chunk(
-    current_state: RequirementsDocument, chunk: str, i: int, total_chunks: int
-):
-    """Extract requirements from a chunk of the style guide."""
-    return [
-        ell.user(f"""Your task is to extract all requirements from a given style guide chunk and present them in a structured JSON format. Follow the steps below to ensure comprehensive and accurate extraction:
-
-1. **Thoroughly Review the Style Guide Chunk**: Carefully read the provided chunk to understand its scope, target audience, and specific guidelines.
-
-2. **Identify Sections and Subsections**: Note any sections or subsections in the chunk to organize the extraction process.
-
-3. **Extract All Prescriptive Guidelines**:
-- **Locate Prescriptive Statements**: Find all statements that provide rules, guidelines, or recommended practices. Look for imperative language such as 'must', 'should', 'always', 'never', 'prefer', and 'avoid'.
-- **Capture Exact Wording**: For each prescriptive statement, note the exact phrasing used in the style guide.
-
-4. **Document Each Requirement in Detail**:
-- **Unique Identifier**: Assign a unique ID to each requirement in the format "R{{id}}" (e.g., R1, R2, etc.).
-- **Description**: Provide a concise summary of what the requirement entails.
-- **Reference**: Include the exact quote from the style guide that defines the requirement.
-- **Category**: Classify the requirement into a type such as "Content", "Formatting", "Language Usage", "Citations", "Infoboxes", or "Structure".
-
-5. **Classify Each Requirement**:
-- **Imperative Standards**: Non-negotiable requirements that must be included to ensure compliance.
-- **Best Practices**: Strongly recommended guidelines that may be adjusted based on context.
-- **Flexible Guidelines**: Optional guidelines that can be applied depending on the article's context.
-- **Contextual Considerations**: Requirements that apply under specific conditions (e.g., certain article types or content).
-- **Supplementary Information**: Additional, non-essential information that enhances the article.
-- **Non-Applicable Elements**: Requirements that do not apply to the current article or content.
-
-6. **Review Each Requirement**:
-- **Where**: Determine where the requirement should be applied within an article (lead section, content section, infobox, etc.).
-- **When**: Establish when the requirement should be applied, based on the article's specific content and context.
-
-7. **Organize Requirements into Groups**: Categorize the requirements under relevant groups based on their nature (e.g., Content, Formatting).
-
-8. **Format the Output as Structured JSON**:
-- **Structure**: The JSON should have a top-level key named "groups", with each group containing:
-    {{
-        "description": "A brief description of what this group of requirements covers",
-        "category": "The main category this group belongs to",
-        "requirements": [array of requirement objects]
-    }}
-- **Requirement Object**: Each requirement should follow this structure:
-    {{
-        "id": "R{{id}}",
-        "description": "Brief description of the requirement",
-        "reference": "Exact quote from the style guide",
-        "category": "Requirement type",
-        "classification": "Classification of the requirement",
-        "where": "Where the requirement should be applied",
-        "when": "When the requirement should be applied"
-    }}
-
-9. **Ensure Completeness and Accuracy**: After extraction, review the JSON to confirm that all requirements from the style guide chunk are included and correctly categorized.
-
-10. **Output Only the JSON**: The final response should contain only the JSON structure with all extracted requirements. Do not include any additional text or explanations.
-
-Current State of Requirements Document:
-{current_state.model_dump_json(indent=2)}
-
-Chunk ({i}/{total_chunks}):
-{chunk}
-
-Do not include any explanations or text outside of the JSON output.
-""")
-    ]
+def extract_requirements_from_chunk(chunk: str, i: int, total_chunks: int):
+    """
+    Extract requirements from a chunk of the style guide.
+    You are an assistant that extracts prescriptive requirements from style guide text and outputs them in a structured JSON format.
+    """
+    return [ell.user(EXTRACTION_PROMPT + f"\n\nChunk ({i}/{total_chunks}):\n{chunk}")]
 
 
-# Function to split the text into manageable chunks
-def split_content(requirements_text: str, max_chunk_size=2000) -> List[str]:
-    """Split the style guide text into chunks not exceeding max_chunk_size."""
-    paragraphs = re.split(r"\n\s*\n", requirements_text)
+# Function to split the style guide into manageable chunks
+def split_style_guide(style_guide_text: str, max_chunk_size=2000) -> List[str]:
+    """Split the style guide text into chunks not exceeding max_chunk_size, based on logical sections."""
+    # Split on titles or hierarchy markers to maintain logical sections
+    sections = re.split(
+        r"(?<=\n)\s*(?=\[)", style_guide_text
+    )  # Split before '[' at the start of a line
     chunks = []
     current_chunk = ""
-    for para in paragraphs:
-        if len(current_chunk) + len(para) + 2 <= max_chunk_size:
-            current_chunk += para + "\n\n"
+    for section in sections:
+        if len(current_chunk) + len(section) <= max_chunk_size:
+            current_chunk += section
         else:
             chunks.append(current_chunk.strip())
-            current_chunk = para + "\n\n"
+            current_chunk = section
     if current_chunk:
         chunks.append(current_chunk.strip())
     return chunks
 
 
-# Main function to process the text and extract requirements
-def process_requirements(requirements_text: str) -> RequirementsDocument:
+# Main function to process the style guide and extract requirements
+def process_style_guide(style_guide_text: str) -> RequirementsDocument:
+    """Process the style guide text and extract requirements."""
     ell.init(store="./logdir", autocommit=True, verbose=True)
-    chunks = split_content(requirements_text)
-    current_state = RequirementsDocument()
+    chunks = split_style_guide(style_guide_text)
     total_chunks = len(chunks)
-    for i, chunk in enumerate(chunks, start=1):
-        # Extract requirements from the current chunk
-        raw_output = extract_requirements_from_chunk(
-            current_state, chunk, i, total_chunks
-        )
-        # Clean the output (remove any potential backticks)
-        json_output = raw_output.replace("```json", "").replace("```", "").strip()
-        try:
-            # Parse the output into a RequirementsDocument
-            new_requirements = RequirementsDocument.model_validate_json(json_output)
-            # Update the current state with new requirements
-            current_state.update(new_requirements)
-        except (json.JSONDecodeError, ValidationError) as e:
-            print(f"Error parsing JSON in chunk {i}: {e}")
-            print(f"Raw output:\n{json_output}\n")
-        except Exception as e:
-            print(f"Unexpected error in chunk {i}: {e}")
-            print(f"Raw output:\n{json_output}\n")
-            
-    return current_state
+
+    # Function to process a single chunk
+    def process_chunk(chunk_data):
+        chunk, i = chunk_data
+        retries = 3
+        for attempt in range(retries):
+            try:
+                # Extract requirements from the current chunk
+                raw_output = extract_requirements_from_chunk(chunk, i, total_chunks)
+                # Clean the output
+                json_output = raw_output.strip().strip("```json").strip("```").strip()
+                # Validate that the output is proper JSON
+                new_requirements = RequirementsDocument.model_validate_json(json_output)
+                return new_requirements
+            except (json.JSONDecodeError, ValidationError) as e:
+                if attempt < retries - 1:
+                    continue  # Retry
+                else:
+                    logging.error(f"Error parsing JSON in chunk {i}: {e}")
+                    logging.error(f"Raw output:\n{json_output}\n")
+                    return None
+
+    # Process chunks in parallel
+    all_requirements = RequirementsDocument()
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        chunk_data_list = [(chunk, i + 1) for i, chunk in enumerate(chunks)]
+        futures = [executor.submit(process_chunk, data) for data in chunk_data_list]
+        for future in concurrent.futures.as_completed(futures):
+            new_requirements = future.result()
+            if new_requirements:
+                all_requirements.update(new_requirements)
+
+    # Assign unique IDs after collecting all requirements
+    id_counter = 1
+    for group in all_requirements.groups.values():
+        for req in group.requirements:
+            req.id = f"R{id_counter}"
+            id_counter += 1
+            # Ensure classification terms are within allowed values
+            if req.classification not in ALLOWED_CLASSIFICATIONS:
+                req.classification = "Flexible Guideline"
+
+    # Post-processing: normalize and clean data fields
+    for group in all_requirements.groups.values():
+        group.description = group.description.strip()
+        for req in group.requirements:
+            req.description = req.description.strip()
+            req.reference = req.reference.strip()
+            req.category = req.category.strip()
+            req.where = req.where.strip()
+            req.when = req.when.strip()
+            req.classification = req.classification.strip()
+            # Standardize text cases if needed
+
+    return all_requirements
 
 
-# Example usage
 if __name__ == "__main__":
     # Replace with your actual style guide content
     style_guide_content = """
@@ -277,7 +285,9 @@ if __name__ == "__main__":
   }
 ]
     """
+
     # Process the style guide to extract requirements
-    requirements_document = process_requirements(style_guide_content)
+    requirements_document = process_style_guide(style_guide_content)
     # Output the final JSON
-    print(json.dumps(requirements_document.model_dump(), indent=4))
+    with open("requirements-multithread.json", "w") as f:
+        json.dump(requirements_document.model_dump(), f, indent=4)

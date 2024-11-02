@@ -8,6 +8,7 @@ import re
 # Define data models
 class RequirementEvaluation(BaseModel):
     requirement_id: str
+    requirement_category: str
     applicable: bool
     applicability_reasoning: Optional[str]
     score: Optional[float]
@@ -132,6 +133,7 @@ Your evaluation should be saved in the following structured JSON format:
       "requirement_evaluations": [
         {
           "requirement_id": "R1",
+          "requirement_category: "Lead",
           "applicable": true,
           "applicability_reasoning": "Applicable because the lead section defines the article scope.",
           "score": 1.0,
@@ -142,6 +144,7 @@ Your evaluation should be saved in the following structured JSON format:
         },
         {
           "requirement_id": "R7",
+          "requirement_category: "Lead",
           "applicable": true,
           "applicability_reasoning": "Relevant to content sections to avoid redundancy.",
           "score": 0.5,
@@ -158,6 +161,7 @@ Your evaluation should be saved in the following structured JSON format:
       "requirement_evaluations": [
         {
           "requirement_id": "R2",
+          "requirement_category: "Lead",
           "applicable": true,
           "applicability_reasoning": "Relevant for language usage throughout the article.",
           "score": 0.75,
