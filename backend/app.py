@@ -4,7 +4,7 @@ from contextlib import asynccontextmanager
 from auth.jwt_bearer import JWTBearer
 from config.config import initiate_database
 from routes.admin import router as AdminRouter
-from routes.styleguide import router as StyleGuideRouter
+from routes.evaluate import router as EvaluateRouter
 from routes.extract import router as ExtractRouter
 
 app = FastAPI()
@@ -25,4 +25,4 @@ async def read_root():
 
 app.include_router(AdminRouter, tags=["Administrator"], prefix="/admin")
 app.include_router(ExtractRouter, tags=["Extract"], prefix="/api")
-app.include_router(StyleGuideRouter)
+app.include_router(EvaluateRouter, tags=["Evaluate"], prefix="/api")

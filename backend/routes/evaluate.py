@@ -1,27 +1,30 @@
 from fastapi import APIRouter, Body, HTTPException
-from pydantic import HttpUrl
+from pydantic import BaseModel, HttpUrl
 
+from utils.wikitext import fetch_wikitext
 from database.database import *
 from schemas.student import Response
 from prompts.evaluate import process_article_sections
 
 router = APIRouter()
 
+class EvaluateInput(BaseModel):
+    text_input: Union[HttpUrl, str]
+    requirements_id: str
 
-@router.post("/evaluate-article", response_model=Response)
-async def evaluate_article(
-    article_url: HttpUrl = Body(...), requirements_guide_id: str = Body(...)
-):
+
+@router.post("/evaluate", response_model=Response)
+async def evaluate_text(data: EvaluateInput):
     try:
-        # TODO: Implement function to fetch content from URL
-        article_content = fetch_content_from_url(article_url)
+        article_content = None
+        
+        if str(data.text_input).startswith(('http://', 'https://')):
+            article_content = fetch_wikitext(data.content)
+        else:
+            article_content = data.content
 
-        # TODO: Implement function to retrieve requirements from database
-        requirements = await retrieve_requirements_from_db(requirements_guide_id)
-
+        requirements = await retrieve_requirements_from_db(data.requirements_id)
         evaluation_output = process_article_sections(article_content, requirements)
-
-        # TODO: Implement function to save evaluation to database
         saved_evaluation = await save_evaluation_to_db(evaluation_output)
 
         return {
@@ -30,5 +33,25 @@ async def evaluate_article(
             "description": "Article evaluated successfully",
             "data": saved_evaluation,
         }
+        
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+
+async def retrieve_requirements_from_db(requirements_guide_id: str):
+    print(f"Retrieving requirements for guide ID: {requirements_guide_id}")
+    return {
+        "status": "success",
+        "data": {
+            "requirements": "Sample requirements data"
+        }
+    }
+
+async def save_evaluation_to_db(evaluation_output):
+    print("Saving evaluation output to the database...")
+    return {
+        "status": "success",
+        "data": {
+            "message": "Placeholder for saved evaluation data"
+        }
+    }
