@@ -8,6 +8,8 @@ from typing import Union
 
 
 router = APIRouter()
+
+
 class StyleGuideInput(BaseModel):
     content: Union[HttpUrl, str]
 
@@ -17,7 +19,7 @@ async def extract_requirements(data: StyleGuideInput):
     try:
         style_guide_content = None
         # Check if the content is a string that looks like a URL
-        if str(data.content).startswith(('http://', 'https://')):
+        if str(data.content).startswith(("http://", "https://")):
             # Fetch content if URL is provided
             style_guide_content = fetch_wikitext(data.content)
         else:
@@ -38,13 +40,12 @@ async def extract_requirements(data: StyleGuideInput):
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
+
 async def save_requirements_to_db(requirements_document):
     # Placeholder function to simulate saving requirements to the database
     # You can replace this with actual database saving logic later
     print("Saving requirements document to the database...")
     return {
         "status": "success",
-        "data": {
-            "message": "Placeholder for saved requirements data"
-        }
+        "data": {"message": "Placeholder for saved requirements data"},
     }

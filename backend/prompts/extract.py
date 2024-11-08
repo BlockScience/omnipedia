@@ -14,10 +14,14 @@ class Requirement(BaseModel):
     where: str = Field(description="Where the requirement should be applied")
     when: str = Field(description="When the requirement should be applied")
 
+
 class Group(BaseModel):
     description: str = Field(description="Description of the group")
-    category: str = Field(description="Category of the group (e.g., 'Language Usage', 'Formatting', etc.)")
+    category: str = Field(
+        description="Category of the group (e.g., 'Language Usage', 'Formatting', etc.)"
+    )
     requirements: List[Requirement] = Field(default_factory=list)
+
 
 class RequirementsDocument(BaseModel):
     groups: List[Group] = Field(default_factory=list)
@@ -26,25 +30,27 @@ class RequirementsDocument(BaseModel):
         """Updates the current document with another, merging groups and requirements."""
         # Update logic for list-based groups
         existing_categories = {group.category for group in self.groups}
-        
+
         for new_group in other.groups:
             if new_group.category not in existing_categories:
                 # Add new group
                 self.groups.append(new_group)
             else:
                 # Update existing group
-                existing_group = next(g for g in self.groups if g.category == new_group.category)
+                existing_group = next(
+                    g for g in self.groups if g.category == new_group.category
+                )
                 existing_req_ids = {req.id for req in existing_group.requirements}
-                
+
                 # Add new requirements
                 for req in new_group.requirements:
                     if req.id not in existing_req_ids:
                         existing_group.requirements.append(req)
-                
+
                 # Update description if needed
                 if new_group.description:
                     existing_group.description = new_group.description
-                    
+
         return self
 
 
@@ -159,7 +165,7 @@ def process_requirements(requirements_text: str) -> RequirementsDocument:
         except Exception as e:
             print(f"Unexpected error in chunk {i}: {e}")
             print(f"Raw output:\n{json_output}\n")
-            
+
     return current_state
 
 
@@ -278,7 +284,7 @@ if __name__ == "__main__":
     # Process the style guide to extract requirements
     requirements_document = process_requirements(style_guide_content)
     # Output the final JSON
-    with open('requirements.json', 'w', encoding='utf-8') as f:
+    with open("requirements.json", "w", encoding="utf-8") as f:
         json.dump(requirements_document.model_dump(), f, indent=4)
 
     print(json.dumps(requirements_document.model_dump(), indent=4))

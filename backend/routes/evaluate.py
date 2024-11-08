@@ -8,6 +8,7 @@ from prompts.evaluate import process_article_sections
 
 router = APIRouter()
 
+
 class EvaluateInput(BaseModel):
     text_input: Union[HttpUrl, str]
     requirements_id: str
@@ -17,8 +18,8 @@ class EvaluateInput(BaseModel):
 async def evaluate_text(data: EvaluateInput):
     try:
         article_content = None
-        
-        if str(data.text_input).startswith(('http://', 'https://')):
+
+        if str(data.text_input).startswith(("http://", "https://")):
             article_content = fetch_wikitext(data.content)
         else:
             article_content = data.content
@@ -33,25 +34,19 @@ async def evaluate_text(data: EvaluateInput):
             "description": "Article evaluated successfully",
             "data": saved_evaluation,
         }
-        
+
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
 
 async def retrieve_requirements_from_db(requirements_guide_id: str):
     print(f"Retrieving requirements for guide ID: {requirements_guide_id}")
-    return {
-        "status": "success",
-        "data": {
-            "requirements": "Sample requirements data"
-        }
-    }
+    return {"status": "success", "data": {"requirements": "Sample requirements data"}}
+
 
 async def save_evaluation_to_db(evaluation_output):
     print("Saving evaluation output to the database...")
     return {
         "status": "success",
-        "data": {
-            "message": "Placeholder for saved evaluation data"
-        }
+        "data": {"message": "Placeholder for saved evaluation data"},
     }

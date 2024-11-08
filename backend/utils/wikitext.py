@@ -29,7 +29,6 @@ def fetch_wikitext(url):
         return "Wikitext not found. Check if the page exists."
 
 
-
 url = "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Molecular_Biology/Style_guide_(gene_and_protein_articles)"
 wikitext = fetch_wikitext(url)
 print(wikitext)
