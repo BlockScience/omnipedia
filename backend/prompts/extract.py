@@ -278,4 +278,7 @@ if __name__ == "__main__":
     # Process the style guide to extract requirements
     requirements_document = process_requirements(style_guide_content)
     # Output the final JSON
+    with open('requirements.json', 'w', encoding='utf-8') as f:
+        json.dump(requirements_document.model_dump(), f, indent=4)
+
     print(json.dumps(requirements_document.model_dump(), indent=4))

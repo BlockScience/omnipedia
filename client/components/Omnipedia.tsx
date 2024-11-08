@@ -3,7 +3,7 @@
 import React, { useEffect, useState } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { ScrollArea } from "@/components/ui/scroll-area";
-import { ChevronDown, ChevronUp } from "lucide-react";
+import { ChevronDown, ChevronUp, ClipboardCheck, Link2 } from "lucide-react";
 import { SectionFeedback } from "@/components/SectionFeedback";
 import { RequirementsSidebar } from "@/components/RequirementsSidebar";
 import { requirementsData } from "@/lib/data";
@@ -19,6 +19,7 @@ import {
   RequirementEvaluation,
 } from "@/lib/types";
 import { ContentRenderer } from "./ContentRenderer";
+import { Badge } from "./ui/badge";
 
 interface SelectedRequirement {
   id: string;
@@ -38,7 +39,7 @@ const MainContent = () => {
   const [evaluation, setEvaluation] = useState<ArticleSection[]>([]);
   const [selectedSection, setSelectedSection] = useState<string | null>(null);
   const [feedback, setFeedback] = useState<Feedback>();
-
+  console.log("SELECTED: ", selectedSection);
   // Enhanced state
   const [selectedRequirements, setSelectedRequirements] = useState<
     SelectedRequirement[]
@@ -54,13 +55,17 @@ const MainContent = () => {
   const fetcher = (url: string) => fetch(url).then((res) => res.json());
 
   const { data: evaluationData, error: evaluationError } = useSWR(
-    `/api/evaluation?path=${encodeURIComponent(selectedPath)}`,
+    selectedPath
+      ? `/api/evaluation?path=${encodeURIComponent(selectedPath)}`
+      : null,
     fetcher,
     { revalidateOnFocus: false, revalidateOnReconnect: false }
   );
 
   const { data: articleData, error: articleError } = useSWR(
-    `/api/articles?path=${encodeURIComponent(selectedPath)}`,
+    selectedPath
+      ? `/api/articles?path=${encodeURIComponent(selectedPath)}`
+      : null,
     fetcher,
     { revalidateOnFocus: false, revalidateOnReconnect: false }
   );
@@ -125,6 +130,7 @@ const MainContent = () => {
     if (evaluationData?.data) {
       // Add the optional chaining here
       const { data } = evaluationData;
+      console.log("EVALUATION DATA: ", data);
       setEvaluation(data);
 
       // Initialize or update section states
@@ -189,7 +195,7 @@ const MainContent = () => {
     ]);
   };
 
-  if (!articleData || !evaluationData) {
+  if (selectedPath && (!articleData || !evaluationData)) {
     return (
       <div className="flex items-center justify-center h-screen">
         <div className="text-center">
@@ -224,9 +230,27 @@ const MainContent = () => {
       </Card>
 
       {article &&
-        article.map((section, index) =>
-          section.content !== "" ||
-          (section.citations && section.citations.length > 0) ? (
+        article.map((section, index) => {
+          const hasEvaluation = evaluation?.find(
+            (e) => e.title === section.title
+          )?.feedback;
+          console.log("HAS EVAL: ", hasEvaluation);
+          console.log("TITLE: ", section.title);
+          const evaluationCount = hasEvaluation
+            ? Object.values(hasEvaluation).reduce(
+                (acc, category) =>
+                  acc +
+                  category.reduce(
+                    (sum, section) =>
+                      sum + section.requirement_evaluations.length,
+                    0
+                  ),
+                0
+              )
+            : 0;
+
+          return section.content !== "" ||
+            (section.citations && section.citations.length > 0) ? (
             <Card
               key={index}
               className={`mb-2 ${
@@ -242,11 +266,31 @@ const MainContent = () => {
                 onClick={() => toggleSection(section.title)}
               >
                 <CardTitle>{section.title}</CardTitle>
-                {sectionStates[section.title]?.isExpanded ? (
-                  <ChevronUp className="h-6 w-6" />
-                ) : (
-                  <ChevronDown className="h-6 w-6" />
-                )}
+                <div className="flex items-center gap-3">
+                  {section.citations && section.citations.length > 0 && (
+                    <Badge
+                      variant="outline"
+                      className="flex items-center gap-1"
+                    >
+                      <Link2 className="h-3 w-3" />
+                      {section.citations.length}
+                    </Badge>
+                  )}
+                  {hasEvaluation && (
+                    <Badge
+                      variant="secondary"
+                      className="flex items-center gap-1"
+                    >
+                      <ClipboardCheck className="h-3 w-3" />
+                      {evaluationCount} evaluations
+                    </Badge>
+                  )}
+                  {sectionStates[section.title]?.isExpanded ? (
+                    <ChevronUp className="h-6 w-6" />
+                  ) : (
+                    <ChevronDown className="h-6 w-6" />
+                  )}
+                </div>
               </CardHeader>
               <CardContent className="pb-0">
                 <div>
@@ -281,8 +325,8 @@ const MainContent = () => {
                 )}
               </CardContent>
             </Card>
-          ) : null
-        )}
+          ) : null;
+        })}
     </ScrollArea>
   );
 };

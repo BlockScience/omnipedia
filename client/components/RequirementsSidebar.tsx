@@ -17,6 +17,11 @@ import {
 import { Button } from "@/components/ui/button";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import { Search, MapPin, Clock, Info } from "lucide-react";
+import {
+  RequirementProps,
+  RequirementsSidebarProps,
+  RequirementsIndex,
+} from "@/lib/types";
 
 // Classification types
 export type RequirementClassification =
@@ -24,39 +29,6 @@ export type RequirementClassification =
   | "Best Practices"
   | "Flexible Guidelines"
   | "Contextual Considerations";
-
-// Single requirement
-export interface Requirement {
-  id: string;
-  description: string;
-  reference?: string;
-  classification: RequirementClassification;
-  where: string;
-  when: string;
-}
-
-// Group of requirements
-export interface RequirementGroup {
-  description: string;
-  requirements: Requirement[];
-}
-
-// Full requirements index
-export interface RequirementsIndex {
-  groups: {
-    [key: string]: RequirementGroup;
-  };
-}
-
-// Props for the sidebar component
-export interface RequirementsSidebarProps {
-  groups: RequirementsIndex["groups"];
-}
-
-// Props for the requirement component
-export interface RequirementProps {
-  requirement: Requirement;
-}
 
 // Classification badge variants
 const getClassificationBadge = (classification: string) => {
@@ -125,19 +97,23 @@ const Requirement = ({ requirement }: RequirementProps) => (
 );
 
 export const RequirementsSidebar = ({ groups }: RequirementsSidebarProps) => {
+  console.log("GROUPS: ", groups);
   const [searchQuery, setSearchQuery] = useState("");
-  const [selectedClassification, setSelectedClassification] = useState<
-    string | null
-  >(null);
+  const [selectedClassification, setSelectedClassification] =
+    useState<RequirementClassification | null>(null);
 
-  // Search function
-  const filteredGroups = useMemo<RequirementsIndex["groups"]>(() => {
+  // Updated filteredGroups to work with Requirement[]
+  const filteredGroups = useMemo(() => {
     const searchLower = searchQuery.toLowerCase();
 
     return Object.entries(groups).reduce<RequirementsIndex["groups"]>(
-      (acc, [groupName, group]) => {
-        const filteredRequirements = group.requirements.filter((req) => {
-          // Filter by classification if selected
+      (acc, [groupName, requirements]) => {
+        // Ensure requirements is always treated as an array
+        const requirementsArray = Array.isArray(requirements)
+          ? requirements
+          : [];
+
+        const filteredRequirements = requirementsArray.filter((req) => {
           if (
             selectedClassification &&
             req.classification !== selectedClassification
@@ -145,7 +121,6 @@ export const RequirementsSidebar = ({ groups }: RequirementsSidebarProps) => {
             return false;
           }
 
-          // Search across all fields
           return (
             req.id.toLowerCase().includes(searchLower) ||
             req.description.toLowerCase().includes(searchLower) ||
@@ -158,10 +133,7 @@ export const RequirementsSidebar = ({ groups }: RequirementsSidebarProps) => {
         });
 
         if (filteredRequirements.length > 0) {
-          acc[groupName] = {
-            ...group,
-            requirements: filteredRequirements,
-          };
+          acc[groupName] = filteredRequirements;
         }
 
         return acc;
@@ -169,12 +141,13 @@ export const RequirementsSidebar = ({ groups }: RequirementsSidebarProps) => {
       {}
     );
   }, [groups, searchQuery, selectedClassification]);
+  // Updated classifications to work with Requirement[]
   const classifications = useMemo(
     () =>
       Array.from(
         new Set(
           Object.values(groups)
-            .flatMap((group) => group.requirements)
+            .flatMap((requirements) => requirements)
             .map((req) => req.classification)
         )
       ),
@@ -236,22 +209,17 @@ export const RequirementsSidebar = ({ groups }: RequirementsSidebarProps) => {
       <ScrollArea className="flex-1">
         <div className="p-4">
           <Accordion type="multiple" className="space-y-2">
-            {Object.entries(filteredGroups).map(([groupName, group]) => (
+            {Object.entries(filteredGroups).map(([groupName, requirements]) => (
               <AccordionItem key={groupName} value={groupName}>
                 <AccordionTrigger className="hover:no-underline">
                   <div className="flex items-center gap-2">
                     <span>{groupName}</span>
-                    <Badge variant="secondary">
-                      {group.requirements.length}
-                    </Badge>
+                    <Badge variant="secondary">{requirements.length}</Badge>
                   </div>
                 </AccordionTrigger>
                 <AccordionContent>
-                  <div className="px-2 pt-2 text-xs text-gray-500">
-                    {group.description}
-                  </div>
                   <div className="mt-2">
-                    {group.requirements.map((req) => (
+                    {requirements.map((req) => (
                       <Requirement key={req.id} requirement={req} />
                     ))}
                   </div>
@@ -267,7 +235,7 @@ export const RequirementsSidebar = ({ groups }: RequirementsSidebarProps) => {
         <div className="flex justify-between text-sm text-gray-600">
           <span>
             {Object.values(filteredGroups).reduce(
-              (acc, group) => acc + group.requirements.length,
+              (acc, requirements) => acc + requirements.length,
               0
             )}{" "}
             requirements

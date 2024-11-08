@@ -214,6 +214,13 @@ export const SectionFeedback: React.FC<SectionFeedbackProps> = ({
                           <AccordionContent>
                             <div className="space-y-4 p-4">
                               <div className="space-y-2">
+                                <h4 className="font-medium">Requirement</h4>
+                                <p className="text-sm text-gray-600">
+                                  {req.requirement_id}
+                                </p>
+                              </div>
+
+                              <div className="space-y-2">
                                 <h4 className="font-medium">Applicability</h4>
                                 <p className="text-sm text-gray-600">
                                   {req.applicability_reasoning}

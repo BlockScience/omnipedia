@@ -1,5 +1,4 @@
 import React from "react";
-import parse from "html-parse-string";
 
 export const ContentRenderer = ({ content }: { content: string }) => {
   // Remove extra spaces and newlines between tags
