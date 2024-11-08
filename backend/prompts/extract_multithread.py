@@ -82,7 +82,7 @@ Important: Output only the JSON structure. Do not include any explanations or te
 
 
 # Define the ell function to extract requirements
-@ell.simple(model="o1-mini")
+@ell.simple(model="gpt-4o", temperature=0.0)
 def extract_requirements_from_chunk(chunk: str, i: int, total_chunks: int):
     """
     Extract requirements from a chunk of the style guide.
@@ -92,7 +92,7 @@ def extract_requirements_from_chunk(chunk: str, i: int, total_chunks: int):
 
 
 # Function to split the style guide into manageable chunks
-def split_style_guide(style_guide_text: str, max_chunk_size=2000) -> List[str]:
+def split_content(style_guide_text: str, max_chunk_size=2000) -> List[str]:
     """Split the style guide text into chunks not exceeding max_chunk_size, based on logical sections."""
     # Split on titles or hierarchy markers to maintain logical sections
     sections = re.split(
@@ -112,10 +112,10 @@ def split_style_guide(style_guide_text: str, max_chunk_size=2000) -> List[str]:
 
 
 # Main function to process the style guide and extract requirements
-def process_style_guide(style_guide_text: str) -> RequirementsDocument:
+def process_requirements(style_guide_text: str) -> RequirementsDocument:
     """Process the style guide text and extract requirements."""
     ell.init(store="./logdir", autocommit=True, verbose=True)
-    chunks = split_style_guide(style_guide_text)
+    chunks = split_content(style_guide_text)
     total_chunks = len(chunks)
 
     # Function to process a single chunk
@@ -287,7 +287,7 @@ if __name__ == "__main__":
     """
 
     # Process the style guide to extract requirements
-    requirements_document = process_style_guide(style_guide_content)
+    requirements_document = process_requirements(style_guide_content)
     # Output the final JSON
     with open("requirements-multithread.json", "w") as f:
         json.dump(requirements_document.model_dump(), f, indent=4)

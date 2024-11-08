@@ -29,7 +29,7 @@ def fetch_wikitext(url):
         return "Wikitext not found. Check if the page exists."
 
 
-# Example usage
-# url = "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Molecular_Biology/Style_guide_(gene_and_protein_articles)"
-# wikitext = get_wikitext_from_url(url)
-# print(wikitext)
+
+url = "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Molecular_Biology/Style_guide_(gene_and_protein_articles)"
+wikitext = fetch_wikitext(url)
+print(wikitext)

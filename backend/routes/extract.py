@@ -39,8 +39,3 @@ async def extract_requirements(input_data: StyleGuideInput):
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
-"""
-curl -X POST http://0.0.0.0:8080/api/extract \
--H "Content-Type: application/json" \
--d "{\"content\": \"https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Music_terminology/Advice\"}"
-"""

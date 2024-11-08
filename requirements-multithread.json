@@ -1,187 +1,492 @@
 {
-  "groups": [
-    {
-      "description": "Requirements related to maintaining the intended focus and scope of the style guide content.",
-      "category": "Content",
-      "requirements": [
-        {
-          "id": "R1",
-          "description": "Keep the page focused on providing advice for editing Wikipedia articles as per project's intentions.",
-          "reference": "Please remember, this page is for the use of the project in determining a set of advice on how to edit Wikipedia articles so please, keep this page restricted to these intentions as there is already a large amount of material on the subjects themselves in their respective articles which can be researched starting with [[music theory]].",
-          "category": "Content",
-          "classification": "Imperative Standards",
-          "where": "Entire style guide page",
-          "when": "Always"
-        }
-      ]
-    },
-    {
-      "description": "Guidelines on general terminology usages in musical contexts.",
-      "category": "Language Usage",
-      "requirements": [
-        {
-          "id": "R2",
-          "description": "Prefer using 'Intensity' or 'Dynamics' over 'Volume' unless referring to electronically amplified music.",
-          "reference": "[[loudness|Intensity]] or [[Dynamics (music)|dynamics]] is preferred over [[volume]] unless referring to electronically amplified music. This is because volume is not referring to the amplitude of the waves the instrument is producing, but the amount of space (volume) the sound fills.",
-          "category": "Language Usage",
-          "classification": "Best Practices",
-          "where": "Terminology sections within articles",
-          "when": "When referring to dynamics in music contexts"
-        },
-        {
-          "id": "R3",
-          "description": "Prefer using 'semitone' and 'whole tone' over 'half step' and 'whole step' when referring to musical intervals.",
-          "reference": "[[semitone]] and [[whole tone]] preferred to [[half step]] and [[whole step]]; only use [[minor second]] and [[major second]] in contexts where their diatonic meaning is significant.",
-          "category": "Language Usage",
-          "classification": "Best Practices",
-          "where": "Terminology sections within articles",
-          "when": "When referring to musical intervals and steps"
-        },
-        {
-          "id": "R4",
-          "description": "Use 'minor second' and 'major second' only in contexts where their diatonic meaning is significant.",
-          "reference": "only use [[minor second]] and [[major second]] in contexts where their diatonic meaning is significant.",
-          "category": "Language Usage",
-          "classification": "Best Practices",
-          "where": "Terminology sections within articles",
-          "when": "When the diatonic meaning is significant in context"
-        },
-        {
-          "id": "R5",
-          "description": "Prefer using 'supertonic', 'mediant', etc. over the German system equivalents like 'subdominant parallel'.",
-          "reference": "[[supertonic]], [[mediant]], etc. preferred to German system ([[subdominant parallel]] etc.). [[Subtonic]] is a whole step below the tonic; [[leading-tone]] (or leading-note) a half-step below.",
-          "category": "Language Usage",
-          "classification": "Best Practices",
-          "where": "Terminology sections within articles",
-          "when": "When referring to scale degrees in musical analysis"
-        },
-        {
-          "id": "R6",
-          "description": "Avoid using scale degree numbers unless the names would be awkward in a melody description.",
-          "reference": "avoid scale degree numbers unless describing a melody where the names above would be awkward",
-          "category": "Language Usage",
-          "classification": "Imperative Standards",
-          "where": "Terminology sections within articles",
-          "when": "When scale degree names are applicable and avoiding awkwardness"
-        },
-        {
-          "id": "R7",
-          "description": "Avoid using solfege except in music-education contexts.",
-          "reference": "[[solfege]] (Do, Re, Mi etc...) is ambiguous because of [[fixed-do]] vs [[moveable-do]] meanings, and varying use in the minor mode; avoid except in music-education contexts",
-          "category": "Language Usage",
-          "classification": "Contextual Considerations",
-          "where": "Terminology sections within articles",
-          "when": "When not in music-education contexts"
-        },
-        {
-          "id": "R8",
-          "description": "Use 'common practice period' when applicable.",
-          "reference": "Use [[common practice period]] when applicable.",
-          "category": "Language Usage",
-          "classification": "Imperative Standards",
-          "where": "Terminology sections within articles",
-          "when": "When applicable to the content"
-        },
-        {
-          "id": "R9",
-          "description": "Use 'key change' if you want to be understood by a wider readership.",
-          "reference": "use 'key change' if you want to be understood by a wider readership.",
-          "category": "Language Usage",
-          "classification": "Best Practices",
-          "where": "Terminology sections within articles",
-          "when": "When catering to a wider readership"
-        },
-        {
-          "id": "R10",
-          "description": "Roman numerals may be used, singly or in combination with figured bass, only when discussing subjects whose readers could be expected to understand them.",
-          "reference": "[[Roman numerals]] may be used, singly or in combination with figured bass (e.g., IV<sup>6</sup>), but only when discussing subjects whose readers could be expected to understand them.",
-          "category": "Language Usage",
-          "classification": "Contextual Considerations",
-          "where": "Harmonic analysis sections within articles",
-          "when": "When discussing subjects understood by the readership"
-        },
-        {
-          "id": "R11",
-          "description": "Prefer using 'musical form' over 'structure' and 'content'.",
-          "reference": "[[musical form]] preferred to [[structure]], [[content]]",
-          "category": "Language Usage",
-          "classification": "Best Practices",
-          "where": "Form sections within articles",
-          "when": "When discussing musical formal structures"
-        },
-        {
-          "id": "R12",
-          "description": "Use 'blank (music)' unless there is a specific reason to distinguish.",
-          "reference": "\"musical blank\" vs \"blank (music)\" - use the latter unless there is a reason to distinguish, such as [[musical bow]] and [[bow (music)]]",
-          "category": "Language Usage",
-          "classification": "Imperative Standards",
-          "where": "Terminology sections within articles",
-          "when": "When referring to general musical terms without need for distinction"
-        },
-        {
-          "id": "R13",
-          "description": "When referring to a key, write 'C major'; when referring to a chord, write 'C-major'.",
-          "reference": "When referring to a key, one writes, for instance, C major, but when referring to a chord one writes C-major.",
-          "category": "Language Usage",
-          "classification": "Imperative Standards",
-          "where": "Terminology sections within articles",
-          "when": "When distinguishing between musical keys and chords"
-        },
-        {
-          "id": "R14",
-          "description": "Always write out 'major' or 'minor'; never use pop-chord symbols such as Cm except in captions, tables, formulas, etc.",
-          "reference": "Always write out ''major'' or ''minor''; never use pop-chord symbols such as Cm except in captions, tables, formulas, etc.",
-          "category": "Language Usage",
-          "classification": "Imperative Standards",
-          "where": "Entire articles",
-          "when": "When referring to musical keys and chords in text"
-        },
-        {
-          "id": "R15",
-          "description": "When using note names, place the alternate terminology in parentheses on first occurrence for clarity.",
-          "reference": "[[crotchet]], [[minim (music)|minim]], [[quaver]], etc. vs [[quarter note]], [[half note]], etc. - both the English \"crotchet, quaver, minim\" and the American \"quarter note, eighth note, half note\" are acceptable in articles, as noted in the [[Wikipedia:Manual of Style#National varieties of English|Manual of Style]], though the American forms are more common in practice. Whichever form is used, place the other in parentheses the first time it comes up for clarity, e.g.: \"There is a minim (half note) followed by two crotchets (quarter notes)\"",
-          "category": "Language Usage",
-          "classification": "Best Practices",
-          "where": "Terminology sections within articles",
-          "when": "When introducing note names in either English or American terminology"
-        },
-        {
-          "id": "R16",
-          "description": "Define 'overtone' to refer to both 'harmonics' and 'partials', with specific definitions for each.",
-          "reference": "[[harmonic]] vs [[partial]] vs [[overtone]] - While the articles about each of these subjects should indicate that they are often used interchangeably, overtone should refer to both harmonics and partials, harmonics being the whole number or integer multiples and partials being all other multiples.",
-          "category": "Language Usage",
-          "classification": "Imperative Standards",
-          "where": "Terminology sections within articles",
-          "when": "When discussing harmonic content in music"
-        },
-        {
-          "id": "R17",
-          "description": "Use 'set' only for unordered collections in musical set theory.",
-          "reference": "[[set]], [[series]], [[sequence]] - In mathematics a set is an unordered collection of things, a sequence is an ordered collection of things, and a series is the sum of a sequence. In music, specifically [[set theory (music)|musical set theory]] a set is often used to mean unordered and/or ordered collections, but should be used only for unordered collections.",
-          "category": "Language Usage",
-          "classification": "Imperative Standards",
-          "where": "Terminology sections within articles",
-          "when": "When referring to collections in musical set theory"
-        },
-        {
-          "id": "R18",
-          "description": "Use 'series' for ordered collections of items.",
-          "reference": "[[set]], [[series]], [[sequence]] - ... Series is often used to mean an ordered collection of things ...",
-          "category": "Language Usage",
-          "classification": "Best Practices",
-          "where": "Terminology sections within articles",
-          "when": "When referring to ordered collections in a musical context"
-        },
-        {
-          "id": "R19",
-          "description": "Use 'sequence' for an ordered collection of pitches that is repeated and transposed.",
-          "reference": "[[set]], [[series]], [[sequence]] - ... a sequence often means an ordered collection of pitches which is then repeated transposed (it is often used this way in [[tonal]] theory).",
-          "category": "Language Usage",
-          "classification": "Best Practices",
-          "where": "Terminology sections within articles",
-          "when": "When referring to repeated and transposed collections of pitches"
-        }
-      ]
-    }
-  ]
+  "status_code": 200,
+  "response_type": "success",
+  "description": "Requirements extracted and saved successfully",
+  "data": {
+    "groups": [
+      {
+        "description": "Guidelines for naming and formatting page titles in the spider project",
+        "category": "Formatting",
+        "requirements": [
+          {
+            "id": "R1",
+            "description": "Use scientific names for article titles unless the common name is well-known or reasonably unique.",
+            "reference": "Scientific names should be used for the article titles unless the common name is well-known or reasonably unique.",
+            "category": "Imperative Standards",
+            "classification": "Best Practices",
+            "where": "Article titles",
+            "when": "When creating or editing article titles"
+          },
+          {
+            "id": "R2",
+            "description": "Use Latin names for article titles below family level, with exceptions.",
+            "reference": "Below family, Latin names are almost always used for article titles, though there are exceptions.",
+            "category": "Imperative Standards",
+            "classification": "Best Practices",
+            "where": "Article titles",
+            "when": "When creating or editing article titles below family level"
+          },
+          {
+            "id": "R3",
+            "description": "Capitalize but do not italicize family titles and higher taxa.",
+            "reference": "Family titles and higher taxa are capitalized, but not italicized.",
+            "category": "Formatting",
+            "classification": "Imperative Standards",
+            "where": "Article titles",
+            "when": "When formatting family titles and higher taxa"
+          },
+          {
+            "id": "R4",
+            "description": "Italicize and capitalize genera titles.",
+            "reference": "Genera titles are always both italicized and capitalized.",
+            "category": "Formatting",
+            "classification": "Imperative Standards",
+            "where": "Article titles",
+            "when": "When formatting genera titles"
+          },
+          {
+            "id": "R5",
+            "description": "Italicize and capitalize species titles, including both genera and species.",
+            "reference": "Species titles should be both italicized and capitalized, and include both the genera and species.",
+            "category": "Formatting",
+            "classification": "Imperative Standards",
+            "where": "Article titles",
+            "when": "When formatting species titles"
+          },
+          {
+            "id": "R6",
+            "description": "Use lowercase and non-italicized format for common names as titles.",
+            "reference": "Common names as titles are lowercase and not italicized.",
+            "category": "Formatting",
+            "classification": "Imperative Standards",
+            "where": "Article titles",
+            "when": "When using common names as titles"
+          },
+          {
+            "id": "R7",
+            "description": "Use sentence case for spider common names.",
+            "reference": "Use sentence case for spider common names (rather than title case).",
+            "category": "Formatting",
+            "classification": "Imperative Standards",
+            "where": "Content sections",
+            "when": "When writing spider common names in text"
+          }
+        ]
+      },
+      {
+        "description": "Guidelines for marking stub articles in spider taxonomy",
+        "category": "Content",
+        "requirements": [
+          {
+            "id": "R8",
+            "description": "All mainspace articles must have a short description.",
+            "reference": "All mainspace articles should have a short description.",
+            "category": "Imperative Standards",
+            "classification": "Imperative Standards",
+            "where": "Mainspace articles",
+            "when": "When creating or editing mainspace articles"
+          },
+          {
+            "id": "R9",
+            "description": "Short descriptions should normally be limited to 'genus of spiders'.",
+            "reference": "Short descriptions should normally be limited to 'genus of spiders'.",
+            "category": "Content",
+            "classification": "Best Practices",
+            "where": "Short descriptions",
+            "when": "When writing short descriptions for genus articles"
+          },
+          {
+            "id": "R10",
+            "description": "Include the commonly known and unambiguous English name of the family in the short description if applicable.",
+            "reference": "If the family has a commonly known and unambiguous English name, it can also be included.",
+            "category": "Content",
+            "classification": "Contextual Considerations",
+            "where": "Short descriptions",
+            "when": "When the family has a commonly known and unambiguous English name"
+          },
+          {
+            "id": "R27",
+            "description": "Use a layered template for entering range information into a world map.",
+            "reference": "It's easiest to work with a layered template for entering range information into a world map.",
+            "category": "Best Practices",
+            "classification": "Best Practices",
+            "where": "Distribution maps",
+            "when": "When creating or editing distribution maps"
+          },
+          {
+            "id": "R28",
+            "description": "Use pure green (#00FF00) for range information on distribution maps.",
+            "reference": "At the moment, pure green (#00FF00, (0,255,0)) is used.",
+            "category": "Formatting",
+            "classification": "Imperative Standards",
+            "where": "Distribution maps",
+            "when": "When adding range information to distribution maps"
+          },
+          {
+            "id": "R29",
+            "description": "Be general rather than specific when stating numbers of genera and species.",
+            "reference": "Thus, it is a good idea to be general rather than specific: e.g. stating 'contains around 80 genera and 600 species' rather than 'contains 79 genera and 587 species'.",
+            "category": "Best Practices",
+            "classification": "Best Practices",
+            "where": "Content sections",
+            "when": "When stating numbers of genera and species"
+          },
+          {
+            "id": "R48",
+            "description": "Consider adding a spider stub template to articles lacking information.",
+            "reference": "If you think an article is not yet useful for most people due to it lacking information, consider adding one of the spider stub templates to the end of the article.",
+            "category": "Content",
+            "classification": "Best Practices",
+            "where": "End of the article",
+            "when": "When an article is not yet useful due to lack of information"
+          },
+          {
+            "id": "R49",
+            "description": "Use categories at Spider stubs to find possible stub templates.",
+            "reference": "The categories at [[:Category:Spider stubs]] provide a list of possible stub templates.",
+            "category": "Content",
+            "classification": "Best Practices",
+            "where": "Spider stubs category",
+            "when": "When looking for stub templates"
+          }
+        ]
+      },
+      {
+        "description": "Guidelines for marking talk pages in the spider project",
+        "category": "Structure",
+        "requirements": [
+          {
+            "id": "R11",
+            "description": "Every page of a species, genus, subfamily, or other clearly defined taxonomical grouping must have a taxobox.",
+            "reference": "Every page of a species, genus, subfamily, or other clearly defined taxonomical grouping should have a taxobox.",
+            "category": "Imperative Standards",
+            "classification": "Imperative Standards",
+            "where": "Species, genus, subfamily, or other taxonomical grouping pages",
+            "when": "When creating or editing these pages"
+          },
+          {
+            "id": "R12",
+            "description": "Choose the most useful picture for identifying the species in a species-level taxobox.",
+            "reference": "When choosing a picture to use for a species-level taxobox, choose the picture that would be most useful for identifying the species.",
+            "category": "Content",
+            "classification": "Best Practices",
+            "where": "Species-level taxoboxes",
+            "when": "When selecting images for species-level taxoboxes"
+          },
+          {
+            "id": "R13",
+            "description": "Include images of both males and females in the taxobox if they are significantly different.",
+            "reference": "Males and females are often significantly different; if so, try to find an image of each.",
+            "category": "Content",
+            "classification": "Contextual Considerations",
+            "where": "Species-level taxoboxes",
+            "when": "When males and females of the species are significantly different"
+          },
+          {
+            "id": "R20",
+            "description": "List synonyms in the taxobox with a reference.",
+            "reference": "It's useful to list the synonyms in the taxobox. A reference should also be provided.",
+            "category": "Imperative Standards",
+            "classification": "Imperative Standards",
+            "where": "Taxobox",
+            "when": "When listing synonyms in the taxobox"
+          },
+          {
+            "id": "R21",
+            "description": "Use the Specieslist template to format a list of species names.",
+            "reference": "The {{tl|Specieslist}} template provides an easy way to format a list of species names.",
+            "category": "Formatting",
+            "classification": "Best Practices",
+            "where": "Taxobox",
+            "when": "When formatting a list of species names"
+          },
+          {
+            "id": "R22",
+            "description": "Automatically italicize species names and use small text for the authority in the synonyms list.",
+            "reference": "The synonyms will then be listed as below, with automatic italicization for the species name and small text for the authority.",
+            "category": "Formatting",
+            "classification": "Imperative Standards",
+            "where": "Taxobox",
+            "when": "When displaying synonyms in the taxobox"
+          },
+          {
+            "id": "R23",
+            "description": "Use the World Spider Catalog as a source for synonyms, but interpret the data.",
+            "reference": "The World Spider Catalog can be used as a source of synonyms, but interpretation is needed because it gives a list of taxonomic references, not synonyms.",
+            "category": "Citations",
+            "classification": "Contextual Considerations",
+            "where": "Taxobox",
+            "when": "When sourcing synonyms from the World Spider Catalog"
+          },
+          {
+            "id": "R24",
+            "description": "Do not list the currently accepted name under 'Synonyms' in the taxobox.",
+            "reference": "However this is the currently accepted name, so isn't listed under 'Synonyms' in the taxobox.",
+            "category": "Imperative Standards",
+            "classification": "Imperative Standards",
+            "where": "Taxobox",
+            "when": "When determining which names to list under synonyms"
+          },
+          {
+            "id": "R25",
+            "description": "Do not include misidentifications as synonyms.",
+            "reference": "'Conaranea gertschi' is not a junior synonym, but a misidentification.",
+            "category": "Imperative Standards",
+            "classification": "Imperative Standards",
+            "where": "Taxobox",
+            "when": "When identifying synonyms"
+          },
+          {
+            "id": "R26",
+            "description": "Repetitions of the same binomen are never synonyms.",
+            "reference": "Repetitions of the same binomen are never synonyms.",
+            "category": "Imperative Standards",
+            "classification": "Imperative Standards",
+            "where": "Taxobox",
+            "when": "When listing synonyms"
+          },
+          {
+            "id": "R35",
+            "description": "Use a taxonomic category for all ranks, typically the family category.",
+            "reference": "For all ranks, use a 'taxonomic category', typically the family category.",
+            "category": "Structure",
+            "classification": "Imperative Standards",
+            "where": "Categories",
+            "when": "When categorizing articles about spider taxa"
+          },
+          {
+            "id": "R36",
+            "description": "Use genus category for large genera.",
+            "reference": "For large genera, use the genus category.",
+            "category": "Structure",
+            "classification": "Imperative Standards",
+            "where": "Categories",
+            "when": "When categorizing large genera"
+          },
+          {
+            "id": "R37",
+            "description": "Use specific categories for families and genera.",
+            "reference": "For families and genera, use the category for that rank of taxon.",
+            "category": "Structure",
+            "classification": "Imperative Standards",
+            "where": "Categories",
+            "when": "When categorizing families and genera"
+          },
+          {
+            "id": "R38",
+            "description": "Use monotypic genera category for monotypic genera.",
+            "reference": "For monotypic genera, use e.g. [Category:Monotypic Araneomorphae genera].",
+            "category": "Structure",
+            "classification": "Imperative Standards",
+            "where": "Categories",
+            "when": "When categorizing monotypic genera"
+          },
+          {
+            "id": "R39",
+            "description": "Use 'Spiders described in YEAR' category for species.",
+            "reference": "For species, also use a 'Spiders described in YEAR' category.",
+            "category": "Structure",
+            "classification": "Imperative Standards",
+            "where": "Categories",
+            "when": "When categorizing species"
+          },
+          {
+            "id": "R40",
+            "description": "Do not use 'Spiders described in YEAR' categories for other ranks.",
+            "reference": "Do not use these categories for other ranks, because ultimately they are subcategories of 'Species described in YEAR'.",
+            "category": "Structure",
+            "classification": "Imperative Standards",
+            "where": "Categories",
+            "when": "When categorizing ranks other than species"
+          },
+          {
+            "id": "R41",
+            "description": "Add a 'location' category for species and optionally for narrowly endemic genera and families.",
+            "reference": "For species, and optionally for narrowly endemic genera and families, add a 'location' category.",
+            "category": "Structure",
+            "classification": "Contextual Considerations",
+            "where": "Categories",
+            "when": "When categorizing species and narrowly endemic taxa"
+          },
+          {
+            "id": "R42",
+            "description": "Place Pholcidae in the Pholcidae and Araneomorphae families categories.",
+            "reference": "[[Pholcidae]] is placed in [[:Category:Pholcidae]] and [[:Category:Araneomorphae families]].",
+            "category": "Structure",
+            "classification": "Imperative Standards",
+            "where": "Categories",
+            "when": "When categorizing Pholcidae"
+          },
+          {
+            "id": "R43",
+            "description": "Place Orb-weaver spider in the Araneidae category and its redirect in both Araneidae and Araneomorphae families categories.",
+            "reference": "[[Orb-weaver spider]] is placed in [[:Category:Araneidae]]. The redirect at {{-r|Araneidae}} is also placed in [[:Category:Araneidae]] but also in [[:Category:Araneomorphae families]].",
+            "category": "Structure",
+            "classification": "Imperative Standards",
+            "where": "Categories",
+            "when": "When categorizing Orb-weaver spider and its redirect"
+          },
+          {
+            "id": "R44",
+            "description": "Place Araneus in the Araneus and Araneomorphae genera categories.",
+            "reference": "''[[Araneus]]'' is placed in [[:Category:Araneus]] (a large genus, so used instead of the family as the main taxonomic category), and [[:Category:Araneomorphae genera]].",
+            "category": "Structure",
+            "classification": "Imperative Standards",
+            "where": "Categories",
+            "when": "When categorizing Araneus"
+          },
+          {
+            "id": "R45",
+            "description": "Place Araneus diadematus in the Araneus, Spiders described in 1758, and Holarctic spiders categories.",
+            "reference": "''[[Araneus diadematus]]'' is placed in [[:Category:Araneus]] (a large genus, so used instead of the family as the main taxonomic category), [[:Category:Spiders described in 1758]] and [[:Category:Holarctic spiders]] (the appropriate largest area category is always used).",
+            "category": "Structure",
+            "classification": "Imperative Standards",
+            "where": "Categories",
+            "when": "When categorizing Araneus diadematus"
+          },
+          {
+            "id": "R46",
+            "description": "Place Barn spider in the Araneus and Spiders of North America categories, and its redirect in Araneus and Spiders described in 1882 categories.",
+            "reference": "[[Barn spider]] is placed in [[:Category:Araneus]] (a large genus, so used instead of the family as the main taxonomic category) and [[:Category: Spiders of North America]]. The redirect at the scientific name, ''{{-r|Araneus cavaticus}}'', is also placed in [[:Category:Araneus]] but additionally in [[:Category:Spiders described in 1882]].",
+            "category": "Structure",
+            "classification": "Imperative Standards",
+            "where": "Categories",
+            "when": "When categorizing Barn spider and its redirect"
+          },
+          {
+            "id": "R47",
+            "description": "Place the redirect Nita (spider) in the Pholcidae and Monotypic Araneomorphae genera categories, and Nita elsaff in Pholcidae, Spiders described in 2007, Spiders of Africa, and Spiders of Asia categories.",
+            "reference": "The redirect {{-r|Nita (spider)|''Nita'' (spider)}} is placed in [[:Category:Pholcidae]] and [[:Category:Monotypic Araneomorphae genera]]. The article at ''[[Nita elsaff]]'' is placed in [[:Category:Pholcidae]], [[:Category:Spiders described in 2007]], [[:Category:Spiders of Africa]] and [[:Category:Spiders of Asia]].",
+            "category": "Structure",
+            "classification": "Imperative Standards",
+            "where": "Categories",
+            "when": "When categorizing Nita (spider) and Nita elsaff"
+          },
+          {
+            "id": "R50",
+            "description": "Enter the WikiProject Spiders template at the beginning of a talk page.",
+            "reference": "At the beginning of a talk page enter this template: {{WikiProject Spiders|class=CLASS|importance=IMPORTANCE}} or {{WPSpiders|CLASS|IMPORTANCE}}",
+            "category": "Imperative Standards",
+            "classification": "Imperative Standards",
+            "where": "Talk pages",
+            "when": "When creating or editing talk pages"
+          },
+          {
+            "id": "R51",
+            "description": "Replace 'CLASS' and 'IMPORTANCE' with appropriate values in the WikiProject Spiders template.",
+            "reference": "where the words in capital letters are replaced by appropriate values.",
+            "category": "Imperative Standards",
+            "classification": "Imperative Standards",
+            "where": "Talk pages",
+            "when": "When using the WikiProject Spiders template"
+          }
+        ]
+      },
+      {
+        "description": "Guidelines for citing archived web pages in spider articles",
+        "category": "Citations",
+        "requirements": [
+          {
+            "id": "R14",
+            "description": "Do not add or remove parentheses in author citations for species.",
+            "reference": "Don't add or remove parentheses in author citations for species as they have a precise meaning.",
+            "category": "Imperative Standards",
+            "classification": "Imperative Standards",
+            "where": "Author citations",
+            "when": "When citing authors for species"
+          },
+          {
+            "id": "R15",
+            "description": "Provide a reference for the author citation, normally in the taxobox.",
+            "reference": "A reference should always be given for the author citation (normally in the taxobox).",
+            "category": "Citations",
+            "classification": "Imperative Standards",
+            "where": "Taxobox",
+            "when": "When including author citations"
+          },
+          {
+            "id": "R16",
+            "description": "Use a reliable secondary source for author citations.",
+            "reference": "A reliable secondary source is needed that says this is the accepted authority.",
+            "category": "Citations",
+            "classification": "Imperative Standards",
+            "where": "Author citations",
+            "when": "When verifying the accepted authority for author citations"
+          },
+          {
+            "id": "R17",
+            "description": "Use the World Spider Catalog as the main secondary reference for authors of family, genus, and species names.",
+            "reference": "The main secondary reference for the authors of family, genus and species names is the World Spider Catalog.",
+            "category": "Citations",
+            "classification": "Best Practices",
+            "where": "Author citations",
+            "when": "When referencing authors of family, genus, and species names"
+          },
+          {
+            "id": "R18",
+            "description": "Use the List of Arachnologists to wikify the author of taxa.",
+            "reference": "You can use the List of Arachnologists to easily wikify the author of taxa.",
+            "category": "Citations",
+            "classification": "Best Practices",
+            "where": "Author citations",
+            "when": "When wikifying the author of taxa"
+          },
+          {
+            "id": "R19",
+            "description": "Enter authors found elsewhere into the List of Arachnologists.",
+            "reference": "If you do find an author elsewhere, please enter it into the above list.",
+            "category": "Citations",
+            "classification": "Best Practices",
+            "where": "List of Arachnologists",
+            "when": "When an author is found outside the list"
+          },
+          {
+            "id": "R30",
+            "description": "Include the year in parentheses behind the author's name in references.",
+            "reference": "The year is in parentheses behind the author's name.",
+            "category": "Citations",
+            "classification": "Imperative Standards",
+            "where": "References",
+            "when": "When formatting references"
+          },
+          {
+            "id": "R31",
+            "description": "Italicize species, genera, and journal names in references.",
+            "reference": "Species, genera and journal name are in italics.",
+            "category": "Citations",
+            "classification": "Imperative Standards",
+            "where": "References",
+            "when": "When formatting references"
+          },
+          {
+            "id": "R32",
+            "description": "Use tools to make citations in a standard output format.",
+            "reference": "Tools make citations fairly easy, in a standard output format, and provide a checklist of items needed for each of type of citation.",
+            "category": "Citations",
+            "classification": "Best Practices",
+            "where": "References",
+            "when": "When creating citations"
+          },
+          {
+            "id": "R33",
+            "description": "Use Internet Archive's Way Back Machine for archived copies of web pages.",
+            "reference": "If a URL dies, Internet Archive's Way Back Machine often contains archived copies of web pages that have gone offline.",
+            "category": "Best Practices",
+            "classification": "Best Practices",
+            "where": "References",
+            "when": "When a URL is no longer accessible"
+          },
+          {
+            "id": "R34",
+            "description": "Include accessdate, archiveurl, and archivedate parameters when citing archived copies.",
+            "reference": "When citing archived copies: parameter accessdate= is still required, and you must also add parameter archiveurl=... for the link provided by Internet Archive (as well as the normal 'url=...'), and add parameter archivedate=... giving the date when the archived copy was made.",
+            "category": "Citations",
+            "classification": "Imperative Standards",
+            "where": "References",
+            "when": "When citing archived web pages"
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -5,8 +5,6 @@ import json
 import re
 
 
-# Define Pydantic models for structured output
-# Define Pydantic models for structured output
 class Requirement(BaseModel):
     id: str = Field(description="Unique identifier in the format 'R{id}'")
     description: str = Field(description="Brief description of the requirement")
@@ -51,7 +49,7 @@ class RequirementsDocument(BaseModel):
 
 
 # Define the ell function to extract requirements
-@ell.simple(model="o1-mini")
+@ell.simple(model="gpt-4o", temperature=0.0)
 def extract_requirements_from_chunk(
     current_state: RequirementsDocument, chunk: str, i: int, total_chunks: int
 ):
@@ -59,12 +57,12 @@ def extract_requirements_from_chunk(
     return [
         ell.user(f"""Your task is to extract all requirements from a given style guide chunk and present them in a structured JSON format. Follow the steps below to ensure comprehensive and accurate extraction:
 
-1. **Thoroughly Review the Style Guide Chunk**: Carefully read the provided chunk to understand its scope, target audience, and specific guidelines.
+1. **Thoroughly Review the Style Guide Chunk**: Carefully read the provided chunk to understand its scope, target audience, and specific guidelines. TAKE YOUR TIME. 
 
 2. **Identify Sections and Subsections**: Note any sections or subsections in the chunk to organize the extraction process.
 
-3. **Extract All Prescriptive Guidelines**:
-- **Locate Prescriptive Statements**: Find all statements that provide rules, guidelines, or recommended practices. Look for imperative language such as 'must', 'should', 'always', 'never', 'prefer', and 'avoid'.
+3. **Extract ALL Prescriptive Guidelines**:
+- **Locate Prescriptive Statements**: Find **ALL** statements that provide rules, guidelines, or recommended practices. Look for imperative language such as 'must', 'should', 'always', 'never', 'prefer', and 'avoid'.
 - **Capture Exact Wording**: For each prescriptive statement, note the exact phrasing used in the style guide.
 
 4. **Document Each Requirement in Detail**:

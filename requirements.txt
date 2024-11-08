@@ -1,0 +1,178 @@
+Wikipedia:WikiProject Spiders/Style
+guide
+< Wikipedia:WikiProject Spiders
+Main page Talk page Style guide Assessment Activity log Members Resources
+The hints presented on this page are merely suggestions on how to best create a new page for the
+spider project. Read them, but write the pages the way you like. If you disagree with suggestions
+proposed here, please discuss this at the talk page.
+Scientific names should be used for the article titles unless the common name is well-known or
+reasonably unique. Examples of these include "Atypical tarantula" for Atypidae and "Jumping spider"
+for Salticidae. Below family, Latin names are almost always used for article titles, though there are
+exceptions. The southern black widow uses "Latrodectus mactans", while the Brown recluse can be
+found at "Brown recluse spider". In general, the idea is to make the article easy to find for those who
+are looking for it, so use your best judgment. When in doubt, use the Latin name and redirect the
+common name to the correct species. A semi-regularly updated list of common names can be found
+here.
+Other rules to follow:
+Family titles and higher taxa are capitalized, but not italicized.
+Genera titles are always both italicized and capitalized. The automatic taxobox template will
+italicize the title by default, so the "Italic title" template isn't necessary.
+Species titles should be both italicized and capitalized, and include both the genera and species.
+Common names as titles are lowercase and not italicized.
+See Wikipedia:WikiProject Tree of Life#Article_titles for suggestions on naming pages dealing with a
+species, genus, subfamily or similar.
+Use sentence case for spider common names (rather than title case). For example, "black widow",
+rather than "Black Widow".
+Page title
+Common name capitalization
+Short descriptions
+All mainspace articles should have a short description. Short descriptions should normally be limited
+to "genus of spiders". If the family has a commonly known and unambiguous English name, it can also
+be included. Examples include Salticidae ("Genus of jumping spiders") and Thomisidae("Genus of
+crab spiders"). See discussion here and generic implementation rules here
+Every page of a species, genus, subfamily, or other clearly defined taxonomical grouping should have a
+taxobox. Here are two templates for the most common hierarchy layers:
+Example genus taxobox
+Example species taxobox
+When choosing a picture to use for a species-level taxobox, choose the picture that would be most
+useful for identifying the species. Males and females are often significantly different; if so, try to find
+an image of each.
+Spider names fall under the International Code of Zoological Nomenclature. Don't add or remove
+parentheses in author citations for species as they have a precise meaning: "Thorell, 1877" means that
+the species is in the same genus that Thorell used in 1877; "(Thorell, 1877)" means that someone else
+has later moved the species to another genus. (Author citation (zoology) explains in detail how
+zoological authors are cited.) A reference should always be given for the author citation (normally in
+the taxobox). The original description does not constitute a reliable source on its own. A reliable
+secondary source is needed that says this is the accepted authority; since, for example, after the
+original description it may have been discovered that the name was not acceptable under the ICZN
+Code because the species name was already in use in the genus, or the species may have been
+transferred to another genus, when parentheses need to be added to the author citation. The main
+secondary reference for the authors of family, genus and species names is the World Spider Catalog (h
+ttp://www.wsc.nmbe.ch).
+You can use the List of Arachnologists to easily wikify the author of taxa. If you don't find the author
+in this list, try to find them in one of these:
+List of zoologists by author abbreviation
+German list of zoologists
+If you do find an author elsewhere, please enter it into the above list. There are also sometimes wiki
+pages about people that do not appear in any of these three lists.
+To wikify the authors has several benefits:
+it helps to find out who this person was
+Taxoboxes
+Taxon authors
+it provides (even if it's a redlink) an easy way to find all taxa authored by this person (via What
+links here).
+It's useful to list the synonyms in the taxobox. A reference should also be provided. The {{Specieslist}}
+template provides an easy way to format a list of species names, for example:
+| synonyms =
+{{Specieslist
+|Aphonopelma brunnius|Chamberlin, 1940
+|Aphonopelma chamberlini|Smith, 1995
+|Aphonopelma iviei|Smith, 1995
+|Aphonopelma lithodomum|Chamberlin, 1940
+|Aphonopelma smithi|Smith, 1995
+|Aphonopelma zionis|Chamberlin, 1940
+}}
+| synonyms_ref=<ref name=.../>
+The synonyms will then be listed as below, with automatic italicization for the species name and small
+text for the authority:
+Aphonopelma brunnius Chamberlin, 1940
+Aphonopelma chamberlini Smith, 1995
+Aphonopelma iviei Smith, 1995
+Aphonopelma lithodomum Chamberlin, 1940
+Aphonopelma smithi Smith, 1995
+Aphonopelma zionis Chamberlin, 1940
+The World Spider Catalog can be used as a source of synonyms, but interpretation is needed because
+it gives a list of taxonomic references, not synonyms. As an example, consider its entry (http://www.w
+sc.nmbe.ch/species/2698/Araneus_arizonensis) for Araneus arizonensis:
+Epeira arizonensis Banks, 1900a: 100 (Dmf).
+Epeira arizonensis Banks, 1901a: 585, pl. 22, f. 5 (m).
+Araneus arizonensis Petrunkevitch, 1911: 280.
+Neosconella arizonensis Archer, 1951a: 38 (Tmf from Araneus).
+Conaranea gertschi Archer, 1951b: 7, f. 17, 30 (f only, misidentified).
+Araneus arizonensis Levi, 1973: 497, f. 60-71 (mf).
+Araneus arizonensis Levi, 1991a: 290, f. 507-510 (mf).
+There are only two synonyms here to go in the taxobox:
+✔ Epeira arizonensis Banks, 1900 – the species name arizonensis will always be attributed to the
+first describer, i.e. "Banks, 1900"
+✘ Araneus arizonensis (Banks, 1900) – Petrunkevitch in 1911 transferred the species to Araneus, so
+here "Banks, 1900" is placed in parentheses; Petrunkevitch isn't mentioned (he would be in
+botanical names, but isn't in zoological ones); however this is the currently accepted name, so isn't
+listed under "Synonyms" in the taxobox
+✔ Neosconella arizonensis (Banks, 1900) – another transfer, but not the currently accepted genus
+placement
+✘ Conaranea gertschi is not a junior synonym, but a misidentification.
+Synonyms
+Repetitions of the same binomen are never synonyms.
+It's easiest to work with a layered template for entering range information into a world map. At the
+moment, pure green (#00FF00, (0,255,0)) is used, (example). I use such a template for the gimp, call
+me if you can use it. --Sarefo 15:11, 21 July 2006 (UTC)
+See Wikipedia:Distribution maps.
+Spider taxonomy is a dynamic field, with dozens to hundreds of new species and genera being
+described each year. Furthermore, taxonomic revisions may split existing genera, or reassign species
+into new genera. Thus, it is a good idea to be general rather than specific: e.g. stating "contains around
+80 genera and 600 species" rather than "contains 79 genera and 587 species" ensures that the
+statement will still be correct, and articles will not have to be updated with every taxonomic change.
+Suggestion on how to insert references:
+with DOI
+with linked PDF
+The year is in parentheses behind the author's name, species, genera and journal name are in italics.
+Tools make citations fairly easy, in a standard output format, and provide a checklist of items needed
+for each of type of citation (journals, books, news, web pages)
+MakeRef (https://tools.wmflabs.org/makeref/) runs in a different page than the article, and it is
+usually easier to run it in a different tab.
+If a URL dies, Internet Archive (http://www.archive.org/index.php)'s Way Back Machine often
+contains archived copies of web pages that have gone offline - including some older spider journal
+articles! It's easiest to supply the original URL, but the Archive also has a Search box into which you
+can paste the title. When citing archived copies: parameter accessdate= is still required, and you must
+also add parameter archiveurl=... for the link provided by Internet Archive (as well as the normal
+"url=..."), and add parameter archivedate=... giving the date when the archived copy was made (the
+Way Back Machine shows a calender, and click the archivedate to see the archived content)
+Articles about spider taxa and redirects to them should be put into appropriate categories.
+Distribution maps
+Numbers
+References
+Categories
+For all ranks, use a "taxonomic category", typically the family category (e.g.
+Category:Cyatholipidae), or for large genera, the genus category (e.g. Category:Agyneta), plus for
+families and genera, the category for that rank of taxon (e.g. for families Category:Araneomorphae
+families or for genera Category:Mygalomorphae genera). For monotypic genera, use e.g.
+Category:Monotypic Araneomorphae genera.
+For species, also use a "Spiders described in YEAR" category (e.g. Category:Spiders described in
+1888). Do not use these categories for other ranks, because ultimately they are subcategories of
+"Species described in YEAR". "Described in" means "first scientifically named and described in",
+so it should only be placed on the scientific name – either the article where this is at the scientific
+name or the scientific name redirect where the article is at the English name.
+For species, and optionally for narrowly endemic genera and families, add a "location" category.
+See Category:Spiders by location for an introduction to these categories.
+Examples:
+Pholcidae is placed in Category:Pholcidae and Category:Araneomorphae families.
+Orb-weaver spider is placed in Category:Araneidae. The redirect at Araneidae (https://en.wikipedi
+a.org/w/index.php?title=Araneidae&redirect=no) is also placed in Category:Araneidae but also in
+Category:Araneomorphae families.
+Araneus is placed in Category:Araneus (a large genus, so used instead of the family as the main
+taxonomic category), and Category:Araneomorphae genera.
+Araneus diadematus is placed in Category:Araneus (a large genus, so used instead of the family
+as the main taxonomic category), Category:Spiders described in 1758 and Category:Holarctic
+spiders (the appropriate largest area category is always used).
+Barn spider is placed in Category:Araneus (a large genus, so used instead of the family as the
+main taxonomic category) and Category: Spiders of North America. The redirect at the scientific
+name, Araneus cavaticus (https://en.wikipedia.org/w/index.php?title=Araneus_cavaticus&redirect=
+no), is also placed in Category:Araneus but additionally in Category:Spiders described in 1882.
+The redirect Nita (spider) (https://en.wikipedia.org/w/index.php?title=Nita_(spider)&redirect=no) is
+placed in Category:Pholcidae and Category:Monotypic Araneomorphae genera. The article at Nita
+elsaff is placed in Category:Pholcidae, Category:Spiders described in 2007, Category:Spiders of
+Africa and Category:Spiders of Asia.
+If you think an article is not yet useful for most people due to it lacking information, consider adding
+one of the spider stub templates to the end of the article. The categories at Category:Spider stubs
+provide a list of possible stub templates. This way it's easiest for other editors to find articles that need
+be taken care of.
+At the beginning of a talk page enter this template:
+{{WikiProject Spiders|class=CLASS|importance=IMPORTANCE}} or
+{{WPSpiders|CLASS|IMPORTANCE}}
+Mark stubs
+Mark talk page
+where the words in capital letters are replaced by appropriate values. This directs readers to this
+project and also assesses the article (by quality or type and by importance) – see Article Classification.
+This is actually quite important; this way we can stay on top of more than 10,000 articles related to
+spiders.
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Spiders/Style_guide&oldid=1181257247"
